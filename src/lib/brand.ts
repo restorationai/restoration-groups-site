@@ -34,6 +34,7 @@ export const brand = {
   email: "",
   hours: "24/7",
   foundedYear: "2021",
+  responseMinutes: "60",
   primaryCity: "Kenilworth",
   primaryState: "NJ",
   // primaryCity/primaryState = the #1 MARKETING city (headlines, coverage

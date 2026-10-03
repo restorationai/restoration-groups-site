@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in NJ?", "answer
 published_at: "2026-08-27"
 services: []
 rendered: true
+author: "Michael Oren"
 ---
 **TL;DR:** Water damage restoration in New Jersey typically costs between $1,500 and $15,000, with most residential losses landing in the $3,000 to $8,000 range. The biggest cost drivers are the category of water (clean, gray, or sewage), how much square footage is affected, and whether structural materials like drywall, flooring, or framing need to come out. Most standard homeowners policies cover sudden, accidental losses. The Restoration Group provides a written scope before any work begins.
 

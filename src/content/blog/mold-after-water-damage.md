@@ -16,6 +16,7 @@ faq: [{"question": "Can mold grow inside walls even if the surface feels dry?", 
 published_at: "2026-07-02"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Michael Oren"
 ---
 Mold can begin colonizing wet materials in as little as **24 to 48 hours** after water exposure, sometimes faster in warm, humid conditions. That's not a scare tactic; it's the biological reality of how mold spores work. They're already in the air around you right now, dormant and harmless, waiting for moisture and a food source. Give them a wet piece of drywall or a soaked carpet pad and the clock starts immediately. The good news: if you act within that first day, you can usually stop colonization before it takes hold.
 

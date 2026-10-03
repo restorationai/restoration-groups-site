@@ -16,6 +16,7 @@ faq: [{"question": "Can I tell if mold is dangerous just by looking at it?", "an
 published_at: "2026-06-27"
 services: ["mold-remediation"]
 rendered: true
+author: "Michael Oren"
 ---
 Most mold you find in a home is not the notorious "black mold" that dominates headlines, but that doesn't mean you should ignore it. The honest answer to how to tell the difference: color alone is not a reliable test. Stachybotrys chartarum, the species most people mean when they say "black mold," is indeed dark greenish-black, but so are dozens of common mold species that are far less concerning. Conversely, some Stachybotrys colonies can appear dark gray or even olive-toned. Telling them apart with confidence requires lab testing. What you *can* do at home is assess the situation, understand the risk factors, and decide whether you need professional help.
 

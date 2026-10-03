@@ -17,6 +17,7 @@ faq: [{"question": "Who pays for water damage in a condo when it comes from an u
 published_at: "2026-09-07"
 services: ["water-damage-restoration", "commercial-restoration"]
 rendered: true
+author: "Michael Oren"
 ---
 **TL;DR:** In a condo building, water damage responsibility is split between two policies: the building association's master policy (which covers shared structure and common areas) and each owner's HO-6 policy (which covers the interior of their unit). When a leak crosses unit lines, which policy pays depends on where the water originated, what your master deed says about the boundary between "unit" and "building," and whether the neighbor who caused the leak was negligent. Read your master deed before you file anything.
 

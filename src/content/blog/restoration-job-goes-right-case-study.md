@@ -17,6 +17,7 @@ faq: [{"question": "What should I expect when a restoration crew arrives at my h
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Michael Oren"
 ---
 When a restoration crew shows up at your house after a pipe bursts, a fire scorches a kitchen, or mold turns up behind the drywall, you're not just hiring equipment. You're letting strangers into your home during one of the more stressful weeks you'll have this year. What happens next, whether the crew treats the job (and your house) with care, tends to matter as much as the drying charts and moisture readings.
 

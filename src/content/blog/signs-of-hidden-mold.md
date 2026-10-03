@@ -16,6 +16,7 @@ faq: [{"question": "How quickly does mold grow after a water leak?", "answer": "
 published_at: "2026-06-27"
 services: ["mold-remediation"]
 rendered: true
+author: "Michael Oren"
 ---
 Mold doesn't always announce itself with a black stain on the ceiling. More often it grows quietly inside walls, under floors, and above drop ceilings, places you never look until a smell or a health symptom forces the question. If you've had a slow leak, a humid basement, or a flood in the last year or two, there's a real chance mold has colonized somewhere you can't see. Below are seven specific signs that hidden mold is likely present, plus what to do, and what not to do, once you suspect it.
 

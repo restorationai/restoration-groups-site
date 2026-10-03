@@ -17,6 +17,7 @@ published_at: "2026-07-07"
 services: ["water-damage-restoration"]
 rendered: true
 youtube_id: "XF1xUuy4xXg"
+author: "Michael Oren"
 ---
 If water just flooded your basement, soaked your ceiling, or pooled under your floors, here is what to do right now: shut off the water source, cut power to affected rooms at the breaker box, and get everything you can off the wet floor. Those three moves, done in the next ten minutes, will limit the damage more than anything else you do in the hours that follow. The rest of this guide walks through the full 24-hour window, step by step.
 

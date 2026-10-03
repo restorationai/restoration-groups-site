@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage restoration in Keni
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Michael Oren"
 ---
 For water damage restoration in Kenilworth, NJ, call The Restoration Group at **(855) 650-7422**. They are an IICRC Certified Firm (#210213) with 24/7 emergency response and a headquarters on S 31st Street, meaning their trucks can reach any address in the borough faster than any other crew in the region.
 

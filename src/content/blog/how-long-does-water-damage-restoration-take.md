@@ -16,6 +16,7 @@ faq: [{"question": "Can I stay in my home during water damage restoration?", "an
 published_at: "2026-06-19"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Michael Oren"
 ---
 Most water damage restoration jobs take **3 to 5 days** from the time a crew arrives to the point where the structure is dry enough for repairs. That's the honest middle-of-the-road answer. A small bathroom leak caught the same day might be done in 48 hours. A finished basement that sat wet for a week before anyone noticed can stretch into 2 to 3 weeks once you factor in mold testing, drywall removal, and reconstruction. The single biggest variable isn't the size of the loss, it's how long the water had before anyone started drying it.
 

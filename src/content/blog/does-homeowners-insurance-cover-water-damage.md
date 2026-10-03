@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover a flooded basement?", "answe
 published_at: "2026-06-23"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Michael Oren"
 ---
 The short answer: it depends on *how* the water got in. Homeowners insurance typically covers sudden, accidental water damage, a pipe that bursts overnight, a washing machine hose that fails, a roof torn open by a storm. It almost never covers gradual damage, a slow drip under the sink you didn't notice for six months, a foundation that seeps every spring, or a flooded basement caused by rising groundwater. The line between "covered" and "not covered" can feel arbitrary, but there is a logic to it. This guide walks through the main scenarios so you know where you stand before you call your adjuster.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How long does professional smoke odor removal typically take
 published_at: "2026-06-26"
 services: ["smoke-damage-restoration", "fire-damage-restoration"]
 rendered: true
+author: "Michael Oren"
 ---
 Smoke odor after a fire doesn't come from the air, it comes from thousands of microscopic particles that have embedded themselves into porous surfaces: drywall, wood framing, insulation, upholstery, clothing, and even the HVAC system's ductwork. That's why opening windows and running fans for a week rarely works. Professional smoke odor removal combines chemical neutralization, thermal or vapor fogging, ozone or hydroxyl treatment, and in some cases physical removal of charred material. DIY attempts typically address the symptom (the smell you notice) rather than the source (the particles causing it). Here's what the process actually looks like, and where most homeowners go wrong.
 

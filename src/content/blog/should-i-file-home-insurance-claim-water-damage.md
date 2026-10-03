@@ -17,6 +17,7 @@ faq: [{"question": "Should I file a home insurance claim for water damage?", "an
 published_at: "2026-09-24"
 services: ["water-damage-restoration", "burst-pipe-repair"]
 rendered: true
+author: "Michael Oren"
 ---
 **TL;DR:** Whether to file a water damage claim comes down to three numbers: your deductible, the estimated repair cost, and how many claims you have filed in the past three to five years. If the damage is less than 1.5 to 2 times your deductible, most homeowners pay out of pocket to protect their CLUE report history and avoid a premium increase. If the loss is clearly larger, document everything, start drying immediately, and then call your insurer. Drying is not optional while you decide.
 

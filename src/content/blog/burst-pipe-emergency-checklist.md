@@ -16,6 +16,7 @@ faq: [{"question": "How do I find my main water shutoff valve if I have never lo
 published_at: "2026-06-25"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Michael Oren"
 ---
 A burst pipe can dump hundreds of gallons of water into your home in under an hour. The moment you hear rushing water behind a wall, spot a ceiling sagging with moisture, or find standing water spreading across your floor, the clock starts on structural damage, flooring loss, and, within 24 to 48 hours, mold colonization. Here is exactly what to do, in order, so you limit the damage and protect yourself before a professional team arrives.
 

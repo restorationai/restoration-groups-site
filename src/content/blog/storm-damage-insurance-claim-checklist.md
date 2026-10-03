@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have to file a storm damage insurance claim in
 published_at: "2026-06-27"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Michael Oren"
 ---
 Before you dial your insurance company after a storm, stop. The next 30 minutes matter more than most homeowners realize. Insurers assess claims partly on the documentation you provide at first notice of loss, and gaps in that documentation can slow your payout or reduce it. This checklist walks you through exactly what to record, photograph, and preserve before you make that first call, so you walk into the claims process with evidence instead of estimates.
 

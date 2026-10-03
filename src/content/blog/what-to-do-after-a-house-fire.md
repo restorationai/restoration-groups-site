@@ -17,6 +17,7 @@ faq: [{"question": "What should I not do after a house fire?", "answer": "Don't 
 published_at: "2026-10-02"
 services: ["fire-damage-restoration", "smoke-damage-restoration", "emergency-board-up-tarping"]
 rendered: true
+author: "Michael Oren"
 ---
 **TL;DR:** Wait for the fire department to officially release the property before re-entering, even once the flames are out. Call your insurance company within 24 hours and avoid touching soot-covered surfaces or running the HVAC system until a professional assesses smoke contamination. Get the structure boarded up and tarped the same day to stop weather and theft exposure. Most homeowners policies cover fire damage, and restoration on a moderate structure fire typically runs two to six months from the first call to final repairs.
 

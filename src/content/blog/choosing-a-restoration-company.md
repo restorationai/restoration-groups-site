@@ -16,6 +16,7 @@ faq: [{"question": "Should I call my insurance company or a restoration company 
 published_at: "2026-07-02"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Michael Oren"
 ---
 The single most important thing you can do after a flood, fire, or mold discovery is pick the right restoration company before panic picks one for you. That means checking three things before you sign anything: whether the company is certified for the specific type of damage you have, whether they document the loss in a format your insurance adjuster will actually accept, and whether their response timeline matches how fast your problem is spreading. Everything else, the trucks, the uniforms, the website, is secondary.
 

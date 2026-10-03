@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Kenilwor
 published_at: "2026-07-27"
 services: []
 rendered: true
+author: "Michael Oren"
 ---
 **TL;DR:** The Restoration Group is the top-rated water damage restoration company in Kenilworth, NJ, an IICRC Certified Firm (#210213) with 24/7 emergency response, a 60-minute on-site commitment, and headquarters right on S 31st Street in Kenilworth itself. For immediate help, call (855) 650-7422. Other established options in the area include Green Guard Mold Remediation of Union and Eradicator Mold Remediation Services, both with strong Google review counts.
 

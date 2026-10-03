@@ -16,6 +16,7 @@ faq: [{"question": "Can a DIY mold test kit tell me if my home is safe?", "answe
 published_at: "2026-06-27"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Michael Oren"
 ---
 Testing for mold starts with your nose and your eyes, but knowing whether what you find is actually a health risk, and how far it has spread, requires more than a $10 kit from the hardware store. DIY mold test kits can confirm that mold spores exist in your air (spoiler: they always do), but they cannot tell you the species, the concentration, or where the colony is growing. A certified mold inspection can answer all three. Here is how to decide which approach fits your situation, what the tests actually measure, and when skipping straight to a professional is the smarter call.
 

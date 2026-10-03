@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Kenilworth (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Kenilworth (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in kenilworth without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -11,7 +11,7 @@ plan_hash: "0cb75dafabbc7aaa"
 generated_at: "2026-07-11T02:39:00.245981+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/fire-damage-restoration/", "/services/mold-remediation/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Kenilworth (Without Getting Burned)"}]
 faq: [{"question": "Should I call my insurance company or a restoration company first?", "answer": "Call your insurance company first, or at the same time as you call a restoration contractor, but before any major work begins. Your insurer has the right to inspect the damage and may need to send an adjuster before a large scope of work is authorized. Most reputable restoration companies understand this process and will coordinate with your adjuster rather than work around them."}, {"question": "How do I know if a restoration company's estimate is reasonable?", "answer": "Restoration estimates are typically generated using industry-standard estimating software (Xactimate is the most common) that prices labor and materials by region. If a company is using this system, the line items are auditable. Ask for an itemized estimate rather than a lump sum, and compare it against what your insurance adjuster's estimate shows, significant gaps in either direction warrant a conversation before you sign."}, {"question": "What is an Assignment of Benefits, and should I sign one?", "answer": "An Assignment of Benefits (AOB) is a document that transfers your right to collect insurance proceeds directly to the contractor. It can simplify billing, but it also removes you from the payment conversation and has been used in some markets to inflate claims without homeowner knowledge. If a company asks you to sign an AOB, read it carefully, ask your insurance agent to review it, and make sure you understand what dispute rights you are giving up."}, {"question": "How long does water damage restoration actually take?", "answer": "Extraction can happen in hours, but structural drying typically takes three to five days for a contained loss in a standard residential space, longer if the water migrated into wall cavities, subfloor systems, or older dense materials like plaster. A company should be able to give you a projected drying timeline after the first moisture assessment, and they should be updating that estimate daily based on actual readings, not guessing."}]
 published_at: "2026-07-02"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]

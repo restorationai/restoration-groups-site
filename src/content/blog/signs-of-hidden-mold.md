@@ -56,7 +56,7 @@ Open your air handler cabinet or look at the visible sections of ductwork near t
 2. **Don't disturb suspected mold.** Scrubbing, sanding, or cutting into drywall you think contains mold releases spores into the air and can spread contamination to areas that were previously clean.
 3. **Improve ventilation temporarily.** Run bathroom exhaust fans, open windows if outdoor humidity is low (below 60%), and run a dehumidifier in the affected area. This won't remediate existing mold, but it slows further growth.
 4. **Document everything with photos.** If you have homeowner's insurance, a dated photo record of stains, damage, and conditions is useful for any future claim.
-5. **Get a professional assessment before you renovate.** If you're planning to tear out a bathroom or gut a basement, have a mold inspection done first. Discovering mold mid-renovation is more expensive and more disruptive than finding it beforehand.
+5. **Get a professional assessment before you renovate.** If you're planning to tear out a bathroom or gut a basement, have a [mold inspection](/services/mold-inspection-testing/) done first. Discovering mold mid-renovation is more expensive and more disruptive than finding it beforehand.
 
 ## What Not To Do
 
@@ -69,4 +69,4 @@ Open your air handler cabinet or look at the visible sections of ductwork near t
 
 If you're seeing two or more of the signs above, or if you have a confirmed water event that wasn't professionally dried within 48 to 72 hours, a professional mold assessment is the right next step. A certified inspector can use moisture meters, thermal imaging, and air sampling to locate mold that isn't visible without opening walls. If mold is confirmed, professional remediation involves containment, HEPA filtration, removal of affected materials, and clearance testing, a process that's meaningfully different from wiping down a surface with a household cleaner.
 
-For homeowners in Kenilworth and surrounding areas who are dealing with a mold concern after a water event, The Restoration Group handles both the assessment and the remediation process. Reaching out early, before you start any demo work, gives you the most options. You can call (908) 970-8533 to talk through what you're seeing.
+For homeowners in Kenilworth and surrounding areas who are dealing with a mold concern after a water event, The Restoration Group handles both the assessment and the [mold remediation](/services/mold-remediation/) process. Reaching out early, before you start any demo work, gives you the most options. You can call (908) 970-8533 to talk through what you're seeing.

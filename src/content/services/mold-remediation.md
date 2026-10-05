@@ -49,7 +49,7 @@ Working as an IICRC Certified Firm (#210213), the process here follows the S520 
 
 ## Seasonal and regional considerations
 
-New Jersey's humid summers and freeze-thaw winters create two distinct mold windows. July through September, when outdoor relative humidity regularly exceeds 70 percent, is when crawl spaces and basement rim joists are most vulnerable, especially in older construction without vapor barriers. The second window is late winter, when ice damming on roofs forces meltwater under shingles and into attic sheathing, often going undetected until spring when temperatures rise and growth accelerates. Properties in Kenilworth and surrounding Union County communities with older slab-on-grade construction are also prone to slab moisture migration during prolonged wet periods, which can colonize carpet and wall base in finished basements within days.
+New Jersey's humid summers and freeze-thaw winters create two distinct mold windows. July through September, when outdoor relative humidity regularly exceeds 70 percent, is when [crawl spaces](/services/crawl-space-encapsulation/) and basement rim joists are most vulnerable, especially in older construction without vapor barriers. The second window is late winter, when ice damming on roofs forces meltwater under shingles and into attic sheathing, often going undetected until spring when temperatures rise and growth accelerates. Properties in Kenilworth and surrounding Union County communities with older slab-on-grade construction are also prone to slab moisture migration during prolonged wet periods, which can colonize carpet and wall base in finished basements within days.
 
 ## Service area
 

@@ -53,7 +53,7 @@ Finally, a mold inspection and a mold remediation should not be performed by the
 
 ## Seasonal and regional considerations
 
-New Jersey's climate creates two distinct mold-risk windows. The first runs from late spring through early September, when outdoor relative humidity regularly exceeds 70% and air conditioning systems that are undersized or poorly maintained struggle to keep indoor dew points below the threshold where condensation forms on cool surfaces. Crawl spaces and basement rim joists are particularly vulnerable during this window.
+New Jersey's climate creates two distinct mold-risk windows. The first runs from late spring through early September, when outdoor relative humidity regularly exceeds 70% and air conditioning systems that are undersized or poorly maintained struggle to keep indoor dew points below the threshold where condensation forms on cool surfaces. [Crawl spaces](/services/crawl-space-encapsulation/) and basement rim joists are particularly vulnerable during this window.
 
 The second window opens in late fall and winter, when stack effect pulls cold exterior air through foundation gaps and that air warms and humidifies as it rises through the structure, depositing moisture in attic sheathing and upper-floor wall cavities. Kenilworth and the surrounding Union County communities sit close enough to the coast that nor'easters and sustained rain events can push bulk water into older housing stock that was not built with modern drainage planes.
 

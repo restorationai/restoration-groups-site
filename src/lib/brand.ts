@@ -70,14 +70,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "161",
+  gbpReviewCount: "163",
   gbpReviews: [
+    { author: "Emma", rating: 5, text: "Great workers, so nice and efficient! And Ottavio is the best", when: "October 2026" },
     { author: "Viergina", rating: 5, text: "Well, the restoration group I would say they are always prompt in terms of arriving on time. they came and They did what they had to do. very friendly and they were able to explain to me the process what they were doing and what it was for. I did appreciate that. most importantly I needed to get a…", when: "September 2026" },
     { author: "Dessy", rating: 5, text: "(Translated by Google) Excellent work. The staff were responsible, friendly, and above all, very clean. I was very satisfied and I recommend them 100%. (Original) Excelente trabajo.el personal responsables,amables y sobre todo muy limpios para trabajar .quedé satisfecha y lo recomiendo al 💯.", when: "September 2026" },
     { author: "Lisa", rating: 5, text: "They were very professional, and took care of all the water in my ceiling. It was alot of work, but they were very good at what they did.", when: "September 2026" },
     { author: "Peggy", rating: 5, text: "Teams were very prompt and respectful.. company responded quickly and kept in touch", when: "August 2026" },
     { author: "Jw", rating: 5, text: "The folks at TRG were professional, punctual, and pleasant to deal with. They did a great job addressing our issue and performed appropriate follow up to ensure our satisfaction.", when: "August 2026" },
-    { author: "F.", rating: 5, text: "Prompt and professional work. Kept in contact thru out the process which was very important to me.", when: "July 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 water, fire & mold damage restoration across New Jersey.",
   ctaLabel: "24/7 Emergency Line",

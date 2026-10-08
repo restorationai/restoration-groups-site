@@ -70,14 +70,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "164",
+  gbpReviewCount: "166",
   gbpReviews: [
+    { author: "Anne", rating: 5, text: "Prompt, knowledgeable, skillful and honest. Highly recommend. They remediated within 24 hours. Total peace of mind restored. Worth every penny.", when: "October 2026" },
+    { author: "Melanie", rating: 5, text: "The company was very prepared and professional. They were prompt with coming out to inspect the water damage that occurred and had the team come out the next day. They even wore booties in the house. They cut out all areas of damage, sprayed and use numerous fans and humidifiers in the wet area. I…", when: "October 2026" },
     { author: "Amanda", rating: 5, text: "Hired the Restoration Group after mold and flood in our house. Their 24 hour line was always available. They came right away and were prompt completing the work. Everyone was friendly.", when: "October 2026" },
     { author: "Emma", rating: 5, text: "Great workers, so nice and efficient! And Ottavio is the best", when: "October 2026" },
     { author: "Viergina", rating: 5, text: "Well, the restoration group I would say they are always prompt in terms of arriving on time. they came and They did what they had to do. very friendly and they were able to explain to me the process what they were doing and what it was for. I did appreciate that. most importantly I needed to get a…", when: "September 2026" },
     { author: "Dessy", rating: 5, text: "(Translated by Google) Excellent work. The staff were responsible, friendly, and above all, very clean. I was very satisfied and I recommend them 100%. (Original) Excelente trabajo.el personal responsables,amables y sobre todo muy limpios para trabajar .quedé satisfecha y lo recomiendo al 💯.", when: "September 2026" },
-    { author: "Lisa", rating: 5, text: "They were very professional, and took care of all the water in my ceiling. It was alot of work, but they were very good at what they did.", when: "September 2026" },
-    { author: "Peggy", rating: 5, text: "Teams were very prompt and respectful.. company responded quickly and kept in touch", when: "August 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 water, fire & mold damage restoration across New Jersey.",
   ctaLabel: "24/7 Emergency Line",

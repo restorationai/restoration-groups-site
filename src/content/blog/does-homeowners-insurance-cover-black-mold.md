@@ -57,7 +57,7 @@ The documentation you produce in the first 48 hours is what protects that claim.
 2. You took reasonable steps to stop the water and begin drying immediately
 3. A qualified contractor documented moisture readings before, during, and after drying
 
-For a step-by-step guide to the first hours after a pipe failure, see the [Burst Pipe Emergency Checklist](/blog/burst-pipe-emergency-checklist/). The [IICRC S520 standard](https://www.iicrc.org/page/IICRCS520) governs professional mold remediation and is the framework adjusters and remediation contractors both reference when scoping a mold claim.
+For a step-by-step guide to the first hours after a pipe failure, see the [Burst Pipe Emergency Checklist](/blog/burst-pipe-emergency-checklist/). The [IICRC S520 standard](https://iicrc.org/s520/) governs professional mold remediation and is the framework adjusters and remediation contractors both reference when scoping a mold claim.
 
 ## Does insurance cover mold from a slow leak?
 
@@ -107,7 +107,7 @@ Here is the sequence that protects your claim:
 5. Do not remove mold-affected materials before the adjuster documents them, unless the contractor advises it for safety
 6. Get a written scope and cost estimate to submit with your claim
 
-Mold grows fast. The [IICRC S520](https://www.iicrc.org/page/IICRCS520) and EPA both note that 24 to 48 hours is enough for mold to establish on wet organic material. Waiting even a few days after discovering water damage can turn a manageable remediation into a much larger job, and it can complicate your claim by making the timeline harder to establish.
+Mold grows fast. The [IICRC S520](https://iicrc.org/s520/) and EPA both note that 24 to 48 hours is enough for mold to establish on wet organic material. Waiting even a few days after discovering water damage can turn a manageable remediation into a much larger job, and it can complicate your claim by making the timeline harder to establish.
 
 Not sure whether what you are seeing is black mold or something less serious? The [Black Mold vs Regular Mold](/blog/black-mold-vs-regular-mold/) post explains the visual and practical differences without requiring a lab test to understand.
 

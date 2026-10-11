@@ -28,7 +28,7 @@ If a kitchen fire or an electrical short just forced your family out of the hous
 
 Yes. Fire is one of the named perils every standard homeowners policy (HO-1 through HO-5) covers by default, which means you don't have to prove negligence, just that a fire happened and damaged covered property. That applies to accidental fires from cooking, wiring, lightning, candles and most other everyday causes.
 
-The payout, though, isn't one lump sum. It's broken into separate coverage limits for the structure, your belongings, and the cost of living somewhere else while repairs happen, each with its own dollar cap. According to the [Insurance Information Institute](https://www.iii.org/article/what-covered-standard-homeowners-policy), this three-part structure is standard across nearly all U.S. homeowners policies, New Jersey included.
+The payout, though, isn't one lump sum. It's broken into separate coverage limits for the structure, your belongings, and the cost of living somewhere else while repairs happen, each with its own dollar cap. According to the [Insurance Information Institute](https://www.iii.org/article/what-is-covered-by-standard-homeowners-insurance), this three-part structure is standard across nearly all U.S. homeowners policies, New Jersey included.
 
 ## What's the difference between dwelling, contents, and loss-of-use coverage?
 

@@ -36,7 +36,7 @@ Buckling is the most severe. Boards have absorbed so much moisture that they've 
 
 ## Can water-damaged hardwood floors be saved without tearing them out?
 
-Yes, but only within a specific window and under specific conditions. The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), the industry benchmark for water damage restoration, classifies wood floor drying as a time-sensitive structural drying challenge. The general guideline: if professional drying begins within 24-48 hours of the water event, in-place drying has a reasonable chance of success for solid hardwood and some engineered products.
+Yes, but only within a specific window and under specific conditions. The [IICRC S500 standard](https://iicrc.org/s500/), the industry benchmark for water damage restoration, classifies wood floor drying as a time-sensitive structural drying challenge. The general guideline: if professional drying begins within 24-48 hours of the water event, in-place drying has a reasonable chance of success for solid hardwood and some engineered products.
 
 Beyond 72 hours, the odds shift. Wood that has been wet for three or more days has had time to absorb moisture deep into the grain, and the subfloor beneath has likely reached elevated moisture levels too. At that point, even aggressive drying may not return the wood to acceptable moisture content before secondary damage, mold, subfloor delamination, adhesive failure, sets in. For more on that timeline, see our post on [how long water damage restoration actually takes](/blog/how-long-does-water-damage-restoration-take/).
 

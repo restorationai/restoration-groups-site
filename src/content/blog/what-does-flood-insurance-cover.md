@@ -49,7 +49,7 @@ NFIP flood insurance covers two categories: the building itself (your structure 
 - Freezers and the food inside them
 - Certain valuable items such as artwork, up to $2,500
 
-The full list of covered property is published by [FloodSmart.gov](https://www.floodsmart.gov/what-covered), the FEMA-managed resource for NFIP policyholders.
+The full list of covered property is published by [FloodSmart.gov](https://www.floodsmart.gov/get-insured/buy-a-policy), the FEMA-managed resource for NFIP policyholders.
 
 ## What does flood insurance NOT cover?
 

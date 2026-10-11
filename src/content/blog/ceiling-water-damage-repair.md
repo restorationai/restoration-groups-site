@@ -76,7 +76,7 @@ Here's the practical decision tree:
 - Moisture meter still reads elevated (above 15-17%)
 - Mold is visible on the surface or suspected on the back
 - The ceiling is sagging at all
-- The water was Category 2 (gray water from an overflowed toilet tank or washing machine) or Category 3 (black water, sewage backup, floodwater). Per the [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), contaminated water materials must be removed, not dried in place.
+- The water was Category 2 (gray water from an overflowed toilet tank or washing machine) or Category 3 (black water, sewage backup, floodwater). Per the [IICRC S500 standard](https://iicrc.org/s500/), contaminated water materials must be removed, not dried in place.
 
 One important note on plaster ceilings, which are common in the 1920s-1950s housing stock across New Jersey: plaster is more water-tolerant than drywall in some ways (it won't dissolve the same way), but the wood lath behind it can rot and the plaster keys, the little fingers of plaster that grip the lath, can break. A plaster ceiling that sounds hollow when tapped after a water event has lost its keys and will eventually fall. Replacement is the right call.
 
@@ -108,7 +108,7 @@ Every loss is different. The Restoration Group provides a written scope of work 
 A properly executed ceiling water damage repair follows a specific sequence. Skipping steps, especially drying, is the most common reason repairs fail or mold appears months later.
 
 1. **Stop the source.** No ceiling repair holds if water is still coming in. Identify and fix the leak first.
-2. **Moisture mapping.** A technician uses a non-invasive moisture meter and thermal camera to map the full extent of saturation, including areas that look dry but aren't. The [IICRC S500](https://www.iicrc.org/page/IICRCS500) standard governs this process.
+2. **Moisture mapping.** A technician uses a non-invasive moisture meter and thermal camera to map the full extent of saturation, including areas that look dry but aren't. The [IICRC S500](https://iicrc.org/s500/) standard governs this process.
 3. **Controlled demo.** Remove only what's wet and contaminated. For drywall, that typically means cutting back to the nearest stud bay past the last elevated moisture reading.
 4. **Structural drying.** Air movers and LGR (low-grain refrigerant) dehumidifiers run until the framing and subfloor above reach dry standard, typically 3 to 5 days, monitored daily with moisture readings logged.
 5. **Mold check.** Before closing up, inspect the framing and back of any remaining drywall for mold. If found, remediation happens here, not after.

@@ -18,7 +18,7 @@ services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
 author: "Michael Oren"
 ---
-A house fire leaves behind more than charred wood and ash. Even after the flames are out, you're dealing with smoke that has penetrated walls, soot that continues to corrode metal and fabric, and water damage from the hoses used to extinguish the blaze. The restoration process typically unfolds in six distinct phases, assessment, board-up and tarping, water removal and drying, soot and smoke cleaning, odor elimination, and structural repair, and it can take anywhere from a few days to several months depending on the size and severity of the fire. Understanding each phase helps you ask the right questions and know what to expect.
+A house fire leaves behind more than charred wood and ash. Even after the flames are out, you're dealing with smoke that has penetrated walls, soot that continues to corrode metal and fabric, and water damage from the hoses used to extinguish the blaze. The restoration process typically unfolds in five distinct phases: assessment and securing the property, water removal and drying, soot and smoke cleaning, odor elimination, and structural repair. It can take anywhere from a few days to several months depending on the size and severity of the fire. Understanding each phase helps you ask the right questions and know what to expect.
 
 ## Phase 1: Emergency Assessment and Securing the Property
 
@@ -82,4 +82,4 @@ If the fire has been extinguished and the fire department has cleared the proper
 4. **Call your insurance company** to open a claim and ask about advance funds for temporary housing if the home is uninhabitable.
 5. **Contact a restoration contractor** to secure the property and begin assessment, the longer soot sits on metal surfaces, the more corrosion occurs.
 
-If you're in Kenilworth or anywhere in northern New Jersey and you're trying to figure out next steps, The Restoration Group handles both [fire damage restoration](/services/fire-damage-restoration/) and [smoke damage restoration](/services/smoke-damage-restoration/) and can walk you through what the process looks like for your specific situation. Call (908) 970-8533 to talk through what you're dealing with.
+If you're in Kenilworth or anywhere in northern New Jersey and you're trying to figure out next steps, The Restoration Group handles both [fire damage restoration](/services/fire-damage-restoration/) and [smoke damage restoration](/services/smoke-damage-restoration/) and can walk you through what the process looks like for your specific situation. Call (844) 808-8838 to talk through what you're dealing with.

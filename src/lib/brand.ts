@@ -70,7 +70,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "166",
+  gbpReviewCount: "167",
   gbpReviews: [
     { author: "Anne", rating: 5, text: "Prompt, knowledgeable, skillful and honest. Highly recommend. They remediated within 24 hours. Total peace of mind restored. Worth every penny.", when: "October 2026" },
     { author: "Melanie", rating: 5, text: "The company was very prepared and professional. They were prompt with coming out to inspect the water damage that occurred and had the team come out the next day. They even wore booties in the house. They cut out all areas of damage, sprayed and use numerous fans and humidifiers in the wet area. I…", when: "October 2026" },

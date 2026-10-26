@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Commercial Restoration"
 rendered: true
 ---
-When a pipe bursts overnight in a Passaic Street storefront or a roof leak soaks the stockroom of a Belmont Avenue retailer, the clock starts immediately, and in Garfield's dense commercial corridors, a single water event can cascade into neighboring tenant spaces before morning. The Restoration Group responds 24/7 to commercial losses across Garfield (07026), handling everything from initial emergency mitigation through full structural reconstruction so business owners can focus on reopening, not project management.
+When a pipe bursts overnight in a Passaic Street storefront or a roof leak soaks the stockroom of a Belmont Avenue retailer, the clock starts immediately, and in Garfield's dense commercial corridors, a single water event can cascade into neighboring tenant spaces before morning. The Restoration Group responds 24/7 to commercial losses across Garfield (07026), handling emergency mitigation, cleaning, and drying so business owners can focus on reopening, not project management.
 
 ## Why Garfield Commercial Properties Face Elevated Restoration Risk
 
@@ -34,7 +34,7 @@ Commercial restoration in Garfield requires a different pace and coordination mo
 
 We begin with an emergency response and damage assessment, documenting the loss with photographs and moisture mapping before any materials are moved. For water losses, extraction and structural drying follow IICRC S500 standards, using commercial-grade desiccant dehumidifiers and air movers calibrated to the actual square footage and material types involved. Older Garfield commercial buildings often have plaster ceilings, concrete subfloors, and brick cavity walls, each of which holds moisture differently than modern assemblies and requires adjusted drying targets and longer monitoring cycles.
 
-For fire and smoke losses, we assess both visible char and invisible smoke penetration, in older masonry commercial buildings, smoke migrates into mortar joints and HVAC ducts in ways that require thorough cleaning beyond the obvious burn area. Reconstruction is handled in-house, so there is no handoff gap between mitigation and rebuild.
+For fire and smoke losses, we assess both visible char and invisible smoke penetration, in older masonry commercial buildings, smoke migrates into mortar joints and HVAC ducts in ways that require thorough cleaning beyond the obvious burn area. We do not do reconstruction; our documentation gives your rebuild contractor a clean starting point.
 
 ## Reaching Garfield from Kenilworth
 

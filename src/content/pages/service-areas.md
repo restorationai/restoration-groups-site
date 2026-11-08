@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | The Restoration Group Restoration"
+title: "Service Areas | The Restoration Group"
 h1: "Areas We Serve"
 meta_description: "The Restoration Group provides 24/7 restoration services across Kenilworth and the surrounding region. Find your city."
 primary_keyword: "the restoration group service areas"

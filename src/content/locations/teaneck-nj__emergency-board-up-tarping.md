@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Teaneck"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 A nor'easter peeling back a section of roof on a 1930s Tudor in the Grange, or a kitchen fire blowing out windows on a center-hall colonial near Votee Park, in Teaneck, the gap between a damaged opening and a secured one is measured in hours, not days. Moisture moves fast into old-growth framing and plaster ceilings, and an unsecured breach invites both weather and opportunistic entry. The Restoration Group dispatches board-up and tarping crews around the clock, reaching the 07666 ZIP code from our Kenilworth base to get your property stabilized before the next weather event compounds the damage.
 

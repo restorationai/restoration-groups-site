@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Linden"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 When the Rahway River and Morses Creek jumped their banks during Hurricane Ida in 2021, low-lying Tremley Point took on water fast, and in Linden's postwar capes and split-levels, that water didn't stay in the basement. It wicked into wall cavities, soaked subfloor sheathing, and gave mold exactly what it needs: moisture, warmth, and a cellulose food source. If you're dealing with visible growth, a persistent musty odor, or an unexplained uptick in allergy symptoms, mold remediation in Linden (07036) is time-sensitive, colonies can establish within 24 to 48 hours of a moisture event.
 

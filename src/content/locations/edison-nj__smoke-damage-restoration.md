@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Edison"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 Smoke from a kitchen fire in a Clara Barton split-level travels differently than smoke from a basement electrical fire in a North Edison colonial, and Edison's dense mix of postwar housing stock means the residue problem is rarely straightforward. Smoke particles migrate through wall cavities, settle into the textured ceilings common in 1960s and 70s construction, and bond to the original plaster and lathe that still exists in older sections of the township. The Restoration Group responds 24/7 out of Kenilworth, reaching most Edison ZIP codes, including 08820 and 08837, within a short drive down the Garden State Parkway or Route 1.
 

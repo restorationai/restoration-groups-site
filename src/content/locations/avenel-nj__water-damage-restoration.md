@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Avenel"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 **Water damage emergency in Avenel?** Call now for emergency service. Avenel's older ranch and Cape Cod homes, many built when this part of Woodbridge Township saw its first wave of postwar development, were plumbed for a different era, and a failed supply line or sewer backup behind a finished basement wall can soak framing long before anyone notices a stain. We answer 24/7 and bring IICRC-trained technicians and extraction equipment ready for the tight crawlspaces and low basements common in this section of Middlesex County.
 

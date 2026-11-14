@@ -17,7 +17,7 @@ area_slug: "short-hills-nj"
 city: "Short Hills"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 Short Hills property owners dealing with a burst pipe, a flooded basement, or fire and smoke damage need a crew that documents the loss correctly and starts drying or stabilizing the structure fast. The Restoration Group handles water extraction, fire and smoke cleanup, mold remediation, and biohazard cleanup for homes and commercial spaces in Short Hills, with 24/7 phone response and direct coordination with most insurance carriers so the paperwork doesn't slow down the work.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "North Bergen"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The dense, early 20th-century housing stock packed along North Bergen's hillside lots and low-lying western flats creates odor problems that linger long after the visible damage is cleaned up. Basement flooding from events like Tropical Storm Ida in 2021 left standing water in cast-iron drain systems and unfinished crawl spaces throughout the 07047 ZIP code, and when water sits in those tight, poorly ventilated spaces, the resulting musty, sulfuric odor can permeate an entire three-family walkup within days. Smoke from a kitchen fire in a Bergenline Avenue apartment, or sewer gas backing up through aging plumbing in a Tonnelle Avenue commercial unit, doesn't just smell bad, it embeds itself into plaster, wood framing, and HVAC ductwork in ways that surface cleaning never fully addresses.
 

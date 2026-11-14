@@ -19,7 +19,7 @@ city: "Westfield"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something traumatic or hazardous happens inside a Westfield home, whether in a finished basement off Manor Park or in one of the Victorian-era row properties near Downtown Westfield on Quimby Street, the last thing a family should have to manage is the cleanup. Biohazard situations demand discretion, proper containment, and certified disposal, not improvised solutions. The Restoration Group responds 24/7 to biohazard calls across the 07090 ZIP code, handling every step with the clinical care these circumstances require.
 

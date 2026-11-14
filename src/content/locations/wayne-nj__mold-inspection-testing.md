@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Wayne"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The stretch of Wayne along the Passaic and Pompton Rivers has flooded so many times, Irene in 2011, Ida in 2021, and the quieter seasonal events in between, that moisture has become a background condition in thousands of homes here, not an occasional emergency. When floodwater retreats from a finished basement in the Hoffman Grove or Mountain View sections, it rarely leaves completely. It soaks into wall cavities, sits beneath vinyl flooring, and within 24 to 48 hours begins the process that eventually shows up as a musty smell, a dark stain on drywall, or an unexplained uptick in allergy symptoms. A professional mold inspection and testing assessment is often the only way to know what's actually in the air, and what's hiding behind the walls.
 

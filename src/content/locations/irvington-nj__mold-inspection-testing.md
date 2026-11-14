@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Irvington"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The two- and three-family rowhouses packed along Irvington's Union Avenue and Chancellor Avenue corridors were built when galvanized pipe was standard and vapor barriers were not. A slow drip behind a kitchen wall or a backed-up cast-iron drain in a semi-finished basement can go unnoticed for weeks, long enough for mold colonies to establish behind plaster, under subfloor sheathing, and inside wall cavities. If you're smelling something musty or you've had any water intrusion in the past year, a professional mold inspection and testing assessment is the only way to know what's actually growing and where.
 

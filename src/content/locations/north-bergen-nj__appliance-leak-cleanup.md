@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "North Bergen"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 An appliance leak in a North Bergen two- or three-family home doesn't behave the way it would in a newer suburb. The early 20th-century walkups packed along the Bergenline corridor and up the Palisades hillside were built with subfloor assemblies that funnel water fast, a dishwasher supply line that lets go overnight can push water through old tongue-and-groove subfloor into the unit below before the upstairs tenant even wakes up. When that call comes in, The Restoration Group dispatches from Kenilworth around the clock, ready to stop the spread before a single-unit problem becomes a building-wide loss.
 

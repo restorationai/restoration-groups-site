@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Westfield"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Downtown Westfield's retail corridors along Quimby Street and the office suites tucked above its storefronts sit inside buildings that, in many cases, have been standing since before the First World War. When a supply line fails in a second-floor tenant space or a kitchen suppression system discharges overnight, the water doesn't just soak a drop ceiling, it migrates through original plaster, follows century-old framing cavities, and surfaces two floors below in a neighboring business before anyone notices. Commercial restoration in a town built this densely and this old requires a different kind of planning than a suburban strip mall job, and that's exactly the kind of work The Restoration Group handles across Westfield's 07090 ZIP code.
 

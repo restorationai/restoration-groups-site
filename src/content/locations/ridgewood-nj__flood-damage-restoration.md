@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Ho-Ho-Kus Brook overtopped its banks during Hurricane Ida in 2021, basements from the Village center to the streets flanking Ridgewood train station filled with water faster than sump pumps could cycle. That event was a sharp reminder of what residents in the 07450 ZIP code already know: Ridgewood's combination of century-old homes, finished basements, and two flood-prone waterways creates a uniquely unforgiving environment when a major storm or a failed supply line lets water in. The Restoration Group responds to flood calls around the clock, bringing IICRC Certified Firm (#210213) standards to every extraction and dry-out.
 

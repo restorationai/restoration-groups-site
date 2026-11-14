@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Westfield"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 A single storm rolling off the Rahway River's Robinson's Branch can drop a century-old oak limb straight through a cedar-shake or slate roof in the Wychwood or Indian Forest sections of Westfield, and within hours, an open hole becomes a water intrusion problem that threatens original plaster ceilings, refinished hardwood floors, and the finished basement home theater or gym below. Emergency board-up and tarping stops that cascade before it starts. The Restoration Group dispatches around the clock from Kenilworth, reaching 07090 properties quickly so that a bad storm night doesn't turn into a six-figure reconstruction.
 

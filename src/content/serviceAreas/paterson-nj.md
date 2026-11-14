@@ -17,7 +17,7 @@ area_slug: "paterson-nj"
 city: "Paterson"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Sandy Hill walkup at 2 a.m. or floodwater backs into a South Paterson basement after a heavy rain, The Restoration Group dispatches from Kenilworth around the clock to handle water extraction, structural drying, mold remediation, fire and smoke cleanup, and full reconstruction, for homeowners, landlords, and property managers across Paterson's ZIP codes 07501 through 07524.
 

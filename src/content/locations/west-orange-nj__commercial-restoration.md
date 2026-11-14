@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "West Orange"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head fails overnight at a retail tenant space near Essex Green Shopping Center, or a nor'easter drives water through a flat roof on the Northfield Avenue corridor, the clock starts immediately, mold can begin colonizing wet drywall within 48 hours, and every hour a business stays closed costs real money. West Orange's mix of mid-century commercial buildings, hillside stormwater dynamics, and proximity to South Mountain Reservation drainage makes commercial losses here more complex than a straightforward extraction job. The Restoration Group dispatches from Kenilworth around the clock to handle exactly these situations.
 

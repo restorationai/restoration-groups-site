@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Parsippany"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Whippany River backs up after a heavy nor'easter, or when a decades-old supply line finally gives out in a finished Lake Hiawatha basement, the water doesn't wait for business hours, and neither do the consequences. Flood damage in Parsippany moves fast: within 24 to 48 hours, saturated subfloor panels begin to swell, drywall wicks moisture up the wall cavity, and the humid conditions that define a New Jersey summer give mold a running start. The Restoration Group responds 24/7 from Kenilworth, reaching Parsippany properties with the equipment needed to stop that clock.
 

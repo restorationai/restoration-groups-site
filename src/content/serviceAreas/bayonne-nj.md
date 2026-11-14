@@ -17,7 +17,7 @@ area_slug: "bayonne-nj"
 city: "Bayonne"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Bergen Point rowhouse at 2 a.m. or a storm surge pushes water into a Constable Hook basement, The Restoration Group dispatches around the clock to Bayonne, handling water extraction, structural drying, mold remediation, fire and smoke cleanup, and full reconstruction for homeowners, landlords, and commercial property managers across the 07002 ZIP code.
 

@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Staten Island"
 state: "NY"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the East Shore floods, and after Sandy in 2012 and Ida in 2021, Staten Island residents know it will flood again, the window between standing water and structural damage is measured in hours, not days. Whether a storm surge has pushed through a South Beach bungalow's crawlspace or a backed-up storm drain has filled a New Dorp basement overnight, The Restoration Group dispatches crews from our Staten Island base around the clock to stop the loss before it compounds.
 

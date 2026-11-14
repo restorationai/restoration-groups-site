@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Jersey City"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Standing water emergency in Jersey City? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to extract the water and start drying.

@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Hackensack"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 A sprinkler head fails overnight in a Main Street retail suite, or a corroded cast-iron drain backs up into a ground-floor office near the Bergen County Courthouse, and by morning a business owner is standing in two inches of water trying to figure out who to call. Commercial losses in Hackensack move fast and compound quickly, especially in multi-tenant buildings where one failure on an upper floor becomes someone else's ceiling problem before sunrise. The Restoration Group responds 24/7 from Kenilworth, reaching Hackensack's Central Business District and surrounding corridors to contain damage before it spreads.
 

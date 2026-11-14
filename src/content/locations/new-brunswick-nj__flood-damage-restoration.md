@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 The Raritan River has flooded the low-lying streets near Boyd Park more than once, most recently during Ida in 2021, when riverfront blocks in New Brunswick took on water faster than sump pumps could keep up. But river events are only part of the story here. The same aging cast-iron drains and century-old supply lines that run beneath the dense rowhouses near Rutgers University fail quietly on ordinary weekdays, turning a basement apartment in Robeson Village or a ground-floor unit in the Fifth Ward into a standing-water emergency before a tenant even realizes what's happening. When that call comes in, The Restoration Group responds, 24 hours a day, every day, from our base in Kenilworth, NJ.
 

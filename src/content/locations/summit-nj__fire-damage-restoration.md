@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Summit"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire on a quiet street near the Franklin School area leaves more than char and soot behind, in Summit's stock of 1890s-to-1930s homes, smoke travels through original plaster wall cavities, seeps into the grain of century-old millwork, and settles into the kind of finished hardwood floors that simply cannot be replaced with a big-box substitute. The Restoration Group responds 24/7 to fire damage calls across Summit's 07901 ZIP code, bringing the documentation, containment, and careful cleaning that these properties demand.
 

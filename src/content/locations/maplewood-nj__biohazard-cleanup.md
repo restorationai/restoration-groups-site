@@ -19,7 +19,7 @@ city: "Maplewood"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Maplewood's tight-knit neighborhoods carry a particular weight when something goes wrong inside a home. In a community where Tudor-era houses on tree-lined streets sit close together and neighbors notice everything, a biohazard situation, whether it involves an unattended death, blood or bodily fluids, or discarded sharps, calls for a response that is both technically thorough and quietly discreet. The Restoration Group is available around the clock, and our IICRC Certified Firm team handles every call with the kind of care that a community like Maplewood deserves.
 

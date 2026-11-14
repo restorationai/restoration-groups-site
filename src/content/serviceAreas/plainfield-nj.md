@@ -17,7 +17,7 @@ area_slug: "plainfield-nj"
 city: "Plainfield"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe lets go in a finished Plainfield basement or a storm backs Cedar Brook into a first-floor unit, the clock starts immediately. The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold assessment, fire and smoke cleanup, and full reconstruction, handling the documentation your insurance carrier needs so you can focus on getting your property back to normal. Call **(844) 808-8838** any time.
 

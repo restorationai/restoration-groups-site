@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Millburn"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 When the West Branch of the Rahway River overtopped its banks during Ida in 2021, the flooding left behind more than soaked drywall along Millburn Avenue, it left an embedded, musty odor that lingered in basements and retail spaces for weeks after the water was gone. Odor molecules from floodwater, smoke, and biological contamination don't simply evaporate; they bond to porous materials, and in Millburn's older housing stock, there's no shortage of porous surfaces to trap them. Getting rid of that smell requires more than an air freshener, it requires the right equipment, matched to the specific materials in the affected space.
 

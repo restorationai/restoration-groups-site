@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "West Orange"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Watchung ridge sheds a fast-moving storm, the runoff doesn't just drain quietly away, it funnels downhill through West Orange's older storm infrastructure and straight into finished basements. Homes in Pleasantdale and the St. Cloud area sit in natural collection zones where sump pumps can be overwhelmed within minutes, and the sewer backups that followed Ida in 2021 reminded a lot of 07052 homeowners just how fast standing water can ruin flooring, framing, and everything stored below grade. The Restoration Group responds around the clock to flooded basements across West Orange, and the work here has a character all its own.
 

@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Somerville"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Somerville's older housing stock sits on streets like Gaston Avenue and East Main where galvanized supply lines installed decades ago are now thinning from the inside out, and when one finally lets go in January or a pipe in an unheated basement crawl space freezes overnight, the water doesn't wait for business hours. A burst pipe in a Victorian two-family or a finished colonial basement can dump hundreds of gallons before the main shutoff is even located. The Restoration Group responds 24/7 out of Kenilworth, and our crews are trained to stop the loss, extract standing water, and begin structural drying in a single mobilization, not a series of separate appointments.
 

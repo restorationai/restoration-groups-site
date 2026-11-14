@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The finished basements that make East Brunswick's postwar ranches and split-levels so livable are also the reason mold calls come in steadily here. When aging supply lines or cast-iron drains fail in a 1960s Frost Woods colonial, and they do, on schedule, water sits behind drywall and under subfloor long enough for mold to colonize within 24 to 48 hours. By the time the smell registers, the remediation scope is already larger than most homeowners expect. The Restoration Group responds around the clock to mold situations across East Brunswick (08816), bringing IICRC-certified protocols and containment equipment to homes that were built before modern vapor barriers were standard.
 

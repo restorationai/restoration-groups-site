@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 New Brunswick's dense stock of early-1900s rowhouses and multifamily buildings, especially the blocks radiating out from Rutgers Village and the Fifth Ward, creates conditions where mold can establish itself quietly behind plaster walls, inside balloon-frame cavities, and under original hardwood floors long before a tenant or owner notices a musty odor. A proper mold inspection here isn't a generic checklist; it's a targeted investigation that accounts for the city's aging infrastructure, its history of Raritan River flooding, and the near-constant moisture events driven by failing cast-iron drains and corroded supply lines in buildings that have been subdivided and re-plumbed across multiple decades.
 

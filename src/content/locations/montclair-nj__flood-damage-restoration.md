@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Montclair"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida tore through Essex County in September 2021, Frog Hollow and the South End bore some of the worst of it, basements filled in minutes, sewer lines backed up into finished lower levels, and the Third River (Yantacaw) jumped its banks with almost no warning. That kind of flooding doesn't just soak a carpet; it saturates century-old plaster, wicks into the framing of Victorian-era homes, and turns a finished basement into a standing-water hazard within the hour. The Restoration Group responds to flood damage calls in Montclair around the clock, dispatching from Kenilworth with IICRC-certified crews equipped for exactly this kind of loss.
 

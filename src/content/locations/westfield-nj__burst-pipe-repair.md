@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Westfield"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 A burst pipe in a Westfield home hits differently than in newer construction. Behind the plaster walls of a 1920s Tudor off Wychwood or a center-hall colonial near Mindowaskin Park, a single failed copper or cast-iron joint can saturate horsehair-and-lath cavities for hours before a water stain appears on the ceiling below. By the time you notice the damage, the framing is already wet, the subfloor is swelling, and, if there's a finished home theater or gym in the basement, you're looking at a claim that can climb fast. The Restoration Group responds 24/7 from Kenilworth, reaching most of Westfield's 07090 addresses within a short drive, ready to stop the loss and start the recovery the same day you call.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Westfield"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Westfield's Victorian-era and Tudor Revival homes along streets like Wychwood and The Gardens were built before synthetic materials dominated construction, and that matters enormously when smoke, sewer gas, or a long-hidden moisture problem leaves an odor that simply won't air out. Original horsehair plaster, old-growth fir subfloors, and decades of layered paint create a porous matrix that traps odor molecules deep below the surface. Standard sprays and air fresheners don't reach them. Eliminating the smell requires equipment and chemistry calibrated to what's actually inside the walls, not a generic protocol designed for 1990s drywall construction.
 

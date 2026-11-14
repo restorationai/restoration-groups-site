@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Fort Lee's dense stack of high-rise condominiums along the Palisades creates an odor problem that flat-grade suburbs rarely face: a single cooking fire, a sewage backup, or a cigarette-saturated unit on the 14th floor can push smoke, mold, and organic odors through shared HVAC risers and into neighboring units before the source apartment's door ever opens. If you're dealing with a persistent smell in a 07024 address, whether it's a prewar two-family in Coytesville or a glass-tower condo overlooking the George Washington Bridge, the source and the solution are rarely as simple as opening a window.
 

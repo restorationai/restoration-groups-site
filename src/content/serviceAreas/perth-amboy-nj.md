@@ -17,7 +17,7 @@ area_slug: "perth-amboy-nj"
 city: "Perth Amboy"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Budapest two-family at 2 a.m. or a nor'easter pushes water under the door of a Waterfront restaurant, Perth Amboy property owners need someone who can be on-site fast, document the loss correctly, and dry the structure before mold takes hold. The Restoration Group handles water damage, fire and smoke cleanup, mold remediation, and full reconstruction for residential and commercial properties across Perth Amboy, ZIP codes 08861 and 08862, and we answer calls around the clock, every day of the year.
 

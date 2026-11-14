@@ -17,7 +17,7 @@ area_slug: "hackensack-nj"
 city: "Hackensack"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Prospect Avenue high-rise at 2 a.m. or a Fairmount basement fills during a nor'easter, The Restoration Group dispatches from Kenilworth around the clock to stop the damage, dry the structure, and document everything your insurance carrier needs. We handle water damage, fire and smoke cleanup, mold remediation, and full reconstruction for homeowners, landlords, and commercial property managers across Hackensack's 07601 and 07602 ZIP codes.
 

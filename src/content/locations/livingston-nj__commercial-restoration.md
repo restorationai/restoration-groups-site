@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Livingston"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head misfires on the third floor of a Livingston Mall anchor tenant, or a cast-iron drain backs up and floods a medical office suite near Saint Barnabas Medical Center, the clock starts immediately, inventory is soaking, staff can't work, and every hour of downtime compounds the loss. Commercial restoration in Livingston carries stakes that residential work simply doesn't: lease obligations, health-code inspections, patient or customer access, and landlord-tenant liability all run in parallel with the physical cleanup. The Restoration Group responds 24/7 out of Kenilworth, and our IICRC Certified Firm (#210213) team is structured specifically to handle the scale and complexity of commercial losses.
 

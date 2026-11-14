@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Cranford"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 Cranford's older housing stock and the Rahway River's long shadow over the town's flood history get most of the attention, but fire damage is its own quiet crisis here, and it hits differently in a neighborhood of 1920s and 1930s colonials and capes. When a kitchen fire chars the original fir framing above a full basement, or a faulty knob-and-tube circuit ignites insulation in an attic that hasn't been touched since Eisenhower, the structural and smoke damage runs deeper than it would in a newer build. The Restoration Group responds 24/7 from our Kenilworth headquarters, just minutes from Cranford's 07016 zip code, to start the recovery before secondary damage compounds the loss.
 

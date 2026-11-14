@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Colonia"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 **Water damage emergency in Colonia?** We answer 24/7, and the clock matters here: Colonia's flat terrain and high water table mean a failed sump pump or a cracked foundation wall rarely stays a small problem. Water Damage Restoration in this part of Woodbridge Township means moving fast on basements and crawl spaces before saturation reaches framing and finished living space.
 

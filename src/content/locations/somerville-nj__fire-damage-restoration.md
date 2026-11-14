@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Somerville"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 Somerville's compact streetscape of century-old frame two-families and Victorian colonials burns differently than newer construction, balloon-frame walls channel heat and smoke through hidden cavities faster than platform-frame homes, and a kitchen fire on Gaston Avenue or East Main can deposit soot in rooms two floors away before the fire department clears the scene. When that call comes in, The Restoration Group responds around the clock from our Kenilworth base to begin stabilizing your property before secondary damage compounds the loss.
 

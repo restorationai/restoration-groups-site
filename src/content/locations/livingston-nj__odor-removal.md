@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Livingston"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Livingston's split-levels and colonials from the 1950s through the 1970s were built with plaster walls, minimal vapor barriers, and cast-iron drain stacks that have had decades to corrode, and when a pipe fails or a basement floods during a storm like Ida, the odors that follow aren't just unpleasant. They're structural. Smoke, sewage, mold, and pet contamination absorb into plaster, subfloor sheathing, and HVAC ductwork in ways that surface sprays never reach. The Restoration Group deploys advanced deodorization equipment from our Kenilworth base to homes and commercial properties across Livingston 07039, day or night.
 

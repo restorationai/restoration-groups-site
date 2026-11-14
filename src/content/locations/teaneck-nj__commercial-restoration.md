@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Teaneck"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head fails overnight in a Cedar Lane restaurant or a pipe bursts in an office suite near Holy Name Medical Center, the clock starts running immediately, and in Teaneck's dense commercial corridors, a few hours of standing water can mean days of lost revenue, spoiled inventory, and tenant complaints. The Restoration Group responds 24/7 out of Kenilworth, reaching Teaneck's retail strips and institutional campuses quickly to stop the damage before it compounds.
 

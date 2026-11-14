@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 An appliance leak in a Perth Amboy home moves faster than most homeowners expect, and in a city where late-1800s frame two- and three-families sit just blocks from Raritan Bay, the consequences compound quickly. Old galvanized supply lines corrode from the inside out, so a washing machine hose or refrigerator ice maker line can fail without warning and push water into subfloors that haven't been truly dry in decades. When that happens, call The Restoration Group at (844) 808-8838, we're available around the clock.
 

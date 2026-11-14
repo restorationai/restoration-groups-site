@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Westfield"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 The Victorian and Tudor homes lining the streets of Wychwood and The Gardens weren't built with modern plumbing in mind. Behind their plaster walls, original clay sewer laterals and aging cast-iron stacks quietly corrode for decades, until a pipe fails at 2 a.m. and standing water is spreading across a finished basement floor that cost more to build than some houses. The Restoration Group responds to water damage emergencies in Westfield, NJ (07090) around the clock, with IICRC Certified Firm (#210213) technicians and drying equipment calibrated for the specific challenges these older homes present.
 

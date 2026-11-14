@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter tears through Bergen County or a kitchen fire blows out a window on a century-old Tudor off Van Neste Square, the opening in your home's envelope starts working against you immediately, rain, cold air, and opportunistic intruders don't wait for business hours. The Restoration Group dispatches board-up and tarping crews to Ridgewood 24/7, securing damaged structures before secondary damage compounds an already difficult situation.
 

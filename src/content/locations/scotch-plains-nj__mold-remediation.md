@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The split-levels and colonials lining the streets off Park Avenue aren't just charming mid-century architecture, they're mold-prone by design. Finished basements over aging cast-iron drains, original galvanized supply lines that corrode quietly for years, and the low-lying terrain near Cedar Brook that took on serious water during Hurricane Ida in 2021 all create conditions where mold can colonize within 24 to 48 hours of a moisture event. When that happens in a 07076 home, the clock matters more than most homeowners realize.
 

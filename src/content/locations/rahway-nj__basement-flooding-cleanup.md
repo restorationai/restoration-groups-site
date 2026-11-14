@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Rahway"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Rahway River crests after a heavy storm, the way it did during Ida in 2021, swamping low-lying streets near Rahway River Park and the downtown corridor, basements fill fast. The older housing stock along those blocks compounds the problem: Victorian-era and 1920s homes built before modern waterproofing standards, with cast-iron floor drains that back up under surcharge, finished basement walls that wick moisture into framing before the water even recedes. The Restoration Group operates out of Kenilworth, minutes from Rahway, and responds around the clock to exactly these situations.
 

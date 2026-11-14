@@ -17,7 +17,7 @@ area_slug: "union-nj"
 city: "Union"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts behind a finished wall in a Battle Hill split-level, or a storm drain backs up into a Vauxhall basement at 2 a.m., The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all coordinated under one crew so Union property owners are not juggling multiple contractors during the worst week of their year. Call us at **(844) 808-8838** any time.
 

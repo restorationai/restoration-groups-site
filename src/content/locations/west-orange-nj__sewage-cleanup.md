@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "West Orange"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in West Orange, the clock starts immediately, raw sewage carries bacteria, viruses, and pathogens that begin colonizing porous materials within hours. The township's hillside topography makes the problem worse than many homeowners expect: stormwater rushing down the Watchung ridge overwhelms aging combined sewer infrastructure during heavy rain events, pushing waste back up through floor drains and laundry tubs in the very finished basements that define so much of the housing stock here. The Restoration Group responds 24/7 to sewage emergencies across West Orange's 07052 ZIP code, from the grand Victorians in Llewellyn Park to the postwar splits in Pleasantdale.
 

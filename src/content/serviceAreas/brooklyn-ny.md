@@ -17,7 +17,7 @@ area_slug: "brooklyn-ny"
 city: "Brooklyn"
 state: "NY"
 primary: false
-rendered: true
+rendered: false
 ---
 Brooklyn properties take a beating, from nor'easters that push water through century-old brownstone foundations to burst pipes in co-op buildings that soak three floors before anyone notices. The Restoration Group dispatches crews around the clock from our Kenilworth, NJ base to handle water damage, fire and smoke damage, mold remediation, and full reconstruction for homeowners, landlords, and property managers across the borough. We carry the documentation your insurer and your co-op board will actually accept.
 

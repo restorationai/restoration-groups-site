@@ -17,7 +17,7 @@ area_slug: "irvington-nj"
 city: "Irvington"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When water is rising in a Grove Park basement or smoke has settled into the walls of a Springfield Avenue storefront, Irvington property owners need a crew that knows the neighborhood, not a dispatcher reading from a map. The Restoration Group handles water damage, fire and smoke damage, mold remediation, and full reconstruction for homeowners, landlords, and property managers throughout Irvington's 07111 ZIP code, around the clock.
 

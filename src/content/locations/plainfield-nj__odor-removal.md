@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Plainfield"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Plainfield's Victorian and Queen Anne homes along the Van Wyck Brooks Historic District carry more than architectural character, their plaster walls, original hardwood floors, and deep finished basements absorb smoke, mold, and sewer odors in ways that a single spray-and-pray deodorizer will never fix. When a fire chars the trim in a Netherwood Colonial or a backed-up cast-iron drain leaves a sewage smell baked into a basement rec room, the odor molecules have already bonded to porous surfaces. Eliminating them takes the right chemistry, the right equipment, and someone who understands what these buildings are actually made of.
 

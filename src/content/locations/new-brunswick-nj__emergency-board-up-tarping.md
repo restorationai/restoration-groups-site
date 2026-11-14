@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 New Brunswick's dense mix of century-old rowhouses near Rutgers University, flood-prone riverfront blocks along the Raritan, and busy commercial corridors on George Street means that when a fire breaks out, a storm tears through, or a break-in shatters a storefront window, the exposure doesn't stop when the incident does. Unsecured openings invite weather, vandalism, and liability, and in a city where a vacant window on a student rental in Robeson Village can attract trespassers within hours, getting a professional board-up in place fast is as important as the emergency response itself. The Restoration Group dispatches 24/7 from Kenilworth to protect your property the moment the immediate danger clears.
 

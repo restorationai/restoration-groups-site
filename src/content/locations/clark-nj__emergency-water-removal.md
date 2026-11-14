@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Clark"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Rahway River or Robinson's Branch backs up after a hard rain, the ranches and split-levels near Lake Avenue and Valley Road don't get a warning, water just appears at the base of the basement stairs. Clark's compact postwar housing stock was built for a different era of storm intensity, and the finished basements that make these homes livable are exactly where water damage does its worst work. The Restoration Group responds 24/7 to emergency water removal calls across Clark, NJ 07066, from sump-pump failures on quiet cul-de-sacs to commercial losses along the Raritan Road strip.
 

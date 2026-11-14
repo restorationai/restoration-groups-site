@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Paramus"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a 1960s split-level off Spring Valley Road leaves more than char marks, it leaves smoke embedded in the original plaster ceilings, odor locked into the fiberglass insulation packed between floor joists, and soot coating the cast-iron baseboard radiators that heat half the homes in Paramus. By the time the fire department clears the scene, the clock is already running on secondary damage: smoke residue turns acidic within hours, etching metal fixtures and yellowing painted surfaces faster than most homeowners expect. The Restoration Group responds 24/7 from Kenilworth to begin stabilizing your property before that secondary damage compounds the loss.
 

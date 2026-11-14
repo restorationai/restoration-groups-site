@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Teaneck"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Three years after Hurricane Ida pushed the Hackensack River and Teaneck Creek over their banks, plenty of finished basements across the township are still harboring the aftermath, not standing water, but the slow, invisible colonization of mold inside wall cavities, under subfloor sheathing, and behind the paneling that homeowners reinstalled before everything was truly dry. A professional mold inspection and testing engagement in Teaneck means more than a visual walk-through; it means understanding exactly where moisture hid in a 1930s brick Tudor and what the air quality inside that home is telling you now.
 

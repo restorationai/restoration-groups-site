@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Clark"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Rahway River or Robinson's Branch backs up into a finished basement off Valley Road, the damage rarely stops at the walls. Furniture, clothing, family documents, electronics, and decades of stored belongings absorb floodwater, smoke, or soot within hours, and in Clark's compact postwar ranches and split-levels, those finished lower levels are often where families actually live. Contents restoration and pack-out is the part of recovery most homeowners don't think about until they're standing in a saturated room wondering what can be saved.
 

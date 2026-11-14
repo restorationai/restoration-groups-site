@@ -17,7 +17,7 @@ area_slug: "east-brunswick-nj"
 city: "East Brunswick"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a finished basement off Old Bridge Turnpike or a roof leak soaks a commercial tenant near Brunswick Square Mall, The Restoration Group dispatches from Kenilworth around the clock, handling water extraction, structural drying, mold remediation, fire and smoke cleanup, and full reconstruction for homeowners, landlords, and property managers across East Brunswick's 08816 ZIP code.
 

@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Brooklyn"
 state: "NY"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 Brooklyn's brownstone belt and coastal edges create water damage conditions that few other boroughs can match. A burst supply line in a Park Slope garden-level apartment doesn't just soak the unit, it wicks into 140-year-old brick, saturates original plaster, and threatens the cellar apartment one floor below before a tenant even notices the sound of running water behind the wall. The Restoration Group dispatches 24/7 from the NY-metro area, reaching Brooklyn addresses with IICRC Certified Firm crews (#210213) equipped to handle the borough's specific mix of masonry rowhouses, pre-war co-ops, and storm-exposed coastal properties.
 

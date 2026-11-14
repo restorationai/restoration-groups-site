@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the remnants of a tropical system stall over Middlesex County, the way Ida's leftovers did in 2021, the low-lying stretches along Lawrence Brook can go from damp to chest-deep in hours. For homeowners in East Brunswick's older ranch and split-level tracts, that kind of event doesn't just mean a wet yard; it means saturated finished basements, waterlogged insulation tucked under 1960s subfloors, and structural framing that was never designed to drain. The Restoration Group responds 24/7 to storm damage across East Brunswick and the surrounding 08816 ZIP code, moving fast because the window between a storm event and secondary mold growth is measured in days, not weeks.
 

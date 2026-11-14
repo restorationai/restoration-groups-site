@@ -17,7 +17,7 @@ area_slug: "watchung-nj"
 city: "Watchung"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 Property owners in Watchung call The Restoration Group for water extraction, fire and smoke cleanup, mold remediation, and storm damage repair when a burst pipe, a failed sump pump, or a wind-driven storm turns a routine Tuesday into an emergency. We document the loss for insurance, stabilize the property, and manage the rebuild so homeowners and property managers aren't juggling three different contractors mid-crisis.
 

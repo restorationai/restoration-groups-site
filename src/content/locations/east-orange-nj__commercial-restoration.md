@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "East Orange"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 East Orange's commercial corridors, from the retail strips along Central Avenue to the medical office buildings clustered near East Orange General Hospital, sit inside a dense urban fabric of aging brick construction where a single sprinkler malfunction, roof drain failure, or sewer backup can cascade through multiple tenants in hours. The Restoration Group responds to commercial losses across East Orange 24/7, bringing the drying equipment, documentation, and coordination that multi-tenant and single-occupancy businesses need to reopen fast.
 

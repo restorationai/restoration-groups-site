@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Piscataway"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter peels back a section of roof on a split-level off River Road, or a kitchen fire blows out windows in a Society Hill townhome at 2 a.m., the gap between the damage that already happened and the damage still coming is measured in hours, sometimes less. Rain, wind, and opportunistic trespassers don't wait for business hours, and neither do we. The Restoration Group dispatches emergency board-up and tarping crews to Piscataway around the clock, reaching properties across 08854 and 08855 before a manageable loss becomes a catastrophic one.
 

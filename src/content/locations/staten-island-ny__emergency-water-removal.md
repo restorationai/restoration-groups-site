@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Staten Island"
 state: "NY"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a pipe lets go behind a kitchen wall in a Port Richmond row house or a nor'easter pushes water under the back door of a New Dorp split-level, the clock starts immediately. Mold can begin colonizing wet framing within 24 to 48 hours, and in Staten Island's older housing stock, where plaster, horsehair insulation, and cast-iron plumbing coexist in the same wall cavity, water travels in ways that a moisture meter at the surface won't reveal. The Restoration Group operates 24/7 and keeps crews based on the borough for emergency water removal and cleanup, so a call to (844) 808-8838 reaches people who know what they're walking into before they open the door.
 

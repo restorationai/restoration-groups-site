@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Manhattan"
 state: "NY"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a fire tears through a Chelsea brownstone or a storm peels back flashing on a pre-war co-op in the Upper West Side, the window between the initial damage and the next wave of loss, rain, theft, curious bystanders, can be measured in hours. Emergency board-up and tarping in Manhattan isn't just about nailing plywood over an opening; it's about navigating freight elevators, building management protocols, and a density of neighboring properties that means an unsecured opening on the fourth floor affects everyone below and beside it. The Restoration Group responds 24/7, bringing the materials and the borough-specific know-how to secure your property before conditions worsen.
 

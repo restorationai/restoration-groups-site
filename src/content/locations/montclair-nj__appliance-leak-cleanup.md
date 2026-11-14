@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Montclair"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 An ice maker line that's been weeping behind a Sub-Zero for six months, a washing machine hose that finally lets go in a finished basement off Upper Montclair's Edgecliff Road, appliance leaks in Montclair don't announce themselves until the damage is already deep. The town's older housing stock means water has plenty of places to hide: inside plaster walls, under original hardwood, behind wainscoting, and into the kind of finished lower levels that were retrofitted decades after the house was built. The Restoration Group responds 24/7 to appliance leak emergencies throughout Montclair, including 07042 and 07043.
 

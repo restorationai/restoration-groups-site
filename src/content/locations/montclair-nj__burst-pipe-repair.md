@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Montclair"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 A pipe that lets go at 2 a.m. in a Victorian on a street near Upper Montclair doesn't behave the way a burst pipe does in a 1990s subdivision. Water travels fast through plaster-and-lath walls, soaks into old-growth fir subfloors, and finds its way down to finished basements before the homeowner realizes anything is wrong. The Restoration Group dispatches 24/7 from Kenilworth, reaching Montclair's 07042 and 07043 ZIP codes to stop the spread, extract standing water, and handle the full repair, not just the mop-up.
 

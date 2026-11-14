@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Edison"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Burst pipe or leak in Edison? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to stop the water and start the cleanup.

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The smell that lingers after a basement flood, a kitchen fire, or years of cigarette smoke in a postwar colonial is not just unpleasant, it is a chemical problem embedded in porous materials. In Woodbridge Township, where the Rahway River and Woodbridge River have repeatedly pushed floodwater into finished basements and low-lying crawl spaces, odor sources are often layered: mold-laced drywall beneath carpet, smoke residue in original 1950s plaster, sewage backflow into cast-iron drain lines that date back to the homes' construction. Treating the surface does nothing. Eliminating the odor means reaching the source.
 

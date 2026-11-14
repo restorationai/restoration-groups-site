@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Piscataway"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Stelton split-level burns differently than one in a Society Hill townhome, the open floor plans and shared HVAC systems in the Society Hill condo developments pull smoke through ductwork into units that never saw a flame, while the older postwar capes and split-levels along the Stelton corridor trap soot inside wall cavities lined with original plaster and horsehair insulation. When fire hits a Piscataway home, the damage rarely stops at the charred room. The Restoration Group responds 24/7 to fire damage calls across Piscataway, ZIP codes 08854 and 08855, and the surrounding Middlesex County area.
 

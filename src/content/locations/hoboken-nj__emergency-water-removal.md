@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Hoboken"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 Hoboken sits on land that was once tidal marsh, and the city has never fully outrun that geography. When heavy rain overwhelms the combined sewer system, as it did catastrophically during Superstorm Sandy and again during Ida in 2021, water doesn't just pool in streets. It backs up through floor drains, seeps under basement doors, and fills garden-level units across the city's dense grid of 19th-century brownstones. If you're dealing with standing water or soaked floors right now, call The Restoration Group at (844) 808-8838 for emergency water removal and cleanup. We're available around the clock.
 

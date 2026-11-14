@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Irvington"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 Irvington's dense stock of early-1900s rowhouses and two- and three-family frame homes creates a specific kind of water damage problem: when a galvanized supply line finally gives out or a cast-iron drain backs up, the water doesn't stay in one unit. It travels through shared walls, drops into finished basements, and soaks into century-old subfloors before anyone realizes what's happening. The Restoration Group responds 24/7 to water emergencies across Irvington, call (844) 808-8838 the moment you see standing water.
 

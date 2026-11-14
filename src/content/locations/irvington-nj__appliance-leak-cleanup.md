@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Irvington"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 An appliance leak in an Irvington rowhouse or two-family home can go from a slow drip to a soaked finished basement in hours, and in a neighborhood like Grove Park or along the Union Avenue corridor, where early-1900s construction means cast-iron drains and aging galvanized supply lines, the water rarely stays where you expect it. The Restoration Group responds 24/7 to appliance leak emergencies across Irvington (07111), extracting standing water, drying structural materials, and documenting everything your insurance carrier needs.
 

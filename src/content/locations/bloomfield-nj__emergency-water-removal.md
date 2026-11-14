@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Third River backs up during a summer downpour or a century-old galvanized supply line finally lets go in a Watsessing two-family, the water doesn't wait for business hours. Bloomfield's dense mix of 1920s colonials, Tudors, and postwar capes, most with finished basements sitting below grade, means a burst pipe or sump failure can turn a utility room into a foot of standing water before a homeowner realizes what's happening. The Restoration Group responds 24/7 to emergency water removal calls across Bloomfield (07003), working to stop the spread before saturation reaches framing, subfloor, and the drywall your family lives behind.
 

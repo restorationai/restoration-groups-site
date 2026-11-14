@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Livingston"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Canoe Brook watershed backs up during a nor'easter or a summer cloudburst, basements across Livingston fill faster than a sump pump can handle, and in the split-levels and finished colonials that line streets from Northland to Cedar Hill, that water isn't just sitting on a concrete slab. It's soaking into framed walls, saturating carpet padding over subfloor, and wicking up into the engineered lumber that builders used when they replaced a 1960s ranch with a four-bedroom McMansion on a fully finished lower level. The Restoration Group responds 24/7 to water damage calls throughout Livingston, bringing IICRC-certified technicians (Firm #210213) and commercial-grade extraction and drying equipment to stop the clock on structural damage.
 

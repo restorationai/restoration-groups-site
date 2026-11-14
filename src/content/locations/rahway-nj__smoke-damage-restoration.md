@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Rahway"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 After a kitchen fire or an electrical fault in one of Rahway's century-old Victorians near Downtown, the flames themselves are often the smaller problem. Smoke and soot travel fast, through ductwork, into closets, behind the original horsehair-plaster walls that define so much of the housing stock between the train station and Rahway River Park, and within hours the acrid, oily residue begins bonding to every porous surface it touches. The Restoration Group responds 24/7 from our Kenilworth headquarters, typically reaching the 07065 ZIP code quickly, ready to stop that clock before the damage compounds.
 

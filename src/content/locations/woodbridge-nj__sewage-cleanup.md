@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in Woodbridge, the clock starts moving fast, and so does the contamination. Woodbridge Township's dense mix of postwar capes, split-levels, and colonials, many built in the 1950s and 60s with original cast-iron drain stacks, means that a single blockage or municipal sewer surcharge can push Category 3 black water across carpeting, into wall cavities, and under subfloors before a homeowner realizes what's happening. The Restoration Group responds around the clock to sewage backup cleanup calls across the township, from Colonia to Port Reading.
 

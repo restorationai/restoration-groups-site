@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a supply line fails on the 22nd floor of a high-rise along the Palisades, water doesn't stop at the unit where it started, it travels through concrete decks, saturates drywall on the floors below, and can reach a dozen units before anyone shuts off the riser. That's the reality of water damage in Fort Lee, where dense condominium towers dominate the skyline above the Hudson and a single plumbing failure becomes a multi-unit emergency within minutes. The Restoration Group responds 24/7, dispatching IICRC Certified Firm (#210213) technicians to extract standing water, dry structural assemblies, and document everything your insurance adjuster needs.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Bridgewater's postwar split-levels and ranches, the kind that line the streets of Finderne and Bradley Gardens, were built tight and low, which means odors from a basement flood, a kitchen fire, or years of cigarette smoke have nowhere to go. They soak into the wood framing behind paneling, into the concrete block foundation walls, and into the HVAC ductwork that runs through finished ceilings. By the time you can smell it upstairs, the odor molecules have already colonized materials you cannot see. That's the problem we solve.
 

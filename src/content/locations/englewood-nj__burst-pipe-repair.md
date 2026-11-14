@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Englewood"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go in January on East Hill, the water doesn't wait for business hours. Englewood's older housing stock, the grand late-Victorian and early-20th-century homes that line the streets above the Palisade Avenue corridor, often runs original galvanized or early copper supply lines that have spent decades contracting and expanding through Bergen County winters. One hard freeze, and what was a slow seep behind a plaster wall becomes a full rupture flooding a finished basement in under an hour. The Restoration Group responds 24/7 to burst pipe emergencies across Englewood (07631) and can be on-site the same night you call (844) 808-8838.
 

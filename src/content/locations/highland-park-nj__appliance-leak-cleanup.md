@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Highland Park"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 A refrigerator ice maker line that drips overnight or a washing machine hose that blows mid-cycle might seem minor compared to the Raritan River flooding that swamped Donaldson Park and River Road during Ida in 2021, but inside Highland Park's dense stock of 1920s and 1930s colonials and two-family homes, even a slow appliance leak can saturate a finished basement slab, wick into original horsehair plaster, and feed active mold growth within 48 to 72 hours. The Restoration Group operates 24/7 and has a crew based out of our Kenilworth office, putting Highland Park (08904) within a short drive when minutes matter.
 

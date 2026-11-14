@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Irvington"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Irvington's dense stock of early-1900s rowhouses and two- and three-family frame homes creates odor problems that don't respond to a can of spray and an open window. Cast-iron drain stacks corrode and leak inside wall cavities for months before anyone notices; galvanized supply lines fail quietly in finished basements; and when a hard storm backs up the Elizabeth River watershed, as Ida did across Essex County in 2021, floodwater soaks into the subfloor and sits long enough to breed the kind of organic odor that outlasts the water itself. The Restoration Group deploys professional-grade deodorization equipment to 07111 addresses around the clock, treating the source rather than masking it.
 

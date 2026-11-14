@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 The Raritan River has flooded the low-lying streets near Boyd Park before, most memorably during Ida in 2021, but the majority of basement flooding calls in New Brunswick never make the news. They start with a failed sump pump on a Tuesday night, a cracked cast-iron drain under a century-old rowhouse near Rutgers Village, or a burst supply line in one of the postwar apartment buildings along the Edgebrook corridor. Water moves fast in a basement, and the older the structure, the faster it finds new places to go. The Restoration Group responds to flooded basement emergencies in New Brunswick 24/7, dispatching from Kenilworth with the equipment to extract standing water, dry structural assemblies, and document everything your insurance adjuster needs.
 

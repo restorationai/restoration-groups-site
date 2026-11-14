@@ -17,7 +17,7 @@ area_slug: "somerville-nj"
 city: "Somerville"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts behind a finished wall in a West End Victorian or a sprinkler discharge soaks a Main Street storefront at 2 a.m., The Restoration Group responds around the clock, extracting water, drying structural assemblies, remediating mold, and managing fire or smoke damage for homeowners, landlords, and commercial property managers throughout Somerville, NJ (08876 / 08869). We handle the documentation, communicate directly with your insurance adjuster, and stay on-site until the work is done.
 

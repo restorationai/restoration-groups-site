@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Bayonne"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Bayonne's position as a narrow peninsula between Newark Bay and the Kill Van Kull means moisture is never far away, and in the dense rows of early 20th-century two- and three-family homes that line streets from Bergen Point up through Uptown, that moisture has had decades to find its way into wall cavities, basement slabs, and crawl spaces. If you're smelling something musty, seeing discoloration on a finished basement wall, or dealing with a tenant complaint about air quality, a professional mold inspection and testing visit is the right first step before any remediation work begins.
 

@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Hillside"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Elizabeth River backs up during a hard summer storm, basements across Hillside's eastern lowlands fill faster than a sump pump can cycle. It happened in force during Ida in 2021, river overflow and sewer surcharges pushed water into finished and semi-finished basements from the Conant Street corridor all the way through Saybrook, leaving homeowners standing in inches of murky water at midnight. The Restoration Group responds to those calls around the clock, dispatching from Kenilworth with truck-mounted extraction equipment ready to work.
 

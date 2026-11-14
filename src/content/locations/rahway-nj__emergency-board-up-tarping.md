@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Rahway"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter tears shingles off a Victorian on Central Rahway or a kitchen fire blows out a window on a postwar colonial near Milton Lake, the clock starts immediately, rain, wind, and opportunistic theft don't wait for morning. The Restoration Group operates out of Kenilworth, just a short drive from Rahway's 07065 ZIP code, and our crews are dispatched around the clock to board up damaged openings and tarp compromised roofs before a localized incident becomes a full structural loss.
 

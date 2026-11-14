@@ -19,7 +19,7 @@ city: "Passaic"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Passaic's dense stock of early 20th-century brick walkups and two- and three-family frame houses creates conditions that make biohazard situations especially complicated to manage. When an unattended death, a trauma event, or a sharps-related hazard occurs inside one of these older buildings, with shared stairwells, thin plaster walls, and cast-iron drain lines that have been patching themselves for decades, the affected area rarely stays contained to a single unit. The Restoration Group responds 24/7 to biohazard cleanup calls across Passaic's 07055 ZIP code, handling every situation with discretion, proper containment, and documented disposal so the property can be safely reoccupied.
 

@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Garfield"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Passaic River crests along River Drive, it doesn't just flood the blocks nearest the water, it backs up through aging cast-iron laterals into the finished basements of frame two- and three-families that stretch east toward Belmont and Plauderville. Garfield's dense housing stock, most of it built before World War II on small lots with minimal grade separation, means a single hard storm can push water into a dozen homes on the same block within hours. The Restoration Group responds 24/7 to flood damage calls across Garfield (07026), bringing IICRC Certified Firm (#210213) drying protocols and direct insurance billing to a city that has learned, especially since Ida in 2021, that flood recovery is not a weekend project.
 

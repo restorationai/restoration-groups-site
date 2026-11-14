@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Hoboken"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Hoboken's dense grid of 19th-century brownstones and below-grade garden units traps odors in ways that catch even experienced property owners off guard. When Sandy flooded much of the city in 2012 and again when Ida overwhelmed the combined sewer system in 2021, the standing water that backed into basements along the Downtown Hoboken corridor didn't just cause structural damage, it left behind a persistent sulfuric, sewage-tinged smell embedded in brick, plaster, and original hardwood that generic air fresheners can't touch. Professional deodorization in a city built this densely, with this much shared wall space and this many below-grade living spaces, requires a calibrated approach.
 

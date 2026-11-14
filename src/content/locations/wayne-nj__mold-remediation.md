@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Wayne"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Wayne's position between the Passaic and Pompton Rivers isn't just a flooding footnote, it's a mold incubator. When Ida soaked Hoffman Grove and Mountain View in 2021, many homeowners pumped out the standing water and assumed the job was done. Weeks later, that familiar musty odor crept up from finished basements and crawl spaces where moisture had never fully dried. Mold colonizes porous materials within 24 to 48 hours of a water event, and in Wayne's older housing stock, it rarely stops at the surface.
 

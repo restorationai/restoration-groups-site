@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Union"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst supply line or a backed-up cast-iron drain soaks a finished basement in Union's Battle Hill or Vauxhall neighborhoods, the water doesn't stop at the subfloor, it climbs into furniture, boxes of documents, clothing, and the kind of keepsakes that can't be replaced at a big-box store on Route 22. Contents restoration and pack-out is the part of recovery most homeowners don't think about until they're standing in a saturated room trying to decide what to save first. Getting those items out quickly and into a controlled environment is often the difference between salvage and total loss.
 

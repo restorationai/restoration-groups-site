@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst riser soaks through three floors of a century-old two-family in Elizabethport, or a kitchen fire leaves smoke residue on everything from the landlord's furniture to a tenant's clothing, the structure is only half the story. The belongings inside, furniture, electronics, documents, heirlooms, absorb water, soot, and odor at their own pace, and they need a different kind of attention than drywall and subfloor. Contents restoration and pack-out is that attention: a methodical process of cataloging, removing, cleaning, and returning personal property so that nothing salvageable ends up in a dumpster by default.
 

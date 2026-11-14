@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a storm tears shingles off a split-level in Martinsville or a kitchen fire blows out windows on a postwar ranch near Green Knoll, the clock starts immediately, not on the repair, but on the next wave of damage. Rain, wind, and opportunistic entry can turn a contained loss into a gutted interior within hours. Emergency board-up and tarping is the first line of defense, and in a township as spread out as Bridgewater, getting that protection in place fast requires knowing the roads, the housing stock, and exactly what's at stake.
 

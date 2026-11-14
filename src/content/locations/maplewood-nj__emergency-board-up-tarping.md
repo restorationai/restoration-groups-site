@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Maplewood"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter peels back a slate roof on a 1920s Tudor in the Hilton neighborhood, or a kitchen fire blows out windows on a craftsman bungalow near Maplewood Village, the clock starts immediately, not on repairs, but on preventing the next wave of damage. Rain, wind, and opportunistic entry can turn a contained loss into a gutted interior within hours. The Restoration Group responds 24/7 from Kenilworth to board up openings and tarp compromised roofs before weather or trespassers compound what's already a stressful situation.
 

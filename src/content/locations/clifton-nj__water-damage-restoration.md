@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Clifton"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Passaic River climbs its banks or a decades-old supply line finally gives out in a finished basement off Valley Road, the clock starts immediately. Mold can begin colonizing wet framing within 24 to 48 hours, and Clifton's dense postwar housing stock, capes and split-levels built in the 1940s through 1960s, many with original cast-iron drain lines and finished lower levels, means water finds hidden cavities fast. The Restoration Group responds around the clock, dispatching from Kenilworth to begin water removal and structural drying before secondary damage compounds the loss.
 

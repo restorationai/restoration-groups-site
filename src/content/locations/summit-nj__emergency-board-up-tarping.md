@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Summit"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter tears a slate panel off a Northside Victorian at midnight, or a kitchen fire blows out windows in one of the deep-lot Colonials near the Brayton School area, the first 60 minutes determine how much of the original millwork, plaster crown, and hardwood flooring survives. Emergency board-up and tarping is not about slapping plywood over an opening, in Summit's 07901 housing stock, it is precision work that has to account for century-old framing, irreplaceable leaded glass, and neighbors who will notice if a crew handles a $2 million property carelessly. The Restoration Group responds 24/7 from Kenilworth to protect what matters most before weather, vandals, or secondary moisture damage can compound the loss.
 

@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 New Brunswick's combination of century-old rowhouses, dense student rentals near Rutgers University, and a riverfront that saw serious flooding during Ida in 2021 creates some of the most persistent mold conditions in Middlesex County. When a cast-iron drain backs up in a Robeson Village apartment or a basement wall wicks moisture after a Raritan River event, mold can begin colonizing porous materials in as little as 24 to 48 hours, often behind drywall or under flooring where it goes unnoticed until the smell becomes impossible to ignore.
 

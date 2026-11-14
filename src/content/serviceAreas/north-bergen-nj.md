@@ -17,7 +17,7 @@ area_slug: "north-bergen-nj"
 city: "North Bergen"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When water backs up into a Woodcliff basement at midnight or smoke from a kitchen fire settles into the walls of a Bergenline Avenue rental unit, The Restoration Group dispatches from Kenilworth around the clock, handling water extraction, structural drying, mold remediation, fire and smoke cleanup, and full reconstruction for homeowners, landlords, and property managers across North Bergen's 07047 ZIP code. We coordinate directly with insurance carriers and work in occupied multi-family buildings, because that is the reality of restoration in one of Hudson County's densest towns.
 

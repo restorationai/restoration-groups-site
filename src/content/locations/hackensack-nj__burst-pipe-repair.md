@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Hackensack"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 A January cold snap or a failed fitting behind a kitchen wall can send water cascading through a Hackensack home faster than most people expect, and in a city where prewar two- and three-family houses sit shoulder to shoulder from the Southside up through Fairmount, a single burst supply line doesn't stay contained to one unit for long. The Restoration Group responds 24/7 to pipe burst emergencies throughout Hackensack (07601/07602), stopping active damage, extracting standing water, and completing structural drying before secondary problems like mold have a chance to take hold.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Teaneck"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The brick Tudors and center-hall colonials that line the streets of West Englewood and The Grange were built to last a century, and many of them have. What their original builders didn't anticipate was the way those thick masonry walls, plaster ceilings, and finished basements would hold onto odors long after the source was gone. Whether a sewer backup soaked through a cedar-paneled rec room, a kitchen fire left smoke residue embedded in original woodwork, or a slow pipe leak bred mildew behind a lathe-and-plaster wall, odors in Teaneck's older housing stock don't just ventilate away. They need to be chemically neutralized at the molecular level.
 

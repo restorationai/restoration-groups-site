@@ -19,7 +19,7 @@ city: "Morristown"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something unexpected and deeply difficult happens inside a Morristown home or building, whether in one of the Victorian-era multifamilies near the Green, a basement apartment off Speedwell Avenue, or a newer downtown mid-rise, the physical aftermath requires more than cleaning. Biohazard situations involving blood, bodily fluids, sharps, or infectious material carry real health and regulatory weight, and the building itself often complicates the work. The Restoration Group responds 24/7 and handles every step with discretion, from the first call to final clearance.
 

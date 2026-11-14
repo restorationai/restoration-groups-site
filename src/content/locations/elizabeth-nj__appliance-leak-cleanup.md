@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 An ice maker line that splits overnight or a washing machine hose that lets go mid-cycle can push dozens of gallons across a kitchen or laundry room floor before anyone notices the damage. In Elizabeth's dense stock of early-1900s two- and three-family frame homes, the kind packed shoulder-to-shoulder through Elmora and Peterstown, that water doesn't stop at your unit. It follows gravity through subfloor gaps, down interior walls, and into the apartment below, turning a single appliance failure into a multi-tenant emergency that landlords and property managers need documented fast.
 

@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Paterson"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a Paterson basement, the problem is rarely simple. The city's dense stock of 19th-century mill-worker rowhomes and aging two- and three-family brick walkups, many still running cast-iron drain stacks that are a century old, creates conditions where a single blockage can push raw sewage up through floor drains, laundry tubs, and first-floor toilets simultaneously. The Restoration Group responds 24/7 to sewage backup emergencies across Paterson, handling extraction, disinfection, and structural drying so that contaminated water doesn't sit long enough to become a mold problem on top of a sewage problem.
 

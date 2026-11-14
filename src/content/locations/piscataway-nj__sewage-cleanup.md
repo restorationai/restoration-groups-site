@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Piscataway"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in Piscataway, the clock starts immediately, not just because of the smell or the visible waste, but because the township's older housing stock, much of it built in the postwar boom with cast-iron drains and low-lying finished lower levels, gives raw sewage a direct path into porous concrete, wood framing, and drywall. The Restoration Group responds 24/7 to sewage emergencies across Piscataway (08854 and 08855), from Society Hill's townhome developments to the split-levels and cape cods lining the streets off River Road.
 

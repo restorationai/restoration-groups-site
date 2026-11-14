@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Springfield"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 Springfield's older housing stock has a way of turning a routine appliance failure into a multi-room water event. A refrigerator ice maker line that drips overnight in a 1940s colonial near the Baltusrol area can saturate a finished hardwood subfloor before the homeowner notices anything, and in a home where the basement ceiling is already finished, that water travels silently through joist bays until it shows up as a stain on drywall two rooms away. The Restoration Group responds 24/7 to appliance leak cleanup in Springfield (07081), with crews dispatched from our Kenilworth base and on-site equipment sized for the specific damage pattern these homes create.
 

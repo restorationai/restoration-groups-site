@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Westfield"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Victorian on Wychwood's tree-lined streets leaves more than charred cabinets, it leaves smoke chemistry embedded in a century of plaster, horsehair, and original woodwork that modern drywall simply doesn't replicate. In Westfield's 07090 ZIP code, where homes routinely date to the 1900s–1930s and carry original interior finishes, smoke residue behaves differently than it does in a postwar ranch, and the cleanup has to match. The Restoration Group responds around the clock from our Kenilworth base, reaching most of Union County within the hour.
 

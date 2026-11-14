@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Hoboken"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 Hoboken sits on a narrow strip of former tidal marsh between the Hudson River and the Palisades, and that geography has never been kind during severe weather. When a nor'easter stalls over the metro area or a remnant tropical system pushes inland the way Ida did in 2021, the city's combined sewer system backs up fast, flooding below-grade units from Castle Point down through Southwest Hoboken before the rain has even stopped. The Restoration Group responds to storm damage calls across 07030 around the clock, bringing the equipment and IICRC-certified process that Hoboken's dense, aging building stock actually requires.
 

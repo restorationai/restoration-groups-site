@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The Elizabeth River hasn't forgotten Hurricane Ida. In Elizabethport and Bayway, the city's lowest-lying neighborhoods, already pressed between tidal marshland and combined-sewer mains, that storm pushed water into basements and crawl spaces faster than sump pumps could respond. Within 24 to 48 hours, mold colonization begins on wet framing and drywall. Months later, some of those same buildings are still dealing with the aftermath: hidden colonies behind plaster, spores cycling through shared ventilation in two- and three-family homes where one affected unit means every tenant breathes the same air.
 

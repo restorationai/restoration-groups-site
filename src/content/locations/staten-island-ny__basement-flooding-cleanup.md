@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Staten Island"
 state: "NY"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Flooded basement in Staten Island? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to pump out the water and start drying.

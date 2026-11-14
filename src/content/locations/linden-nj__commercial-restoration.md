@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Linden"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head fails overnight in a Wood Avenue retail strip or a pipe bursts inside one of the Route 1 & 9 corridor's industrial buildings, the clock starts immediately, standing water migrates under concrete slabs, into wall cavities, and through drop ceilings before the first employee arrives in the morning. The Restoration Group operates out of Kenilworth, just a few minutes from Linden's 07036 zip code, and responds around the clock to commercial losses across the city's warehouse districts, office parks, and mixed-use blocks.
 

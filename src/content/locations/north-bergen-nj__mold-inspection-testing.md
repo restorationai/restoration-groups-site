@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "North Bergen"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The dense hillside blocks of North Bergen, packed with early 20th-century two- and three-family homes, aging cast-iron plumbing, and basement apartments that sat under several inches of water during Ida in 2021, create conditions where mold can colonize a wall cavity within 48 to 72 hours of a moisture event. A mold inspection here isn't a formality; it's a diagnostic tool that tells you exactly what's growing, where it started, and whether the air your family is breathing meets safe thresholds before any remediation work begins.
 

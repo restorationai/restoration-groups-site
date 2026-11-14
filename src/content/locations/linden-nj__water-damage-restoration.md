@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Linden"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Rahway River or Morses Creek backs up after a heavy storm, the way both did during Ida in 2021, low-lying streets in Tremley Point can go from damp to knee-deep in hours. That kind of flooding isn't a freak event in Linden; it's a recurring pattern shaped by the city's topography, its aging storm infrastructure, and a housing stock built mostly between 1945 and 1965. The Restoration Group is headquartered in Kenilworth, minutes away, and responds 24/7 to water damage calls across Linden's 07036 ZIP code.
 

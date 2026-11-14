@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "East Orange"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or fast-moving summer storm tears through East Orange, the damage rarely stops at one unit. The city's dense blocks of early-1900s brick walk-ups and three-story apartment buildings, many with aging flat roofs and galvanized metal flashing, can turn a single wind event into a cascade of water intrusion across multiple floors and multiple families. The Restoration Group responds 24/7 to storm damage calls throughout East Orange, dispatching from Kenilworth to begin assessment, board-up, and drying before secondary damage compounds the loss.
 

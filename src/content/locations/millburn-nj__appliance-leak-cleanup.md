@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Millburn"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 The older Tudors and colonials that define Short Hills and Wyoming weren't built with today's appliances in mind, a slow refrigerator ice-maker line dripping behind a built-in cabinet, or a washing machine hose that finally gives out on a finished lower level, can saturate original hardwood floors and century-old plaster walls before you notice anything is wrong. When that happens in a 07078 home with a wine cellar or a high-value finished basement, the difference between a contained cleanup and a six-figure loss is often measured in hours. The Restoration Group responds around the clock, dispatching from Kenilworth with the drying equipment and moisture-mapping tools the job actually requires.
 

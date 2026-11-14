@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Perth Amboy's position at the confluence of the Raritan River and Raritan Bay isn't just a geographic footnote, it's a direct driver of the mold problems that show up inside homes and businesses here every year. The tidal surge flooding that hit the Waterfront blocks hard during Sandy in 2012 left moisture trapped inside wall cavities and beneath subfloors of older frame buildings, and coastal nor'easters keep refreshing that risk. If you're smelling something musty in a basement, noticing discoloration on a ceiling, or dealing with a tenant complaint you can't explain, a professional mold inspection and testing assessment is the right first step before any remediation work begins.
 

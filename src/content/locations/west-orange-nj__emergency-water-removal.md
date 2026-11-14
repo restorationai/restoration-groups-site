@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "West Orange"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When stormwater rolls off the Watchung ridge and funnels into finished basements across West Orange, the window between a manageable water removal job and a full structural loss is measured in hours, not days. Whether you're dealing with a sump pump that gave out during a nor'easter, a burst supply line behind plaster walls in Llewellyn Park, or sewer backup that crept into a Pleasantdale split-level, The Restoration Group responds 24/7 with emergency water removal and cleanup to stop the damage before it compounds. Call (844) 808-8838 the moment you find standing water.
 

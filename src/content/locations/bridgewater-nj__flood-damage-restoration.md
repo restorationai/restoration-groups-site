@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Raritan River crests or a nor'easter stalls over Somerset County, Bridgewater's low-lying flats, particularly in Finderne and the Bound Brook-adjacent sections near Route 22, can take on water faster than a sump pump can cycle. The township saw that firsthand during Hurricane Floyd and again during Ida in September 2021, when finished basements in postwar ranches and split-levels filled to the joists within hours. If you're standing in inches of water right now, The Restoration Group responds 24/7 and can be reached at (844) 808-8838.
 

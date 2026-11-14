@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Edison"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or fast-moving summer thunderstorm tears through Edison, the damage rarely stops at a missing shingle. The township's mix of postwar capes and split-levels in neighborhoods like Clara Barton and Stelton were built before modern wind-load standards, and their wide, flat roof overhangs catch gusts the way a sail catches wind, sending fascia boards, gutters, and sometimes entire roof sections into the yard. If you're standing in a wet living room at 2 a.m. watching water drip through a ceiling, The Restoration Group is available around the clock. Call (844) 808-8838.
 

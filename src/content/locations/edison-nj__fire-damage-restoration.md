@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Edison"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 Edison's postwar housing stock, the split-levels in Clara Barton, the brick colonials in North Edison, the mid-century capes scattered through Stelton, was built in an era when electrical panels were modest and kitchens were small. When a grease fire or electrical fault ignites one of these homes today, the original construction details matter: open-joist basements pull smoke deep into unfinished cavities, older plaster walls trap soot differently than modern drywall, and attic insulation installed decades ago can smolder long after visible flames are out. The Restoration Group responds 24/7 from Kenilworth to help Edison homeowners and property managers move from the moment the fire marshal releases the scene to a fully restored, safe structure.
 

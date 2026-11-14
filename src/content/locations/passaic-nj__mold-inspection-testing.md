@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Passaic"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The two-and three-family frame houses packed along the streets of the Third Ward and Fourth Ward hold a quiet problem that most landlords and tenants never see coming: decades of slow plumbing leaks, unventilated basement laundry rooms, and the lingering moisture left behind by the Passaic River flooding during Ida in 2021 have created near-perfect conditions for mold colonization inside wall cavities, under flooring, and above drop ceilings. A professional mold inspection and testing assessment is often the only way to know whether what you're smelling is cosmetic surface mildew or an active colony spreading through the framing.
 

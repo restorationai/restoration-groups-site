@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Rahway"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When the Rahway River crested during Ida in 2021, the damage wasn't limited to basements and first floors, sprinkler lines ruptured under pressure swings, inventory-laden retail spaces along the Main Street business district took on inches of standing water, and multi-unit buildings near the train station sat saturated for days while owners scrambled for qualified help. Commercial losses in Rahway move fast and compound quickly, and restoring a functioning business is a different problem than drying out a single-family home. The Restoration Group operates 24/7 out of Kenilworth, roughly ten minutes up Route 1 from the 07065 ZIP code, which means a crew can be on-site before a loss escalates from manageable to catastrophic.
 

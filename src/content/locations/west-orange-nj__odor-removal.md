@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "West Orange"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 West Orange sits on the Watchung ridge where older building stock, heavy storm runoff, and the occasional sewer backup create odor problems that don't respond to a can of spray and an open window. The grand Victorians in Llewellyn Park have plaster walls and original millwork that absorb smoke and moisture odors deep into the substrate, while the postwar splits and ranches in Pleasantdale, most with finished basements, trap sewer-backup and flood odors in carpeted lower levels that recirculate through HVAC systems for weeks. When the smell won't leave on its own, The Restoration Group brings the equipment and the process to eliminate it at the molecular level.
 

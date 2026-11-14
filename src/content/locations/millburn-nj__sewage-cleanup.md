@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Millburn"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When the West Branch of the Rahway River backs up through downtown Millburn, as it did catastrophically during Ida in 2021, the first thing residents notice isn't the water. It's the smell: a sharp, sulfuric odor that signals the municipal sewer system has surpassed capacity and raw sewage is now sharing space with floodwater in finished basements, utility rooms, and crawlspaces. That combination of Category 3 contamination and high-value finished space is exactly what makes sewage backup in Millburn a different kind of emergency than a burst supply line.
 

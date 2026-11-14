@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Elizabeth River backs up into Elizabethport basements or a corroded riser lets go inside one of the city's century-old two-family frames, water doesn't wait for business hours, and neither do we. The Restoration Group operates 24/7 out of Kenilworth, roughly ten minutes from Elizabeth's core, and responds to emergency water removal and cleanup calls across every ZIP code in the city, from 07201 to 07208. What makes water damage here different from a suburban split-level loss is the density: in a three-family home on Elmora Avenue, one failed supply line can soak through a shared floor-ceiling assembly and put two households out at once.
 

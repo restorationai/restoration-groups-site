@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Parsippany"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter peels back a roof over a 1960s split-level near Lake Hiawatha, or a kitchen fire blows out windows in one of Mount Tabor's tightly-set Victorian cottages, the clock starts immediately. Rain, wind, and opportunistic trespassers can turn a contained loss into a gutted structure within hours. The Restoration Group dispatches board-up and tarping crews to Parsippany-Troy Hills around the clock, because in a township where storm surge memories from Hurricane Ida are still fresh, waiting until morning is rarely an option.
 

@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Millburn"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the West Branch of the Rahway River overtops its banks through downtown Millburn, as it did catastrophically during Ida in 2021, the damage rarely stops at wet floors. In the large colonials and Tudor estates that define Short Hills and Old Short Hills, a single flood event can submerge finished basements full of artwork, antique furniture, wine collections, and family heirlooms. Contents restoration and pack-out is the discipline that stands between a water or fire loss and permanent property destruction, and doing it right in Millburn means understanding exactly what these homes hold and how fast the clock runs.
 

@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Edison"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler line lets go overnight in a Route 1 warehouse or a roof drain backs up into a Menlo Park Mall–area office suite, the clock starts immediately, not just on the water damage itself, but on lost revenue, displaced employees, and the insurance documentation that determines how much of the repair bill your carrier actually covers. Edison's commercial corridor stretches from the big-box retail clusters near Route 27 all the way through dense logistics and light-industrial parks, and the scale of those buildings means a single loss event can affect tens of thousands of square feet before anyone arrives Monday morning. The Restoration Group responds 24/7 from Kenilworth, bringing structured drying, contents protection, and full documentation to commercial properties across Edison township.
 

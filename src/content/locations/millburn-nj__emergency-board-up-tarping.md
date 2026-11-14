@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Millburn"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When the West Branch of the Rahway River crests through downtown Millburn, as it did catastrophically during Ida in 2021, the damage doesn't stop when the water recedes. Broken storefronts along Millburn Avenue, compromised rooflines on century-old colonials in Short Hills, and shattered windows from wind-driven debris all leave properties exposed to the next rain, to vandalism, and to accelerating structural decay. Emergency board-up and tarping is the first line of defense between a bad event and a much worse one, and timing is everything.
 

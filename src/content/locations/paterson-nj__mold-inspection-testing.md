@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Paterson"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The mill-worker rowhomes and brick multi-family walkups that define Paterson's Eastside and Sandy Hill neighborhoods were built for a different era, one without vapor barriers, mechanical ventilation, or moisture-resistant drywall. When the Passaic River crested during Hurricane Ida in 2021 and floodwater pushed into basements along the low-lying blocks near downtown, many of those buildings never fully dried out. Mold doesn't announce itself; it colonizes quietly inside wall cavities, beneath cast-iron drain lines, and behind the plaster that absorbed the water long after the pumps stopped running. A professional mold inspection and testing assessment is the only way to know what's actually growing, and where.
 

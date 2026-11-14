@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Hillside"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 The Elizabeth River doesn't announce itself. One hard summer storm, the kind that stalls over Union County and drops three inches in two hours, and basements along Hillside's eastern lowlands are taking on water before a sump pump can cycle twice. Add the town's dense stock of 1920s–1950s colonials and two-families, most with galvanized supply lines that have been quietly corroding for decades, and water damage in Hillside, NJ (07205) rarely looks like a simple cleanup job. The Restoration Group responds 24/7, dispatching from Kenilworth to contain losses before they compound.
 

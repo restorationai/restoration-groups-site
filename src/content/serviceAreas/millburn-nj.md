@@ -17,7 +17,7 @@ area_slug: "millburn-nj"
 city: "Millburn"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts behind the plaster walls of a Short Hills Tudor at 2 a.m., or the West Branch of the Rahway River backs into a Millburn Center storefront, the window for limiting damage is measured in hours, not days. The Restoration Group handles water damage, fire and smoke damage, mold remediation, and full reconstruction for homeowners and property managers throughout Millburn and Short Hills, ZIP codes 07041 and 07078. We work directly with insurance carriers, document losses from the first hour on-site, and stay on the job through final build-back.
 

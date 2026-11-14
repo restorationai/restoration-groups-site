@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Westfield"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Westfield's Victorian and Tudor homes along streets like Wychwood and The Gardens were built in an era when basements were stone-footed and walls were horsehair plaster, materials that hold moisture differently than modern construction and can harbor mold colonies for months before a single dark stain appears on a surface. When a slow leak behind a plaster wall or a sump failure beneath a finished home theater finally surfaces, the question isn't just whether mold is present, it's how far it has traveled and what the air your family is breathing actually contains. That's precisely what a professional mold inspection and testing assessment answers.
 

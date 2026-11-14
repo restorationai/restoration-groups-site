@@ -17,7 +17,7 @@ area_slug: "edison-nj"
 city: "Edison"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a finished basement off Oak Tree Road or a sprinkler head discharges overnight in a Route 1 warehouse, The Restoration Group dispatches from Kenilworth around the clock, extracting water, drying structural cavities, remediating mold, and managing fire and smoke losses from first call through final rebuild. We handle residential and commercial properties across Edison's ZIP codes, and we bill insurance carriers directly so property owners can focus on getting back to normal rather than navigating paperwork.
 

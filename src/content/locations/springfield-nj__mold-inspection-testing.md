@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Springfield"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Springfield's west branch of the Rahway River doesn't announce itself until it's too late, ask anyone whose finished basement flooded during Ida, when Route 22 turned into a moving waterway and low-lying homes across the township took on water faster than sump pumps could handle it. That standing water doesn't just dry and disappear. Within 24 to 48 hours, mold begins colonizing drywall, wood framing, and carpet backing, and in many Springfield homes the damage hides behind finished walls for months before anyone notices the musty smell or the discoloration creeping along a baseboard. A professional mold inspection and testing assessment is how you find out what's actually there, and what isn't.
 

@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "New Providence"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 **Water damage in New Providence rarely waits for business hours.** A finished basement rec room filling with groundwater during a spring thaw, or a supply line letting go behind a dishwasher on a Tuesday night, puts flooring, drywall, and subfloor at risk within hours. The Restoration Group answers 24/7 and works directly with homeowners and property managers across Union County to get water out and structures drying before the damage compounds.
 

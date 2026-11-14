@@ -17,7 +17,7 @@ area_slug: "bloomfield-nj"
 city: "Bloomfield"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts behind the walls of a 1920s colonial in Watsessing or a sewer backs up into a finished basement in Brookdale after a summer downpour, The Restoration Group dispatches a crew from Kenilworth around the clock, handling water extraction, structural drying, mold containment, fire and smoke cleanup, and reconstruction for homeowners and property managers across Bloomfield's ZIP codes 07003 and beyond. One call reaches a team that understands what these houses are made of and what they're up against.
 

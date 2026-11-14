@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "East Orange"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 East Orange's dense stock of early-1900s brick apartment buildings and three-story walk-ups creates an odor problem that's genuinely different from what you'd find in a newer suburb. When a sewer backup soaks the basement mechanical room of a six-unit on Ampere Parkway, or a kitchen fire chars the walls of a Victorian two-family near the Brick Church station, odorous compounds don't just linger in the air, they absorb into plaster, penetrate century-old mortar joints, and travel through shared cast-iron stacks into units that never saw the original incident. Getting the smell out requires more than spraying a deodorizer and opening a window.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Clark"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Clark's postwar housing stock, the split-levels off Valley Road, the cape cods near Brant Lake, the ranches lining the Westfield Avenue corridor, was built tight and low to the ground, which means odors don't just linger, they migrate. Smoke from a kitchen fire seeps into the fiberglass insulation batts tucked under finished basement ceilings. Sewer gas from a backed-up cast-iron drain soaks into drywall before the water even recedes. When a smell won't leave after cleaning, it usually means the odor molecules have bonded to porous surfaces that a mop and a candle can't reach. That's the problem professional deodorization is designed to solve.
 

@@ -19,7 +19,7 @@ city: "Hoboken"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Hoboken's density makes difficult situations harder. When a biohazard event occurs in a below-grade garden unit off Washington Street, a shared brownstone stairwell in Uptown, or a studio in one of the waterfront high-rises near Pier A Park, the confined space, shared ventilation, and proximity to neighbors all shape what responsible cleanup looks like. The Restoration Group responds 24/7 to biohazard situations throughout Hoboken, discreetly, thoroughly, and with the regulatory compliance that properties in a city this tightly built genuinely require.
 

@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Parsippany"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Parsippany-Troy Hills runs one of the densest concentrations of corporate campuses in Morris County, the Waterview commercial district alone hosts dozens of office buildings and hotels, most of them built in the 1980s and 1990s with aging sprinkler systems and flat or low-slope roofs that shed water poorly in a nor'easter. When a sprinkler head discharges overnight, or a roof drain backs up during a heavy rain event, the resulting loss can saturate server rooms, lobbies, and tenant suites before anyone arrives in the morning. That's the kind of commercial restoration problem we handle regularly along the Route 46 corridor and throughout the 07054 ZIP code.
 

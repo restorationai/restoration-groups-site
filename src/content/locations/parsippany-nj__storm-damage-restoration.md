@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Parsippany"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or a fast-moving line of summer thunderstorms rolls through Morris County, Parsippany-Troy Hills takes the hit hard. The township's low-lying lake communities, Lake Hiawatha and Lake Parsippany among them, sit in natural drainage basins that fill quickly, and the Victorian-era cottages of the Mount Tabor Historic District carry decades of deferred roof maintenance into every wind event. The Restoration Group responds 24/7 to storm damage calls across Parsippany, from the residential tracts off Troy Hills Road to the commercial corridors along Route 46.
 

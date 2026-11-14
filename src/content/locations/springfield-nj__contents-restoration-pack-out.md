@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Springfield"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Rahway River's west branch backs up through Springfield's low-lying streets, as it did with brutal clarity during Ida, the water doesn't just soak floors and walls. It soaks everything inside: the furniture, the documents, the irreplaceable photographs stored in finished basement shelving, the restaurant equipment along the Route 22 commercial strip. Contents restoration and pack-out exists precisely for this moment, when the structure needs to dry and the belongings inside it need somewhere safe to go while that happens.
 

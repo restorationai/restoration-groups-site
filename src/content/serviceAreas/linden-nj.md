@@ -17,7 +17,7 @@ area_slug: "linden-nj"
 city: "Linden"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When water backs up through a finished basement drain in Sunnyside, or a sprinkler pipe bursts overnight in a Wood Avenue commercial space, The Restoration Group dispatches from Kenilworth around the clock, arriving with drying equipment, moisture meters, and a documented scope ready to hand to your insurance adjuster. We handle water damage, fire and smoke damage, mold remediation, and full reconstruction for residential and commercial properties across Linden's 07036 ZIP code, and we've been doing it since 2021.
 

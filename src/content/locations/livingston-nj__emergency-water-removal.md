@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Livingston"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Canoe Brook watershed backs up during a heavy nor'easter or a supply line finally gives out behind a 1960s split-level on the Collins side of town, the water doesn't wait for business hours. Livingston's mix of post-war ranches, finished walk-out basements, and newer teardown colonials means a single inch of standing water can saturate a surprising amount of material fast, and the clock on secondary damage starts the moment the source stops running. The Restoration Group responds 24/7 to emergency water removal calls across Livingston and the surrounding 07039 ZIP code.
 

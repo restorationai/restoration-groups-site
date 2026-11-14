@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Elizabeth River backs up through a combined sewer and pushes into a basement on Elizabethport's lower blocks, the water arriving at your floor drain isn't just water, it carries sewage, sediment, and a clock that starts ticking immediately toward mold colonization. The Restoration Group operates around the clock and reaches Elizabeth from our Kenilworth shop in roughly ten minutes, which matters enormously when you're watching a finished basement fill or a soaked subfloor warp under a three-family home where three landlords and six tenants all have a stake in how fast the response is.
 

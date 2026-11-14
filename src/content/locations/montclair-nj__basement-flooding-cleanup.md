@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Montclair"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Third River backs up during a hard rain or an aging cast-iron drain finally gives out beneath a century-old Tudor, the water doesn't wait for business hours. Montclair basements, many of them finished living spaces under Victorians and center-hall colonials built before World War II, can take on inches of water faster than a sump pump can cycle. The Restoration Group responds 24/7, dispatching from Kenilworth with truck-mounted extraction equipment calibrated for the kind of deep, sediment-laden flooding that Montclair's topography and older housing stock produce.
 

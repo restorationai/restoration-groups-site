@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Manhattan"
 state: "NY"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a riser pipe fails on the 14th floor of a pre-war co-op on the Upper East Side, the water doesn't stop at one unit, it travels down through plaster ceilings, behind original horsehair-and-lath walls, and into the apartments of a dozen neighbors before anyone smells the damage. Manhattan flood losses are vertical by nature, and responding to them requires a different playbook than a suburban basement flood. The Restoration Group dispatches certified crews 24/7 to addresses across Manhattan, working within the building-management protocols that resident managers and co-op boards depend on.
 

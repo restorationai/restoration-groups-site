@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Passaic"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Passaic River crests after a heavy storm, the way it did during Ida in 2021, pushing water into basements across the Third Ward and Fourth Ward within hours, there is no graceful window to wait and see. Standing water in a basement starts warping wood framing, saturating concrete block, and feeding mold colonies within 24 to 48 hours. The Restoration Group responds around the clock to flooded basement emergencies throughout Passaic (07055), bringing the extraction equipment, structural drying systems, and IICRC-certified process needed to stop the damage before it compounds.
 

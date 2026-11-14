@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Somerville"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst galvanized supply line soaks the finished basement of a Victorian two-family off Gaston Avenue, or an overnight roof leak ruins the contents of a Main Street storefront, the damage to the building is only half the problem. The furniture, documents, clothing, electronics, and irreplaceable personal items inside are equally at risk, and in Somerville's older housing stock, where tight floor plans and low basement clearances make on-site drying difficult, getting those contents out quickly is often the difference between salvage and total loss. The Restoration Group provides contents restoration and pack-out services to homeowners and property managers throughout the 08876 and 08869 ZIP codes, responding around the clock.
 

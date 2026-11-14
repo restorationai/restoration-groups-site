@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Roselle"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Elizabeth River backs up during a heavy storm and sewer pressure reverses into the basements lining East Roselle, the damage happens fast, faster than most homeowners expect. Roselle's compact lots, aging infrastructure, and abundance of finished below-grade living space mean that a few inches of standing water can saturate framing, insulation, and drywall before a pump truck even arrives. The Restoration Group responds 24/7 from Kenilworth, bringing IICRC-certified water extraction, structural drying, and full documentation to homes and businesses across the 07203 ZIP code.
 

@@ -17,7 +17,7 @@ area_slug: "hoboken-nj"
 city: "Hoboken"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 Hoboken property owners deal with a specific and recurring set of problems, flooded garden units after heavy rain, pipe bursts traveling through shared brownstone walls, smoke damage in tightly packed rowhomes, and the slow mold bloom that follows any water event in a below-grade space. The Restoration Group responds to those calls around the clock, dispatching from Kenilworth to handle water extraction, structural drying, mold remediation, fire and smoke cleanup, and full reconstruction for residential and commercial properties across 07030.
 

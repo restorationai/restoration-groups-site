@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Clifton"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Passaic River backs up into Lakeview or Weasel Brook pushes into Delawanna basements, the water doesn't stop at the walls, it soaks into furniture, saturates stored clothing, warps heirloom cabinetry, and ruins electronics sitting on finished basement floors. Contents restoration and pack-out exists precisely for those moments: a structured, documented process that removes your belongings from a damaged environment, restores what can be saved, and stores everything securely until your home is ready. For Clifton homeowners and landlords, that process has to account for housing stock and flood patterns that are genuinely different from the next town over.
 

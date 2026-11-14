@@ -17,7 +17,7 @@ area_slug: "bridgewater-nj"
 city: "Bridgewater"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Finderne split-level at 2 a.m. or a sprinkler head discharges overnight at an office park off Route 22, Bridgewater property owners need a crew that knows the township, its flood-prone river flats, its aging postwar housing stock, and its mix of residential neighborhoods and busy commercial corridors. The Restoration Group dispatches from Kenilworth around the clock to handle water damage, fire and smoke damage, mold remediation, and full reconstruction across Bridgewater's 08807 and 08805 ZIP codes.
 

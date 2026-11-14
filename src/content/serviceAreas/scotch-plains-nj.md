@@ -17,7 +17,7 @@ area_slug: "scotch-plains-nj"
 city: "Scotch Plains"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts behind the drywall of a Shackamaxon split-level or a finished basement in Willow Grove takes on water after a hard rain, The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all handled by one crew so you are not juggling three separate contractors while your home is still wet.
 

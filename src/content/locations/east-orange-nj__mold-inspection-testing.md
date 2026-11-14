@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "East Orange"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The brick apartment buildings and three-story walk-ups that line the streets of East Orange, from the Ampere neighborhood out toward Elmwood, were built in an era before vapor barriers, modern waterproofing membranes, or pressure-balanced plumbing. When a galvanized riser finally gives way, or a flat roof holds standing water after a nor'easter, moisture doesn't just affect one unit. It migrates through shared masonry, settles into finished basements, and creates the warm, humid conditions mold needs to colonize within 24 to 48 hours. If you're smelling something musty or seeing discoloration on walls you can't fully explain, a professional mold inspection and testing assessment is the only way to know what you're actually dealing with, and whether the air your family is breathing is safe.
 

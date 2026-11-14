@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Clark"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Water damage emergency in Clark? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to stop the water and start drying your property.

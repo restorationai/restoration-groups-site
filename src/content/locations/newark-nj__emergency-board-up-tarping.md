@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Newark"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a fire tears through a brick three-family on the edge of the Ironbound, or a winter storm peels back a flat roof in Vailsburg, the window between damage and catastrophe is measured in hours, not days. Rain getting into an exposed attic, wind pushing smoke residue deeper into walls, or a broken storefront window inviting unauthorized entry can all turn a manageable loss into a gut renovation. That's why The Restoration Group runs emergency board-up and tarping response around the clock, reaching Newark from our Kenilworth shop in well under half an hour under normal conditions.
 

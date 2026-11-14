@@ -17,7 +17,7 @@ area_slug: "highland-park-nj"
 city: "Highland Park"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Livingston Manor two-family or floodwater backs into a Downtown Highland Park basement, The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold remediation, fire and smoke cleanup, and full reconstruction, handled by one crew from first call through final inspection. We carry the documentation your insurance adjuster needs and coordinate billing directly with most major carriers so you are not fronting the full cost while your home is still wet.
 

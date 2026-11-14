@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Springfield"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a storm tears shingles off a 1940s colonial on Mountain Avenue or a fire blows out the windows of a Route 22 storefront, every hour the structure sits open accelerates the damage, rain soaks into old-growth framing, looters test unlocked openings, and insurers start asking questions about mitigation gaps. The Restoration Group responds 24/7 out of our Kenilworth base to board up and tarp Springfield properties before secondary losses compound the original one.
 

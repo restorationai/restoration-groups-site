@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Clifton"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 A refrigerator ice maker line that weeps overnight or a washing machine hose that lets go mid-cycle can dump dozens of gallons before anyone notices, and in Clifton's dense stock of postwar capes and split-levels, that water has nowhere to go but down into finished basements and original subfloor assemblies that have been absorbing moisture for sixty-plus years. The Restoration Group responds 24/7 from Kenilworth, reaching most Clifton addresses quickly via Route 3 or the Garden State Parkway spur, and we carry the drying equipment to handle everything from a single soaked kitchen to a flooded lower level.
 

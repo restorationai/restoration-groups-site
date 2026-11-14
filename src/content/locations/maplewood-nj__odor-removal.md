@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Maplewood"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The 1920s Tudor on your block in Maplewood's Hilton neighborhood has thick original plaster walls, a stone foundation, and decades of layered paint, and when smoke, sewer gas, or flood water works its way into that structure, the odor doesn't leave on its own. It absorbs into the plaster, settles into the subfloor, and recirculates every time the heat kicks on. The Restoration Group provides professional odor removal and deodorization in Maplewood (07040), using equipment and methods matched to the specific building stock and loss patterns common in this town.
 

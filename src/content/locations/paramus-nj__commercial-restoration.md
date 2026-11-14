@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Paramus"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head discharges overnight in a big-box store along the Route 17 corridor, or a roof drain backs up during a nor'easter and soaks a Westfield Garden State Plaza tenant space, the clock starts immediately, inventory is at risk, tenants are calling, and every hour of downtime costs real money. The Restoration Group responds 24/7 to commercial losses across Paramus (07652/07653), bringing IICRC-certified crews and industrial-grade drying equipment to retail, office, and institutional properties the same day the call comes in.
 

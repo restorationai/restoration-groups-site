@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Paterson"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 Paterson's dense stock of 19th-century mill-worker rowhomes and aging two- and three-family frame houses creates fire conditions that move differently than they do in newer construction. When a kitchen fire ignites in a Sandy Hill walkup or a faulty electrical circuit sparks in an Eastside multi-family, smoke travels fast through uninsulated balloon-frame cavities, char odors embed in plaster walls, and soot settles into cast-iron radiator fins that are nearly impossible to clean without the right chemistry. The Restoration Group responds 24/7, call (844) 808-8838 the moment the fire department clears the scene.
 

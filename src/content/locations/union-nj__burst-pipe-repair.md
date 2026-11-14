@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Union"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a supply line lets go in a Union Township home on a January night, the water doesn't wait for business hours, and neither do the consequences. The dense stock of postwar capes, split-levels, and colonials that fill neighborhoods like Battle Hill and Vauxhall were built with galvanized steel and early copper supply lines that are now 60 to 80 years old. Those pipes fail on a predictable schedule, and when they do, they typically fail into finished or semi-finished basements, turning a plumbing emergency into a full structural drying event before most homeowners realize what's happened.
 

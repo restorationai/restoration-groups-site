@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Peterstown two-family can fill both floors with smoke in minutes, and in Elizabeth's tightly packed early-1900s frame housing stock, the odor and residue rarely stay contained to a single unit. Smoke from burning synthetic materials bonds to plaster lath, original hardwood trim, and the century-old horsehair insulation still found in many walls throughout Elmora and Midtown. The Restoration Group is an IICRC Certified Firm (#210213) based in Kenilworth, about ten minutes from Elizabeth's core, available around the clock because smoke damage does not wait for business hours.
 

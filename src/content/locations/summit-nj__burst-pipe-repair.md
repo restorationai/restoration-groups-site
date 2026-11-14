@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Summit"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a supply line lets go inside a plaster wall of a 1910 Colonial off Northside or a radiator feed cracks in a finished basement near the Franklin School area, the water doesn't announce itself, it seeps into horsehair plaster, wicks along original fir subfloor, and pools behind the built-in millwork before anyone notices a stain. Summit's century-old housing stock and its original galvanized and copper plumbing are a reliable source of pipe burst emergencies, and the consequences here, in homes with irreplaceable hardwood floors, period trim, and high-value furnishings, are more costly to mishandle than almost anywhere else we work.
 

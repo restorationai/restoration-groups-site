@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Englewood"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst pipe soaks through the plaster ceilings of an East Hill estate or a sprinkler discharge drenches the contents of a Palisade Avenue restaurant overnight, the belongings and furnishings inside are often as damaged as the structure itself, sometimes more so. Contents restoration and pack-out is the work that protects what a building holds: furniture, artwork, clothing, electronics, documents, and the irreplaceable personal items that no rebuild estimate can recapture. For Englewood properties, where the range of housing runs from grand early-twentieth-century homes to dense postwar multifamily blocks, that work demands a process calibrated to what's actually inside, and to the conditions that put it at risk.
 

@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 The Green Brook and Cedar Brook don't make the evening news every year, but when a storm like Ida rolls through, the low-lying streets near the Fanwood border fill fast, and the split-levels and ranches that define most of Scotch Plains suddenly have two inches of standing water over finished basement floors. Whether the source is a flooded creek, a burst supply line behind a 1960s kitchen wall, or a failed sump pump at 2 a.m., water damage moves faster than most homeowners expect. The Restoration Group is based in Kenilworth, minutes away, and responds around the clock.
 

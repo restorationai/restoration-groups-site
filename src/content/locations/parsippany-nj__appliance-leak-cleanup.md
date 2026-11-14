@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Parsippany"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 A refrigerator ice maker line that weeps overnight, a washing machine supply hose that lets go mid-cycle, a dishwasher door seal that fails silently for weeks, in Parsippany's older lake-tract homes, where finished basements sit just a few feet above a high water table and original cast-iron drains back up under load, a single appliance leak can saturate subfloor sheathing, buckle laminate, and seed mold colonies before you notice anything is wrong. If you're dealing with that right now, call The Restoration Group at (844) 808-8838. We respond 24/7.
 

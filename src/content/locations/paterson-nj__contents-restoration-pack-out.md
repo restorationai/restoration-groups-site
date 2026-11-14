@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Paterson"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Passaic River backs up and pushes through the basement of a 19th-century mill-worker rowhouse in Sandy Hill or South Paterson, the water doesn't just soak the floors, it saturates furniture, warps wooden heirlooms, and leaves a silt line on everything it touches. Contents restoration and pack-out is the part of recovery most homeowners don't think about until they're standing in a soaked living room wondering whether anything can be saved. The Restoration Group, an IICRC Certified Firm (#210213) licensed by the NJ Division of Consumer Affairs, responds 24/7 to protect, document, and restore the belongings inside Paterson homes, not just the structure around them.
 

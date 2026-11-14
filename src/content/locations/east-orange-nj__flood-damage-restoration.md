@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "East Orange"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a heavy rain event rolls through Essex County, East Orange's dense grid of century-old brick apartment buildings and two-family Victorians doesn't drain the way a newer suburb does. Flat roofs pool, aging cast-iron stacks back up, and finished basement apartments along the low corridors near Ampere and Brick Church can take on inches of water before a tenant even notices. The Restoration Group responds to flood damage calls in East Orange around the clock, because in a building where one flooded unit can wick moisture into the unit above and the unit next door, time is the variable that separates a drying job from a gut renovation.
 

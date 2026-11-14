@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Teaneck"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst pipe soaks through the original hardwood floors of a 1930s Tudor in the Grange, or a kitchen fire leaves smoke residue embedded in the plaster walls of a center-hall colonial near Votee Park, the belongings inside those homes face damage that moves faster than most homeowners expect. Contents restoration and pack-out is the process of removing, cataloging, cleaning, and safely storing your possessions while the structure itself is dried, rebuilt, or remediated, and in Teaneck's older housing stock, where finished basements, cast-iron drain lines, and decades of layered renovations are the norm, that process demands a level of care and local awareness that generic moving and storage simply cannot provide.
 

@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Paterson"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 The Passaic River doesn't give much warning. When heavy rain stalls over Passaic County, water can rise several feet within hours in the low-lying blocks near downtown Paterson and the neighborhoods that hug the river below the Great Falls. Residents in those areas learned that lesson during Hurricane Irene in 2011 and again when Ida tore through in 2021, leaving basements, first floors, and ground-level units submerged under murky, contaminated floodwater. The Restoration Group responds to flood damage calls in Paterson around the clock, extracting water, drying structures, and documenting losses so families can get back into their homes.
 

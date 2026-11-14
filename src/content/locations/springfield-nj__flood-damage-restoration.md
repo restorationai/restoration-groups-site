@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Springfield"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Rahway River's west branch swells off the Watchung ridges and pushes water across Springfield's low-lying streets, the damage can escalate from a wet floor to a gutted basement in a matter of hours. Ida made that painfully clear when Route 22 turned into a channel and flooded homes and businesses from the commercial strip near the highway all the way into residential blocks closer to Mountain Avenue. The Restoration Group responds to flood damage calls in Springfield 24/7, reaching the township quickly from our Kenilworth base via Route 22.
 

@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Hillside"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a fire rips through a 1940s colonial off Conant Street or a summer storm peels back the roof of a two-family in the Saybrook section, the window between damage and catastrophe is measured in hours, not days. Hillside's dense stock of pre-1950 wood-frame homes means exposed wall cavities and unprotected roof decks absorb rain fast, and a single overnight without a board-up or tarp can turn a manageable fire loss into a full structural gut. The Restoration Group dispatches 24/7 from Kenilworth, and emergency board-up and tarping in Hillside is one of the first calls we take when a loss is reported.
 

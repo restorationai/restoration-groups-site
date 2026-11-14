@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Manhattan"
 state: "NY"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst radiator valve on the 14th floor of a pre-war co-op soaks the units below, the damage isn't just to walls and flooring, it reaches the artwork, furniture, clothing, documents, and irreplaceable personal property stacked in every affected apartment. In Manhattan, where living spaces are dense and vertical, contents losses compound fast. The Restoration Group provides professional contents restoration and pack-out services across the borough, working within the building protocols, freight elevator scheduling, certificate of insurance requirements, resident manager sign-offs, that Manhattan properties demand.
 

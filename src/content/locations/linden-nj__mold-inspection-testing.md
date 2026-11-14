@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Linden"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The Rahway River and Morses Creek don't forget a flood. When Ida pushed both waterways over their banks in 2021, low-lying Tremley Point and the streets near the Arthur Kill took on water that sat for days inside finished basements, the kind of slow, hidden saturation that mold colonies thrive on. If you're in the 07036 ZIP code and you've noticed a musty smell, discolored drywall, or unexplained allergy symptoms that ease up when you leave the house, a professional mold inspection and testing assessment is the only way to know what you're actually dealing with.
 

@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Maplewood"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a storm pushes the East Branch of the Rahway River over its banks, as it did catastrophically during Ida in 2021, the water doesn't stop at the foundation. It soaks into bookshelves, saturates upholstered furniture, warps antique cabinetry, and leaves a waterline across heirloom rugs. For homeowners in Maplewood's older Tudors and colonials, the contents inside the house often represent decades of accumulated value, and getting them out quickly and treated properly is just as urgent as drying the structure itself. The Restoration Group handles contents restoration and pack-out for 07040 properties around the clock, coordinating directly with your insurance carrier from the first call.
 

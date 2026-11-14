@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Plainfield"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Plainfield's older housing stock and its history with flooding make mold remediation a different challenge here than in newer suburban towns. When Tropical Storm Ida tore through Union County in 2021, the Green Brook and Cedar Brook corridors, running right through Plainfield's low-lying neighborhoods, pushed water into finished basements faster than sump pumps could respond. Mold can begin colonizing damp materials within 24 to 48 hours, which means homes that took on water during that storm, and never received professional drying, may still be harboring hidden growth behind drywall or under flooring today.
 

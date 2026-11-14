@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Paramus"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 A refrigerator ice maker line that drips for weeks behind the toe-kick, a washing machine hose that blows out on a Sunday morning, a dishwasher door seal that finally gives, in Paramus's postwar ranches and split-levels, appliance leaks rarely announce themselves until water has already crept under vinyl flooring, soaked into the subfloor, or pooled in a finished basement. The Restoration Group responds 24/7 from Kenilworth, reaching 07652 and 07653 addresses quickly via Route 3 and the Garden State Parkway when every hour of standing water matters.
 

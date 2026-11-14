@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Cranford"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Cranford earned its nickname, the 'Venice of New Jersey', because the Rahway River genuinely runs through the heart of town. After Hurricanes Floyd, Irene, and Ida each pushed that river into basements and first floors across the 07016 ZIP code, many homeowners already know what standing water smells like two days later. What's less visible is what comes next: mold colonies can begin forming on wet framing, insulation, and drywall within 24 to 48 hours of a flood event, and in Cranford's older housing stock, that window closes fast.
 

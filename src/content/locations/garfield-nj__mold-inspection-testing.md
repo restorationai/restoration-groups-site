@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Garfield"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Garfield's dense blocks of early-1900s two- and three-family frame homes were built long before anyone thought much about vapor barriers or mechanical ventilation, and after Hurricane Ida pushed the Passaic River over its banks along River Drive in 2021, many of those basements sat under inches of water for days. That kind of prolonged saturation, especially in finished basements with wood framing and drywall, creates exactly the conditions mold needs to colonize within 48 to 72 hours. If you're noticing a musty smell, seeing discoloration on walls, or dealing with respiratory symptoms that ease up when you leave the house, a professional mold inspection and testing assessment is the right first step before any cleanup begins.
 

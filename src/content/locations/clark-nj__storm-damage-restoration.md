@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Clark"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Storm damage emergency in Clark? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to secure the property and stop further damage.

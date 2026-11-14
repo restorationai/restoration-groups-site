@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Irvington"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement on a two-family rowhouse off Chancellor Avenue, the damage compounds fast, raw sewage soaks into concrete block walls, saturates carpet padding, and begins breaking down wood framing within hours. Irvington's dense stock of early-1900s multifamily homes was built on cast-iron drain stacks that are now well past their design life, and when those lines fail, the cleanup is never simple. The Restoration Group responds 24/7 to sewage backup emergencies throughout Irvington and the surrounding 07111 ZIP code, containing the loss before it reaches structural materials.
 

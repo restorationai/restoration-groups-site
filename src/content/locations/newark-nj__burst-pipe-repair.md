@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Newark"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Newark winters hit hard, and when temperatures drop below freezing after a stretch of mild days, the kind of weather pattern that catches older buildings off guard, the pipes inside uninsulated exterior walls and unheated crawl spaces don't stand a chance. A single riser failure in one of the Ironbound's brick three-families can push hundreds of gallons through three stacked apartments before anyone reaches the shutoff. When that happens, the clock matters more than anything else, and The Restoration Group is reachable around the clock at (844) 808-8838.
 

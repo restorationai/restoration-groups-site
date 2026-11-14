@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Plainfield"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida tore through Union County in September 2021, the Green Brook and Cedar Brook overflowed into Plainfield's lowest-lying streets, and the East Front Street corridor took some of the worst of it, homes with finished basements filled in hours, not days. That kind of loss doesn't wait for business hours, and neither do we. The Restoration Group dispatches from Kenilworth around the clock, reaching Plainfield ZIP codes 07060, 07062, and 07063 with extraction equipment already loaded.
 

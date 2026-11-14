@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Bayonne"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 Bayonne's position as a narrow peninsula between Newark Bay and the Kill Van Kull means that when a sewer line backs up here, the problem rarely arrives alone. Storm surges push municipal lines to capacity, aging cast-iron drains in the borough's dense two- and three-family frame homes crack under decades of ground movement, and a single overnight backup can leave raw sewage pooling across a finished basement floor before the morning alarm goes off. The Restoration Group responds 24/7, call (844) 808-8838 the moment you see it.
 

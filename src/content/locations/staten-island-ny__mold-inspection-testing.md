@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Staten Island"
 state: "NY"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The East Shore neighborhoods of Staten Island, South Beach, Midland Beach, Oakwood Beach, have never fully dried out in the public imagination since Hurricane Sandy submerged them in 2012, and Ida's 2021 flash flooding reminded South Shore residents that the risk didn't leave with the storm surge. But mold doesn't wait for a named storm. A slow drip behind a cast-iron supply line in a 1940s Cape Cod in Great Kills, a condensation problem in a crawlspace under a postwar split-level in New Dorp, these are the quiet origins of air-quality problems that a homeowner may not notice until a musty smell becomes impossible to ignore. Mold inspection and testing gives you documented evidence of what's actually in your air and walls, so you're not guessing.
 

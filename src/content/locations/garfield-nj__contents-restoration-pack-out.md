@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Garfield"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida pushed the Passaic River over its banks in 2021, riverfront blocks along River Drive and finished basements throughout Garfield filled with feet of water in hours, and the furniture, clothing, documents, and keepsakes inside those homes went with it. Contents restoration and pack-out is the part of recovery most homeowners don't think about until they're standing in a soaked living room wondering what can still be saved. For Garfield's dense stock of early-1900s two- and three-family frame homes, where generations of belongings share tight quarters across multiple floors, getting contents out safely and systematically is often what determines how much of a family's property survives the loss.
 

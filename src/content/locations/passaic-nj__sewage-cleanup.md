@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Passaic"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up in one of Passaic's dense two- and three-family walkups, the problem rarely stays contained to one unit. Raw sewage can seep through shared floor joists, migrate into unfinished basements, and saturate the century-old cast-iron drain stacks that run through walls in buildings constructed long before modern plumbing codes. The Restoration Group responds 24/7 to sewage backup cleanup calls across Passaic's 07055 ZIP code, extracting contaminated water, removing affected materials, and sanitizing to measurable standards so the property is safe to occupy again.
 

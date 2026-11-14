@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Linden"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a fire rips through a postwar cape on the Sunnyside side of town or a nor'easter peels back flashing on a 1950s split-level near the Roselle Park border, the window between the initial damage and a much larger loss is measured in hours, sometimes less. Linden's housing stock, most of it built between 1940 and 1965, was never designed for the kind of wind-driven rain that stalls over Union County, and an unprotected opening left overnight can turn a manageable fire claim into a full gut-and-rebuild. The Restoration Group dispatches from Kenilworth around the clock to board up, tarp, and secure Linden properties before secondary damage takes over.
 

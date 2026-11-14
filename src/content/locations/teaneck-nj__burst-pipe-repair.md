@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Teaneck"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go in a Teaneck Tudor at 2 a.m. in January, the damage compounds fast. The 1930s and 1940s homes that line the streets near the Bryant School area and West Englewood were built with cast-iron supply and drain lines that have had decades to corrode, scale, and crack, and the finished basements that make these homes so livable are exactly where the water goes first. The Restoration Group responds 24/7 to burst pipe emergencies across Teaneck (ZIP 07666), extracting standing water, drying structural assemblies, and coordinating repairs before secondary damage turns a bad night into a months-long project.
 

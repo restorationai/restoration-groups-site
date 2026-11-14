@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "West Orange"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When stormwater cascades down the Watchung ridge and overwhelms a basement in Llewellyn Park, or a burst pipe soaks through the finished lower level of a 1920s Tudor near Pleasantdale, the damage rarely stops at the walls. Furniture, artwork, clothing, documents, and heirlooms absorb water, smoke, or soot within hours, and what happens to those belongings in the first 24 to 48 hours often determines whether they can be saved. Contents restoration and pack-out is the part of recovery most homeowners don't think about until they're standing in a ruined room, and it's one of the most detail-intensive services in the field.
 

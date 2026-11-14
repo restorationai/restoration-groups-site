@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or a fast-moving thunderstorm rolls through Union County, Elizabeth takes it differently than most of its neighbors. The city's dense grid of early-1900s two- and three-family frame homes, packed shoulder-to-shoulder from Elmora to Elizabethport, means a single large branch or a failed roof section can compromise multiple households at once. Add the tidal and storm-surge exposure that low-lying Bayway sees every time a coastal system pushes water up the Arthur Kill, and storm damage here moves fast from inconvenient to genuinely dangerous. The Restoration Group runs 24/7 out of Kenilworth, roughly ten minutes from Elizabeth's core, and we're on-site while the storm is still clearing.
 

@@ -19,7 +19,7 @@ city: "Clifton"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something traumatic happens inside a Clifton home or rental unit, whether in a Botany Village brick two-family or a postwar split-level near Lakeview, the last thing a family or landlord should have to manage is the cleanup. Biohazard situations involving blood, bodily fluids, sharps, or other infectious material require more than ordinary cleaning: they require trained technicians, regulated disposal, and a level of discretion that protects everyone on the property. The Restoration Group responds around the clock from Kenilworth and handles the entire process so you don't have to.
 

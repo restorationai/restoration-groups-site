@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Teaneck"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida tore through Bergen County in September 2021, finished basements across Teaneck filled in hours, not because of roof failures or burst pipes, but because the Hackensack River and Teaneck Creek backed up simultaneously, overwhelming the township's combined sewer system and pushing raw water up through floor drains in homes that had stayed dry for decades. If your basement is wet right now, that same geography is likely working against you. The Restoration Group responds 24/7 and can be on-site to begin water removal before standing water migrates into wall cavities and subfloor assemblies.
 

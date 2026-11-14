@@ -17,7 +17,7 @@ area_slug: "avenel-nj"
 city: "Avenel"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 The Restoration Group handles water damage, fire and smoke recovery, storm damage, mold remediation, and biohazard cleanup for homes and businesses throughout Avenel, New Jersey. We document the loss for insurance, work with most major carriers, and move quickly to stabilize a property before secondary damage (warped flooring, spreading mold, structural rot) sets in. Property owners in Avenel call us for both emergency response and for the follow-up reconstruction work a loss often requires.
 

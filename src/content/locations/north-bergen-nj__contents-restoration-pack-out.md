@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "North Bergen"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst pipe soaks through the floors of a brick three-family on the Bergenline, or a basement flood from a backed-up storm drain ruins decades of accumulated furniture and keepsakes, the belongings inside the home are often the hardest part of the loss to face. Contents restoration and pack-out is the process of systematically removing, cataloguing, cleaning, and returning those items, and in North Bergen's dense, older housing stock, doing it right requires more than a van and some boxes.
 

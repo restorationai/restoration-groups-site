@@ -17,7 +17,7 @@ area_slug: "hillside-nj"
 city: "Hillside"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Saybrook two-family at 2 a.m. or the Elizabeth River backs into a Coe's Corner basement during a summer downpour, The Restoration Group responds, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all handled by one crew from first call through the final walk-through. We cover every block of Hillside's 07205 ZIP code and bill most major insurance carriers directly so you are not left managing paperwork while your floors are still wet.
 

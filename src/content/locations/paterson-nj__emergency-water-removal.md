@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Paterson"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 The Passaic River doesn't forgive slowly. When it rises, as it did during Hurricane Irene in 2011 and again during Ida in 2021, the low-lying blocks near downtown Paterson and the Riverside section can take on water faster than any sump pump can handle. But flooding isn't the only threat here. Burst pipes in century-old rowhomes, failed standpipes in converted silk-mill apartments, and backed-up cast-iron drains in unventilated rental basements generate water damage calls year-round across every ZIP code in the city. The Restoration Group responds 24/7, and our IICRC Certified Firm (#210213) team brings industrial extraction and drying equipment, not shop vacs and box fans, to every job.
 

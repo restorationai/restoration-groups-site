@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Montclair"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The smell that lingers after a sewer backup in a Frog Hollow basement or a kitchen fire in one of Montclair's century-old Tudors is not something an air freshener touches. Odor molecules embed themselves in plaster walls, original hardwood floors, horsehair insulation, and the dense cellulose of old-growth framing, materials that are common across Montclair's 07042 and 07043 ZIP codes and that hold odor far longer than modern construction. The Restoration Group deploys industrial deodorization equipment and certified technicians around the clock to neutralize those odors at the molecular level, not mask them.
 

@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Rutgers Village rowhouse or a sprinkler discharge in a George Street restaurant leaves behind more than charred surfaces, smoke residue penetrates plaster, settles into HVAC ductwork, and begins bonding to painted surfaces within hours. New Brunswick's dense mix of early-1900s multifamily housing, active commercial corridors, and high-occupancy student rentals means that when a fire happens, the damage rarely stays contained to one unit. The Restoration Group responds 24/7 from Kenilworth, bringing IICRC-certified technicians (Firm #210213) to address smoke damage before the odor and residue become a long-term problem.
 

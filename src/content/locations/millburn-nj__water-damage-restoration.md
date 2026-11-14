@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Millburn"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 The West Branch of the Rahway River has a long memory. When Tropical Storm Ida tore through downtown Millburn in September 2021, it didn't just flood basements, it pushed water through storefronts along Millburn Avenue, submerged Taylor Park, and left finished lower levels in the surrounding neighborhoods saturated for days. For homeowners and property managers in the 07041 and 07078 ZIP codes, that event was a stark reminder that water damage here isn't a hypothetical. The Restoration Group responds 24/7 to water emergencies throughout Millburn, bringing IICRC Certified Firm (#210213) drying protocols and direct insurance coordination to every loss.
 

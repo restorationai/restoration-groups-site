@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Perth Amboy's older housing stock holds odors the way its waterfront holds tide, stubbornly. In the dense blocks of late-1800s and early-1900s frame two- and three-families that make up neighborhoods like Budapest and Dunham Heights, smoke, sewer gas, and flood-related odors penetrate lathe-and-plaster walls, subfloor timbers, and uninsulated rim joists in ways that surface sprays and plug-in deodorizers simply cannot reach. The Restoration Group dispatches certified technicians around the clock to properties in Perth Amboy's 08861 and 08862 ZIP codes, deploying professional-grade equipment matched to the specific odor source, not a one-size approach.
 

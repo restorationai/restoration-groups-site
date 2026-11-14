@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or a fast-moving summer storm rolls up the Raritan River corridor, New Brunswick takes it differently than most of central Jersey. The city's dense mix of early-1900s rowhouses near Rutgers, postwar multifamily in Robeson Village, and high-rise downtown construction means a single storm can produce five different damage profiles within a few blocks, blown roof slates on a century-old triple-decker, shattered storefront glass on George Street, and uprooted trees crushing fences along the Highland Park border, all in the same event. The Restoration Group responds 24/7 and can reach New Brunswick from our Kenilworth base to begin emergency stabilization while the storm is still clearing.
 

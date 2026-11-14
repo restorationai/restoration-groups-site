@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Morristown"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The older Victorians and brick colonials clustered near Morristown Green carry a hidden liability that newer construction rarely shares: decades of galvanized plumbing slowly corroding from the inside, cast-iron basement drains that back up during heavy rain events, and plaster walls that hold moisture long after a leak is patched. When those conditions combine with New Jersey's humid summers, mold can begin colonizing a wall cavity within 48 to 72 hours of a water intrusion, often invisibly, behind finish materials, before a musty odor ever reaches the living space. A professional mold inspection and testing assessment is the only way to know what's actually there.
 

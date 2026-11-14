@@ -19,7 +19,7 @@ city: "Fort Lee"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Fort Lee's density creates circumstances that don't exist in most of New Jersey, a single incident inside a high-rise tower on the Palisades can affect shared corridors, elevator lobbies, and adjacent units before building management even knows what's happened. When a situation involving blood, bodily fluids, infectious material, or sharps arises in a building like this, the response has to be fast, discreet, and compliant with both state disposal regulations and the building's own protocols. The Restoration Group handles biohazard cleanup in Fort Lee 24/7, dispatching from Kenilworth with the containment equipment and regulatory knowledge the situation requires.
 

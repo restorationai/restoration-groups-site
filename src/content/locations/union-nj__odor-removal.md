@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Union"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The postwar split-levels and capes that fill Union Township's streets, particularly the dense blocks running through Vauxhall and Battle Hill, were built in an era when insulation was thin, ventilation was minimal, and basements were finished with whatever materials were on hand. Decades later, those same homes trap odors in ways that newer construction simply doesn't: smoke from a kitchen fire soaks into original plaster and lathe, pet odors migrate into concrete subfloors, and the musty aftermath of a flooded basement lingers long after the water is gone. If you're searching for odor removal and deodorization in Union, the problem is rarely just surface-level.
 

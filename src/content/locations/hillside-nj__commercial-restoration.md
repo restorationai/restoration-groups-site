@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Hillside"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head discharges overnight in a Conant Street warehouse or a roof leak soaks through the drop ceiling of a Route 22 retail strip, the clock starts immediately, inventory, equipment, and tenant leases are all on the line. Commercial losses in Hillside, NJ (07205) move fast, and the response has to match. The Restoration Group operates around the clock out of Kenilworth, roughly 10 minutes from Hillside's core, and handles the full scope of commercial water, fire, and structural damage that keeps property managers and business owners up at night.
 

@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Morristown"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Whippany River swells after a nor'easter or a slow-moving storm system like the remnants of Ida in 2021, basements across Morristown's lower-lying blocks fill faster than a sump pump can cycle. But storm surge isn't the only culprit here, the town's dense inventory of 19th- and early-20th-century Victorians and brick colonials near the Green carries decades-old galvanized supply lines and cast-iron drains that fail quietly, often overnight, turning a finished basement into a standing-water emergency before anyone smells the damage. The Restoration Group responds 24/7 to flooded basement calls throughout Morristown, ZIP codes 07960 and 07963.
 

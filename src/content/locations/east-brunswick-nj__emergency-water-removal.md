@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When Lawrence Brook backs up after a heavy rain or a supply line fails behind the drywall of a 1960s split-level in Frost Woods, the water doesn't wait for business hours. East Brunswick's postwar housing stock, ranches, colonials, and split-levels built across the township from the 1950s through the 1970s, almost universally features finished basements, which means a single plumbing failure or a slow foundation seep can saturate carpet, framing, and drywall before a homeowner even realizes something is wrong. The Restoration Group responds 24/7 to emergency water removal calls across East Brunswick (08816), bringing extraction equipment and moisture mapping to jobs the same day they're reported.
 

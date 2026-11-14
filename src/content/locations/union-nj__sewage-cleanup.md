@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Union"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in Union Township, the clock starts immediately, raw sewage carries pathogens that can colonize porous surfaces within hours, and most of the postwar capes, split-levels, and colonials built across neighborhoods like Battle Hill and Vauxhall were constructed with cast-iron drain stacks that are now 60 to 80 years old and failing on schedule. The Restoration Group operates 24/7 out of Kenilworth, just across the township line, and our IICRC Certified Firm (#210213) crews can be on-site fast when a backup turns a laundry room or rec room into a biohazard.
 

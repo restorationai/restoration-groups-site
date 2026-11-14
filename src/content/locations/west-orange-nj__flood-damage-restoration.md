@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "West Orange"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When storms roll off the Watchung ridge and funnel runoff down through West Orange's hillside neighborhoods, basements fill fast, sometimes faster than a sump pump can cycle. The finished lower levels that are nearly universal in Pleasantdale ranches and the grand Victorians of Llewellyn Park turn a few inches of standing water into a multi-room loss within hours. The Restoration Group responds 24/7 to flood damage calls across 07052, bringing industrial extraction and drying equipment to homes and commercial properties before secondary damage compounds the cost.
 

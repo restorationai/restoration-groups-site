@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "East Orange"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a galvanized supply riser finally gives out in a three-story Brick Church walk-up, water doesn't stop at one unit, it migrates through plaster ceilings, down brick cavities, and into finished basements before anyone smells the damage. East Orange's dense stock of early-1900s apartment buildings and two-families creates exactly that kind of cascading, multi-unit water loss, and cleaning it up correctly means understanding how these structures were built, not just where the water went. The Restoration Group responds 24/7 from Kenilworth and is an IICRC Certified Firm (#210213), licensed by the NJ Division of Consumer Affairs.
 

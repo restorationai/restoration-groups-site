@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Livingston"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter tears shingles off a 1960s split-level near Riker Hill, or a kitchen fire blows out a window on a Collins neighborhood colonial at 2 a.m., every hour the opening stays exposed multiplies the damage. Rain, wind, and opportunistic entry compound a loss that was already bad. Emergency board-up and tarping is the first line of defense, and in a town where so much of the housing stock was built before modern weather barriers existed, getting that protection in place fast is the difference between a manageable claim and a gutted interior.
 

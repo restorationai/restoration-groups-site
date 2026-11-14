@@ -19,7 +19,7 @@ city: "Hackensack"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Hackensack's dense mix of prewar two- and three-family homes, mid-century capes, and the high-rise corridor along Prospect Avenue creates a particular challenge when a biohazard situation arises: shared entryways, stacked units, and common hallways mean that discretion and containment matter as much as the cleanup itself. When you call The Restoration Group at (844) 808-8838, you reach a team available around the clock, ready to respond with the sensitivity these situations demand.
 

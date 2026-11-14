@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Summit"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 Summit's hilltop geography and century-old housing stock create a specific kind of appliance leak problem that rarely shows up in newer suburbs. A dishwasher supply line that drips overnight in a 1920s Colonial near the Franklin School area doesn't just wet a subfloor, it saturates original fir hardwood, wicks into horsehair-plaster walls, and can reach a finished basement before the homeowner smells anything. The Restoration Group responds 24/7 to appliance leak cleanup calls across Summit's 07901 ZIP code, and we bring the moisture-mapping depth and high-value contents handling that these homes genuinely require.
 

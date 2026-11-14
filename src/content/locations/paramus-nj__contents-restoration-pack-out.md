@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Paramus"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst supply line or a sprinkler discharge soaks a finished basement in West Paramus, the damage rarely stops at the walls, it reaches the furniture, the family photos, the electronics, and the irreplaceable things stored in closets and on shelving. Contents restoration and pack-out exists precisely for that moment: a structured process to remove, document, clean, and store your belongings while the structure dries, so nothing gets lost in the chaos and nothing gets written off that could have been saved.
 

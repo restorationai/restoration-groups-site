@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Brooklyn"
 state: "NY"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Brooklyn's brownstone belt carries a particular kind of smell that's hard to forget, the damp, mineral-tinged air of a garden-level apartment that flooded during a storm, or the acrid smoke residue that settles into 140-year-old plaster after a kitchen fire in a Park Slope rowhouse. Odors embedded in porous masonry, original woodwork, and century-old subfloors don't respond to ventilation or off-the-shelf sprays. The Restoration Group dispatches certified odor removal crews to Brooklyn around the clock, equipped with industrial-grade deodorization technology matched to the specific materials and conditions found in this borough's housing stock.
 

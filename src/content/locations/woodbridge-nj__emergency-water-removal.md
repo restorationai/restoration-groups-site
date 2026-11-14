@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 The Rahway River doesn't forgive slowly. When it rises, as it did catastrophically during Ida in 2021, swamping low-lying streets from Sewaren to Port Reading, water moves into finished basements, under slab floors, and behind the plaster walls of postwar capes and split-levels faster than most homeowners expect. If you're dealing with standing water in your home or business in Woodbridge Township right now, the clock on secondary damage started the moment the water arrived. The Restoration Group's emergency water removal team responds 24/7 from Kenilworth, NJ, and can be reached at (844) 808-8838.
 

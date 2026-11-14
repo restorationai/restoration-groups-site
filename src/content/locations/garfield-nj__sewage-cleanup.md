@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Garfield"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up in a Garfield two-family on a 25-foot lot, the mess doesn't stay in the basement, it wicks into finished drywall, soaks the subfloor shared between units, and starts generating dangerous pathogens within hours. The cast-iron drain stacks common throughout the Belmont and Plauderville sections of the city were installed when Truman was president, and they corrode, root-intrude, and collapse in ways that modern PVC simply doesn't. If you're standing in raw sewage right now, call (844) 808-8838, The Restoration Group responds around the clock.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Bayonne"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Bayonne's dense peninsula geography creates a particular odor problem that most homeowners don't anticipate until they're living inside it. When a basement floods in a Bergen Point rowhouse or a kitchen fire chars the walls of a Constable Hook two-family, the smell doesn't just linger, it migrates. Older balloon-frame construction, common throughout Bayonne's early 20th-century housing stock, has no fire-blocking between floors, so smoke and char odors travel vertically through wall cavities, saturating insulation and plaster long after the visible damage is cleaned up. The Restoration Group responds to odor calls in Bayonne 24 hours a day, deploying the right technology for the specific source, not a one-size deodorizer sprayed over the problem.
 

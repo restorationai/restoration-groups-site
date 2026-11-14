@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Paramus"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 A nor'easter peeling back a section of roof over a 1960s split-level in West Paramus. A kitchen fire blowing out windows on a colonial off Spring Valley Road. A sprinkler-discharge flood soaking a big-box ceiling on the Route 17 corridor at 2 a.m. In every one of those scenarios, the clock starts the moment the structure is exposed, rain, wind, and opportunistic theft don't pause while you figure out next steps. The Restoration Group dispatches board-up and tarping crews from Kenilworth around the clock, reaching Paramus addresses in 07652 and 07653 to secure damaged properties before a bad situation compounds into a catastrophic one.
 

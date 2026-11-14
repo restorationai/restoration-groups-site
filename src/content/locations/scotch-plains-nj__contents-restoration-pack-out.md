@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst supply line or a Green Brook flood event soaks a finished basement in Scotch Plains, the damage rarely stops at the walls. Furniture, clothing, family documents, electronics, and irreplaceable keepsakes absorb water, smoke, or soot within hours, and mid-century split-levels and colonials common throughout neighborhoods like Willow Grove and Ashbrook were built with plenty of storage space that concentrates those losses. Contents restoration and pack-out is the process of getting those belongings out of harm's way, cleaning and restoring what can be saved, and returning them once the structure is dry and repaired. The Restoration Group handles that entire chain from our Kenilworth base, reaching Scotch Plains 07076 around the clock.
 

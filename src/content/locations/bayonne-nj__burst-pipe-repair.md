@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Bayonne"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a supply line lets go inside one of Bayonne's century-old two- or three-family homes, the water doesn't just pool on the floor, it finds every gap in the original subfloor, soaks down through plaster ceilings into the unit below, and reaches the finished basement before most tenants realize anything is wrong. The Restoration Group responds to burst pipe emergencies in Bayonne 24/7, dispatching from Kenilworth with the extraction and drying equipment needed to stop a fast-moving water loss before it becomes a structural or mold problem.
 

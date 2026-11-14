@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Brooklyn"
 state: "NY"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Brooklyn's commercial corridors, from the ground-floor retail lining Flatbush Avenue to the converted industrial lofts near the Brooklyn Navy Yard, sit inside some of the oldest built fabric in New York City. When a burst pipe floods a co-working space or a kitchen fire chars the back wall of a restaurant in Williamsburg, the recovery isn't just about drying drywall. It's about navigating landmarked facades, shared party walls, co-op board approval processes, and insurance documentation rigorous enough to satisfy a Manhattan-based property management company. The Restoration Group responds 24/7 and brings the kind of structured commercial restoration process that Brooklyn's dense, layered building stock actually demands.
 

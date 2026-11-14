@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Montclair"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst cast-iron drain line soaks the finished basement of a 1920s Tudor off Watchung Plaza, or a flash-flood surge from the Third River backs sewage into a South End colonial, the damage rarely stops at the walls. Furniture, artwork, clothing, family documents, and irreplaceable heirlooms absorb smoke, soot, and contaminated water within hours. Contents restoration and pack-out is the discipline that gets those belongings out of harm's way, catalogued, cleaned, and returned, and in Montclair's older, densely furnished homes, doing it right requires more than a moving truck and a storage unit.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 When a basement near the Ho-Ho-Kus Brook floods after a storm like Ida, or a kitchen fire leaves smoke residue baked into the plaster walls of a 1920s Tudor off Willard Avenue, the smell doesn't just fade on its own. Odors from smoke, sewage, mold, and water damage embed themselves into porous materials, and in Ridgewood's older housing stock, there's no shortage of porous materials. The Restoration Group deploys industrial-grade deodorization equipment and certified technicians to properties throughout the 07450 ZIP code, working until the source is gone and the air is genuinely clean.
 

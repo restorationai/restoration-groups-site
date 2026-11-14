@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Piscataway"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 A refrigerator ice maker line that drips overnight or a washing machine hose that lets go mid-cycle can push surprising amounts of water into a finished basement before anyone notices, and in Piscataway's older split-levels and postwar capes, where finished lower levels are common and galvanized supply lines are still running behind walls, that water has nowhere obvious to go. The Restoration Group is available around the clock and reaches Piscataway addresses from our Kenilworth base to begin extraction, drying, and documentation before secondary damage sets in.
 

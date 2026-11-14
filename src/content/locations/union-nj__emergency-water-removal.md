@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Union"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a supply line fails behind a finished basement wall in a 1950s split-level off Morris Avenue, the water doesn't announce itself, it migrates silently through the framing until the carpet squishes underfoot or a seam in the drywall starts to bubble. That scenario plays out regularly across Union Township, where postwar capes and colonials were built with original galvanized supply plumbing that is now well past its service life. The Restoration Group responds 24/7 from our Kenilworth location, putting a crew on-site in Union quickly, before saturation spreads and secondary damage compounds the loss.
 

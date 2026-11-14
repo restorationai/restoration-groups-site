@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Morristown"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement near the Historic District or raw sewage surfaces through a floor drain in one of Morristown's century-old colonials, the clock starts immediately. Sewage carries Category 3 water, the most contaminated classification, and in a town where cast-iron drain stacks and galvanized supply lines are still common in pre-1920 homes, a single backup can saturate original hardwood subfloors, brick foundation walls, and finished drywall before a homeowner realizes the scope. The Restoration Group responds 24/7 to sewage emergencies throughout Morristown (07960) and the surrounding area.
 

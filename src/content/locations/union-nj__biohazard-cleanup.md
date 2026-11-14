@@ -19,7 +19,7 @@ city: "Union"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something unexpected and deeply difficult happens inside a Union home or business, the last thing a family should have to manage is the cleanup. Whether the situation involves a trauma, an unattended death, or the discovery of infectious materials in a property off the Route 22 corridor or tucked into one of Union's postwar split-levels, the path forward starts with a single call. The Restoration Group responds 24/7 from its base in neighboring Kenilworth, close enough that crews are typically on the road to Union ZIP codes 07083 and 07088 within minutes of dispatch.
 

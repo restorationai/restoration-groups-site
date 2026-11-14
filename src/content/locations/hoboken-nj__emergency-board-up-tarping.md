@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Hoboken"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter tears a cornice off a 19th-century brownstone on Garden Street, or a kitchen fire blows out a second-story window in a Southwest Hoboken rowhouse, the window between the damage event and secondary loss is measured in hours, not days. Hoboken's dense party-wall construction means an unsecured opening doesn't just expose one unit; wind-driven rain can migrate through shared brick cavities into adjacent apartments before morning. The Restoration Group dispatches emergency board-up and tarping crews around the clock, reaching the 07030 ZIP code from our Kenilworth base so your property is secured before the next rain band arrives.
 

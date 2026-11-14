@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Staten Island"
 state: "NY"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The East Shore of Staten Island has never fully dried out. Since Hurricane Sandy tore through South Beach and Oakwood Beach in 2012, and again when Ida's flash flooding crept up low-lying South Shore streets in 2021, many basements and crawlspaces in this borough have cycled through wet-dry-wet conditions enough times that mold isn't a surprise anymore. It's a pattern. If you're smelling something musty in a finished basement off Hylan Boulevard or noticing dark streaking behind drywall in a postwar Cape Cod near Great Kills, that's not just age, it may be active mold colonization that started with moisture that never fully left.
 

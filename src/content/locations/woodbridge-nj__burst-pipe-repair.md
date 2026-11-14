@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a supply line lets go in one of Woodbridge Township's thousands of postwar split-levels or finished-basement colonials, the damage clock starts immediately, and in a community where many homes still run galvanized or early-copper supply lines installed in the 1950s and 60s, a single pipe burst can flood a finished lower level before the homeowner even hears the water. The Restoration Group responds 24/7 from Kenilworth, reaching Woodbridge via the Garden State Parkway or Route 1 & 9 in a matter of minutes, ready to stop the loss and start drying the same hour you call (844) 808-8838.
 

@@ -17,7 +17,7 @@ area_slug: "piscataway-nj"
 city: "Piscataway"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Society Hill condo at 2 a.m. or a finished basement in Possumtown fills with Raritan River backflow, The Restoration Group dispatches from Kenilworth around the clock to stop the damage, dry the structure, and get the property back to pre-loss condition. We handle water damage, fire and smoke damage, mold remediation, and biohazard cleanup for homeowners, landlords, and property managers across Piscataway's ZIP codes 08854 and 08855, and we bill insurance directly so you're not fronting the cost alone.
 

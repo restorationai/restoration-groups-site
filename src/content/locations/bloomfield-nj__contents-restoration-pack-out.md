@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst galvanized supply line or a backed-up sewer soaks a finished basement in Bloomfield's Watsessing or Brookdale neighborhoods, the water doesn't just damage the structure, it reaches the furniture, the family photos, the rugs, the electronics stacked on shelving that's now sitting in two inches of contaminated water. Contents restoration and pack-out exists precisely for that moment: a disciplined, documented process that removes, cleans, and stores your belongings so structural drying and repairs can happen without your possessions in the way, and so you actually get them back in usable condition.
 

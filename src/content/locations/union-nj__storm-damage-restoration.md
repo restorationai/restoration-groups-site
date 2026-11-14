@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Union"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or a fast-moving summer thunderstorm rolls through Union Township, the damage it leaves behind rarely looks the same twice. The Elizabeth River and Rahway River tributaries that thread through low-lying sections near Vauxhall and Morris Avenue have a history of jumping their banks, Ida made that painfully clear, and the dense postwar capes, split-levels, and colonials that define most of Union's residential blocks were built in an era when "storm-resistant" meant something different than it does today. The Restoration Group responds 24/7 from its Kenilworth base, which puts crews on Union streets in minutes when the weather turns.
 

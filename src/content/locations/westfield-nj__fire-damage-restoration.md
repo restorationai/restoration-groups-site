@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Westfield"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 The smoke smell hit before the fire trucks left. In Westfield's older neighborhoods, the Tudor Revival blocks near Mindowaskin Park, the center-hall colonials tucked into Wychwood and The Gardens, a kitchen fire or electrical fault doesn't just char a room. It drives soot into original plaster walls, coats century-old millwork with oily residue, and embeds odor into the kind of irreplaceable architectural details that can't simply be swapped out at a big-box store. The Restoration Group is available around the clock and responds from Kenilworth, putting a crew in the 07090 ZIP code fast so the damage stops compounding before you've finished your first call to the insurance adjuster.
 

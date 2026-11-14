@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 New Brunswick's dense mix of century-old rowhouses near Rutgers University, flood-prone riverfront blocks along the Raritan, and busy commercial corridors on George Street creates a city where odors don't just linger, they embed themselves into plaster, brick, and aged wood in ways that a spray bottle and a fan will never reach. Whether you're dealing with smoke residue from a kitchen fire in a Fifth Ward rental, a sewage backflow smell that's soaked into the subfloor of a Robeson Village apartment, or a musty post-flood odor that crept in after Ida pushed water into low-lying riverfront units, professional deodorization is the only path to air that actually smells clean again.
 

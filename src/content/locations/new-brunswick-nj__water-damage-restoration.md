@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 The Raritan River has flooded George Street-area basements before, Ida in 2021 pushed water into low-lying riverfront blocks near Boyd Park in ways that caught even longtime New Brunswick property owners off guard. But most water damage in the city never involves a named storm. It starts with a corroded cast-iron drain stack in a century-old rowhouse off Robeson Village, a burst supply line behind a Rutgers Village apartment wall, or a sprinkler head that trips overnight in a George Street restaurant and soaks a finished basement by morning. The Restoration Group responds 24/7 from Kenilworth, bringing certified structural drying and water extraction to New Brunswick properties before secondary damage compounds the loss.
 

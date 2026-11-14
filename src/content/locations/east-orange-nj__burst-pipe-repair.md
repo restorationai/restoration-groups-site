@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "East Orange"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 In East Orange's dense blocks of early-1900s brick walk-ups, the kind that line the streets running north from Brick Church station through Ampere and into Elmwood, galvanized steel supply risers are still doing work they were never meant to do in 2024. When one of those risers finally gives way, water doesn't stay in one unit. It travels down through plaster ceilings, soaks into the original hardwood subfloors below, and can reach the basement mechanical room before anyone smells it. The Restoration Group responds 24/7 and is on-site the same day you call, (844) 808-8838.
 

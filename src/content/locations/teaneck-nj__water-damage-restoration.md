@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Teaneck"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Hackensack River backed up during Hurricane Ida in 2021, basements across Teaneck filled faster than sump pumps could cycle. That event exposed what contractors in this township already knew: the combination of low-lying creek corridors, aging cast-iron drain infrastructure, and finished basements in 1930s-era brick colonials creates a water damage profile unlike most of Bergen County. The Restoration Group responds to water emergencies in Teaneck 24/7, with IICRC Certified Firm #210213 technicians who understand exactly what they're walking into when they pull up to a center-hall Tudor in the Grange or a finished lower level off Cedar Lane.
 

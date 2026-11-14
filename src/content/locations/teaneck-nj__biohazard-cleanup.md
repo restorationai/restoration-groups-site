@@ -19,7 +19,7 @@ city: "Teaneck"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something traumatic happens inside a Teaneck home, whether in a finished basement off Whittier Avenue or a center-hall colonial near the Bryant School area, the hours immediately after are disorienting. Biohazard cleanup is not a task for a property owner to manage alone, and it is not a task for a general cleaning crew. The Restoration Group responds 24/7 to biohazard situations across Teaneck (07666), handling infectious material, blood, bodily fluids, and sharps removal with the discretion, protective protocols, and certified methodology that the situation demands.
 

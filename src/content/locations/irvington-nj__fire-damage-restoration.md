@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Irvington"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a fire tears through one of Irvington's densely packed two- and three-family rowhouses, the damage rarely stays contained to a single unit. The early-1900s frame construction that defines so much of the 07111 housing stock, wood-lath walls, balloon framing, shared attic cavities, lets smoke, soot, and heat travel fast and far. The Restoration Group responds around the clock to fire losses across Irvington, bringing IICRC-certified technicians and industrial-grade equipment to properties that need more than a surface cleaning.
 

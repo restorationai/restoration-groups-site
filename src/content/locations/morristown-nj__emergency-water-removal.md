@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Morristown"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 Standing water in a Morristown home moves fast, through original-growth hardwood floors, into the horsehair plaster of a 19th-century Victorian off the Historic District, and down into finished basements that were never designed to drain. Whether a supply line failed in a new luxury apartment near Morristown Green or the Whippany River crept into a Speedwell-area commercial space during a heavy storm, the window to prevent secondary damage is measured in hours, not days. The Restoration Group responds around the clock, 24/7, for emergency water removal across Morristown's 07960 and 07963 ZIP codes.
 

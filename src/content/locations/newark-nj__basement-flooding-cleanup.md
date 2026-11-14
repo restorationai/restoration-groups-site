@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Newark"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Passaic River swells after a nor'easter or a summer cloudburst hammers Newark's aging combined sewer system, basements across the Ironbound and Weequahic fill faster than a sump pump can cycle. The Restoration Group is on call around the clock from our Kenilworth shop, roughly fifteen minutes up McCarter Highway, to extract standing water, dry structural materials, and document everything your insurance carrier needs before secondary damage sets in.
 

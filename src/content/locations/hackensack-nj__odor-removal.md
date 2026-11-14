@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Hackensack"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Hackensack's older housing stock holds odors in ways that catch homeowners off guard. The prewar two- and three-family homes throughout Fairmount and the Southside were built with plaster walls, original hardwood subfloors, and minimal vapor barriers, materials that absorb smoke, sewer gas, and flood-driven mildew deeply and release them slowly for months after the visible damage is gone. When a basement floods during a storm surge off the Hackensack River, or a kitchen fire chars the cabinets in a Prospect Avenue high-rise, the smell that lingers is the part most restoration companies underestimate. We don't.
 

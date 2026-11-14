@@ -17,7 +17,7 @@ area_slug: "new-brunswick-nj"
 city: "New Brunswick"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Rutgers Village apartment at 2 a.m. or a Raritan River flood event pushes water into a Downtown commercial space, The Restoration Group dispatches from Kenilworth around the clock to stabilize the loss, document the damage, and carry the project through to a finished repair. We handle water, fire, mold, and biohazard losses across New Brunswick's full range of property types, student rentals, century-old rowhouses, high-rise condos, and the institutional buildings that define this city.
 

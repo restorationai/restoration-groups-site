@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Englewood"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a pipe lets go at 2 a.m. in a finished basement on the East Hill, or a sprinkler head discharges overnight in a Palisade Avenue restaurant, the clock starts immediately. Mold can begin colonizing wet framing within 24 to 48 hours, and in Englewood's mix of century-old multifamily housing and grand pre-war estates, the materials at risk are rarely simple. The Restoration Group responds 24/7 from Kenilworth, bringing IICRC-certified water damage restoration to 07631 addresses before secondary damage compounds the loss.
 

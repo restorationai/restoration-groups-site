@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Staten Island"
 state: "NY"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a basement on the East Shore, in neighborhoods like South Beach or Great Kills, where post-Sandy infrastructure repairs left some lateral lines still running through saturated, settled soil, the damage isn't just water. Raw sewage carries bacteria, viruses, and pathogens that soak into concrete block walls and subfloor framing within hours. The Restoration Group operates 24/7 and keeps crews based on Staten Island, so when that call comes in at 2 a.m., the response isn't coming from across the state.
 

@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Bayonne"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 Bayonne sits on a narrow peninsula where Newark Bay presses against one side and the Kill Van Kull against the other, and when a nor'easter stalls over the harbor or a supply line finally gives out in a century-old rowhouse, there is nowhere for the water to go but down. Basements flood fast here, faster than in most of Hudson County, and the combination of tidal exposure, aging infrastructure, and dense two- and three-family housing stock means a wet basement in Bayonne can go from an inch of standing water to a mold-colonization problem in under 72 hours. The Restoration Group responds 24/7 and can be reached at (844) 808-8838.
 

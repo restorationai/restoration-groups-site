@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a kitchen fire tears through one of East Brunswick's postwar split-levels or a grease flare scorches the hood system in a Route 18 restaurant, the damage doesn't stop when the flames do. Smoke particles migrate through HVAC ducts, soot settles into the textured ceilings common in 1960s and 70s colonials, and the odor of char embeds itself in the insulation packed between finished basement ceilings and the floor above, layers that define the housing stock across neighborhoods like Frost Woods and Tanglewood. The Restoration Group responds 24/7 to fire losses throughout East Brunswick (08816), working to stabilize the structure, remove hazardous residue, and get your home or business back to a livable condition.
 

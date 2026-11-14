@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Bayonne"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Bayonne's position as a narrow peninsula between Newark Bay and the Kill Van Kull means moisture is never far away. Storm surges like the one that swept through Constable Hook and the waterfront blocks during Sandy in 2012 left standing water in basements and crawlspaces for days, and mold can begin colonizing porous materials within 24 to 48 hours of a moisture event. If you're dealing with visible growth, a musty smell that won't leave, or a basement that's been wet more than once, The Restoration Group handles mold remediation in Bayonne (07002) around the clock.
 

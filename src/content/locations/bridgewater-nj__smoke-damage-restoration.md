@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire that seems contained can leave smoke residue in every room of a Bridgewater split-level within minutes, curling through the HVAC return, settling into the textured ceilings common in postwar ranches off Milltown Road, and embedding in the wood paneling that still lines the dens of older homes near Bradley Gardens. That residue doesn't just smell; it's acidic, and it keeps working on surfaces long after the flames are out. Calling (844) 808-8838 connects you to an IICRC Certified Firm (#210213) that responds around the clock, every day of the year.
 

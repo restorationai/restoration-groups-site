@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 When a sewer backs up into a finished basement on a Watsessing side street, the kind of call that spiked across Bloomfield after Ida soaked the Second River corridor in 2021, the water itself is only half the problem. The other half is what it leaves behind: a sulfuric, organic odor that saturates drywall, carpet padding, and the original wood framing of homes built when Harding was president. Eliminating that smell requires more than an air freshener and a fan. It requires matched technology, a calibrated sequence, and someone who understands what they're walking into before they open the door.
 

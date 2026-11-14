@@ -19,7 +19,7 @@ city: "Livingston"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something unexpected and deeply difficult happens inside a Livingston home, in a finished basement off Northland Road, a split-level on the Cedar Hill side of town, or a commercial space near the Livingston Mall corridor, the last thing a family or property manager should have to navigate alone is what comes next. Biohazard situations involving blood, bodily fluids, sharps, or infectious material require trained technicians, regulated disposal, and a level of discretion that general cleaning services simply cannot provide. The Restoration Group responds 24/7 and handles every step so you don't have to.
 

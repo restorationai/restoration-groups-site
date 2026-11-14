@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Wayne"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter peels back a section of roof over a Packanack Lake split-level, or a kitchen fire blows out windows on a 1960s colonial near Preakness, the clock starts immediately, not on repairs, but on keeping the weather, wildlife, and opportunistic theft out of the opening. Emergency board-up and tarping is the first line of defense between a bad day and a catastrophic one, and in a town where the Passaic River has forced evacuations twice in the last fifteen years, Wayne homeowners know better than most how fast a manageable situation can spiral.
 

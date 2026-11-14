@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Roselle"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Along the Chestnut Street and St. Georges Avenue corridors, a roof leak discovered Monday morning or a burst supply line over a weekend can shut down a retail space, office suite, or restaurant for days, sometimes weeks, if the response is slow or the drying protocol is wrong. Roselle's commercial building stock runs heavily toward mid-century construction with original cast-iron waste lines and galvanized supply piping that is well past its service life, which means water events here often involve contaminated backflow, not just clean-water spills. The Restoration Group responds 24/7 out of nearby Kenilworth, bringing IICRC Certified Firm (#210213) protocols to every commercial loss in the 07203 ZIP code.
 

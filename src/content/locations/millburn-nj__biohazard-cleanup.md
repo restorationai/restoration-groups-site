@@ -19,7 +19,7 @@ city: "Millburn"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something traumatic or hazardous happens inside a home, the last thing a family should have to manage is the cleanup. In Millburn, where many residences are sprawling early-1900s colonials and Tudors with finished lower levels, wine cellars, and decades of layered building materials, biohazard situations carry complications that go well beyond what a general contractor is equipped to handle. The Restoration Group provides discreet, around-the-clock biohazard remediation for properties throughout Millburn and Short Hills, responding with trained technicians and clinical-grade protocols so families and property owners can focus on what matters most.
 

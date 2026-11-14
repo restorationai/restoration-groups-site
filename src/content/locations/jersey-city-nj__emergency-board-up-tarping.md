@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Jersey City"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a fire scorches a rowhouse in Bergen-Lafayette or a nor'easter tears shingles off a frame home in The Heights, the window between the initial damage and secondary loss, water intrusion, theft, squatters, can be measured in hours, not days. Jersey City's building stock makes that window especially unforgiving: century-old wood framing soaks up rain fast, and in a dense block of attached homes, an exposed roof or broken storefront affects neighbors as quickly as it affects the owner. The Restoration Group dispatches board-up and tarping crews around the clock, seven days a week, from our base in Kenilworth, NJ.
 

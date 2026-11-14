@@ -17,7 +17,7 @@ area_slug: "mountainside-nj"
 city: "Mountainside"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 The Restoration Group handles water damage, fire and smoke damage, mold remediation, storm damage, and biohazard cleanup for homes and businesses throughout Mountainside, from the split-level ranches along Route 22 to the commercial properties near the Garden State Parkway interchange. We document every loss for insurance, dry structures to the IICRC S500 standard, and coordinate directly with adjusters so property owners aren't managing the paperwork alone while their home is still wet.
 

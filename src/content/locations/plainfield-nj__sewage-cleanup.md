@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Plainfield"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up in a Plainfield home, the problem rarely stays contained. The city's deep, often finished basements, common throughout Sleepy Hollow and the Van Wyck Brooks Historic District, give raw sewage a large surface area to spread across, soaking into framing, insulation, and concrete before the smell even registers upstairs. The Restoration Group operates 24/7 out of Kenilworth, putting a crew on the road toward Plainfield within minutes of your call at (844) 808-8838.
 

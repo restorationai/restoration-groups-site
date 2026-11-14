@@ -19,7 +19,7 @@ city: "Rahway"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something traumatic happens inside a home or business in Rahway, whether in a close-in Downtown apartment, a postwar colonial near Milton Lake, or a multi-unit building steps from the train station, the practical question arrives fast: who handles this, and how quickly can they be here? Biohazard cleanup is not a standard cleaning job. It requires licensed professionals, proper containment, and disposal through regulated waste channels. The Restoration Group responds 24/7 from our Kenilworth location, and we treat every call with the discretion the situation demands.
 

@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Edison"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida pushed the Raritan River over its banks in 2021, low-lying streets near Mill Brook tributaries in South Edison were underwater within hours, and many of the postwar split-levels and colonials that make up the bulk of Edison's housing stock had finished basements that took the full force of it. Flood damage in Edison moves fast, and so does the window for preventing secondary mold growth. The Restoration Group responds 24/7 from Kenilworth, reaching most Edison neighborhoods in well under an hour.
 

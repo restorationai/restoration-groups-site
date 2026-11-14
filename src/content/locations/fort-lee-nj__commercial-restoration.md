@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Fort Lee's commercial real estate profile is unlike almost anywhere else in Bergen County, a dense vertical stack of high-rise towers along the Palisades cliffs, a busy mixed-use corridor anchored by Hudson Lights, and older multifamily buildings stretching through Coytesville and The Hill. When a supply line fails on the 18th floor of a Palisades Avenue tower, the damage doesn't stop at one tenant; it migrates through ceilings, elevator lobbies, and mechanical rooms on every floor below. That cascading exposure is what makes commercial restoration in Fort Lee a fundamentally different job than a single-story warehouse loss, and it's what The Restoration Group is equipped to handle, around the clock, from our base in Kenilworth, NJ.
 

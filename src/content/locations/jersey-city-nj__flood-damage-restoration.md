@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Jersey City"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 Jersey City sits at the edge of Newark Bay and the Hudson River, and that geography is not abstract when water is rising in your basement. From the low-lying blocks of Bergen-Lafayette and Greenville, where combined-sewer backups turned Ida into a citywide event, to the stacked high-rise units along the Exchange Place waterfront, flood damage here follows patterns shaped by century-old infrastructure, tidal exposure, and a building stock that ranges from 1890s brownstone cellars to glass-tower mechanical rooms. The Restoration Group responds 24/7 and brings the documentation discipline that Jersey City's landlords, condo boards, and carriers actually need.
 

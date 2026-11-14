@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "West Orange"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or fast-moving summer thunderstorm rolls across the Watchung ridge, West Orange takes it differently than the flatlands below. Stormwater accelerates downhill through neighborhoods like Pleasantdale and Gregory, overwhelming sump pumps and pouring into finished basements before homeowners have time to move anything off the floor. Trees rooted in the thin, rocky soils above South Mountain Reservation come down on roofs, fences, and driveways with little warning. The Restoration Group responds 24/7 to storm damage calls throughout West Orange, (844) 808-8838, and we understand what the ridge geography and the local housing stock mean for how a cleanup actually unfolds.
 

@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Lawrence Brook backs up after a heavy nor'easter or a supply line quietly fails inside one of East Brunswick's thousands of finished-basement ranches, the clock starts immediately, mold can begin colonizing wet framing within 24 to 48 hours, and the older cast-iron drains common in the township's 1960s split-levels don't announce trouble until water is already seeping under the subfloor. The Restoration Group responds to water damage emergencies in East Brunswick around the clock, dispatching IICRC-certified crews from Kenilworth with the extraction and structural drying equipment sized for the homes and commercial properties here.
 

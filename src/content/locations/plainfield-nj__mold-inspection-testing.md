@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Plainfield"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The Green Brook and Cedar Brook don't just flood streets in Plainfield, they leave moisture behind inside walls, under slabs, and in the deep finished basements that are a hallmark of the city's Victorian and early-1900s housing stock. After Tropical Storm Ida soaked East Front Street and the brook-adjacent neighborhoods in 2021, many homeowners discovered mold colonies weeks later, long after the visible water was gone. If you're noticing a musty smell, unexplained allergy symptoms, or discoloration on walls or ceilings, a professional mold inspection and testing assessment is the only way to know what you're actually dealing with, and where it's hiding.
 

@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "East Orange"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 East Orange's dense stock of early-1900s brick apartment buildings and three-story walk-ups creates a mold environment unlike most of suburban New Jersey. When a flat roof leaks over a Brick Church six-unit or a galvanized riser finally gives out in an Elmwood two-family, moisture soaks into century-old plaster, wood lath, and unreinforced masonry, materials that hold water long after the visible drip stops. By the time a tenant notices the smell, colonies can be well established behind walls or under flooring. The Restoration Group responds 24/7 from Kenilworth to stop the spread before it migrates to adjacent units.
 

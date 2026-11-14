@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head discharges overnight at an office park off Route 22, or a roof drain backs up during a nor'easter and floods a retail bay near Bridgewater Commons, the clock starts immediately, not just on the water damage itself, but on lost revenue, tenant displacement, and the insurance documentation your carrier will demand. The Restoration Group handles commercial losses across Bridgewater's 08807 and 08805 ZIP codes, from the low-lying industrial corridors near Finderne to the mixed-use developments clustered around the Route 22/287 interchange.
 

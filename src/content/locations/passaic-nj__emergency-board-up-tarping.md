@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Passaic"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a fire rips through a two-family frame house on a narrow Third Ward block, or a nor'easter peels back the flat roof of a Main Avenue storefront overnight, the window between "damaged" and "destroyed" is measured in hours, not days. Passaic's dense mix of century-old brick walkups and wood-frame multi-families means an unboarded opening or an unprotected roof deck invites rain, wind, and opportunistic entry before any restoration crew can even begin. The Restoration Group responds 24/7 from Kenilworth to secure your property fast, so the loss you have today doesn't compound into a larger one by morning.
 

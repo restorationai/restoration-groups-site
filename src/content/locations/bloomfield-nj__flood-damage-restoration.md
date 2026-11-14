@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Third River backs up during a hard summer storm, basements along Watsessing and Brookdale can fill faster than a sump pump can cycle. Bloomfield's dense grid of 1920s colonials and two-families, most with finished lower levels and aging cast-iron waste lines, means flood water rarely stays where it lands. It migrates under tile, into wall cavities, and up through original hardwood subfloors before a homeowner has finished moving boxes off the floor. The Restoration Group responds 24/7 from Kenilworth to help you stop the damage before it compounds.
 

@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 The Route 1 & 9 corridor running through Woodbridge Township is one of the densest commercial strips in Middlesex County, retail plazas, restaurants, warehouses, and light industrial all packed within a few miles of each other. When a sprinkler head fails overnight in a strip mall near Woodbridge Center, or a kitchen suppression system discharges in a Iselin restaurant, the damage compounds fast: soaked inventory, warped flooring, smoke-saturated HVAC, and a building that can't open for business the next morning. The Restoration Group responds to those calls around the clock, dispatching from Kenilworth with the equipment and documentation protocols commercial property owners and their insurers actually need.
 

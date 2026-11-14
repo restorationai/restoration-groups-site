@@ -17,7 +17,7 @@ area_slug: "montclair-nj"
 city: "Montclair"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts behind a plaster wall in Upper Montclair or a finished basement floods after a Watchung ridge storm, The Restoration Group dispatches from Kenilworth around the clock, arriving with drying equipment, moisture meters, and a documented scope ready for your insurance adjuster. We handle water damage, fire and smoke damage, mold remediation, and full reconstruction for homeowners and property managers across Montclair's ZIP codes 07042 and 07043.
 

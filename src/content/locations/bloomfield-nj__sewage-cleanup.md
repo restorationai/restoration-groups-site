@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When the Third River backs up during a summer cloudburst and a Watsessing basement fills with raw sewage, the clock starts immediately, Category 3 contamination begins penetrating concrete block and wood framing within hours, and the odor that sets in by morning is the least of the damage. The Restoration Group responds 24/7 to sewage backups, septic overflows, and sewer line failures throughout Bloomfield (07003), bringing certified extraction, disinfection, and structural drying to homes and commercial properties the same day you call.
 

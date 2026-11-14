@@ -17,7 +17,7 @@ area_slug: "woodbridge-nj"
 city: "Woodbridge"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a finished Colonia basement at 2 a.m. or a kitchen fire leaves smoke residue coating the ceiling of a Fords colonial, The Restoration Group responds, water extraction, structural drying, fire and smoke cleanup, mold remediation, and full reconstruction handled by one crew from first call through final inspection. We work directly with homeowners, landlords, and property managers across Woodbridge Township's ZIP codes, and we bill most major insurance carriers directly so you're not managing the paperwork alone.
 

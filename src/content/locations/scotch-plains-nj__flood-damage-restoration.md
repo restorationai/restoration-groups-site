@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Green Brook or Cedar Brook backs up after a hard rain, the low-lying streets near the Fanwood border can go from damp to knee-deep in hours, and the finished basements that define so much of Scotch Plains' mid-century split-levels and colonials are the first places that water finds. The Restoration Group operates out of Kenilworth, less than ten miles away, and responds to flood calls in the 07076 ZIP code around the clock. Fast extraction matters here because the housing stock is older, the drains are slower, and water that sits overnight in a 1960s basement does a different kind of damage than it does in new construction.
 

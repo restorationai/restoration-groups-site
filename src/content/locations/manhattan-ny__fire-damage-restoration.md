@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Manhattan"
 state: "NY"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Chelsea walk-up or a stove flare-up in a Midtown high-rise doesn't just damage one unit, in Manhattan's dense vertical stack, smoke travels through shared ductwork, char odor seeps into neighboring floors through elevator shafts, and soot settles on surfaces three stories below the flame. The Restoration Group responds 24/7 to fire damage across Manhattan, bringing IICRC-certified technicians (Firm #210213) and commercial-grade equipment to a borough where every hour of displacement costs real money and building management expects documentation before the freight elevator is even unlocked.
 

@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "East Orange"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 East Orange's dense stock of early-1900s brick apartment buildings and three-story walk-ups creates a fire damage scenario unlike most of Essex County. When a kitchen fire breaks out in a Brick Church-area building or a Doddtown two-family, smoke doesn't just travel room to room, it migrates through original plaster-and-lath walls, up open balloon-frame cavities, and into units two floors above the origin. The Restoration Group responds 24/7 from Kenilworth, bringing the documentation, drying, and structural assessment that multi-unit post-fire situations demand.
 

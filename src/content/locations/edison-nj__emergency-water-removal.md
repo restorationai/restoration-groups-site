@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Edison"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a supply line lets go in a finished basement in Clara Barton or a sump pump fails during a nor'easter and water is spreading across your carpet at 2 a.m., the clock is already running against you. Edison's mix of postwar capes, split-levels, and colonials, many with original copper supply lines and aging cast-iron drains, means water finds finished living space fast, and the materials it soaks into hold moisture long after the visible puddle is gone. The Restoration Group responds 24/7 from Kenilworth, reaching most of Edison in a single highway run, ready to extract, dry, and document from the first call.
 

@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Maplewood"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the East Branch of the Rahway River swells after a heavy storm, the way it did during Ida in 2021, sending water rushing through Maplewood Village and onto low-lying streets throughout the 07040, basements in this town don't just get damp, they fill. The Restoration Group responds to flooded basement calls around the clock, and we know what that water is up against when it hits a 1920s stone foundation: original plaster walls, cast-iron drains that back up before the sump even trips, and finished lower levels that homeowners have spent real money on.
 

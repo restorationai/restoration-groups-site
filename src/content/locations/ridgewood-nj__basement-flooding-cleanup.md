@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Ho-Ho-Kus Brook overtopped its banks during Hurricane Ida in 2021, basements across Ridgewood filled faster than sump pumps could respond, and many of those basements were finished spaces beneath century-old Victorians and Tudors with stone foundations never designed to hold back that kind of hydrostatic pressure. If you're dealing with standing water in your basement right now, The Restoration Group is available 24/7 and dispatches from Kenilworth to the 07450 ZIP code around the clock.
 

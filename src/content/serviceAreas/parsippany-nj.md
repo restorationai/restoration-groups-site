@@ -17,7 +17,7 @@ area_slug: "parsippany-nj"
 city: "Parsippany"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Lake Hiawatha split-level at 2 a.m. or a sprinkler head discharges in a Waterview office suite on a Sunday, The Restoration Group dispatches from Kenilworth around the clock, extracting water, drying structural cavities, remediating mold, and managing fire and smoke damage for homeowners, landlords, and commercial property managers across Parsippany-Troy Hills. One call to (844) 808-8838 starts the process.
 

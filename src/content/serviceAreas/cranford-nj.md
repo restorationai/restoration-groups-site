@@ -17,7 +17,7 @@ area_slug: "cranford-nj"
 city: "Cranford"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When the Rahway River climbs its banks or a storm sewer backs up into a finished basement, Cranford homeowners need a crew that already knows the neighborhood, not one reading a map for the first time. The Restoration Group responds to water damage, mold, fire, and structural emergencies across Cranford's 07016 ZIP code around the clock, dispatching from our Kenilworth headquarters just a few minutes east on Route 28. We document losses for NFIP claims and private carriers, handle the drying and remediation, and stay on-site until the job is done right.
 

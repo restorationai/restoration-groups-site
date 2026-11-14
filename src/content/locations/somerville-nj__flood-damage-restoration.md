@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Somerville"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Raritan River backs up or Peters Brook overflows its banks during a heavy nor'easter, the low-lying streets of Somerville fill fast, and the borough's stock of century-old frame two-families and Victorian colonials soaks up that water in ways that newer construction simply doesn't. Finished basements with cast-iron drains, plaster-over-lath walls, and galvanized supply lines that have been quietly corroding for decades all become liabilities the moment floodwater crosses the threshold. The Restoration Group responds 24/7 to flood damage calls across Somerville (08876) and the surrounding area, moving quickly to stop the clock on a loss that compounds by the hour.
 

@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Hackensack"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a pipe lets go inside one of Hackensack's stacked Prospect Avenue high-rises or a nor'easter pushes the Hackensack River into a Southside basement, the damage doesn't wait for business hours, and neither do we. The Restoration Group responds 24/7 to water emergencies across Hackensack (07601 and 07602), extracting standing water, drying structural cavities, and documenting every affected square foot so your insurance claim has what it needs from day one.
 

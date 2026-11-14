@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Jersey City"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Jersey City's mold problem isn't just about humidity, it's about what happens when a city built on tidal wetlands, reshaped by two catastrophic storms, and packed with century-old rowhouses gets wet and stays wet. Whether it's a basement in Bergen-Lafayette that backed up during Ida, a stacked condo unit at Newport where a riser leak crept silently behind drywall for weeks, or a Heights brownstone with a stone foundation that never fully dries after a hard rain, mold colonizes fast, within 24 to 72 hours of moisture intrusion, and the older the building, the more places it hides.
 

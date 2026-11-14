@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The stretch of postwar split-levels and colonials lining the streets of Colonia and Fords sits on ground that has flooded more than once, most memorably when Hurricane Ida pushed the Rahway River over its banks in 2021 and left finished basements under a foot of standing water for days. Even homes that escaped direct flooding often ended up with mold: moisture wicked up through slab edges, soaked into fiberglass insulation, and colonized drywall cavities long before owners noticed a musty smell or a dark stain near the baseboard. If you're searching for mold remediation in Woodbridge right now, you're likely dealing with exactly that kind of slow, hidden growth, and the clock matters more than most people realize.
 

@@ -19,7 +19,7 @@ city: "Bloomfield"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something traumatic or hazardous happens inside a Bloomfield home, whether in a finished basement off Watsessing Avenue or a second-floor unit in one of the town's many two-family colonials, the cleanup that follows is not a job for a mop and a bottle of bleach. Biohazard situations involving blood, bodily fluids, sharps, or infectious material carry health risks that require proper containment, regulated disposal, and verification that the space is genuinely safe again. The Restoration Group responds 24/7 and handles that process so you don't have to.
 

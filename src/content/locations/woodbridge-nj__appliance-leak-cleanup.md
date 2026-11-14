@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 Woodbridge Township's dense mix of postwar capes, split-levels, and colonials, many built in the 1950s and 1960s with original supply lines still intact, means an appliance leak here rarely stays small. A refrigerator ice maker line that weeps overnight in a Colonia ranch can saturate the subfloor before the homeowner smells anything; a washing machine hose that blows in a finished basement in Fords can push water under laminate flooring and into wall cavities within minutes. When that happens, the clock matters more than anything else, and The Restoration Group is available around the clock to respond.
 

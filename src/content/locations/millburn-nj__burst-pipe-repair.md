@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Millburn"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go inside one of Millburn's century-old Tudors or Short Hills colonials, the damage escalates faster than it would in a newer build. Original cast-iron supply lines and galvanized steel branches, common in the pre-war housing stock throughout Wyoming and Glenwood, corrode from the inside out for decades before they fail without warning. One rupture on a finished basement level can push water into wine cellars, home theaters, and hardwood floors within minutes. The Restoration Group responds 24/7 from Kenilworth, and our team is IICRC Certified Firm #210213, licensed through the NJ Division of Consumer Affairs as a Home Improvement Contractor.
 

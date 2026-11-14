@@ -17,7 +17,7 @@ area_slug: "englewood-nj"
 city: "Englewood"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a finished East Hill basement or a sprinkler discharge floods a Palisade Avenue restaurant at 2 a.m., The Restoration Group responds around the clock, extracting water, drying structural assemblies, remediating mold, and managing reconstruction from start to finish. We handle residential and commercial losses across Englewood's 07631 ZIP code, and we work directly with insurance carriers so property owners aren't left navigating the paperwork alone.
 

@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "North Bergen"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a storm drain backs up under a two-family home on the Tonnelle Avenue corridor or a cast-iron supply line finally gives out in a century-old walkup near Bergenline Avenue, the water doesn't wait for business hours, and in North Bergen's dense, tightly packed housing stock, it rarely stays in one unit. The Restoration Group responds 24/7 to water damage emergencies throughout 07047, bringing IICRC Certified Firm (#210213) technicians, truck-mounted extraction equipment, and a documented drying process that accounts for the specific building conditions found across this township.
 

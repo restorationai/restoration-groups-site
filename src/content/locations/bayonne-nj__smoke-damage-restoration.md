@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Bayonne"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 Smoke from a house fire doesn't stop at the room where the flames were. In Bayonne's tightly packed two- and three-family frame homes, the kind that line block after block from Bergen Point up through Uptown, smoke travels through shared wall cavities, climbs stairwells, and settles into every porous surface within minutes. By the time the fire department clears the scene, the residue is already bonding to plaster, soaking into wood trim, and coating the inside of HVAC ducts. The Restoration Group responds 24/7 to smoke damage calls in Bayonne (07002) and surrounding Hudson County communities.
 

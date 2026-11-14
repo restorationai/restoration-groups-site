@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Irvington"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst galvanized supply line soaks through the floors of a prewar rowhouse near Irvington Center, the damage rarely stops at the structure. Furniture, clothing, documents, electronics, and heirlooms absorb water fast in the tight, layered interiors common to 07111's two- and three-family homes, and once contents sit wet, the clock on mold colonization starts within 24 to 48 hours. Contents restoration and pack-out is the part of recovery most homeowners don't think about until they're standing in a flooded room wondering what can be saved.
 

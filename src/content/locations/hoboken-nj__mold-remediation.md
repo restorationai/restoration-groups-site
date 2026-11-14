@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Hoboken"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Hoboken's position on a former tidal marsh means that when rain overwhelms the combined sewer system, as it did catastrophically during Superstorm Sandy in 2012 and again during Ida in 2021, water doesn't just drain away. It backs up into basements, garden units, and the below-grade mechanical rooms of the dense brownstones and brick rowhomes that line nearly every block of the 07030 ZIP code. Within 24 to 48 hours of that kind of saturation, mold can begin colonizing drywall, wood framing, and insulation. By the time the smell becomes obvious, the colony is already established.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Linden"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Linden's postwar housing stock, dense blocks of 1940s and '50s capes and split-levels from Sunnyside to the West End, holds odors in ways newer construction simply doesn't. Original horsehair plaster, unpainted concrete block basements, and decades of accumulated wood framing give smoke, flood-borne mildew, and sewer gas somewhere to hide long after the visible damage is cleaned up. When a smell lingers after a loss, it almost always means the odor molecules have bonded to a porous surface that a standard cleaning never reached. That's the problem professional deodorization is built to solve.
 

@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Englewood"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or fast-moving summer thunderstorm rolls across Bergen County, Englewood's mix of century-old East Hill estates and tightly packed postwar blocks on the west side takes the hit in very different ways. Mature oaks and maples that shade the older streets near the Dwight-Englewood School corridor become projectiles against slate roofs and wood-framed porches, while the low-lying areas near Flat Rock Brook can go from damp to flooded in under an hour. The Restoration Group responds 24/7 to storm damage calls across Englewood, 07631, and the surrounding Bergen County communities.
 

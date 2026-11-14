@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Manhattan"
 state: "NY"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a radiator valve fails on the 14th floor of a pre-war co-op on the Upper East Side, the water doesn't stop at one unit, it travels through plaster, lath, and century-old pipe chases until ceilings on floors below are sagging and stained. Manhattan water damage moves vertically and fast, and the window between a contained loss and a multi-unit claim is measured in hours, not days. The Restoration Group responds 24/7, bringing IICRC-certified structural drying and water extraction to buildings across the borough, from Financial District high-rises to walk-up apartments in Harlem.
 

@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Hillside"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Hillside's housing stock tells a story in moisture. The 1920s–1950s colonials and two-families packed into neighborhoods like Saybrook and Winans were built before vapor barriers were standard, and their unfinished or semi-finished basements sit directly on slab or rubble-stone foundations that wick groundwater year-round. When Tropical Storm Ida pushed the Elizabeth River over its banks in 2021 and drove sewer backups into those same basements, many homeowners dried out the visible water and moved on, not realizing that mold can begin colonizing porous concrete, wood framing, and fiberglass insulation within 24 to 72 hours of a moisture event. If your basement smelled musty last summer but looked dry by fall, a professional mold inspection and testing assessment is the only way to know what's actually living inside your walls.
 

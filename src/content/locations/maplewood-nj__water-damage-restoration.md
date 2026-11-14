@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Maplewood"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the East Branch of the Rahway River overtops its banks through Memorial Park and into Maplewood Village, as it did catastrophically during Tropical Storm Ida in 2021, the water doesn't just flood streets. It pushes into the stone foundations and finished basements of the 1910s–1930s Tudors and colonials that define this town's housing stock, soaking original plaster walls and saturating decades-old framing before most homeowners realize the scope of what's happened. The Restoration Group responds 24/7 to water damage calls across Maplewood (07040), bringing IICRC-certified drying science to homes that were built long before modern moisture barriers existed.
 

@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Garfield"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a kitchen fire tears through the top floor of a two-family on Belmont Avenue or a nor'easter peels back the roof of a postwar cape near Dahnert's Lake, the window between damage and disaster is measured in hours, not days. Garfield's dense blocks of early-1900s frame construction, many with original wood siding, balloon framing, and finished basements, are especially unforgiving once a structure is open to the elements. Rain through an unprotected roof opening can saturate a finished basement ceiling in a single overnight storm. Emergency board-up and tarping stops that clock.
 

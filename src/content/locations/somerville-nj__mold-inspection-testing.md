@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Somerville"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The older housing stock ringing Somerville's Downtown and West End neighborhoods carries a particular mold risk that newer construction rarely matches: cast-iron drains that sweat condensation into uninsulated basement walls, galvanized supply lines that corrode and weep behind plaster, and finished lower levels that sat under water during Tropical Storm Ida in 2021. If you've noticed a musty smell in a first-floor room, seen discoloration on a basement ceiling, or simply want to know what the air in your home actually contains, a professional mold inspection and testing visit gives you documented answers rather than guesswork.
 

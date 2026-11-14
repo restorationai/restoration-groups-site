@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Manhattan"
 state: "NY"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter stalls over the tristate area or a remnant tropical system drops six inches of rain in an afternoon, Manhattan's density turns ordinary storm damage into a vertical cascade. A compromised roof membrane on a Chelsea walk-up soaks through five floors before anyone smells the damp; a downed tree limb on the Upper West Side punches through a bay window and leaves a gut-renovated prewar apartment exposed to a second night of rain. The Restoration Group responds 24/7 to storm damage across Manhattan, from the Financial District to Harlem, and we understand how this borough's building stock, board rules, and sheer density change what "cleanup" actually means.
 

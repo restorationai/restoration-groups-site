@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter peels back a section of roof on a 1960s colonial off Old Bridge Turnpike, or a kitchen fire blows out windows on a split-level near Frost Woods, the clock starts immediately, not on the damage you can see, but on the damage that follows. Rain, wind, and opportunistic intruders don't wait for business hours, and in East Brunswick's dense mix of aging postwar ranches and newer townhome clusters, an unprotected opening can turn a contained incident into a weeks-long restoration. The Restoration Group responds 24/7 to board-up and tarping calls across East Brunswick, securing your property fast so the scope of loss stays as narrow as possible.
 

@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a supply line fails on the 18th floor of a Palisades high-rise, water doesn't stop at one unit, it travels down through concrete decking, into electrical chases, and into the apartments of neighbors who had nothing to do with the original break. That vertical cascade is the defining water-damage pattern in Fort Lee, and it demands a response that understands stacked-unit buildings, HOA claim chains, and the specific materials those towers were built with. The Restoration Group dispatches 24/7 from Kenilworth and is an IICRC Certified Firm (#210213), licensed by the NJ Division of Consumer Affairs.
 

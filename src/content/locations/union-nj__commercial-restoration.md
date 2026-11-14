@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Union"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head discharges overnight in a Route 22 big-box tenant space, or a roof drain backs up during a hard summer storm and soaks the stockroom of a Union Center retailer, the clock starts immediately, not just on the water damage itself, but on lost revenue, liability exposure, and the timeline before secondary damage sets in. Union Township's commercial corridor runs from dense strip retail along Route 22 through the office and service businesses clustered in the Union Center business district, and the mix of aging infrastructure, flat commercial rooflines, and proximity to Rahway River tributaries creates a specific set of risks that generic restoration firms aren't always prepared to handle.
 

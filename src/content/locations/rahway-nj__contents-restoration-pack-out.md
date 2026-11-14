@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Rahway"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Rahway River backs up into a finished basement on Milton Lake Road or a sprinkler line lets go in one of the mixed-use buildings near the train station, the damage rarely stops at the structure. Furniture, clothing, documents, family heirlooms, and business inventory absorb smoke, soot, and floodwater fast, and once they do, the clock on salvageability starts running. Contents restoration and pack-out is the discipline of stopping that clock: removing belongings from a compromised environment, inventorying them precisely, cleaning and restoring what can be saved, and returning everything once the structure is dry and safe. For Rahway property owners in ZIP code 07065, that process needs to account for the specific conditions that make losses here different from a generic suburban claim.
 

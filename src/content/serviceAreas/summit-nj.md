@@ -17,7 +17,7 @@ area_slug: "summit-nj"
 city: "Summit"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When water is seeping through a finished basement ceiling in the Franklin School area or smoke has worked its way into plaster walls near Springfield Avenue downtown, Summit homeowners need a crew that understands what they're walking into, not just the damage, but the house. The Restoration Group responds to water, fire, mold, and storm emergencies across Summit's 07901 ZIP code, handling high-value millwork, period hardwood floors, and irreplaceable furnishings with the same care we bring to the technical side of drying and reconstruction.
 

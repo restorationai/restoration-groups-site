@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Springfield"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When Ida's remnants pushed the Rahway River's west branch over its banks in 2021, the Route 22 commercial strip in Springfield didn't just flood, it shut down. Restaurants, retail storefronts, and professional offices along that corridor sat under inches of standing water while owners scrambled to figure out what came next. Commercial losses in Springfield follow a pattern that's different from a residential claim: the clock doesn't just measure drying time, it measures lost revenue, displaced employees, and lease obligations that keep running whether the building is open or not. That's the pressure The Restoration Group works inside every time we respond to a commercial loss here in 07081.
 

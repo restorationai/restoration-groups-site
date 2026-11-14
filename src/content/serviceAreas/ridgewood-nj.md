@@ -17,7 +17,7 @@ area_slug: "ridgewood-nj"
 city: "Ridgewood"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts behind a finished wall in a Willard-area Tudor or the Ho-Ho-Kus Brook backs into a Heights basement overnight, Ridgewood homeowners need a restoration crew that already understands the house, not one learning it on the job. The Restoration Group responds around the clock to water damage, fire and smoke damage, mold remediation, and reconstruction throughout Ridgewood's 07450 ZIP code, dispatching from our Kenilworth base to get hands on the problem fast.
 

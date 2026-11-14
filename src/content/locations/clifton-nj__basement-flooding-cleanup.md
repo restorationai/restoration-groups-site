@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Clifton"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When Weasel Brook backs up or the Passaic River crests its banks near Lakeview and Delawanna, water doesn't politely stop at the foundation wall. It finds every crack in a 1950s poured-concrete basement, every gap around an aging cast-iron cleanout, and every low point in a finished rec room floor, and it moves fast. The Restoration Group responds to basement flooding emergencies in Clifton around the clock, extracting standing water, drying structural materials, and documenting the loss for your insurance carrier before secondary damage sets in.
 

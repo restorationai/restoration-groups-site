@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Carteret"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 **Water damage emergency in Carteret?** Call (844) 808-8838. We answer 24/7, and our crews work from Kenilworth down through the Arthur Kill corridor regularly, so we understand what water does to a low-lying industrial waterfront town differently than it does ten miles inland. Whether it's a burst supply line in a Carteret Avenue rowhouse or storm surge pushing into a crawlspace near the refinery corridor, the clock matters more here than in most towns we serve.
 

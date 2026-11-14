@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Piscataway"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go in January in Piscataway, and the overnight low has been sitting in the teens for three days straight, the water doesn't wait for business hours. It moves fast through finished basement ceilings, soaks into the subfloor above, and starts wicking into drywall before you've had a chance to find the main shutoff. The Restoration Group responds 24/7 from Kenilworth, reaching most of Piscataway in under an hour, and we handle the full scope: emergency water extraction, structural drying, and the pipe repair itself, so you're not coordinating two separate contractors while the damage spreads.
 

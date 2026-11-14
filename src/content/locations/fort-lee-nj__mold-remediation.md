@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Fort Lee's stack of high-rise condominiums along the Palisades creates a mold exposure pattern unlike almost anywhere else in Bergen County. When a supply line fails on the 18th floor of a tower near Hudson Lights or along the Main Street corridor, water migrates through concrete slab joints and drywall cavities across multiple units below before anyone notices the stain on a ceiling. By the time a resident in 07024 calls, mold colonies can already be establishing in wall cavities, spores take as little as 24 to 48 hours to begin colonizing wet cellulose materials.
 

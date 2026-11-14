@@ -19,7 +19,7 @@ city: "Englewood"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Englewood's housing stock runs the full spectrum, from the grand early-twentieth-century estates on East Hill to the dense postwar multifamily buildings in the Fourth Ward and West Englewood, and when a biohazard situation arises in any of them, the structural realities of the building matter as much as the cleanup itself. The Restoration Group responds 24/7 to biohazard incidents across Englewood's 07631 ZIP code, bringing IICRC-certified technicians and proper containment protocols to a call that is almost always one of the hardest a property owner or manager will make.
 

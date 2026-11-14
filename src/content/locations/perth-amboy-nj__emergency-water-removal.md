@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 Perth Amboy sits at the confluence of the Raritan River and Raritan Bay, and that geography is not abstract when a nor'easter pushes tidal water into Waterfront district basements or a summer cloudburst overwhelms the aging storm drains serving the dense frame two- and three-families along the Budapest and Dunham Heights corridors. When water is moving through your floors, walls, or crawlspace, the clock matters more than the brochure, call The Restoration Group at (844) 808-8838 and we will dispatch a crew around the clock for emergency water removal.
 

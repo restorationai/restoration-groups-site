@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Teaneck"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A house fire in Teaneck doesn't just leave char and ash, it leaves behind decades of accumulated history baked into the walls. Many of the brick Tudors and center-hall colonials that line the streets near the Grange and West Teaneck were built in the 1920s and 1930s, and when they burn, the smoke doesn't behave the way it does in newer construction. It penetrates horsehair plaster, migrates through knob-and-tube cavities, and settles into finished basement ceilings that were never designed to be opened. The Restoration Group responds 24/7 to fire losses across Teaneck (07666) and begins stabilizing the structure the same night.
 

@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Linden"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a supply line lets go inside one of Linden's postwar capes or split-levels, the kind stacked tight along Sunnyside's residential blocks, water doesn't stay in the utility room. It travels fast through finished basement ceilings, saturates the subfloor above, and reaches drywall cavities before most homeowners realize the pipe has failed. The Restoration Group operates out of Kenilworth, minutes away, and responds to burst pipe emergencies in Linden 24/7, handling both the water damage cleanup and the pipe repair under one call to (844) 808-8838.
 

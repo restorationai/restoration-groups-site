@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Highland Park"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up in a Highland Park colonial or two-family on a street like Livingston Manor or the Triangle neighborhood, the problem is rarely just a clogged drain. The borough's dense stock of pre-war and early-postwar homes, many built between 1910 and the 1940s, still runs original cast-iron drain lines that have spent decades corroding from the inside out. When those lines fail, raw sewage doesn't just pool on a basement floor; it saturates finished framing, wicks into concrete block, and begins generating dangerous pathogens within hours. The Restoration Group operates 24/7 and can dispatch directly from its Kenilworth location to Highland Park addresses in 08904 any time a backup turns critical.
 

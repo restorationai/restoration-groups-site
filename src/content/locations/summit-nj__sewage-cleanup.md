@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Summit"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 Summit's clay sewer laterals run beneath streets shaded by century-old oaks whose roots have had generations to infiltrate the joints. When one of those laterals backs up, and in the 07901 ZIP code, they do, especially after a heavy rain drives groundwater into aging pipe seams, raw sewage doesn't just pool in a utility corner. In Summit's deep, finished basements, it saturates hardwood floors, wicks into plaster walls, and reaches custom millwork that took craftsmen months to install. The Restoration Group responds 24/7 and arrives ready for the specific demands these homes place on a cleanup crew.
 

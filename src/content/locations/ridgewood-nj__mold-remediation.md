@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 When the Ho-Ho-Kus Brook overtopped its banks during Ida in 2021, dozens of Ridgewood basements filled with floodwater that sat for days before pumps could keep up. That standing water, in finished lower levels beneath century-old Victorians and Tudors throughout the village, created exactly the warm, damp, organic-rich environment where mold colonies establish within 24 to 48 hours. If your home in the 07450 ZIP code has shown discoloration on drywall, a persistent musty odor, or visible growth since any water event, professional mold remediation is the only way to know the problem is fully resolved.
 

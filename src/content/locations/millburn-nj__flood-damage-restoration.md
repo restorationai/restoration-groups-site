@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Millburn"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the West Branch of the Rahway River crests through downtown Millburn, as it did catastrophically during Hurricane Ida in 2021, the flooding doesn't stop at the riverbank. It backs into basements along Millburn Avenue, pushes through foundation walls in the Wyoming and Glenwood neighborhoods, and soaks the finished lower levels of century-old colonials and Tudors that were never designed to shed that kind of hydrostatic pressure. The Restoration Group responds 24/7 to flood losses across Millburn and Short Hills (ZIP codes 07041 and 07078), arriving with the extraction equipment and drying systems the size and age of these homes demand.
 

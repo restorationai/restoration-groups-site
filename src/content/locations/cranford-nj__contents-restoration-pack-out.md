@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Cranford"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Rahway River climbs its banks through the Riverside Drive area, as it did during Floyd, Irene, and Ida, the water doesn't just damage floors and walls. It soaks into furniture, saturates upholstered pieces, warps wood heirlooms, and carries silt into closets full of clothing and keepsakes. Contents restoration and pack-out exists precisely for moments like these: getting your belongings out of a compromised structure quickly, cleaning and restoring what can be saved, and storing everything securely while the building itself is dried and repaired. For homeowners in 07016, that sequence matters as much as the structural work itself.
 

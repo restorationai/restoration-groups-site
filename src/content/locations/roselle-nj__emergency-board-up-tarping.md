@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Roselle"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a summer storm stalls over Union County and drops three inches of rain in two hours, Roselle's tight-lot streets drain slowly, and the older wood-frame Victorians and postwar capes clustered near Warinanco Park are especially exposed. A broken window from windblown debris, a roof section peeled back by a microburst, or a fire that vents through an attic all leave a structure open to the elements within minutes. Emergency board-up and tarping stops that exposure clock before secondary damage, water intrusion, looting, or liability, compounds the original loss. The Restoration Group dispatches from Kenilworth around the clock, reaching Roselle addresses in 07203 as conditions allow.
 

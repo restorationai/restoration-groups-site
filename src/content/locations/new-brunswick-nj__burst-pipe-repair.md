@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 New Brunswick's older housing stock has a way of making pipe failures personal. A supply line that held through forty winters in a Robeson Village rowhouse can let go on a Tuesday night in January, and by morning the water has traveled two floors before anyone notices the ceiling. Whether it's a freeze-burst in a pre-war multifamily near Rutgers University or a pressurized line failure in a George Street commercial space, the window between the break and serious structural damage is measured in hours, not days. The Restoration Group responds 24/7 from Kenilworth, NJ, and carries IICRC Certified Firm credentials (#210213) to handle the full scope: emergency shutoff coordination, water extraction, structural drying, and pipe repair.
 

@@ -17,7 +17,7 @@ area_slug: "chatham-nj"
 city: "Chatham"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 The Restoration Group provides water, fire, storm, and mold restoration for homes and businesses throughout Chatham, dispatched from our Kenilworth headquarters. We document losses for insurance, work directly with adjusters, and handle everything from emergency water extraction to the reconstruction that follows a fire or burst pipe. Property owners call us when a problem needs more than a mop and a fan, and they need someone who understands both the building and the claims process.
 

@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 A pipe that lets go in January inside a finished basement on the Heights or West Side of Ridgewood doesn't announce itself quietly, it announces itself with soaked drywall, ruined hardwood, and a water heater sitting in two inches of standing water before you've had your first cup of coffee. Ridgewood's housing stock is dominated by early-1900s Victorians, Tudors, and colonials whose original galvanized and cast-iron supply lines were never designed to last a century. When one finally fails, the damage moves fast and the cleanup has to move faster. The Restoration Group responds 24/7 from Kenilworth, and our IICRC Certified Firm (#210213) crews carry the drying equipment and pipe-repair capability to stop the loss and start the recovery in a single mobilization.
 

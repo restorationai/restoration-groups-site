@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Piscataway"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Society Hill townhome or a garage blaze in one of Piscataway's postwar split-levels along Stelton Road leaves behind more than char, smoke residue migrates through HVAC ductwork, soaks into wall cavities, and etches surfaces within hours. The Restoration Group responds 24/7 from our Kenilworth base, reaching Piscataway ZIP codes 08854 and 08855 to stop secondary damage before it compounds the original loss.
 

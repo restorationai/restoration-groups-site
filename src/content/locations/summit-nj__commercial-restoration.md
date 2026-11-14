@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Summit"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a burst supply line floods the lower level of a Springfield Avenue office building at 2 a.m., or a kitchen fire chars the back corridor of a Downtown Summit retail space, the recovery timeline is measured in days of lost revenue, not just square footage of damaged material. Summit's commercial building stock is a particular challenge: many of the city's most active professional offices, medical suites, and mixed-use storefronts occupy structures built between 1890 and 1940, with plaster walls, original cast-iron plumbing, and finished basements that were never designed to shed water quickly. The Restoration Group responds 24/7 to commercial losses throughout Summit, bringing the equipment and documentation discipline that complex, high-value properties demand.
 

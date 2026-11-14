@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Parsippany"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in Lake Hiawatha, the clock starts immediately, raw sewage carries Category 3 water contamination that soaks into drywall, subfloor framing, and insulation within hours. Parsippany-Troy Hills' concentration of postwar split-levels and cape cods, many built in the 1950s and 60s with original cast-iron drain stacks, makes that scenario more common than homeowners expect. The Restoration Group responds 24/7 to sewage backup emergencies across Parsippany (ZIP 07054 and 07005), extracting waste, removing compromised materials, and sanitizing to a documentable standard before any reconstruction begins.
 

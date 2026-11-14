@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Union"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The postwar capes and split-levels packed into Union's Battle Hill and Vauxhall neighborhoods were built fast, built tight, and built with original supply plumbing that's now pushing 60 to 80 years old. When those galvanized lines or cast-iron drains fail quietly inside a finished basement, and in Union's housing stock, most basements are finished, moisture can colonize wall cavities for weeks before anyone smells it. A professional mold inspection and testing visit gives you a documented picture of what's actually in the air and behind the surfaces, not just what's visible from the doorway.
 

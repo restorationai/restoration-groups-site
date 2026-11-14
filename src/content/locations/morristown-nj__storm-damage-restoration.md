@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Morristown"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter stalls over Morris County or a fast-moving thunderstorm drops a century-old oak onto a Victorian roofline near the Green, the damage compounds quickly, water follows the path of least resistance through slate and wood-shake roofs that were never designed for today's rainfall intensities. The Restoration Group responds 24/7 to storm damage across Morristown's 07960 and 07963 ZIP codes, from the brick colonials clustered around Morristown National Historical Park to the newer mid-rise apartments rising along the downtown corridors.
 

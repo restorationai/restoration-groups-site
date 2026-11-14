@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Maplewood"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When the East Branch of the Rahway River overtops its banks, as it did with devastating force during Ida in 2021, the commercial corridor running through Maplewood Village and the blocks surrounding the train station can go from open for business to shuttered in hours. Water doesn't wait for a convenient moment, and neither does smoke, mold, or a burst cast-iron drain line. The Restoration Group responds to commercial losses across Maplewood 24/7, bringing the kind of structured, documented process that gets businesses back to operating, and satisfies insurance adjusters, faster than a patchwork of subcontractors ever could.
 

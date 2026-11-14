@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Bayonne"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter tears shingles off a Bergen Point rowhouse at 2 a.m., or a kitchen fire blows out windows in a Constable Hook two-family, the clock starts immediately, not on repairs, but on weather exposure. Bayonne's position on a narrow peninsula between Newark Bay and the Kill Van Kull means wind-driven rain and salt air can push through an unprotected opening within hours, turning a contained loss into saturated framing, buckled floors, and a mold timeline that begins in as little as 24 to 48 hours. The Restoration Group responds around the clock from our Kenilworth base to board up openings, secure roof breaches, and tarp storm-damaged structures before the next weather event compounds the damage.
 

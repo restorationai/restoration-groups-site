@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 When fire tears through one of Perth Amboy's dense blocks of late-1800s frame two- and three-families, the damage compounds fast. Old-growth wood framing chars deeply, balloon-frame wall cavities funnel smoke from the basement to the attic in minutes, and the tight lot spacing means embers can threaten an adjacent structure before the fire department clears the scene. The Restoration Group responds 24/7 from Kenilworth, call (844) 808-8838 the moment the fire marshal releases the property.
 

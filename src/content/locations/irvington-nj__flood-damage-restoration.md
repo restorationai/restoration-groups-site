@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Irvington"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida swept through Essex County in 2021, basements across Irvington filled faster than sump pumps could react, and the tight rows of early-1900s two- and three-family homes along streets like Union Avenue gave that water nowhere to go but deeper into finished lower levels. Flood damage in a densely built township like Irvington moves differently than it does in newer suburban construction, and cleaning it up correctly requires understanding exactly what's behind those walls and under those floors. The Restoration Group responds 24/7 and can be reached at (844) 808-8838 the moment you realize the water isn't stopping.
 

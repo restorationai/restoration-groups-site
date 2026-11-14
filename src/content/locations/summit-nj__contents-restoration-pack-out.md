@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Summit"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst radiator line or a clay sewer backup soaks through the finished basement of a century-old Summit colonial, the damage rarely stops at the walls. Antique furniture, Persian rugs, built-in millwork, and family heirlooms absorb water and smoke the same way the plaster does, slowly and deeply. Contents restoration and pack-out in Summit requires a different level of care than a standard suburban job: the homes are older, the contents are often irreplaceable, and the families who own them expect every piece to come back the way it left.
 

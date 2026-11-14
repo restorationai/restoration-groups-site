@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Clifton"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a fast-moving nor'easter or a remnant tropical system stalls over Passaic County, Clifton absorbs the hit in ways that neighboring towns don't. The Passaic River and Weasel Brook converge near the city's eastern and southern edges, and when either one overruns its banks, as both did during Irene in 2011 and Ida in 2021, low-lying streets in Lakeview and Delawanna flood before county emergency alerts even go out. If your home or building took on storm damage overnight, The Restoration Group is reachable around the clock at (844) 808-8838.
 

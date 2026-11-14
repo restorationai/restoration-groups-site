@@ -17,7 +17,7 @@ area_slug: "wayne-nj"
 city: "Wayne"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Packanack Lake split-level or floodwater pushes through the basement door of a Mountain View colonial, The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all coordinated under one call to (844) 808-8838. We handle both residential and commercial losses across Wayne's 07470 and 07474 ZIP codes, and we bill insurance carriers directly so you're not managing that paperwork alone during the worst week of the year.
 

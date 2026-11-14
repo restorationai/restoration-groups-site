@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Paramus"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The postwar split-levels and colonials packed into West Paramus and the ranch homes lining the streets near Van Saun County Park were built in an era before modern vapor barriers and ventilation standards, and when smoke, mold, or sewer gas works its way into that older construction, it doesn't just sit on surfaces. It saturates the wood framing, the plaster lath, and the finished basement drywall that so many Bergen County homeowners added decades after original construction. The Restoration Group's odor removal and deodorization crews handle exactly that kind of embedded, persistent smell, the kind that survives a coat of paint and still greets you at the front door.
 

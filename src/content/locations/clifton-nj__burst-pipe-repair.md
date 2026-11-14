@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Clifton"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Burst pipe or leak in Clifton? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to stop the water and start the cleanup.

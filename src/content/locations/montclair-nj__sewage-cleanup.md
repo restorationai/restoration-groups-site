@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Montclair"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When the cast-iron drain stack in a century-old Upper Montclair Victorian backs up, the result isn't just an inconvenience, raw sewage can spread across finished hardwood floors, soak into plaster walls, and pool in the basement before a homeowner realizes what's happening. Montclair's aging sewer infrastructure, combined with the flash-flood vulnerability that Tropical Storm Ida made painfully clear in 2021, means sewage backups here carry a particular urgency. The Restoration Group responds 24/7, dispatching from Kenilworth to begin extraction, disinfection, and controlled drying before contamination spreads further.
 

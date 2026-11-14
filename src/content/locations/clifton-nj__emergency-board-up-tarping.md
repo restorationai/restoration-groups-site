@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Clifton"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a fire tears through a cape on Clifton's postwar streets or a nor'easter peels back the flashing on a Botany Village brick two-family, the window between the initial damage and the next wave of loss, rain, vandalism, secondary collapse, can be measured in hours. Emergency board-up and tarping is the work that closes that window, and in a city where housing stock runs deep into the 1940s and '50s and the weather off the Watchung ridgeline doesn't wait for business hours, getting it done right the first time matters. The Restoration Group dispatches 24/7 from Kenilworth, reaching Clifton addresses any time the call comes in.
 

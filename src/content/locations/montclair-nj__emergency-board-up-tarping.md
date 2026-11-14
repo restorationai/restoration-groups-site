@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Montclair"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 A nor'easter tears a slate tile off a Victorian roof on Upper Montclair's tree-lined streets at 11 p.m., or a kitchen fire blows out a window in a century-old Tudor near Watchung Plaza, in either case, every hour the opening stays exposed multiplies the damage inside. The Restoration Group dispatches board-up and tarping crews around the clock from Kenilworth, reaching Montclair's neighborhoods to seal openings before rain, wind, or opportunistic entry turns a manageable loss into a gut-renovation.
 

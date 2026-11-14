@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Highland Park"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Need an emergency board-up in Highland Park? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to secure broken windows, doors and roofs.

@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Morristown"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst supply line soaks the parlor of a Victorian on Speedwell Avenue, or a roof leak works its way into the finished basement of a colonial near the Green, the damage to the building is only half the story. The furniture, artwork, clothing, documents, and heirlooms inside absorb smoke, soot, water, and mold at their own pace, and they need a different kind of care than the structure around them. Contents restoration and pack-out is the process of inventorying, removing, cleaning, and returning those belongings, and in a town where housing stock ranges from 19th-century brick multifamily to brand-new luxury high-rises, that process looks different on every job.
 

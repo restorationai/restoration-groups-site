@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Paramus"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a supply line lets go inside a 1960s split-level in West Paramus on a January night, the water doesn't wait for business hours. Postwar copper and galvanized steel plumbing, standard in the ranches and colonials that fill Bergen County's most densely zoned township, corrodes from the inside out over decades, and the first sign of failure is often a flooded finished basement or a ceiling that's already sagging. The Restoration Group responds 24/7 from Kenilworth, reaching Paramus addresses quickly via Route 3 to Route 17 or the Garden State Parkway to Forest Avenue, and our IICRC Certified Firm (#210213) crews carry the drying and repair equipment needed to stop the damage from compounding.
 

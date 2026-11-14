@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a water line fails inside one of Fort Lee's high-rise towers along the Palisades, the damage rarely stays in one unit. Gravity and shared plumbing chases carry the loss downward through stacked floors, soaking drywall, saturating concrete subfloors, and triggering secondary claims in units the original tenant never met. The Restoration Group responds 24/7 to flood damage across Fort Lee's 07024 ZIP code, from the dense residential corridors near the George Washington Bridge to the older multifamily homes tucked into Coytesville and The Hill.
 

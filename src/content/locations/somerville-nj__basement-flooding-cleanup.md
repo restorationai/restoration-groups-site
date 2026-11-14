@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Somerville"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Raritan River swells after a heavy rain, as it did during Tropical Storm Ida in 2021, basements across Somerville's West End and Fairview neighborhoods can take on water within hours. But river flooding isn't the only threat. The borough's dense stock of early-1900s frame two-families and Victorians carries aging galvanized supply lines and cast-iron drain stacks that fail quietly behind finished walls, turning a slow seep into standing water overnight. The Restoration Group responds 24/7 to flooded basements throughout Somerville (08876), extracting water, drying structural materials, and documenting everything your insurance adjuster will need.
 

@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a kitchen fire tears through a two-family frame on Elmora Avenue or a nor'easter peels back a flat roof in Elizabethport, the window between damage and disaster is measured in hours, not days. Elizabeth's dense stock of early-1900s multifamily housing means a single compromised opening can expose shared walls, common stairwells, and multiple households to rain, wind, and opportunistic entry simultaneously. The Restoration Group dispatches board-up and tarping crews around the clock from our Kenilworth shop, roughly ten minutes from most Elizabeth ZIP codes, to close that window fast.
 

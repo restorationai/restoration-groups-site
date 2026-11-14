@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Watchung"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 **Water damage in a Watchung basement rarely stays where it started.** The borough sits across the ridgelines of the Watchung Mountains, where thin topsoil over basalt bedrock means storm runoff has nowhere to go but downhill, often straight toward the foundations built into those slopes. When a sump pump fails or a pipe bursts here, the water finds the lowest point in the house fast, and it stays there until someone pulls it out. We answer calls 24/7 and start extraction as soon as we're on site.
 

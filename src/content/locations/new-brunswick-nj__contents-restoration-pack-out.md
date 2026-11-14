@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst supply line or a Raritan River flood event soaks a New Brunswick apartment, the damage rarely stops at the walls. Furniture, clothing, documents, electronics, and irreplaceable personal items absorb smoke, soot, and contaminated water within hours, and in the dense rowhouses and multifamily buildings near Rutgers University, those belongings are often stacked close together, making on-site drying nearly impossible. Contents restoration and pack-out service exists precisely for this gap: getting your property out of harm's way so it can be properly cleaned, deodorized, and restored while structural work proceeds.
 

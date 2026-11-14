@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Millburn"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Short Hills Tudor or a sprinkler discharge at a Millburn Avenue retail space leaves behind more than visible char, smoke residue penetrates plaster, infiltrates HVAC ductwork, and embeds itself in the dense wood millwork that defines this area's older estate homes. The Restoration Group responds 24/7 from Kenilworth, reaching Millburn properties in the 07041 and 07078 ZIP codes to begin smoke damage restoration before odors set and soot acids etch irreplaceable surfaces.
 

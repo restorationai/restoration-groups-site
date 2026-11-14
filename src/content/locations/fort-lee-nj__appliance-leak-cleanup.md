@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 When a dishwasher supply line fails or a refrigerator ice maker drips unnoticed behind a cabinet in one of Fort Lee's high-rise towers along the Palisades, the water rarely stays in one unit. It finds the floor penetrations, the elevator shafts, the shared mechanical chases, and by the time a neighbor on the floor below notices a ceiling stain, the damage has already spread vertically through two or three units. The Restoration Group responds 24/7 to appliance leak emergencies throughout Fort Lee (07024), from the dense condo corridors near Hudson Lights to the older multifamily homes tucked into Coytesville.
 

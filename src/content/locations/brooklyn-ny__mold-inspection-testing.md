@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Brooklyn"
 state: "NY"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Brooklyn's brownstone belt sits on some of the most mold-hospitable real estate in the Northeast. Garden-level and cellar apartments in Park Slope and Brooklyn Heights routinely see standing water after heavy rain events, the kind of flooding that became citywide news when Hurricane Ida dropped more than three inches in a single hour. In masonry rowhouses built between 1880 and 1920, that moisture doesn't evaporate the way it does in modern construction; it wicks into brick, lath, and plaster, then feeds hidden mold colonies for weeks before anyone notices a smell. If you're searching for mold inspection and testing in Brooklyn, the building you're in probably has a story worth uncovering.
 

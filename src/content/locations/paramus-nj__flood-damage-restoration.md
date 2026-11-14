@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Paramus"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida swept through Bergen County in September 2021, basements across Paramus filled faster than sump pumps could react, and the postwar split-levels and ranches that line the streets of West Paramus and Arcola were hit especially hard. Flood damage in a finished 1960s basement isn't just a wet-carpet problem; it's saturated fiberglass insulation, swollen door frames, compromised drywall, and a narrow window before microbial growth takes hold. The Restoration Group responds 24/7 from Kenilworth, reaching Paramus addresses quickly to stop the clock on secondary damage.
 

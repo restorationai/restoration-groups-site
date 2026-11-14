@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Union"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a summer storm rolls off the Rahway River tributaries and punches through a roof on Vauxhall Road, or a kitchen fire blows out windows in one of Union Township's postwar colonials, the clock starts immediately. Exposed openings invite rain, vandalism, and liability, and in a town built largely on finished basements, a single night of unprotected storm damage can push water down through floor systems into living space that took decades to finish. The Restoration Group dispatches board-up and tarping crews 24/7 from our Kenilworth base, putting us minutes from nearly every corner of Union Township.
 

@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Plainfield"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When Green Brook or Cedar Brook backs up after a heavy rain, Plainfield basements fill faster than most homeowners expect, and in a city where finished lower levels are the norm and Victorian-era plumbing is still doing daily work, that water doesn't stay contained to one corner. The Restoration Group provides emergency water removal and cleanup 24/7 from our Kenilworth location, reaching Plainfield ZIP codes 07060, 07062, and 07063 to extract standing water, dry structural assemblies, and document losses before secondary damage sets in.
 

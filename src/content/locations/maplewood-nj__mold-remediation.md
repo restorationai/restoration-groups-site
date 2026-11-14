@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Maplewood"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The stone foundations and finished basements that give Maplewood's 1920s Tudors and craftsman bungalows their character are also the reason mold calls come in year-round here. When the East Branch of the Rahway River overtops during a major storm, as it did catastrophically during Ida in 2021, flooding Maplewood Village and the low-lying streets around it, water doesn't just drain away. It seeps through century-old mortar joints, saturates original plaster, and sits in finished lower levels for days. Within 24 to 48 hours, mold colonies can establish. The Restoration Group responds 24/7 to mold emergencies throughout Maplewood (07040), bringing IICRC-certified remediation, Firm #210213, to homes that need more than a bleach wipe-down.
 

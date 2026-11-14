@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Montclair"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Victorian on a tree-lined Upper Montclair street leaves behind more than char and ash, the plaster walls, original wood lath, and century-old millwork absorb smoke and soot in ways that modern drywall simply doesn't. When a fire tears through one of Montclair's older homes, the damage compounds quickly: smoke migrates through gaps in plaster, odor embeds in horsehair insulation, and soot deposits settle into ornate trim that can't simply be swapped out at a lumber yard. The Restoration Group responds 24/7 from Kenilworth, NJ, and our IICRC Certified Firm team (Firm #210213) is equipped to handle the specific demands of Montclair's historic housing stock.
 

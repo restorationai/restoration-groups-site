@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Manhattan"
 state: "NY"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a supply line fails on the 22nd floor of a Midtown office tower, the damage doesn't stop at the ceiling tiles, it migrates down through electrical conduits, elevator shafts, and the server room two floors below before anyone pulls the shutoff. Commercial losses in Manhattan move fast and compound in ways that rarely happen in single-story suburban buildings. Every hour a law firm, restaurant, or retail space sits closed is revenue that doesn't come back, which is why The Restoration Group operates around the clock and mobilizes crews to Manhattan addresses day or night.
 

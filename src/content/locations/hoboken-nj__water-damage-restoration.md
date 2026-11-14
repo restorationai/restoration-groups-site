@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Hoboken"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 Hoboken sits on a low-lying strip of former tidal marsh between the Hudson River and the Palisades, and that geography never lets the city forget it. Whether it's a nor'easter overwhelming the combined sewer system and pushing water up through basement floor drains in Southwest Hoboken, a burst pipe in a century-old brownstone party-wall stack, or a roof leak soaking the top floor of a waterfront high-rise, water moves fast through dense urban buildings, and the damage compounds by the hour. The Restoration Group responds 24/7 across Hoboken's 07030 ZIP code, bringing IICRC-certified water damage restoration to properties that range from below-grade garden units to multi-story mixed-use buildings.
 

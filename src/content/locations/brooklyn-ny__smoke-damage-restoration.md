@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Brooklyn"
 state: "NY"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 Smoke from a kitchen fire in a Park Slope brownstone doesn't behave the way it does in a ranch house. It travels up through original plaster walls, settles into pressed-tin ceilings, seeps behind wainscoting, and finds every gap in century-old woodwork before you've even called for help. Brooklyn's dense rowhouse stock, much of it built between 1880 and 1920, holds smoke residue in ways that demand a different approach than a cookie-cutter cleanup. The Restoration Group responds 24/7 to smoke damage calls across Brooklyn, from Williamsburg lofts to Canarsie two-families, with the documentation your insurer and co-op board will actually accept.
 

@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Livingston"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The Canoe Brook watershed that threads through Livingston doesn't just flood basements during storms like Ida, it keeps soil moisture elevated for weeks afterward, and that persistent dampness is exactly the condition that lets mold colonize wall cavities and subfloor assemblies before a homeowner notices a smell. If you're in the 07039 ZIP code and something feels off about your indoor air, a musty odor that intensifies when the HVAC kicks on, a family member with unexplained respiratory irritation, or a water stain you patched but never tested, a professional mold inspection and testing assessment is the only way to know what you're actually dealing with.
 

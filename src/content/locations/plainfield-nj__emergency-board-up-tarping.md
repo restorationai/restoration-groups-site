@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Plainfield"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter peels back a slate roof on a Victorian in the Van Wyck Brooks Historic District, or a kitchen fire blows out a second-floor window on a century-old Queen Anne near Netherwood, the clock starts immediately. Rain, wind, and opportunistic theft don't wait for business hours, and neither do we. The Restoration Group responds 24/7 from our Kenilworth headquarters to board up openings and tarp compromised roofs across Plainfield before secondary damage turns a bad situation into a catastrophic one.
 

@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Montclair"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or fast-moving thunderstorm rolls off the Watchung ridge and stalls over Essex County, Montclair takes the hit hard. The town's dense tree canopy, beautiful in October, dangerous in a 60-mph gust, sends limbs through slate roofs on Estate Section Tudors and century-old Victorians alike, and the Third River (Yantacaw) backs up fast enough to push water into finished basements before homeowners realize the sump is overwhelmed. The Restoration Group responds to storm damage calls across Montclair 24/7, bringing IICRC Certified Firm (#210213) protocols to a housing stock that demands more than a generic drywall-and-dehumidifier approach.
 

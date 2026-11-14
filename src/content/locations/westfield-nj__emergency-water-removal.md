@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Westfield"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 The finished basement beneath a Victorian on Elm Street or a center-hall colonial near Mindowaskin Park doesn't announce a sump failure quietly, you find it when the carpet squishes underfoot or the smell of standing water hits you at the top of the stairs. Emergency water removal in Westfield carries stakes that go beyond square footage: original hardwood, plaster ceilings, custom millwork, and home theaters that represent years of investment can deteriorate within hours if extraction and drying don't begin fast. The Restoration Group responds 24/7 from Kenilworth, bringing IICRC-certified water removal and cleanup to 07090 addresses the same day you call.
 

@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Bayonne"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Bayonne's commercial corridor runs hard against the water on two sides, and that geography shapes the kind of damage businesses here deal with. The Route 440 corridor and Bayonne Crossing retail center sit in a zone where a single overnight roof failure or a sprinkler line freeze can flood thousands of square feet of retail or warehouse space before the morning shift arrives. Add the peninsula's exposure to Newark Bay storm surge, the same exposure that pushed Sandy floodwater into Constable Hook's industrial blocks in 2012, and commercial property owners in 07002 are managing real, recurring risk, not hypothetical scenarios. The Restoration Group responds 24/7 to commercial losses across Bayonne, bringing IICRC Certified Firm (#210213) drying science and full-scope reconstruction to businesses that cannot afford a slow recovery.
 

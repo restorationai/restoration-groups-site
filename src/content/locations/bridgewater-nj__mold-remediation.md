@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The low-lying flats around Finderne and the Raritan River corridor have a long memory for water. After Tropical Storm Ida soaked Bridgewater in 2021, many finished basements in the township's postwar ranches and split-levels never fully dried, and mold colonizes wet framing and drywall in as little as 48 to 72 hours. If you're noticing a musty odor, discolored drywall, or visible growth on basement walls or ceiling joists, the problem is likely further along than it looks from the surface.
 

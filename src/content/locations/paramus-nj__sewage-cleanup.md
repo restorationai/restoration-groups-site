@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Paramus"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When the cast-iron drain stack in a 1960s West Paramus split-level backs up, the result isn't just an inconvenience, raw sewage can saturate a finished basement slab, wick into framing, and begin producing dangerous pathogens within hours. The Saddle River corridor and the low-lying neighborhoods around Van Saun County Park saw that firsthand during Ida in 2021, when overwhelmed municipal lines pushed sewage backward into hundreds of Bergen County homes. If you're dealing with that smell right now, sulfurous, sharp, unmistakable, call (844) 808-8838. The Restoration Group responds 24/7 and can be on-site while the situation is still containable.
 

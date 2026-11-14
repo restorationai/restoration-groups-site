@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "West Orange"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter stalls over the Watchung ridge or a summer thunderstorm overwhelms the streams draining South Mountain Reservation, basements across West Orange fill faster than most homeowners expect. The hillside grading that gives the township its views also channels stormwater straight toward foundation walls, and finished basements, common in Pleasantdale ranches and postwar splits, turn a sump pump failure into a five-figure loss within hours. The Restoration Group responds 24/7 from Kenilworth to extract standing water, dry structural materials, and document the damage so your insurance claim moves forward without delays.
 

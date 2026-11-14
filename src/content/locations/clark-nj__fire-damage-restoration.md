@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Clark"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 Clark's postwar ranches and split-levels along the Valley Road corridor and the Westfield Avenue commercial strip were built in an era when balloon-frame construction was common, meaning a kitchen fire can travel vertically through wall cavities before a smoke alarm sounds its second cycle. When that happens in a 07066 home, the damage you see on the surface is rarely the full story. The Restoration Group responds 24/7 from Kenilworth, roughly ten minutes up Garden State Parkway, to assess what fire and smoke have actually done to the structure before a single wall gets opened.
 

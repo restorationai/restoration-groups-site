@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Linden"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in Linden's Sunnyside or Tremley Point neighborhoods, the clock starts immediately, raw sewage carries Category 3 contamination that begins soaking into concrete, drywall, and wood framing within hours. Linden's postwar housing stock, much of it built between the 1940s and 1960s with original cast-iron drain stacks, makes sewage backups a recurring reality rather than a rare event. The Restoration Group operates out of Kenilworth, just minutes away, and responds 24/7 to sewage backup cleanup, raw sewage removal, and full sanitization throughout the 07036 ZIP code.
 

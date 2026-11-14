@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter tears shingles off a century-old three-family on Dunham Heights, or a kitchen fire blows out the storefront windows of a Smith Street restaurant at 2 a.m., every hour the building sits open to the elements multiplies the damage. Perth Amboy's dense stock of late-1800s and early-1900s frame construction, wood-sheathed roofs, single-pane windows, aging brick facades, offers almost no resistance to wind-driven rain once the envelope is breached. The Restoration Group responds 24/7 from Kenilworth to board up openings and tarp compromised roofs before a manageable loss becomes a gut renovation.
 

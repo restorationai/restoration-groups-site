@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Somerville"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 Cast-iron drain lines running beneath Somerville's century-old two-families and Victorians don't fail quietly. When a corroded joint gives way or a root intrusion backs up a sewer lateral on a block near Gaston Avenue or the West End, raw sewage doesn't stay in the basement, it wicks into finished framing, soaks into concrete block, and starts generating hydrogen sulfide and coliform contamination within hours. The Restoration Group responds to sewage backup calls in Somerville 24/7, dispatching from Kenilworth with the containment, extraction, and EPA-registered disinfection equipment this kind of loss demands.
 

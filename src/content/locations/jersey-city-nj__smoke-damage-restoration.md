@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Jersey City"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 Smoke doesn't stop at the unit where the fire started. In Jersey City's dense residential fabric, stacked condo towers along the Newport waterfront, century-old brownstones climbing through The Heights, attached rowhouses in Bergen-Lafayette, smoke travels through shared HVAC risers, elevator shafts, and the gaps between balloon-framed walls that were never designed to contain it. By the time the fire department clears the scene, soot has already begun bonding to plaster, cabinetry, and HVAC coils in units that never saw a flame. The Restoration Group responds 24/7 to smoke damage calls across Jersey City, bringing IICRC-certified technicians and the documentation that building managers and insurers need to move fast.
 

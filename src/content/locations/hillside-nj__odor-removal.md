@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Hillside"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Hillside's dense stock of 1920s–1950s colonials and two-family homes holds odors the way old plaster holds moisture, deep in wall cavities, subfloor joists, and the semi-finished basements that are a signature of the township's postwar capes. When a sump pump fails during a summer downpour, or when a kitchen fire leaves smoke residue baked into original woodwork, surface cleaning rarely solves the problem. The Restoration Group deploys IICRC-certified technicians from nearby Kenilworth around the clock, including nights and weekends, to trace odors to their source and eliminate them using equipment matched to the structure in front of them.
 

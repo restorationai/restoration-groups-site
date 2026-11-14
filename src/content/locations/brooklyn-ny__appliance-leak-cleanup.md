@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Brooklyn"
 state: "NY"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 A refrigerator ice maker line that weeps for weeks behind a cabinet, a washing machine hose that lets go at 2 a.m. in a Park Slope garden apartment, a dishwasher door seal that fails and soaks through a century-old fir subfloor, appliance leaks in Brooklyn rarely behave the way they do in newer construction. The borough's brownstone belt is built on masonry and plaster, and water moves through those materials in ways that a moisture meter alone can miss. Call (844) 808-8838 any time, day or night, and The Restoration Group will dispatch a crew.
 

@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Englewood"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When water gets into a home on the East Hill or a commercial space along the Palisade Avenue corridor, the clock starts immediately, not when the adjuster calls back, not when the contractor squeezes you in. Englewood's mix of century-old brownstones, finished basements, and dense multifamily buildings means water travels fast and hides in places a surface check will miss. The Restoration Group responds 24/7 with emergency water removal and cleanup and is an IICRC Certified Firm (#210213), licensed by the NJ Division of Consumer Affairs to work in New Jersey homes and commercial properties.
 

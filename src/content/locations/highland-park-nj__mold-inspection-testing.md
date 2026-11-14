@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Highland Park"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The stretch of Highland Park along the Raritan River has a mold problem that most homeowners don't discover until it's already behind the drywall. When Hurricane Ida pushed the Raritan over its banks in 2021, low-lying sections near Donaldson Park and River Road sat under water long enough for mold colonies to establish inside wall cavities within 48 to 72 hours, often in homes where the visible flood line had already dried and the owners assumed the worst was over. A professional mold inspection and testing service doesn't just look at surfaces; it finds what the eye misses in the borough's older building stock before a small colony becomes a remediation project.
 

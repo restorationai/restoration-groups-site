@@ -17,7 +17,7 @@ area_slug: "west-orange-nj"
 city: "West Orange"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts behind a finished wall in Llewellyn Park or a sump pump fails during a nor'easter in Pleasantdale, West Orange property owners need someone who understands the specific way water moves through this hillside town, not a call center reading from a script. The Restoration Group handles water damage mitigation, fire and smoke cleanup, mold remediation, and full reconstruction for residential and commercial properties across West Orange's 07052 ZIP code, around the clock.
 

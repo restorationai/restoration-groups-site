@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Linden"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Rahway River jumped its banks during Ida in 2021, low-lying Tremley Point took on water fast, and for many households, the damage wasn't just to walls and floors. Furniture, clothing, family documents, and electronics absorbed floodwater, smoke odor, or soot before anyone could move them to safety. Contents restoration and pack-out exists precisely for that gap: the moment when a home or business in Linden, NJ 07036 is too compromised to stay in, but the belongings inside are still worth saving.
 

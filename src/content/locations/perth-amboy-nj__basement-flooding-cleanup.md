@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Raritan Bay pushes inland during a nor'easter or a summer cloudburst overwhelms Perth Amboy's aging storm drains, basements in the city's dense blocks of late-1800s and early-1900s frame two- and three-families can go from dry to ankle-deep in under an hour. That combination of coastal exposure, old foundation walls, and cast-iron drain lines that were never designed for today's rainfall intensity makes flooded basement cleanup here a different job than it is in newer inland suburbs. The Restoration Group responds 24/7 from Kenilworth, call (844) 808-8838 the moment water appears.
 

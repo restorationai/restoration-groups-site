@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Cranford"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Cranford's nickname, the Venice of New Jersey, tells you everything a commercial property owner here already knows: the Rahway River is beautiful until it isn't. Three named storms in twenty-two years (Floyd, Irene, Ida) have put storefronts, office suites, and mixed-use buildings underwater, and the damage doesn't stop when the water recedes. For businesses in 07016, a fast, documented restoration response isn't a luxury, it's the difference between reopening in days and losing a lease. The Restoration Group operates around the clock from our Kenilworth headquarters, less than ten minutes from most of Cranford's commercial corridors.
 

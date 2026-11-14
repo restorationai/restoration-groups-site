@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Paramus"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida swept through Bergen County in August 2021, the Saddle River jumped its banks and pushed water into finished basements across Paramus faster than sump pumps could keep up. That kind of event, a slow-moving, rain-saturated storm stalling over flat suburban terrain, is exactly what the postwar split-levels and ranch homes along the 07652 corridor were never designed to handle. The Restoration Group responds 24/7 to storm damage calls in Paramus, dispatching from Kenilworth to begin emergency stabilization before secondary damage compounds the loss.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Garfield"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Garfield's dense blocks of early-1900s two- and three-family frame homes hold odors the way few modern buildings do, lathe-and-plaster walls, uninsulated floor cavities, and decades of settled dust give smoke, flood water, and sewer gas somewhere to hide long after the source event is gone. When Ida's floodwaters pushed up from the Passaic River in 2021 and saturated finished basements along River Drive, many homeowners cleaned the visible mess and assumed the job was done. Weeks later, the musty, organic smell coming up through the floorboards told a different story. That pattern, odor that outlasts the damage, is exactly what professional deodorization is built to solve.
 

@@ -19,7 +19,7 @@ city: "Wayne"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Wayne's older housing stock and its history of river flooding create circumstances where biohazard situations can arise in already-compromised spaces, finished basements that have flooded repeatedly, aging plumbing in midcentury split-levels near Packanack Lake, or student-rental properties close to William Paterson University where delayed discovery is common. When something happens that requires professional biohazard cleanup, the priority is fast, discreet remediation handled by a certified team that understands what it's walking into. The Restoration Group responds 24/7 and can be reached at (844) 808-8838.
 

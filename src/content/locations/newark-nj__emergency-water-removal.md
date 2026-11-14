@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Newark"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Ironbound row house or a combined sewer backs up into a Weequahic basement during a nor'easter, the water doesn't wait for business hours, and neither do the consequences. Newark's dense pre-war housing stock, aging municipal infrastructure, and proximity to the Passaic River create a water emergency environment that's more complicated than a typical suburban leak, and removal work that ignores those conditions will leave moisture behind long after the fans are gone. The Restoration Group responds 24/7 from Kenilworth to get water out of Newark properties before secondary damage sets in.
 

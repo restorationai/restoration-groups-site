@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Manhattan"
 state: "NY"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Manhattan's density means odors don't stay where they start. Smoke from a kitchen fire on the 22nd floor of a Chelsea high-rise seeps through HVAC returns and elevator shafts into neighboring units before the fire department has finished ventilating the building. Cooking grease baked into a closed restaurant overnight, a pet-soiled subfloor in a pre-war Upper East Side co-op, or flood-driven mildew left behind after a storm like Ida overwhelms the drain lines from Harlem to the Financial District, each scenario leaves a chemical signature in porous materials that no amount of ventilation alone will clear. The Restoration Group deploys IICRC-certified technicians 24/7 to address odor at its molecular source, not just its surface.
 

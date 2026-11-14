@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Parsippany"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst supply line or a Whippany River backflow event soaks a finished basement in Lake Hiawatha, the water doesn't stop at the walls, it saturates upholstered furniture, warps wood cabinetry, wicks into electronics, and ruins the kind of belongings that can't be replaced at a big-box store. Contents restoration and pack-out is the work that happens after the extraction crews leave and before the rebuild begins, and in Parsippany's mix of postwar split-levels, ranch homes, and tightly-packed Victorian cottages, that work demands a careful, methodical hand.
 

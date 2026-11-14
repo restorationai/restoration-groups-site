@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Parsippany"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 A pipe burst in a Lake Hiawatha split-level or a Mount Tabor Victorian cottage doesn't wait for a convenient hour, and the water moving through your walls, subfloor, and finished basement doesn't pause while you search for help. The Restoration Group responds 24/7 out of Kenilworth, reaching Parsippany properties across ZIP codes 07054 and 07005 to stop active water intrusion, extract standing water, and begin structural drying before secondary damage sets in. When a supply line lets go in the middle of January or a drain stack backs up into a finished rec room, the first hour matters more than almost anything that follows.
 

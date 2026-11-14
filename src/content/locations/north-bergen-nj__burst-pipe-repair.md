@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "North Bergen"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Winter in North Bergen hits older plumbing hard. When temperatures drop and wind cuts across the Palisades ridge, the cast-iron supply lines and uninsulated pipes running through the crawl spaces and exterior walls of the town's early 20th-century two- and three-family homes are among the first things to fail. A burst pipe in one of those buildings doesn't just flood a single unit, water follows gravity through shared floor assemblies, soaks into brick and plaster, and can reach a basement two stories below before anyone realizes what's happened. The Restoration Group responds 24/7 to burst pipe emergencies across North Bergen, ZIP code 07047, and we understand the specific building stock and drainage conditions that make these losses complicated here.
 

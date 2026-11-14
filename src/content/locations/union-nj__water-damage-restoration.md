@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Union"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Rahway River tributaries that thread through Vauxhall overflow after a hard summer storm, or when a 1950s copper supply line finally gives out in a Battle Hill split-level, the clock starts immediately, mold can begin colonizing wet framing in as little as 48 hours. The Restoration Group operates out of Kenilworth, one town over from Union Township, which means a crew with professional extraction equipment can be at your door around the clock, any day of the year.
 

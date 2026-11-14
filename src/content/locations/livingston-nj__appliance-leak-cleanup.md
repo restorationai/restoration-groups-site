@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Livingston"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 A slow drip from a refrigerator ice maker line or a dishwasher door seal that finally gives out might not look like much at first, but in Livingston's stock of 1960s split-levels and ranches, that water has nowhere obvious to go. It seeps under vinyl flooring, wicks into the particleboard subfloor beneath, and in homes with finished basements, it finds the ceiling of the level below before you ever notice the smell. When that happens at 2 a.m. or on a Sunday, The Restoration Group is reachable at (844) 808-8838 around the clock.
 

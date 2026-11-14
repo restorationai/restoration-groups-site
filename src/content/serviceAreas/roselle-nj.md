@@ -17,7 +17,7 @@ area_slug: "roselle-nj"
 city: "Roselle"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When water is rising in your finished basement off Fifth Avenue, or smoke has worked its way into the walls of a century-old Victorian near the Roselle Park border, the last thing you need is a contractor who has to look up where Roselle is. The Restoration Group dispatches from Kenilworth, one town over, and handles water damage, fire and smoke damage, and mold remediation for homeowners and property managers across ZIP code 07203, around the clock.
 

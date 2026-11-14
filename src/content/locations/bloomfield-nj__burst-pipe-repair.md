@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Bloomfield's housing stock tells the story the moment you walk a basement: galvanized supply lines installed during the Eisenhower administration, original cast-iron waste stacks, and finished lower levels that turn a burst pipe into a race against the clock. When a supply line lets go in a 1920s colonial near Watsessing Park or a two-family off Broad Street loses a corroded fitting overnight, water can be standing six inches deep before anyone realizes it. The Restoration Group responds 24/7 and reaches the 07003 ZIP code from our Kenilworth base quickly enough to matter when every minute of saturation is adding to the drying timeline.
 

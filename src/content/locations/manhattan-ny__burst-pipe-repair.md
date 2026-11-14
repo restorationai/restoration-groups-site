@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Manhattan"
 state: "NY"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go inside a Manhattan high-rise or pre-war co-op, the damage rarely stays on one floor. Water follows gravity and the path of least resistance, through plaster ceilings, down elevator shafts, behind tile, into the unit below and the one below that. The Restoration Group responds 24/7 to burst pipe emergencies across Manhattan, from Upper East Side brownstones to Financial District office towers, with the documentation and coordination protocols that building managers and co-op boards actually require.
 

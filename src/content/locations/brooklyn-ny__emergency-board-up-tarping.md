@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Brooklyn"
 state: "NY"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 A nor'easter tears through overnight, a fire guts the top floor of a Park Slope brownstone, or a break-in shatters a ground-floor storefront window on Atlantic Avenue, and suddenly the building is open to rain, wind, and whoever walks by. In Brooklyn, where 1880s-era rowhouses sit shoulder-to-shoulder and a single unprotected opening can mean water migrating through party walls into a neighbor's unit by morning, the window between damage and secondary disaster is measured in hours, not days. The Restoration Group dispatches board-up and tarping crews 24/7 from the New York metro area to secure your property fast and document everything your insurer needs to process the claim.
 

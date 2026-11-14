@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Linden"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 The smell of smoke doesn't leave a house the way water does. After a fire in a Linden home, whether it's a postwar cape on the Sunnyside side of town or a split-level near the Roselle Park border, char and soot work their way into plaster walls, ductwork, and subflooring in ways that aren't visible on day one. The Restoration Group operates out of Kenilworth, less than ten minutes from most of Linden's 07036 ZIP, and our IICRC Certified Firm (#210213) team mobilizes around the clock to stop secondary damage before it compounds the loss.
 

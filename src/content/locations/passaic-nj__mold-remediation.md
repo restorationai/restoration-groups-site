@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Passaic"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The Passaic River has flooded this city twice in the last fifteen years, first during Irene in 2011, then again when Ida swept through in 2021, and the watermarks left behind on basement walls and floor joists didn't just dry on their own. In a city as densely built as Passaic, where early 20th-century brick three-families and wood-frame walkups crowd nearly every block, moisture that enters a structure tends to stay there. Mold can begin colonizing damp framing and drywall within 24 to 48 hours of a water event, and in buildings with limited ventilation and aging cast-iron drains, the conditions for growth rarely fully disappear without professional intervention. The Restoration Group responds to mold calls in Passaic around the clock, (844) 808-8838.
 

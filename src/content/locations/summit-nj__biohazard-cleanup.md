@@ -19,7 +19,7 @@ city: "Summit"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Summit's older residential streets, the deep-lot Colonials and Tudors near the Franklin School area, the stately Victorians closer to Downtown Summit, hold a quiet dignity that makes an unexpected biohazard situation feel especially disorienting. Whether a situation involves an unattended death, an injury, sharps discovered in a finished basement, or infectious material in a shared space, the priority is the same: discreet, methodical remediation handled by people who understand that the home itself carries weight. The Restoration Group responds 24/7 to addresses throughout the 07901 ZIP code, bringing IICRC-certified protocols and genuine care for the people navigating one of the hardest calls they will ever make.
 

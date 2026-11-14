@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Hoboken"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 Hoboken's dense grid of 19th-century brownstones and brick rowhomes was never designed for the water demands of modern appliances. When a dishwasher supply line fails on the third floor of a Downtown Hoboken rowhouse, or a washing machine hose blows in a below-grade garden unit, water moves fast, through original hardwood subfloors, down shared party-wall cavities, and into neighboring units before most residents realize anything is wrong. The Restoration Group responds 24/7 to appliance leak emergencies across Hoboken, with IICRC Certified Firm #210213 technicians and equipment scaled for the city's uniquely compressed, multi-story building stock.
 

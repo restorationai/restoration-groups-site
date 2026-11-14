@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Hillside"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Elizabeth River backs up during a hard summer storm, basements along Hillside's eastern lowlands fill faster than most homeowners expect. The township's dense stock of 1920s–1950s colonials and two-families, many with finished or semi-finished lower levels, turns a few inches of river overflow or a single sump-pump failure into thousands of dollars of structural damage within hours. The Restoration Group, an IICRC Certified Firm (#210213) based in nearby Kenilworth, responds 24/7 to flood calls throughout Hillside's 07205 ZIP code, from the quiet residential blocks near Saybrook to the commercial corridors along Route 22.
 

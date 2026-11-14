@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Clifton"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 The Passaic River and Weasel Brook don't give much warning. When water levels rise along Clifton's low-lying eastern edge, particularly in the Lakeview and Delawanna sections that bore the brunt of both Hurricane Irene and Ida, standing water can push into finished basements faster than a sump pump can cycle. The Restoration Group responds 24/7 to emergency water removal calls across Clifton, from the postwar split-levels near Botany Village to the commercial corridors along Route 3, bringing IICRC-certified extraction and drying methods to a city where the housing stock and flood history demand more than a shop vac and a fan.
 

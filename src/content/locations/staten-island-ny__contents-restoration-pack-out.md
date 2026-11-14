@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Staten Island"
 state: "NY"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst cast-iron supply line soaks the contents of a postwar Cape Cod in Great Kills, or when smoke from an electrical fire settles into the upholstered furniture of a South Beach townhome still carrying memories of Hurricane Sandy, the damage to belongings can feel as devastating as the structural loss itself. Contents restoration and pack-out is the discipline that bridges those two realities, carefully removing, cataloging, cleaning, and returning personal property so that the home rebuild and the life inside it move forward together.
 

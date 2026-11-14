@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Parsippany"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Whippany River backs up after a hard rain or a supply line finally gives out in a finished basement off Lake Hiawatha, the clock starts immediately. Mold can begin colonizing wet framing within 24 to 48 hours, and Parsippany's mix of postwar ranches, split-levels, and tightly packed Victorian cottages in Mount Tabor means water finds its way into wall cavities and subfloors in ways that aren't always visible from the surface. The Restoration Group responds around the clock, call (844) 808-8838 the moment you find standing water.
 

@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Montclair"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The smell hits first, that damp, earthy mustiness that seeps out of a finished basement or plaster wall long before you see a single dark spot. In Montclair, where Victorian-era homes and early-1900s Tudors line streets from Upper Montclair down through the Estate Section, that smell often traces back to a slow failure no one noticed: an aging cast-iron drain weeping behind a lathe wall, a slate roof losing its seal over a third-floor bedroom, or a sump overwhelmed by hillside runoff pouring off the Watchung ridge. When Hurricane Ida hit in 2021, sewer backups and flash flooding pushed contaminated water into basements across Frog Hollow and the South End, and mold followed within 24 to 48 hours of that moisture sitting undisturbed. The Restoration Group responds to those calls around the clock, bringing IICRC-certified mold remediation to Montclair properties of every age and size.
 

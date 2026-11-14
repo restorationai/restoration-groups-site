@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The finished basements of Woodbridge's postwar capes and split-levels were never designed with today's moisture loads in mind, and after Hurricane Ida pushed the Rahway River over its banks in 2021, many of those lower levels sat under inches of water long enough for mold colonies to establish behind drywall, under carpet tack strips, and inside wall cavities before homeowners even filed an insurance claim. If you're noticing a musty odor, seeing discoloration on surfaces, or simply want to know what's growing in the air your family breathes, a professional mold inspection and testing assessment is the only way to get an honest answer.
 

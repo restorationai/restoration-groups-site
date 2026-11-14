@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Livingston"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A house fire in Livingston hits differently when the home is a 1960s split-level with original cedar closets, plaster ceilings, and decades of accumulated finishes, materials that absorb smoke deeply and hold odor long after the flames are out. The Restoration Group responds 24/7 to fire and smoke losses across Livingston's 07039 ZIP code, from the ranch homes lining the streets off Northland to the newer teardown colonials with finished basements near Cedar Hill. When you call (844) 808-8838, a crew is dispatched from our Kenilworth location, not a call center routing you to a subcontractor.
 

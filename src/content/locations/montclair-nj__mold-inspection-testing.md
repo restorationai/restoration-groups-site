@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Montclair"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The plaster walls and century-old framing inside Montclair's Victorians and Tudor revivals hold moisture in ways that modern construction simply doesn't, and when a sewer backup from a storm like Ida soaks a finished basement in Frog Hollow or a slate-roof leak quietly saturates an attic in the Estate Section, mold can colonize hidden cavities within 48 to 72 hours. A visual check rarely tells the full story. Mold inspection and testing gives you documented, lab-verified answers about what's growing, where it's concentrated, and whether your indoor air is safe to breathe.
 

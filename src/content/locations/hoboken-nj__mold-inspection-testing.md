@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Hoboken"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Hoboken's position on a former tidal marsh means water has always found a way in, through basement walls after heavy rain, up through floor drains when the combined sewer backs up, and into the party walls shared between century-old brownstones. When moisture lingers in a below-grade garden unit or a poorly ventilated rowhouse, mold can begin colonizing porous surfaces within 24 to 48 hours. A professional mold inspection and testing engagement gives you documented evidence of what's actually growing, where the moisture source is, and what remediation, if any, is genuinely warranted.
 

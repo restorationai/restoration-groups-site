@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Manhattan"
 state: "NY"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Manhattan's compressed, vertical density creates mold conditions that flat-spread suburban buildings rarely see. When a radiator valve fails on the 22nd floor of a pre-war Upper West Side co-op, the moisture doesn't spread outward, it travels down through plaster, fireproofing, and concrete until three or four floors below are quietly colonizing behind wallpaper and inside mechanical chases. By the time a resident notices a musty smell or a dark stain near a baseboard, spore counts can already be elevated throughout the stack. A professional mold inspection and testing engagement, not a visual guess, is the only way to know what you're actually dealing with.
 

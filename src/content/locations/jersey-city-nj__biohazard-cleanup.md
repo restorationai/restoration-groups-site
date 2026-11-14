@@ -19,7 +19,7 @@ city: "Jersey City"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Jersey City's density creates situations that require more than a standard cleaning crew, and when something goes wrong inside a Newport high-rise or a century-old Bergen-Lafayette rowhouse, the stakes for residents, building staff, and neighboring units are immediate. Biohazard cleanup in a city this tightly packed means working discreetly, moving quickly, and leaving behind documentation that satisfies everyone from a grieving family to a condo board's insurance adjuster. The Restoration Group responds 24/7 to those calls.
 

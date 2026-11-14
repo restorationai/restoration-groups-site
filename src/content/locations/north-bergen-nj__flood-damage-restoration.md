@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "North Bergen"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida swept through Hudson County in 2021, the low-lying blocks near Tonnelle Avenue flooded faster than pumps could keep up, storm drains backed up, basement apartments filled in minutes, and families in North Bergen's dense two- and three-family homes were left pulling soaked belongings off concrete floors before sunrise. That pattern repeats every time a heavy nor'easter stalls over the Meadowlands. The Restoration Group responds 24/7 to flood damage calls across North Bergen (07047), moving quickly to stop secondary damage before it compounds into a mold or structural problem.
 

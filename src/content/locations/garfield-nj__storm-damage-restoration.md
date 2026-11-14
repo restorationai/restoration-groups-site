@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Garfield"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or a fast-moving summer thunderstorm rolls through Bergen County, Garfield absorbs the hit differently than most nearby towns. The city's dense grid of early-1900s two- and three-family frame homes, many with finished basements sitting just a few feet above the Passaic River floodplain along River Drive, means that wind-driven rain, downed trees, and roof failures rarely stop at the exterior. Water finds its way in fast, and in a neighborhood like Belmont or Plauderville, where houses share walls and sit on 25-foot lots, one damaged roof can become two families' emergency by morning. The Restoration Group responds 24/7 to storm damage calls across Garfield's 07026 ZIP code, bringing IICRC-certified crews and industrial drying equipment directly to your door.
 

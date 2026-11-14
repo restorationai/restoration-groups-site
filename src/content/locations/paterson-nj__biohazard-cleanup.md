@@ -19,7 +19,7 @@ city: "Paterson"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something traumatic or hazardous happens inside a Paterson home or rental unit, the building itself becomes part of the problem. The city's dense stock of 19th-century brick walkups and aging two- and three-family frame houses, many with narrow hallways, shared entryways, and cast-iron drain lines, creates real logistical challenges for safe, discreet cleanup. The Restoration Group responds 24/7, bringing IICRC-certified technicians and proper containment protocols to situations that require more than a mop and a prayer.
 

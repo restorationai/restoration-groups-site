@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Edison"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a supply line fails behind a finished basement wall in a 1960s split-level off Stelton Road, or a Mill Brook tributary backs up into a crawl space near the Raritan River corridor, the clock starts immediately, mold can begin colonizing wet framing within 24 to 48 hours. The Restoration Group responds to water damage calls in Edison around the clock, dispatching from our Kenilworth location to address everything from a single-room pipe burst to a large-loss sprinkler discharge at a Route 1 commercial property.
 

@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Rahway"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 The smell of smoke doesn't leave a house the way water does. After a kitchen fire in a 1920s Craftsman off Central Rahway, or a wiring fire in one of the Victorian-era homes near the Rahway Train Station, char and soot work into plaster, original woodwork, and decades of settled insulation in ways that a few open windows won't fix. The Restoration Group responds 24/7 from our Kenilworth location, a short run down Route 28, and we've learned that fire damage in Rahway's older housing stock demands a different approach than a cookie-cutter cleanup.
 

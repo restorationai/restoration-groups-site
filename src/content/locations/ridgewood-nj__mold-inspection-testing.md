@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 When the Ho-Ho-Kus Brook overtopped its banks during Hurricane Ida in 2021, basements throughout the Village center and along the low-lying streets near the train station took on water fast, and in Ridgewood's stock of century-old Victorians, Tudors, and deep finished colonials, that kind of saturation creates exactly the conditions mold needs to colonize within 24 to 48 hours. If you're noticing a musty smell, visible discoloration on walls or framing, or you simply want to know what's in your air after a water event, a professional mold inspection and testing assessment gives you documented answers rather than guesswork.
 

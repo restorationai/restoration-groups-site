@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Wayne"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in Wayne, the damage clock starts immediately, and in a town where aging cast-iron laterals run beneath 1960s split-levels and the Passaic River can push groundwater into the sewer mains during a heavy storm, backups here aren't always a simple clog. Raw sewage carries Category 3 contamination that soaks into concrete, insulation, and drywall within hours. The Restoration Group responds 24/7 to sewage emergencies throughout Wayne and the surrounding Passaic County area, call (844) 808-8838 the moment you see it.
 

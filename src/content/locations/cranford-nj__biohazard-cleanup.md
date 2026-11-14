@@ -19,7 +19,7 @@ city: "Cranford"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Cranford's identity is shaped by the Rahway River, the same waterway that draws kayakers to the Cranford Canoe Club and families to Nomahegan Park also puts properties in harm's way when conditions turn. Flooding isn't the only emergency that follows in the wake of a disaster, though. When a home or building sustains serious water intrusion, structural damage, or a traumatic event, biohazard conditions can develop quickly, and in a town where basements date to the 1910s and 1920s, the stakes of delayed, improper cleanup are real. The Restoration Group responds around the clock from our Kenilworth headquarters, just minutes from the 07016 zip code, to handle these situations with the discretion and technical care they require.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Edison"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Edison's postwar split-levels and colonials hold odors differently than newer construction, decades-old plaster, original hardwood subfloors, and cast-iron drain stacks create porous surfaces where smoke, sewer gas, and mildew can settle deep before a homeowner even notices the source. Whether the smell is coming from a finished basement off a Mill Brook tributary that flooded during Ida, a kitchen fire in a Clara Barton cape, or a sprinkler discharge in a Route 1 warehouse, the chemistry of odor removal demands more than an air freshener and an open window.
 

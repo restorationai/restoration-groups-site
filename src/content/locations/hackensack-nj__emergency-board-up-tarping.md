@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Hackensack"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a fire chars the siding off a Prospect Avenue high-rise or a nor'easter peels back the roof of a prewar two-family in Fairmount, the window between the initial damage and the next wave of loss is measured in hours, not days. Board-up and tarping is the first line of defense, it stops rain, wind, and opportunistic entry from turning a manageable repair into a gut renovation. The Restoration Group dispatches 24/7 from Kenilworth, reaching Hackensack addresses across the 07601 and 07602 ZIP codes to get structural openings sealed before conditions deteriorate further.
 

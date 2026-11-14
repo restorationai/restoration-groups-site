@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Paterson"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 An appliance leak in a Paterson home rarely stays contained for long. The city's dense stock of 19th-century rowhomes and aging two- and three-family frame houses, many built during the silk-mill era, have subfloors and wall cavities that have absorbed decades of moisture cycles. When a washing machine supply line fails or a refrigerator ice maker drips unnoticed behind the unit, water finds every gap in old hardwood, travels along cast-iron drain lines, and pools in unventilated basement spaces before anyone realizes there's a problem. The Restoration Group responds 24/7 to appliance leak emergencies across Paterson, from the Eastside to South Paterson, and we understand what these buildings do when they get wet.
 

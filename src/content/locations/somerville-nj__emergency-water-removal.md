@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Somerville"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 The Raritan River and Peters Brook don't need a named storm to cause trouble in Somerville, a slow, saturated nor'easter can push water into finished basements along Gaston Avenue just as effectively as a named hurricane. When that happens, the clock starts immediately: standing water in a basement with older cast-iron drains and galvanized supply lines isn't just a water removal problem, it's a structural and air-quality problem waiting to develop. The Restoration Group responds 24/7 across the 08876 and 08869 ZIP codes, bringing IICRC-certified emergency water removal and cleanup to a borough where the housing stock and hydrology demand more than a shop vac and a few box fans.
 

@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go in one of Elizabeth's older two- or three-family frame homes, the damage rarely stays contained to one unit. Water follows the path of least resistance through century-old floor joists, shared wall cavities, and stacked apartments, and by the time a tenant on the second floor notices the ceiling bubbling, the first-floor landlord already has a problem too. The Restoration Group responds 24/7 from our Kenilworth shop, roughly ten minutes from most Elizabeth neighborhoods, and we arrive ready to stop the loss, document everything for insurance, and start drying the same hour we walk in.
 

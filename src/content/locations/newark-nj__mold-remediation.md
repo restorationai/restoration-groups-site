@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Newark"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Newark's combined sewer system and its dense inventory of pre-war brick and frame buildings create a mold environment unlike most of New Jersey. When Ida dropped seven inches of rain in a few hours, Ironbound basements filled with a mix of stormwater and raw sewage, and within 48 to 72 hours, mold colonies were already establishing on framing, insulation, and drywall that had never fully dried. That pattern repeats on a smaller scale every heavy-rain season, and it's why mold remediation in Newark demands more than a bleach spray and a dehumidifier.
 

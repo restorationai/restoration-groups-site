@@ -19,7 +19,7 @@ city: "Highland Park"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Need biohazard or trauma cleanup in Highland Park? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to handle the cleanup with discretion and care.

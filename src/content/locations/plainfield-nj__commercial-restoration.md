@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Plainfield"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler line fails overnight in a Front Street retail space or a roof seam gives way above a Park Avenue office suite, the clock starts immediately, not just on the water damage itself, but on lost revenue, displaced tenants, and the mounting pressure to reopen. Plainfield's commercial corridors sit in a city that absorbed some of the worst of Hurricane Ida's 2021 flooding, and the Green Brook and Cedar Brook drainage patterns mean that brook-adjacent properties in the East Front Street corridor can go from dry to several inches of standing water faster than most business owners expect. The Restoration Group operates out of Kenilworth, less than 15 minutes away, and responds 24/7 to commercial losses of every scale across Plainfield's 07060, 07062, and 07063 ZIP codes.
 

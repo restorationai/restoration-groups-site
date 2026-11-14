@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Paterson"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 The Passaic River has always defined Paterson's relationship with water, and not always kindly. Low-lying blocks near the Great Falls and along the Riverside corridor flooded catastrophically during Hurricane Irene in 2011 and again during Ida in 2021, pushing water into basements and first floors that had barely dried from the previous event. When a water emergency hits a Paterson home, the clock starts immediately: mold can begin colonizing damp framing within 24 to 48 hours, and in a city where housing stock runs deep into the 19th century, the hidden cavities inside those walls give moisture plenty of places to hide. The Restoration Group responds 24/7, call (844) 808-8838 the moment you find standing water.
 

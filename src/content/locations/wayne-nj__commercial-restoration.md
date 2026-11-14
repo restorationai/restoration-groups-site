@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Wayne"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Wayne's commercial corridors along Route 23 and Route 46 sit within one of the most flood-prone watersheds in Passaic County. When the Pompton River backs up or a sprinkler line ruptures inside a Willowbrook Mall anchor tenant's stockroom, the clock starts immediately, standing water in a commercial space compounds fast, and every hour of downtime has a dollar figure attached to it. The Restoration Group responds 24/7 to commercial losses across Wayne's 07470 and 07474 ZIP codes, from the Route 23 retail strip to office parks near William Paterson University.
 

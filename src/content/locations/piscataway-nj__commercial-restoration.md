@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Piscataway"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head fails overnight in a Stelton corridor warehouse, or a roof drain backs up into a Society Hill retail suite after a nor'easter, the clock starts running immediately, inventory absorbs moisture, drywall cavities begin harboring mold within 48 hours, and every hour of downtime compounds the loss. Piscataway's commercial real estate spans everything from light-industrial and lab space along Centennial Avenue to multi-tenant office parks near the Rutgers Busch Campus, and each building type carries its own failure modes. The Restoration Group responds 24/7 to commercial losses across Piscataway, ZIP codes 08854 and 08855, with an IICRC Certified Firm (#210213) crew that understands the specific demands of keeping a business operational through a restoration event.
 

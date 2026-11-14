@@ -17,7 +17,7 @@ area_slug: "livingston-nj"
 city: "Livingston"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts behind a finished wall in a Northland split-level or a Canoe Brook rain event pushes two feet of water into a Cedar Hill basement, The Restoration Group dispatches from Kenilworth around the clock to handle the water extraction, drying, mold containment, fire and smoke cleanup, and structural repairs that Livingston homeowners and property managers need. One call to (844) 808-8838 starts the process, assessment, documentation, and mitigation, not a voicemail.
 

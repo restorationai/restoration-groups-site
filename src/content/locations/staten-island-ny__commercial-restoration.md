@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Staten Island"
 state: "NY"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler line ruptures in a St. George office building on a Sunday night, or a kitchen fire shuts down a retailer near the Staten Island Mall mid-season, the clock on lost revenue starts immediately. Staten Island's commercial corridors, from the Hylan Boulevard strip centers on the South Shore to the Forest Avenue storefronts in Port Richmond, sit on a borough where aging infrastructure, post-Sandy flood memory, and dense mixed-use zoning create a distinct set of restoration challenges. Our crew works these streets regularly, and that familiarity shapes how fast we mobilize and how accurately we scope a loss.
 

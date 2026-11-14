@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 The Park Avenue business district and the Route 22 corridor bring a steady stream of commercial losses to Scotch Plains, roof leaks after nor'easters, sprinkler-discharge events in older retail strip buildings, and pipe breaks in mid-century office suites that were never replumbed. When one of those events hits your property in 07076, the clock starts immediately: standing water in a commercial space can shut down operations, trigger lease disputes, and give mold a foothold within 48 hours. The Restoration Group responds around the clock from our Kenilworth headquarters, and we understand the specific building stock and drainage patterns that make Scotch Plains losses different from a generic commercial claim.
 

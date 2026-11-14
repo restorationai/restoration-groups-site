@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Staten Island"
 state: "NY"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The smell left behind by a house fire, a backed-up sewer line, or years of moisture trapped inside a postwar Cape Cod doesn't just fade on its own, and on Staten Island, where dense neighborhoods like Great Kills and South Beach sit on flood-prone ground that's been soaked more than once since Hurricane Sandy, that odor problem is often layered. Floodwater carries sediment, mold spores, and organic debris into crawlspaces and wall cavities, and when those spaces dry slowly, as they do in older frame construction, the result is a persistent, musty smell that no amount of ventilation fully clears. The Restoration Group's crew operates out of a Staten Island base, which means we're familiar with exactly what these homes hold and what it takes to get them smelling right again.
 

@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Mountainside"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 **Water damage emergency in Mountainside?** Call now for emergency service, we answer 24/7. A failed sump pump or a supply line split under a kitchen sink doesn't wait for business hours, and in a Union County town built mostly on split-level and ranch-style foundations from the 1950s and 60s, water finds its way into finished basements faster than most homeowners expect. We get crews on the road from our Kenilworth base to start extraction and structural drying before the damage spreads past the room where it started.
 

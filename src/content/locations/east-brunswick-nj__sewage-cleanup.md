@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in East Brunswick, the clock starts immediately, and in a town where nearly every ranch, split-level, and colonial built between the 1950s and 1970s has a finished lower level, the stakes are high. Raw sewage carries Category 3 water: pathogens, bacteria, and waste that contaminate flooring, framing, drywall, and HVAC returns within hours. The Restoration Group responds 24/7 from Kenilworth to stop the spread, extract the contamination, and sanitize the space to safe, habitable condition.
 

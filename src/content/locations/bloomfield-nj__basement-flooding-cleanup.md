@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Third River backs up during a heavy summer storm, basements in the Watsessing and Brookdale neighborhoods can go from dry to knee-deep in a matter of hours, and the water isn't clean. It's a mix of groundwater, surface runoff, and sewage pushed back through aging cast-iron waste lines that were never designed for the volume modern storms deliver. The Restoration Group responds to flooded basement calls in Bloomfield 24/7, dispatching from Kenilworth to begin extraction before standing water has time to saturate framing, ruin mechanicals, or start the 24-to-48-hour clock on mold colonization.
 

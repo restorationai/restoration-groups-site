@@ -19,7 +19,7 @@ city: "West Orange"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something traumatic happens inside a West Orange home, whether in one of the grand Victorians tucked behind the gates of Llewellyn Park or a postwar split-level off Pleasantdale Road, the last thing a family should be managing is cleanup. Biohazard situations involving blood, bodily fluids, sharps, or infectious material require trained technicians, regulated disposal, and a level of discretion that ordinary cleaning services simply cannot provide. The Restoration Group responds 24/7 to addresses throughout West Orange's 07052 ZIP code, handling every step so you don't have to.
 

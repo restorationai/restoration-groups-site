@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Summit"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The century-old plaster walls and deep finished basements that give Summit its architectural character also make odor problems stubbornly persistent. When a clay sewer lateral backs up beneath a Franklin School area home, or a burst radiator line soaks the millwork in an older Northside colonial, the odor doesn't just sit on surfaces, it migrates into horsehair plaster, old-growth oak flooring, and the dense insulation packed into walls during mid-century renovations. Standard spray-and-pray deodorization won't touch it. Getting rid of it requires understanding how Summit's specific building stock holds and releases odor-causing compounds.
 

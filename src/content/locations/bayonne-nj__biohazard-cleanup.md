@@ -19,7 +19,7 @@ city: "Bayonne"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Bayonne's dense peninsula geography, older rowhouses and two-family frames packed between Newark Bay and the Kill Van Kull, means that when something goes wrong inside a home, there is rarely room for distance or delay. A biohazard situation in a Bergen Point two-family or a Constable Hook basement apartment carries an added layer of complexity: shared entryways, neighboring units feet away, and building stock that dates back a century. The Restoration Group responds around the clock, bringing IICRC-certified technicians (Firm #210213) and full discretion to every call in the 07002 ZIP code.
 

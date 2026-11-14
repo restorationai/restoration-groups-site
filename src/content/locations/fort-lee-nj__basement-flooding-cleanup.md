@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When a water main cracks beneath a Coytesville two-family or a supply line bursts on the 18th floor of a Hudson Lights tower, the water doesn't politely stop at one unit, it travels. Fort Lee's mix of prewar multifamily homes and dense high-rise condominium stacks means basement flooding here rarely looks like a simple puddle. It looks like saturated concrete block walls, warped subfloors, and a clock ticking toward mold colonization within 24 to 48 hours. The Restoration Group responds 24/7 to flooded basements across Fort Lee (07024) and the surrounding Bergen County area.
 

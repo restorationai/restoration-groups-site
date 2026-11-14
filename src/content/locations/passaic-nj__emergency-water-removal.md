@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Passaic"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Passaic River rises past its banks, as it did catastrophically during Ida in 2021, the lowest blocks of the Third Ward and Fourth Ward can take on water faster than any pump can keep up. But most water damage in Passaic 07055 doesn't announce itself with a flood warning. It's the cast-iron drain stack that finally gives out in a century-old three-family on Passaic Avenue, the sprinkler head that discharges overnight in a Main Avenue storefront, or the basement that quietly fills while a tenant is at work. The Restoration Group responds 24/7, dispatching from Kenilworth with the equipment to stop the damage and start the water removal before the clock runs out.
 

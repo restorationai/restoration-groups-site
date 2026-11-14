@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Hillside"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Hillside's older housing stock and low-lying eastern terrain create a mold problem that's easy to underestimate. When Tropical Storm Ida pushed the Elizabeth River over its banks in 2021 and drove sewer water into basements across the township's 07205 zip code, many homeowners dried out the visible water, and discovered a mold colony three weeks later, hidden behind drywall or underneath the plywood subfloor of a finished basement. That's the pattern here: the moisture event ends, life resumes, and the biology keeps moving.
 

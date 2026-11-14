@@ -17,7 +17,7 @@ area_slug: "clark-nj"
 city: "Clark"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts under a finished basement floor on Lake Avenue or a sump pump quits during a July downpour off Valley Road, The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all handled by one crew so Clark homeowners aren't coordinating between three different contractors at the worst possible moment. Call us any time at (844) 808-8838.
 

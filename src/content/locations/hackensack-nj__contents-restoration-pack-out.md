@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Hackensack"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst pipe in one of Hackensack's stacked Prospect Avenue high-rises sends water cascading through three floors of apartments, the structural damage is only half the story. Furniture, clothing, electronics, artwork, and the accumulated belongings of multiple households absorb smoke, soot, and contaminated water in ways that drywall replacement alone can never address. Contents restoration and pack-out service exists precisely for these situations, pulling salvageable items out of harm's way, cleaning and restoring them off-site, and returning them once the structure is ready.
 

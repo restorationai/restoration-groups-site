@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Fort Lee's dense stack of high-rise condominiums along the Palisades creates a mold risk pattern unlike almost anywhere else in Bergen County. When a supply line fails on the 14th floor of a tower near the Hudson Lights complex, water doesn't stop at one unit, it migrates through concrete decks, travels inside hollow-core doors, and saturates drywall three or four floors below before anyone notices a stain on the ceiling. By the time a resident calls, mold can already be colonizing behind baseboards. A professional mold inspection and testing assessment is the only way to know where the growth is, how far it has spread, and whether the air your family is breathing is safe.
 

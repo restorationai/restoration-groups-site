@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Millburn"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The West Branch of the Rahway River has a long memory. When Ida swept through downtown Millburn in 2021, it pushed water into basements, retail corridors, and the lower floors of century-old colonials faster than sump pumps could respond. Months later, many of those same properties were still dealing with the real aftermath: hidden mold colonizing wall cavities, subfloor assemblies, and the finished basements that make Short Hills and Wyoming-area homes so valuable, and so vulnerable. If you've noticed a musty odor, seen discoloration near a foundation wall, or simply know your property took on water at some point, a professional mold inspection and testing assessment is the only way to know what you're actually dealing with.
 

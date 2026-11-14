@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Hoboken"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When Hoboken's combined sewer system gets overwhelmed, the way it did during Ida in 2021, when storm drains backed up across the city and raw sewage flooded basements from Southwest Hoboken all the way up toward Castle Point, the damage isn't just water. It's Category 3 contamination: human waste, bacteria, and pathogens soaking into concrete floors, wall cavities, and the personal belongings of residents in below-grade garden units who had no warning it was coming. The Restoration Group responds to those calls 24/7, handles the extraction and sanitization, and documents everything for insurance.
 

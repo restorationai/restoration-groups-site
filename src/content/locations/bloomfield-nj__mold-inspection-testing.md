@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 When a basement in Watsessing or Brookdale floods, and after Ida in 2021, hundreds did, with sewer backups pushing raw water through floor drains, the visible damage gets addressed first. The mold question comes later, sometimes weeks later, when a musty smell lingers or a family member starts waking up with congestion. By that point, spores have often colonized the back of drywall, the underside of subfloor sheathing, and the paper facing on fiberglass insulation. A proper mold inspection and testing assessment tells you exactly what you're dealing with, where it is, and whether the air your family is breathing in a 07003 zip code home has crossed into ranges that warrant professional remediation.
 

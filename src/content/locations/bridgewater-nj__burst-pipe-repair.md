@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 A January cold snap or a February freeze-thaw cycle can split a copper supply line inside the exterior walls of a 1960s Bridgewater ranch before the homeowner even realizes the heat has cycled down overnight. By the time water is audible, or visible pooling across a finished basement floor in Finderne or soaking through the drywall of a Green Knoll split-level, the damage clock is already running. The Restoration Group responds 24/7 from Kenilworth to stop the loss, extract standing water, and begin structural drying before secondary damage compounds the repair bill.
 

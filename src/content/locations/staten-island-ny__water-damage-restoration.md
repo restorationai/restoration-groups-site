@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Staten Island"
 state: "NY"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 Standing water doesn't wait for a convenient time, and on Staten Island's East Shore, where Hurricane Sandy reshaped entire blocks in 2012 and Ida's 2021 flash flooding caught South Shore streets off guard, the difference between a contained loss and a gut renovation often comes down to how fast extraction begins. The Restoration Group operates 24/7 with crews based in the borough, so when a pipe lets go in Great Kills at 2 a.m. or a sump pump fails during a nor'easter in New Dorp, you're not waiting on a team driving in from another state.
 

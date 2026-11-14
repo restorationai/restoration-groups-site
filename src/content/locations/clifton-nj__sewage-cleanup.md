@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Clifton"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in Clifton's Lakeview or Delawanna sections, the problem is rarely just a clogged drain. Those neighborhoods sit in the Passaic River and Weasel Brook flood plain, and the same hydrostatic pressure that pushed river water into low-lying homes during Hurricanes Irene and Ida can force municipal sewer surcharges back through floor drains and toilets, often in the middle of the night, with no warning. The Restoration Group responds 24/7 to sewage backup cleanup calls across Clifton, reaching affected homes and commercial properties as quickly as possible from our Kenilworth base.
 

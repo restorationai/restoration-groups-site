@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Bayonne"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a fire tears through one of Bayonne's dense blocks of early 20th-century two- and three-family frame homes, the damage compounds fast. Wood-framed walls, original horsehair plaster, and decades of layered paint absorb smoke and soot in ways that modern construction simply doesn't, and on a narrow peninsula where houses share party walls and sit close to the street, a kitchen fire in one unit can push smoke residue into adjacent units within minutes. The Restoration Group responds 24/7 to fire losses throughout Bayonne (07002), bringing IICRC Certified Firm #210213 standards and direct insurance coordination to every job.
 

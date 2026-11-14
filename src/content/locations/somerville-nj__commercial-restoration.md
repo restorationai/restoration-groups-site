@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Somerville"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Somerville's Main Street business district runs through the heart of Somerset County's compact borough seat, and the storefronts, restaurants, and professional offices lining those blocks face a specific set of risks that most commercial restoration contractors never think about until they're standing in two inches of water. Sprinkler discharges from older suppression systems, overnight roof leaks on flat-topped retail buildings, and supply-line failures in the mid-rise apartment developments going up near the downtown core all share one trait: the longer they sit, the more expensive they get. The Restoration Group responds 24/7 and is an IICRC Certified Firm (#210213), so the call you make at 2 a.m. reaches a trained crew, not an answering service.
 

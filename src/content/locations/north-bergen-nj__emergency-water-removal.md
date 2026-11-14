@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "North Bergen"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a storm drain backs up along Tonnelle Avenue or a cast-iron supply line finally gives out in one of North Bergen's century-old three-family walkups, water doesn't wait for business hours. It moves through plaster, under tile, and into the framing before most homeowners realize the floor is wet. The Restoration Group responds 24/7 to emergency water removal calls across North Bergen's 07047 ZIP code, extracting standing water, drying structural materials, and documenting everything your insurance carrier needs from the first hour on-site.
 

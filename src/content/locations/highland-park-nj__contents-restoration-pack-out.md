@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Highland Park"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Raritan River climbed over its banks during Ida in 2021, the low-lying stretches along River Road and around Donaldson Park weren't just flooded, they were saturated for days, and the contents inside those homes absorbed that reality. Furniture, documents, clothing, electronics, and family keepsakes don't wait for the structure to dry. Contents restoration and pack-out is the part of recovery most homeowners don't think about until they're standing in a ruined living room, and it's where fast, careful action makes the difference between salvage and replacement.
 

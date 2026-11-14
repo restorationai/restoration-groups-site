@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Irvington"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a pipe lets go inside a prewar rowhouse in Irvington Center or a storm backs up a cast-iron drain in a Grove Park two-family, the water doesn't just sit on the floor, it moves fast through old plaster, tongue-and-groove subfloor, and the semi-finished basement below. The Restoration Group responds 24/7 to emergency water removal calls across Irvington's 07111 ZIP, and the dense, aging housing stock here shapes every decision we make from the moment we arrive.
 

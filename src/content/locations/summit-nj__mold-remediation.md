@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Summit"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Summit's hilltop geography keeps it out of the Passaic River floodplain, but the same steep lots that spare basements from river water funnel stormwater hard against century-old foundation walls, and once moisture breaches the plaster and stone of a 1910 Colonial or a 1930s Tudor, mold can establish a colony in as little as 48 hours. If you're noticing a musty smell in a finished lower level near the Franklin School area, or dark staining along the base of original millwork anywhere in 07901, that's not age, that's biology, and it moves faster than most homeowners expect.
 

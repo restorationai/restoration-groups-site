@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "West Orange"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter tears through the Watchung ridge or a kitchen fire vents through a Victorian roofline in Llewellyn Park, the gap between a damaged structure and a destroyed one is often measured in hours, not days. Stormwater races downslope off South Mountain Reservation, winds funnel hard along the ridge, and West Orange's wide mix of housing stock means one block might have a century-old slate roof while the next has a postwar ranch with a flat porch cover. Emergency board-up and tarping stops that exposure window from widening while your insurance adjuster is still returning calls.
 

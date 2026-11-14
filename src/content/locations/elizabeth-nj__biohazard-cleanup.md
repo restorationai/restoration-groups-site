@@ -19,7 +19,7 @@ city: "Elizabeth"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Elizabeth's dense patchwork of early-1900s two- and three-family frame homes means that a biohazard situation in one unit rarely stays contained to one household. A shared stairwell, a common basement, a landlord responsible for multiple tenants, the logistics compound quickly on top of an already difficult moment. The Restoration Group responds 24/7 from our Kenilworth location, handling the remediation with discretion, proper containment, and documentation that holds up with insurers and property managers alike.
 

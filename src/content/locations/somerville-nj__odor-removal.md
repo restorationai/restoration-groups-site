@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Somerville"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Somerville's compact grid of early-1900s frame two-families and Victorian colonials holds onto odors in ways that newer construction simply doesn't. Plaster walls, horsehair insulation, and unlined cast-iron drains absorb smoke, sewage, and mold volatiles deep into the substrate, and when a finished basement floods after a Raritan River surge or a Peters Brook overflow, that damp, organic smell can persist for months if the source isn't treated at the molecular level. The Restoration Group deploys the full spectrum of professional deodorization technology, ozone treatment, hydroxyl generation, thermal fogging, and HEPA-filtered air scrubbing, to eliminate odors at their source, not mask them.
 

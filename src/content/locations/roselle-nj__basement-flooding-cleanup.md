@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Roselle"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida swept through Union County in 2021, basements across Roselle took on water faster than sump pumps could cycle, and the homes hardest hit were the postwar capes and 1920s colonials packed onto tight lots near the Elizabeth River corridor by Warinanco Park. That combination of aging infrastructure, low-lying topography, and overwhelmed municipal storm drains is not a once-in-a-decade fluke here. It is the recurring pattern that defines basement flooding in 07203. The Restoration Group operates out of Kenilworth, less than four miles away, and responds around the clock to exactly these situations.
 

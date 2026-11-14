@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Wayne"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 Wayne's position between the Passaic and Pompton Rivers isn't just a geography fact, it's a recurring water damage event. Residents in Hoffman Grove and Mountain View have watched their finished basements fill during nor'easters, and those who were here for Tropical Storm Irene in 2011 or Ida in 2021 know how fast a slow-rising river turns into a soaked first floor. When that happens, or when a supply line bursts in a 1960s colonial off Alps Road at 2 a.m., The Restoration Group responds 24/7 from our Kenilworth base to begin water removal, structural drying, and full mitigation before secondary damage sets in.
 

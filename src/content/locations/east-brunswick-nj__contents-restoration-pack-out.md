@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst supply line soaks a finished basement in Frost Woods or a sprinkler discharge drenches a commercial space along the Route 18 corridor, the structure is only half the story. Furniture, electronics, family documents, clothing, and keepsakes absorb water, smoke, and soot on a timeline that doesn't wait for business hours. The Restoration Group's contents restoration and pack-out service is built for exactly that overlap, protecting what's inside the building while the building itself is being dried, cleaned, or rebuilt.
 

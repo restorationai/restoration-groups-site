@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Hackensack"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 A refrigerator ice maker line that drips quietly behind the unit for weeks looks like a minor nuisance until you pull the appliance away from the wall in a Hackensack Heights apartment and find the subfloor saturated through two layers of vinyl and into the ceiling of the unit below. That's the reality of stacked living along the Prospect Avenue corridor, one appliance leak doesn't stay contained to one household. The Restoration Group responds 24/7 to appliance leak cleanup calls across Hackensack (07601, 07602), from prewar two-families in Fairmount to mid-century capes near Johnson Park.
 

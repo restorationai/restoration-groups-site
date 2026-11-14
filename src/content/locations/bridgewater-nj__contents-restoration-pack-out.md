@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Raritan River backs up through Finderne or a burst supply line soaks a finished basement in Martinsville, the damage to furniture, clothing, documents, and personal belongings can be just as devastating as the structural loss itself. Contents restoration and pack-out is the discipline that saves those items, and in Bridgewater's mix of postwar split-levels, 1970s ranches, and newer colonial developments, the range of what needs saving after a water, fire, or mold event is wide. The Restoration Group responds around the clock, documents every item before it moves, and returns belongings in pre-loss condition whenever restoration is achievable.
 

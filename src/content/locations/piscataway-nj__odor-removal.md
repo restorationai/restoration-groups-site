@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Piscataway"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 When a Raritan River flood pushes silt-laden water into a River Road split-level, or a kitchen fire leaves smoke residue baked into the plaster walls of a postwar cape in Stelton, the smell doesn't leave on its own. Odors from smoke, mold, sewage, and pet contamination bond chemically to porous surfaces, drywall, subflooring, upholstery, HVAC ductwork, and standard cleaning products don't break those bonds. The Restoration Group responds 24/7 throughout Piscataway (08854) with professional-grade deodorization equipment calibrated to the specific odor source and the building materials it has penetrated.
 

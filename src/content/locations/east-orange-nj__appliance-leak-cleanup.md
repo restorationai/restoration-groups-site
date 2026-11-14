@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "East Orange"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 An appliance leak in East Orange can turn into a multi-unit disaster faster than almost anywhere else in Essex County. The city's dense stock of early-1900s brick apartment buildings, the kind that line the blocks near Brick Church station and fill the Elmwood and Ampere neighborhoods, means a slow refrigerator line drip or a washing machine overflow on the second floor can saturate original hardwood, seep through century-old plaster, and show up as a water stain on a first-floor ceiling within hours. The Restoration Group responds 24/7 from Kenilworth, bringing certified drying equipment and a documented remediation process to stop the damage before it spreads to neighboring units.
 

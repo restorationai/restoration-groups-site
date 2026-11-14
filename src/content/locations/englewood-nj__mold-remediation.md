@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Englewood"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Mold doesn't wait for a convenient time to appear, and in Englewood it rarely does. The low-lying streets near Overpeck Creek tributaries flooded hard during Hurricane Ida in 2021, leaving finished basements saturated for days, long enough for mold colonies to establish behind drywall before homeowners even filed an insurance claim. Whether you're dealing with a musty crawl space in a century-old East Hill estate or visible black mold spreading across the ceiling of a Fourth Ward apartment, the conditions here create specific, recurring mold problems that demand more than a coat of paint and a dehumidifier.
 

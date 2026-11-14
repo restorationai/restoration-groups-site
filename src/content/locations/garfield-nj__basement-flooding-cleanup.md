@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Garfield"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Passaic River crests after a hard rain, basements along River Drive and the low-lying blocks near Dahnert's Lake aren't just damp, they're underwater. Garfield's dense grid of early-1900s two- and three-family homes was built long before modern waterproofing standards, and the city's aging cast-iron drain systems back up fast under storm load. A flooded basement in a Plauderville cape or a Belmont Avenue multi-family can go from a few inches to a serious structural and mold risk within 24 hours. The Restoration Group responds around the clock to basement flooding cleanup calls across Garfield (07026), with IICRC Certified Firm #210213 technicians and equipment sized for the kinds of losses this city actually sees.
 

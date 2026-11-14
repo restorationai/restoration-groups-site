@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Englewood"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up in an Englewood home, the clock starts immediately. Raw sewage carries bacteria, viruses, and parasites classified as Category 3 water, the most hazardous contamination tier, and in a city where dense early-1900s multifamily buildings share aging lateral lines and finished basements are common from the Fourth Ward to East Hill, a single backup can saturate framing, drywall, and flooring before the smell even reaches the upper floors. The Restoration Group dispatches around the clock from Kenilworth and is IICRC Certified Firm #210213, so the crew arriving at your door is trained to the same standard your insurance adjuster expects.
 

@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Livingston"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst copper supply line or a Canoe Brook flood event soaks a Livingston home, the damage rarely stops at the walls. Furniture, electronics, clothing, artwork, and decades of accumulated belongings absorb water, smoke, or mold spores within hours, and in many of the 1950s-to-70s split-levels and colonials that define neighborhoods like Northland and Collins, finished basements packed with stored items can turn a single loss event into a multi-room contents crisis. Getting those belongings out of harm's way quickly, and restoring as many of them as possible, is what contents restoration and pack-out work is designed to do.
 

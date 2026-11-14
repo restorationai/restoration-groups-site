@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Englewood"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Flat Rock Brook backs up after a heavy rain or an aging supply line gives out inside one of East Hill's century-old Victorians, the water doesn't wait for business hours. Englewood's mix of grand pre-war estates, dense early-1900s multifamily buildings, and postwar row houses on the west side means flood events here range from finished-basement inundations to commercial sprinkler discharges along the Palisade Avenue corridor, and the structural stakes are different at every address. The Restoration Group responds 24/7, dispatching from Kenilworth to begin extraction before standing water has time to migrate into subfloor assemblies and wall cavities.
 

@@ -17,7 +17,7 @@ area_slug: "rahway-nj"
 city: "Rahway"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a finished basement off Milton Lake or a sprinkler line lets go in a Main Street commercial space, The Restoration Group dispatches from Kenilworth around the clock, handling water extraction, structural drying, mold remediation, fire and smoke cleanup, and full reconstruction for homeowners, landlords, and property managers throughout Rahway's 07065 ZIP code.
 

@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Brooklyn"
 state: "NY"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Brooklyn's brownstone belt runs on pipes that were installed when Woodrow Wilson was president, and in January, when temperatures drop hard enough to freeze the exposed supply lines in garden-level apartments and uninsulated cellar spaces, those pipes don't just drip. They split. A burst pipe inside a Park Slope rowhouse or a Brooklyn Heights co-op can release hundreds of gallons before the water reaches the first-floor hallway, soaking through original plaster, saturating the subfloor, and threatening the shared party wall between you and your neighbor. The Restoration Group responds 24/7 to burst pipe emergencies across Brooklyn, with crews dispatched from our Kenilworth, NJ base around the clock.
 

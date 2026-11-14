@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Clifton"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 When Weasel Brook backs up or the Passaic overruns its banks through the Lakeview and Delawanna sections of Clifton, the water doesn't just recede and disappear, it soaks into finished basement walls, sits under vinyl plank flooring, and starts feeding mold colonies within 24 to 48 hours. By the time a homeowner notices the musty smell or the dark staining along a baseboard, remediation is already overdue. The Restoration Group responds to mold calls in Clifton around the clock, bringing IICRC-certified protocols and containment equipment directly to your address.
 

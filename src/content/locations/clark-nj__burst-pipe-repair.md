@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Clark"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Clark's postwar housing stock sits quietly on finished basements full of aging copper supply lines and cast-iron drains, and when January temperatures drop hard or a summer storm overwhelms a sump pump, those pipes don't give much warning before they let go. A burst pipe in a 1960s split-level off Valley Road or a ranch near Brant Lake can dump dozens of gallons into a finished basement in the time it takes to realize something is wrong. The Restoration Group responds 24/7 from Kenilworth, reaching Clark's neighborhoods quickly to stop the damage before it compounds.
 

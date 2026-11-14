@@ -17,7 +17,7 @@ area_slug: "new-providence-nj"
 city: "New Providence"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 The Restoration Group handles water damage, fire and smoke cleanup, mold remediation, and biohazard response for homeowners and property managers throughout New Providence, NJ. Our crews document losses the way insurance carriers expect, work from moisture readings rather than guesswork, and can be on scene day or night since we run a 24/7 operation out of nearby Kenilworth.
 

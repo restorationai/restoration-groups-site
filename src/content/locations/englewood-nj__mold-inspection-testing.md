@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Englewood"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The low-lying streets near Flat Rock Brook and the tributaries that feed into Overpeck Creek left parts of Englewood sitting in standing water after Hurricane Ida in 2021, and wherever water lingers, mold follows within 24 to 48 hours. For homeowners in the East Hill's century-old estates and residents in the denser postwar multifamily stock on the west side, the gap between a slow leak and a full mold colony is shorter than most people expect. A professional mold inspection and testing assessment is the only way to know whether what you're seeing, or smelling, is isolated surface growth or something deeper inside your walls.
 

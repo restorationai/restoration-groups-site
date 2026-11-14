@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Morristown"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Morristown's older housing stock creates a mold environment that's hard to fully appreciate until you're pulling drywall in a finished basement beneath a Victorian on Speedwell Avenue and find colonies that have been growing, undisturbed, since a slow galvanized-pipe leak started years ago. The combination of aging plumbing, cast-iron drains, and the flooding that low-lying neighborhoods absorbed during Ida's remnants in 2021 means mold in 07960 isn't always a fresh event, it's often a layered problem that started quietly and spread further than the visible staining suggests.
 

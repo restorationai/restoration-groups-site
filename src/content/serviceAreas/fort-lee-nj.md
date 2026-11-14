@@ -17,7 +17,7 @@ area_slug: "fort-lee-nj"
 city: "Fort Lee"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a supply line bursts on the 18th floor of a Palisades high-rise or a storm sends runoff cascading down toward Coytesville, Fort Lee property owners need a restoration crew that already understands the building stock, the terrain, and the pace of a densely populated Bergen County city. The Restoration Group dispatches from Kenilworth around the clock, 24/7, to handle water damage, fire and smoke damage, mold remediation, and full reconstruction across Fort Lee's ZIP code 07024.
 

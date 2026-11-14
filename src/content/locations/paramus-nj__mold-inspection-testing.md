@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Paramus"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The split-levels and colonials that fill West Paramus and Arcola weren't built with mold in mind, they were built in the 1950s and '60s, when finished basements were a selling point and vapor barriers were an afterthought. Add the flooding that Tropical Storm Ida pushed through Bergen County basements in 2021, the Saddle River's habit of backing up into low-lying yards after heavy rain, and aging cast-iron drain lines that weep moisture into wall cavities, and you have conditions where mold can colonize drywall in as little as 48 to 72 hours after a water event. If you're smelling something musty, seeing discoloration on a ceiling, or dealing with unexplained allergy symptoms indoors, a professional mold inspection and testing visit is the only way to know what you're actually dealing with, and where it's hiding.
 

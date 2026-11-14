@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Somerville"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a storm tears shingles off a Victorian on Gaston Avenue or a kitchen fire punches through the roof of a century-old two-family on East Main, the window between the initial damage and the next wave of destruction, rain, wind, opportunistic entry, can be measured in hours. Emergency board-up and tarping is not a cosmetic step; it is the line that separates a contained loss from a gutted house. The Restoration Group dispatches 24/7 from Kenilworth and reaches Somerville's tight borough streets with the materials and equipment to close that window before it costs you more.
 

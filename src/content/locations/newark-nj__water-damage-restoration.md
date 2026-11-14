@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Newark"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a pipe lets go on the third floor of a Ironbound three-family, the water doesn't stop at the unit where it started, it follows the framing down through two more floors before anyone notices the ceiling bubbling in the ground-floor apartment. Newark's dense pre-war housing stock turns what might be a contained incident in a newer suburb into a multi-unit emergency within minutes. The Restoration Group responds 24/7 from Kenilworth, reaching most Newark neighborhoods in under half an hour, ready to stop the spread before the damage compounds.
 

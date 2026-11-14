@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Irvington"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a fire tears through a rowhouse on Chancellor Avenue or a nor'easter punches out a storefront window along the Springfield Avenue corridor, the gap between the damage and the repair is where the real losses compound. Rain, wind, and opportunistic entry can turn a bad night into a catastrophic claim before morning. The Restoration Group dispatches 24/7 from Kenilworth, roughly 20 minutes from most of Irvington's 07111 ZIP code, to board open windows and doors, secure roof breaches with heavy-duty tarps, and stop secondary damage before it starts.
 

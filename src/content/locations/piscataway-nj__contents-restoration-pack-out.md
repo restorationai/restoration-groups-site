@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Piscataway"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Raritan River backs up through Johnson Park and into River Road neighborhoods, or a burst galvanized supply line soaks a finished basement in Possumtown, the damage to your belongings is often the part that feels most personal. Furniture, documents, heirlooms, electronics, these aren't line items on a claim; they're the reason the house felt like home. Contents restoration and pack-out is the discipline that treats them that way: removing items from a damaged structure before further harm occurs, restoring what can be saved, and returning everything catalogued and cleaned once the building is ready.
 

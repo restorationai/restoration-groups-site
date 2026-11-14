@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Hillside"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 A refrigerator ice maker line that drips overnight or a washing machine hose that blows mid-cycle might seem minor, until you're standing in a finished Hillside basement watching water wick into 1940s-era wood framing. In a township where so many homes between Saybrook and Coe's Corner were built with semi-finished lower levels and original galvanized supply lines, a slow appliance leak can saturate subfloor, insulation, and drywall for days before anyone notices. The Restoration Group responds 24/7 to appliance leak cleanup calls throughout Hillside (07205) and the surrounding Union County area.
 

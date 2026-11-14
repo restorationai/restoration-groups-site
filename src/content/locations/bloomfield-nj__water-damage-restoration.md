@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Third River backs up through Watsessing or a decades-old galvanized supply line finally splits inside one of Bloomfield's 1920s colonials, the water doesn't wait for business hours, and neither do the consequences. Saturated plaster, swollen hardwood floors, and sewer-tainted water in a finished basement can escalate from a manageable cleanup to a structural problem within 24 to 48 hours. The Restoration Group responds 24/7 from Kenilworth, reaching Bloomfield addresses quickly to begin water extraction before secondary damage takes hold.
 

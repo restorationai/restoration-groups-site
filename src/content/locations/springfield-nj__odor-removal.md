@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Springfield"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 When Ida's floodwaters turned Route 22 into a river and pushed through the finished basements of Springfield's colonials and capes, the water eventually receded, but the smell didn't. Odor molecules from floodwater, sewage backup, smoke, and mold colonization embed themselves in drywall, subflooring, and HVAC ductwork in ways that fans and candles can't touch. The Restoration Group deploys industrial deodorization equipment and IICRC-certified technicians to Springfield (07081) around the clock, targeting the source of the odor rather than masking it.
 

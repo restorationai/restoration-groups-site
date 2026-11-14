@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 A storm tears through Scotch Plains on a Tuesday night, and by Wednesday morning a split-level off Willow Grove has a broken attic window, a section of ridge shingles peeled back, and rain moving freely into the ceiling cavity. That gap, even a modest one, can let enough water in overnight to saturate insulation, buckle OSB sheathing, and set the clock on mold colonization within 24 to 48 hours. The Restoration Group dispatches board-up and tarping crews around the clock from our Kenilworth headquarters, reaching 07076 addresses quickly so that a bad night does not become a months-long reconstruction project.
 

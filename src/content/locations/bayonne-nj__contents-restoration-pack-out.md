@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Bayonne"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst pipe or storm surge pushes water through the ground floor of a Bergen Point rowhouse, the damage rarely stops at the walls. Furniture, clothing, family documents, and decades of accumulated belongings absorb moisture within hours, and in Bayonne's dense, older housing stock, those contents are often packed into tight rooms with little airflow. Contents restoration and pack-out is the part of recovery most homeowners don't think about until they're standing in a soaked living room, and getting it right requires more than a moving truck and a storage unit.
 

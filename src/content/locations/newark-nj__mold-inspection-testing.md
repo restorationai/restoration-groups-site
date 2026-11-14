@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Newark"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 When combined sewer backups flood Ironbound basements after a heavy rain, and in Newark, that happens more than most cities admit, the moisture doesn't just drain away. It soaks into the concrete block, wicks up through the slab, and within 24 to 48 hours begins feeding mold colonies that are invisible to the naked eye but very much alive in the air your tenants breathe. A mold inspection and testing visit puts hard data behind what you're smelling: air samples, surface swabs, and a written assessment that tells you exactly what species are present, at what concentrations, and whether remediation is warranted.
 

@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The split-levels and colonials packed into Scotch Plains' Shackamaxon and Willow Grove neighborhoods were built in an era when basements were finished with drywall over concrete block and HVAC returns ran through every room, which means when a fire, flood, or long-ignored mold problem releases odor compounds, those molecules travel fast and settle deep into wall cavities, ductwork, and subflooring. Standard cleaning doesn't touch them. Eliminating odor from a Scotch Plains home requires matching the right deodorization technology to the specific source, the building's construction era, and the materials involved.
 

@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Springfield"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Rahway River's west branch swells after a heavy storm and backs up through floor drains and window wells across Springfield's low-lying neighborhoods, the damage rarely stops at the surface. Finished basements, the defining feature of the 1940s and 1950s colonials that line the streets off Mountain Avenue and fill the blocks around Springfield Center, soak up water through concrete block foundations long before a homeowner notices the carpet squishing underfoot. The Restoration Group responds 24/7 from our Kenilworth base, and emergency water removal in 07081 is a call we take seriously because we know exactly what these houses do when they get wet.
 

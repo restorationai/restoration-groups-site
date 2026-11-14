@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Perth Amboy's position at the mouth of the Raritan River has always meant water, and after Hurricane Sandy pushed tidal surge through the Waterfront district and into the basements of century-old two- and three-family homes along the low blocks, mold became a slow-moving second disaster for many property owners. That combination of coastal storm exposure, aging building stock, and chronically damp foundations creates conditions where mold can colonize hidden cavities within 24 to 72 hours of a moisture event. When that happens, calling a certified remediation team, not a general contractor with a bottle of bleach, is what determines whether the problem is solved or simply painted over.
 

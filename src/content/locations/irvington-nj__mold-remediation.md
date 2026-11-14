@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Irvington"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Irvington's dense stock of early-1900s rowhouses and two- and three-family frames was built before modern vapor barriers existed, and when a galvanized supply line finally gives out or a hard rain pushes water through a failing cast-iron drain, mold can begin colonizing wood framing and plaster within 24 to 48 hours. That timeline is not hypothetical, after Tropical Storm Ida swept through Essex County in 2021, finished basements across the 07111 ZIP code sat wet for days, and many of those spaces are still dealing with the fungal aftermath. The Restoration Group responds around the clock from Kenilworth, bringing IICRC-certified remediation (Firm #210213) directly to Irvington properties before a manageable moisture problem becomes a structural one.
 

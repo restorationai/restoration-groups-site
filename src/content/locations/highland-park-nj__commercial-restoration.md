@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Highland Park"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When the Raritan River crested during Hurricane Ida in 2021, several businesses along the Raritan Avenue corridor found themselves dealing with not just floodwater but the compounding effects of aging infrastructure, cast-iron drains backing up, finished lower-level offices saturated, and commercial kitchens that couldn't reopen until every surface met health department standards. That intersection of river geography, older building stock, and dense mixed-use development is what makes commercial restoration in Highland Park its own discipline, not a scaled-up version of residential work.
 

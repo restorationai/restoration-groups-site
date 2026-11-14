@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Staten Island"
 state: "NY"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Port Richmond row house or a basement electrical fire in one of New Dorp's postwar split-levels leaves more than charred walls, it leaves smoke chemistry embedded in every surface the air touched. Smoke residue travels far beyond the room of origin, seeping into HVAC ductwork, settling into plaster ceilings, and bonding with the porous masonry that defines so much of Staten Island's older housing stock. The Restoration Group dispatches crews around the clock from its base in Kenilworth, NJ, crossing into Staten Island via the Goethals or Bayonne Bridge to begin documented, systematic smoke damage restoration before secondary damage compounds the loss.
 

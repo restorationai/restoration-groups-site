@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "North Bergen"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a storm tears shingles off a brick two-family on a hillside lot near Woodcliff, or a kitchen fire blows out windows in a Bergenline Avenue mixed-use building at 2 a.m., the clock starts immediately. Rain, wind, and opportunistic entry don't wait for business hours. North Bergen's dense housing stock, packed with early 20th-century frame and masonry multi-family homes on steep Palisades-side grades, leaves damaged structures exposed in ways that compound fast. Emergency board-up and tarping is the first line of defense between a bad night and a catastrophic loss.
 

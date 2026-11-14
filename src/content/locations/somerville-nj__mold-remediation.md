@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Somerville"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Somerville's older housing stock sits just a few blocks from the Raritan River, and after storms like Ida in 2021 pushed water into finished basements across the West End and Fairview, many homeowners discovered mold colonies weeks later, long after the visible water was gone. Mold can begin colonizing porous materials within 24 to 48 hours of a moisture event, and in a borough where early-1900s frame two-families and Victorians are the norm, the conditions for hidden growth are almost built into the walls.
 

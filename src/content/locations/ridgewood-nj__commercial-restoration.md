@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When the Ho-Ho-Kus Brook overtopped during Ida in 2021, businesses along East Ridgewood Avenue faced a scenario that plays out in some form nearly every storm season: standing water in finished lower levels, saturated drywall behind display cases, and the clock ticking toward mold colonization within 24 to 48 hours. Commercial restoration in a walkable downtown like Ridgewood's carries stakes that a suburban strip mall doesn't, every closed day costs foot traffic, and every delayed decision risks deeper structural damage to buildings that were already old when Eisenhower was president.
 

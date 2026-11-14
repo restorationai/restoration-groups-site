@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Somerville"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 Somerville's older housing stock has a way of turning a routine appliance failure into a multi-room water event. A dishwasher supply line that fails behind a cabinet in a century-old East Main two-family doesn't just soak the kitchen, it finds every gap in the original subfloor and wicks into the finished basement below before anyone notices the smell. The Restoration Group responds 24/7 to appliance leak emergencies throughout Somerville (08876) and the surrounding borough, extracting standing water, drying structural materials, and documenting everything for your insurance carrier.
 

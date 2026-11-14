@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter peels back a roof on a postwar colonial in Colonia, or a kitchen fire blows out windows on a split-level near the Rahway River, the clock starts immediately, not on cleanup, but on exposure. Rain, wind, and opportunistic trespass can turn a contained loss into a catastrophic one within hours. The Restoration Group responds 24/7 from Kenilworth, reaching Woodbridge Township quickly via the Garden State Parkway or Route 1 & 9 to secure your property before the next weather event compounds the damage.
 

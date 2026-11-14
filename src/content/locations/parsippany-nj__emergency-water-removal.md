@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Parsippany"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Whippany River backs up after a heavy rain or a supply line lets go behind a finished basement wall in Lake Hiawatha, the clock starts immediately. Water moves fast through the split-levels and ranches that define so much of Parsippany-Troy Hills, soaking subfloor OSB, wicking into wall cavities, and reaching insulation before the smell even registers. The Restoration Group responds 24/7 from Kenilworth, and our IICRC Certified Firm (#210213) crews bring the extraction and drying equipment to stop that spread before it becomes a structural or mold problem.
 

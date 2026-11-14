@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Clifton"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Passaic River climbs past its banks or Weasel Brook backs up through storm drains, low-lying streets in Lakeview and Delawanna can go from damp to knee-deep in hours, and the water that soaks into a finished basement doesn't wait for business hours. The Restoration Group responds to flood damage calls in Clifton around the clock, dispatching from Kenilworth to begin extraction, drying, and documentation before secondary damage compounds the loss.
 

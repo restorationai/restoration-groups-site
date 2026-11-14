@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Bayonne"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 Bayonne sits on a narrow peninsula wedged between Newark Bay and the Kill Van Kull, and that geography has consequences every time a nor'easter stalls over the harbor or a storm surge pushes inland the way Sandy did in 2012. When floodwater reaches the finished basements and ground-floor units of the borough's dense early 20th-century two- and three-family homes, it moves fast, and the clock on mold colonization starts within 24 to 48 hours of saturation. The Restoration Group responds around the clock, dispatching IICRC Certified Firm (#210213) crews to Bayonne addresses in ZIP code 07002 whenever the call comes in.
 

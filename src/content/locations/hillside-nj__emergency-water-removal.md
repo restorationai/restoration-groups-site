@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Hillside"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Elizabeth River backs up during a hard summer storm, or a galvanized supply line finally gives out in a Saybrook two-family at 2 a.m., the water doesn't wait for business hours, and neither do we. Hillside's dense housing stock and low-lying eastern neighborhoods create a specific set of water damage patterns that demand more than a shop-vac and a few fans. The Restoration Group responds 24/7 from Kenilworth, reaching 07205 addresses quickly to stop active losses and remove standing water before secondary damage sets in.
 

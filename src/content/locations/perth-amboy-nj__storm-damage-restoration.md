@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or fast-moving summer storm rolls in off Raritan Bay, Perth Amboy's dense blocks of century-old frame two- and three-families take the hit differently than newer suburban construction. Wind-driven rain finds its way into aging wood soffits, flat-roof additions, and brick parapet walls that have been patching and repatching for decades. If you're dealing with a blown-off roof section, a tree through a porch, or a flooded basement in the 08861 ZIP code, The Restoration Group is available around the clock, call (844) 808-8838 and we'll get a crew moving.
 

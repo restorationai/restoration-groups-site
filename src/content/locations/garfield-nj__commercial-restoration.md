@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Garfield"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a pipe bursts overnight in a Passaic Street storefront or a roof leak soaks the stockroom of a Belmont Avenue retailer, the clock starts immediately, and in Garfield's dense commercial corridors, a single water event can cascade into neighboring tenant spaces before morning. The Restoration Group responds 24/7 to commercial losses across Garfield (07026), handling emergency mitigation, cleaning, and drying so business owners can focus on reopening, not project management.
 

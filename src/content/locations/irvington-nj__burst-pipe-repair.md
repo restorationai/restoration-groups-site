@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Irvington"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go inside one of Irvington's tightly packed two- and three-family homes, the damage doesn't stay contained for long. Water finds the path of least resistance through shared wall cavities, drops into finished basements, and saturates the kind of dense plaster-and-lath construction that was standard when most of this housing stock was built a century ago. The Restoration Group responds 24/7, call (844) 808-8838 the moment you hear the rush of water or see a ceiling start to bow.
 

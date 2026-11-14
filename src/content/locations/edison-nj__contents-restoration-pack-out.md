@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Edison"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst supply line or a kitchen fire leaves a Clara Barton split-level full of smoke-saturated furniture and waterlogged belongings, the contents of that home need professional attention just as urgently as the structure itself. Edison's postwar housing stock, capes, colonials, and split-levels built through the 1950s, '60s, and '70s, concentrates a lot of original wood, fabric, and paper goods in finished basements and lower levels that sit close to the water table. Getting those items out, documented, and into a controlled restoration environment is often the difference between salvage and total loss.
 

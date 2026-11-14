@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 A grease fire that shuts down a restaurant near The Mills at Jersey Gardens, a burst riser that soaks three floors of a Midtown office building, a combined-sewer backup that forces a Elizabethport warehouse to halt operations, commercial losses in Elizabeth don't follow a polite schedule, and they rarely stay contained to one tenant or one floor. The Restoration Group operates around the clock from our Kenilworth shop, roughly ten minutes from Elizabeth's core, ready to stabilize, document, and restore commercial properties so your business loses days, not weeks.
 

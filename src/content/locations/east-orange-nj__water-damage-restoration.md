@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "East Orange"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a galvanized riser finally gives out in a three-story walk-up off Central Avenue, or a flat roof lets go during a nor'easter over one of Brick Church's prewar apartment buildings, water doesn't stop at one unit, it migrates through plaster ceilings, travels down brick party walls, and pools in finished basements before most tenants realize anything is wrong. The Restoration Group responds 24/7 to water damage emergencies across East Orange, bringing IICRC-certified water mitigation directly from our Kenilworth base to ZIP codes 07017, 07018, and 07019.
 

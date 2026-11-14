@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Brooklyn"
 state: "NY"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 Brooklyn's basement flooding problem isn't just about heavy rain, it's about what happens when 140-year-old masonry meets a storm drain system that was never designed for it. When Ida dropped nearly two inches of rain in an hour across the borough in 2021, garden-level apartments from Park Slope to Flatbush turned into wading pools faster than any sump pump could respond. If you're standing in water right now, or you've just discovered a soaked cellar after a pipe let go overnight, The Restoration Group dispatches crews around the clock and can reach most Brooklyn neighborhoods from our Kenilworth, NJ base via the Goethals and the Staten Island Expressway, call (844) 808-8838.
 

@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Westfield"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst pipe or a storm-driven limb punches through a cedar-shake roof in Westfield's Wychwood or Indian Forest neighborhoods, the damage rarely stops at the structure. The antique furniture, framed artwork, wool rugs, and built-in cabinetry that fill these Victorian and Tudor homes absorb smoke odor, soot, and water within hours, and once saturation sets in, the window for successful restoration narrows fast. Contents restoration and pack-out is the discipline that separates what can be saved from what cannot, and doing it right in a 07090 home means understanding exactly what's at stake.
 

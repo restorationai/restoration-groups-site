@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Hackensack"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Hackensack River swells after a hard rain and the ground along the low-lying Southside and Fairmount neighborhoods is already saturated, basements in this city don't just get damp, they fill. Tropical Storm Ida in 2021 put that reality on display across Bergen County, and Hackensack's mix of prewar two- and three-family homes, aging cast-iron drain lines, and tidal-influenced soil gave water every advantage. If you're standing in a wet basement right now, call (844) 808-8838. The Restoration Group responds 24/7 and can reach Hackensack from our Kenilworth base at any hour.
 

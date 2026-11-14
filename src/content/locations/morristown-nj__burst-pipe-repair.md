@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Morristown"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go in January in Morristown, the damage clock starts before the water even reaches the floor. The town's dense stock of Victorian and early-colonial homes near the Green, many with galvanized supply lines that have been narrowing with mineral buildup for decades, means a single burst can flood a finished basement in under an hour. The Restoration Group responds to pipe burst emergencies in Morristown 24/7, dispatching from Kenilworth with drying equipment staged and ready to work the moment we walk through the door.
 

@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Montclair"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a supply line fails behind a plaster wall in an Upper Montclair Victorian, or a backed-up sewer line floods a finished basement in the South End after a heavy storm, the clock starts immediately. Water in older construction moves fast and hides well, saturating horsehair plaster, wicking into century-old framing, and pooling beneath tongue-and-groove subfloors before a moisture meter ever gets near the wall. The Restoration Group responds 24/7 to emergency water removal calls across Montclair (07042, 07043), dispatching from Kenilworth with the equipment needed to stop the spread before the damage compounds.
 

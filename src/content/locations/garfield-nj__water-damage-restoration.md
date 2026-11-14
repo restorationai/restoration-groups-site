@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Garfield"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Passaic River backs up along River Drive or a corroded cast-iron drain finally gives out under a century-old two-family in Plauderville, the water doesn't wait for business hours. Garfield's dense blocks of early-1900s frame homes and postwar capes sit on small lots with finished basements that fill fast, and the tighter the lot, the faster water migrates through shared walls into a neighbor's unit. The Restoration Group dispatches 24/7 from Kenilworth to address water emergencies across Garfield's 07026 ZIP code before saturation turns a manageable loss into a structural one.
 

@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Paterson"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a fire rips through one of Paterson's dense brick rowhouses or a nor'easter peels back the roof of an aging three-family on the Eastside, the window between the initial damage and a far costlier secondary loss is measured in hours, not days. Rain, wind, and opportunistic entry don't wait for a contractor's schedule. The Restoration Group dispatches board-up and tarping crews around the clock from Kenilworth, reaching Paterson neighborhoods quickly to seal openings, stop weather intrusion, and protect whatever hasn't been damaged yet.
 

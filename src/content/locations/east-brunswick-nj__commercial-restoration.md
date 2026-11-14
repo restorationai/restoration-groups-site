@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head discharges overnight at a Route 18 strip center, or a roof drain backs up into a Brunswick Square Mall tenant space during a nor'easter, the clock starts immediately, inventory soaks, drywall wicks, and every hour without extraction adds to the loss. The Restoration Group handles commercial restoration across East Brunswick's 08816 corridor, from big-box anchors and restaurant pads along Route 18 to the dense condo clusters near the Lawrence Brook watershed that saw significant flooding during the remnants of Ida.
 

@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Teaneck"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Storm damage emergency in Teaneck? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to secure the property and stop further damage.

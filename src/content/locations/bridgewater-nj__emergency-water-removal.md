@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Raritan River backs up through Finderne or a supply line lets go inside one of Bridgewater's postwar split-levels, the water doesn't wait for business hours, and neither do we. The Restoration Group responds 24/7 to emergency water removal calls across Bridgewater, bringing IICRC-certified technicians and commercial extraction equipment directly to the loss site before secondary damage has a chance to take hold. If you're standing in a wet basement right now, call (844) 808-8838.
 

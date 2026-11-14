@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Paramus"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Saddle River backs up during a nor'easter or a supply line lets go inside a postwar split-level off Spring Valley Road, water moves fast, through finished drywall, under laminate flooring, into the insulation packed against a slab. The Restoration Group responds to emergency water removal and cleanup calls in Paramus around the clock, dispatching from Kenilworth with the extraction and pumping equipment sized for the kinds of losses Bergen County homes actually see.
 

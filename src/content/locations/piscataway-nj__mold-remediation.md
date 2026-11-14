@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Piscataway"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The stretch of Piscataway running along the Raritan River has flooded three times in living memory, Irene, Sandy's remnants, and then Ida in 2021, which pushed water through finished basements from River Road all the way into the Johnson Park flatlands. When floodwater sits in a framed basement for even 48 hours, mold colonization begins inside wall cavities and under subfloor sheathing long before the visible surface dries. If you're dealing with a musty smell, discolored drywall, or a recent moisture event in your home or commercial property, the window to contain the problem is short.
 

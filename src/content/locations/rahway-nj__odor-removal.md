@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Rahway"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 When a flooded basement in the Milton Lake neighborhood finally dries out, or when a kitchen fire leaves smoke baked into the plaster walls of a 1920s Downtown Rahway rowhouse, the visible damage is only half the problem. Odors from smoke, mold, sewage, and water intrusion embed themselves into porous surfaces, old horsehair plaster, original hardwood subfloors, the mortar joints of century-old masonry, and no amount of ventilation or store-bought spray will reach them. The Restoration Group responds 24/7 to odor calls throughout Rahway's 07065 ZIP code, using professional-grade equipment calibrated to the specific building stock and moisture conditions found in this city.
 

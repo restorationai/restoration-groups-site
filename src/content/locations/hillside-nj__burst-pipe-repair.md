@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Hillside"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a galvanized supply line finally gives out inside a 1940s Hillside colonial, often on a January night when temperatures drop into the teens, the water doesn't just pool on the floor. It seeps into finished basement ceilings, saturates the framing behind lathe-and-plaster walls, and can reach the subfloor of the first story before anyone notices the pressure drop. The Restoration Group dispatches crews around the clock from Kenilworth, reaching most Hillside addresses in 07205 quickly enough to begin extraction before secondary damage compounds the loss.
 

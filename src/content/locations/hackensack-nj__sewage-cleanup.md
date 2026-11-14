@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Hackensack"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up in a Hackensack prewar two-family or a Prospect Avenue high-rise, the contamination doesn't stay put. Category 3 black water, raw sewage carrying bacteria, viruses, and pathogens, wicks into subfloor framing, travels through shared drain stacks, and reaches adjacent units within hours. The Restoration Group responds around the clock to sewage backup and raw sewage removal calls across Hackensack, dispatching from Kenilworth with IICRC-certified crews (Firm #210213) trained specifically for the dense, stacked-unit and aging-infrastructure conditions that define this city.
 

@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Piscataway"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The stretch of Piscataway running along the Raritan River has been soaked repeatedly, Hurricane Floyd, Irene, and then Ida in 2021 left basements and crawl spaces in the River Road corridor and Johnson Park flatlands sitting in water long enough for mold colonies to establish well before the floodwaters fully receded. If you're in a postwar split-level off Stelton Road or a Society Hill townhome that took on moisture and now smells faintly musty, a professional mold inspection and testing assessment tells you exactly what you're dealing with, before you start tearing out walls or paying for remediation you may not need.
 

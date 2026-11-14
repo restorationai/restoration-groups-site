@@ -17,7 +17,7 @@ area_slug: "maplewood-nj"
 city: "Maplewood"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts behind the plaster walls of a 1920s Tudor in Hilton, or the East Branch of the Rahway River backs up into a finished basement near Maplewood Village, the window for limiting damage is short. The Restoration Group responds to water damage, fire and smoke damage, mold remediation, and full reconstruction for homeowners and property managers throughout Maplewood, NJ, ZIP code 07040, around the clock, every day of the year. Call **(844) 808-8838** and a live team member will answer.
 

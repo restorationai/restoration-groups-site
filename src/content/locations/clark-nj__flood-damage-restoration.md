@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Clark"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Rahway River or its Robinson's Branch tributary backs up after a heavy storm, basements along Valley Road and Lake Avenue can take on water faster than a sump pump can cycle. Clark's compact postwar housing stock, mostly 1950s and '60s ranches, split-levels, and capes with finished lower levels, means that flood water isn't just soaking a utility room; it's threatening finished drywall, carpet, stored belongings, and the mechanical systems that keep a home running. The Restoration Group responds to flood calls in Clark 24/7, bringing IICRC-certified crews (Firm #210213) and industrial drying equipment to stop the damage clock before secondary problems take hold.
 

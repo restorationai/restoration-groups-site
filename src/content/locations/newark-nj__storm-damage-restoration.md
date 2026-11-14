@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Newark"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter stalls over the Passaic River valley or a fast-moving line of thunderstorms tears through Essex County, Newark takes the hit hard and fast. The city's dense pre-war housing stock, brick multifamilies stacked shoulder-to-shoulder in the Ironbound, frame two- and three-families in Vailsburg, grand colonials in Forest Hill, was never engineered for the wind loads and rainfall totals that climate trends are now delivering. The Restoration Group is IICRC Certified (Firm #210213) and available around the clock, responding from our Kenilworth shop to any Newark ZIP code when the weather turns.
 

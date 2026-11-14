@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go in one of Perth Amboy's century-old three-family homes, you're not dealing with a simple repair call, you're dealing with water moving fast through balloon-framed walls, soaking into plaster lath, and pooling in a basement that may already sit close to the Raritan Bay water table. The Restoration Group responds 24/7 from Kenilworth, NJ, handling everything from the initial emergency shutoff through structural drying and pipe repair so the building is safe, dry, and documented before mold has a chance to take hold.
 

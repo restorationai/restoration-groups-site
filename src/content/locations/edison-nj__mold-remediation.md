@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Edison"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Edison's postwar housing stock was built fast and built dense, cape cods and split-levels in Clara Barton, colonials in North Edison, garden-style multifamily complexes strung along the Route 1 corridor, and most of that construction is now old enough that original cast-iron drain lines are cracking, supply plumbing is fatiguing, and finished basements are quietly collecting moisture behind drywall. When a slow leak or a flooding event from a Mill Brook tributary goes unaddressed for more than 48 hours, mold colonization is already underway. The Restoration Group responds around the clock to mold situations across Edison, from initial containment through post-remediation clearance.
 

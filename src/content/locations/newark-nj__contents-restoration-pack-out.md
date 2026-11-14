@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Newark"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a basement floods in the Ironbound or a kitchen fire chars the top two floors of a Forest Hill colonial, the damage you see on the walls is rarely the whole story. Furniture, clothing, documents, electronics, and irreplaceable keepsakes absorb smoke, soot, and water in ways that aren't obvious until the odor returns weeks later or a photograph buckles inside a frame. Contents restoration and pack-out is the discipline of treating those objects, not just the structure, and in a city built on dense pre-war housing stock, getting it right requires a process tuned to Newark's specific conditions.
 

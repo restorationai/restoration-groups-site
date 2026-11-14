@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst galvanized supply line soaks the contents of a century-old two-family in Perth Amboy's Budapest neighborhood, or a nor'easter pushes water under the back door of a Waterfront-district rowhouse, the damage to furniture, clothing, documents, and keepsakes can be just as costly as the structural loss itself. Contents restoration and pack-out is the process of inventorying, removing, cleaning, and returning your belongings, and in a city where so much of the housing stock dates to the early 1900s, getting it right requires understanding what these older buildings hold and how they behave.
 

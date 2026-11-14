@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Paterson"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Cast-iron supply lines in a century-old Sandy Hill rowhouse don't announce their failure, they just let go, sometimes in the middle of the night, sometimes during a cold snap when Paterson's temperatures dip into the teens and uninsulated pipes in unheated basement crawlspaces finally give out. By the time water is soaking through the subfloor and running down the stairwell, the clock is already working against you. The Restoration Group responds 24/7 from Kenilworth, NJ, and handles everything from emergency shutoff coordination to structural drying and pipe repair, so one call covers the whole loss, not just the wet stuff.
 

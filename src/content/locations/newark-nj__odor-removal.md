@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Newark"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Newark's combined sewer system and dense pre-war housing stock create odor problems that linger long after the visible damage is gone. A basement backup in the Ironbound leaves behind hydrogen sulfide and microbial VOCs that soak into concrete block walls and floor joists. A kitchen fire in a Forest Hill colonial pushes smoke into plaster cavities that haven't been opened since the 1930s. Standard air fresheners and even commercial foggers applied without a diagnostic plan just mask the source, and within days, the smell returns. The Restoration Group dispatches from Kenilworth around the clock to address the actual chemistry behind the odor, not just the symptom.
 

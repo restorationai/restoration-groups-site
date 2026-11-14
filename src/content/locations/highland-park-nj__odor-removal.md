@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Highland Park"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The smell of smoke, mildew, or sewer gas doesn't fade on its own, and in Highland Park's dense stock of 1920s and 1930s colonials and two-families, those odors have decades of porous plaster, original hardwood, and unlined cast-iron drains to hide in. Whether the source is a basement flood triggered by a storm like Ida, a kitchen fire on the Raritan Avenue corridor, or a slow drain leak that went unnoticed in a finished lower level, professional deodorization means more than masking the smell, it means neutralizing the molecular compounds embedded in the structure itself.
 

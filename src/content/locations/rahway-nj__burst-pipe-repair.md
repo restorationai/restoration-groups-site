@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Rahway"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go in January at a Victorian on Central Avenue or a postwar colonial near Milton Lake, the water doesn't wait for business hours, and neither do we. Rahway's housing stock runs heavily toward pre-1950 construction with original galvanized or cast-iron supply lines that have been under pressure for seven or eight decades. When those lines fail, they fail fast, and finished basements that took years to renovate can be underwater in under an hour. The Restoration Group operates 24/7 out of Kenilworth, just a few miles up Route 28, and our crews carry the drying and extraction equipment needed to stop a burst pipe loss before it becomes a gut-renovation.
 

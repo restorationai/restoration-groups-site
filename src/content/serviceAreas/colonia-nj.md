@@ -17,7 +17,7 @@ area_slug: "colonia-nj"
 city: "Colonia"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 The Restoration Group provides water damage, fire damage, mold remediation, and biohazard cleanup for homeowners and property managers in Colonia, a residential section of Woodbridge Township in Middlesex County. When a pipe lets go in a finished basement, a kitchen fire scorches cabinetry, or a sump pump fails during a hard rain, our crews document the loss, start mitigation, and work directly with your insurance carrier so the property stops losing ground while the claim moves forward.
 

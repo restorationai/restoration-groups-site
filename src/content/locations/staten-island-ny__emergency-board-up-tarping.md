@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Staten Island"
 state: "NY"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter peels back a roof on a South Beach bungalow or a kitchen fire blows out the windows of a Port Richmond row house, the clock starts immediately. Rain, wind, and opportunistic trespassers can turn a contained loss into a catastrophe within hours, and on Staten Island's East Shore, where Hurricane Sandy rewrote the flood maps in 2012 and Ida sent water rushing down low-lying South Shore streets in 2021, property owners already know how fast conditions can change. The Restoration Group operates around the clock, and with a crew base on the island, we can have plywood, OSB panels, and heavy-duty tarps on-site fast, before secondary damage compounds the original loss.
 

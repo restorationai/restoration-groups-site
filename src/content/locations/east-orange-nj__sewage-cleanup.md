@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "East Orange"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up in one of East Orange's dense brick apartment buildings, the kind of three-story walk-up common along the Ampere and Elmwood corridors, raw sewage doesn't stay in one unit. It migrates through shared cast-iron stacks, seeps into finished basement mechanical rooms, and can affect multiple households within hours. The Restoration Group responds to sewage backup calls across East Orange 24/7, extracting contaminated water, removing unsalvageable materials, and sanitizing affected surfaces to Category 3 water standards before odor and pathogens have a chance to spread further.
 

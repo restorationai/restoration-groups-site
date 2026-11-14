@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Wayne"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a Passaic River flood surge or a burst pipe in a Packanack Lake split-level soaks everything a family owns, the damage to furniture, clothing, documents, and keepsakes can feel just as devastating as the structural loss itself. Contents restoration and pack-out is the process of getting those belongings out of harm's way, professionally cleaned and dried, and returned in the best possible condition, and in Wayne, where flooding is a recurring reality rather than a rare event, having a practiced system for that work matters enormously.
 

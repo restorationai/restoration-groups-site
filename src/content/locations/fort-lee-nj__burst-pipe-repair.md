@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe bursts inside one of Fort Lee's high-rise towers along the Palisades, the damage rarely stays in the unit where it started. Water follows gravity through concrete-slab penetrations, elevator shafts, and shared mechanical chases, soaking stacked units on multiple floors before anyone realizes what's happening. The Restoration Group responds 24/7 to burst pipe emergencies across Fort Lee (07024), bringing IICRC Certified Firm (#210213) water damage crews equipped to handle everything from a single-family home in Coytesville to a 30-story condominium tower near Hudson Lights.
 

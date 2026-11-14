@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Piscataway"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or a fast-moving summer thunderstorm rolls through central New Jersey, Piscataway takes it hard. The township sits along the Raritan River's south bank, and the low-lying flatlands near Johnson Park and the River Road corridor have flooded repeatedly, most recently and memorably during Ida in 2021, but also during Floyd and Irene before that. Storm damage here isn't just a roof-shingle problem; it's wind, water, and structural stress arriving together, often overnight. The Restoration Group responds 24/7 from Kenilworth, reaching Piscataway addresses quickly to stop secondary damage before it compounds the primary loss.
 

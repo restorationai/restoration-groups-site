@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Staten Island"
 state: "NY"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Cast-iron supply lines installed decades ago in Staten Island's postwar Cape Cods and split-levels don't announce their failure, they simply let go, often in the dead of winter when temperature swings between the harbor and the South Shore push aging metal past its limit. When a pipe bursts behind a finished wall in Great Kills or beneath the slab of a New Dorp two-family, the water moves fast and quietly, soaking subfloor, insulation, and framing before anyone notices the drop in pressure. The Restoration Group has a crew base on Staten Island and responds around the clock to stop the loss, extract the water, and get the repair documented before secondary damage sets in.
 

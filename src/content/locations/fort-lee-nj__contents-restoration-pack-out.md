@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a supply line fails on the 18th floor of a Palisades high-rise, the water doesn't stop at one unit, it migrates through concrete decks, soaks into drywall cavities, and saturates the personal property of residents on every floor below before anyone realizes what's happening. In Fort Lee, where dense condominium towers line the cliffs above the Hudson and older multifamily buildings fill the streets of Coytesville and The Hill, a single plumbing event can displace dozens of households and leave behind furniture, artwork, electronics, and clothing that look dry on the surface but are already beginning to degrade. Contents restoration and pack-out services exist precisely for this moment, to protect what's salvageable before secondary damage makes the decision for you.
 

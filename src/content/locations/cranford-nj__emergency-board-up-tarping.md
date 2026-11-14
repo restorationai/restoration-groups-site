@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Cranford"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 Cranford's reputation as the "Venice of New Jersey" is charming until a storm rolls through and the Rahway River decides it has somewhere else to be. After Ida soaked the Riverside Drive area in 2021, dozens of homeowners woke up to broken windows from debris, roof damage from fallen limbs, and wide-open structures sitting exposed while floodwaters receded. That combination, storm-driven structural breach plus lingering moisture, is exactly when a fast board-up and tarping response matters most. The Restoration Group dispatches from Kenilworth around the clock, which puts a crew on-site in Cranford (07016) before secondary damage compounds the original loss.
 

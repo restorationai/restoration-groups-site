@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Cranford"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Cranford's reputation as the 'Venice of New Jersey' is well-earned, the Rahway River loops through the heart of town, and the borough's full-basement colonials and capes, most of them built between 1900 and 1940, carry plumbing systems that have quietly aged alongside the neighborhoods they serve. When a pipe bursts in one of those older homes, especially during a hard freeze or in the aftermath of a pressure spike, water moves fast through unfinished basements and original hardwood subfloors. The Restoration Group responds 24/7 from our Kenilworth headquarters, typically reaching Cranford addresses within minutes, and we carry the documentation tools that matter most here: detailed loss reports formatted for NFIP claims and private carrier billing.
 

@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Rahway River backs up into finished basements across Colonia and Fords, or a sprinkler line lets go overnight at a Route 1 & 9 corridor retail space, the structure is only half the story. The furniture, documents, clothing, electronics, and irreplaceable personal items soaking inside are the other half, and they have a much narrower window before smoke odor sets permanently, mold colonizes fabric, or water warps wood beyond recovery. Contents restoration and pack-out is the work that saves what the building held, and in a township like Woodbridge, where postwar split-levels and colonials are packed with decades of accumulated belongings, that work demands both speed and precision.
 

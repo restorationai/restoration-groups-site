@@ -17,7 +17,7 @@ area_slug: "clifton-nj"
 city: "Clifton"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Delawanna two-family at 2 a.m. or a Lakeview basement fills during a nor'easter, The Restoration Group dispatches from Kenilworth around the clock, extracting water, drying structural cavities, remediating mold, and handling fire and smoke damage for homeowners, landlords, and commercial property managers across Clifton. We coordinate directly with insurance carriers and handle documentation from first inspection through final reconstruction, so you're not managing a dozen vendors while your property is still wet.
 

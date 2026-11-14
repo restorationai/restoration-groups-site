@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Jersey City"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a supply-line failure on the 18th floor of a Newport high-rise sends water cascading through six stacked units below, or a grease fire shuts down a Journal Square retail corridor during the lunch rush, the clock starts immediately, and so does the financial exposure. Jersey City's commercial real estate spans two very different worlds: glass-and-steel waterfront towers along Exchange Place where a single riser break can affect dozens of tenants and trigger building-association insurance claims requiring unit-by-unit moisture documentation, and pre-WWI brick and brownstone stock in neighborhoods like The Heights and Bergen-Lafayette where aging infrastructure, combined-sewer backups, and decades of deferred maintenance create chronic vulnerability. The Restoration Group responds to both.
 

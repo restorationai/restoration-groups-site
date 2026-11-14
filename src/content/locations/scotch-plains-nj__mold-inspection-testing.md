@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The mid-century split-levels and colonials packed into Scotch Plains' Willow Grove and Ashbrook neighborhoods were built in an era before vapor barriers were standard practice, and many of them have spent decades slowly exchanging moisture between finished basements and the soil outside. When the Green Brook backed up during Ida in 2021 and low-lying streets near the Fanwood border flooded, a lot of those basements took on water that never fully dried, creating exactly the conditions where mold colonizes within 24 to 72 hours of saturation. If you're noticing a musty smell, seeing discoloration on drywall or framing, or just want to know what's actually in the air your family is breathing, a professional mold inspection and testing assessment gives you documented answers rather than guesswork.
 

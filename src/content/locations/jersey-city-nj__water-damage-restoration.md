@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Jersey City"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 Jersey City sits at the edge of Newark Bay and the Hudson River, and that geography is not just scenic, it's a liability when pipes burst, storm drains back up, or a riser line fails on the fourteenth floor of a Newport high-rise. Water moves fast here, through century-old clay tile drains in the Heights, through shared wall cavities in Bergen-Lafayette rowhouses, and through stacked mechanical chases in Exchange Place condos where a single leak can soak a dozen units before anyone calls the super. The Restoration Group responds 24/7 to water damage emergencies across Jersey City, bringing drying equipment and documentation that holds up with insurers and condo associations alike.
 

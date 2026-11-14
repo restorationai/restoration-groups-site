@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Summit"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Summit's older housing stock creates a particular mold challenge that most homeowners don't anticipate until they're already dealing with the consequences. The large 1890s-to-1930s homes that line the streets near the Franklin School area and throughout Northside were built with plaster walls, deep finished basements, and original plumbing that has now been aging for a century or more. When a clay sewer lateral backs up, a radiator line bursts in an uninsulated wing, or stormwater channels down a steep lot into a lower level, moisture finds its way into cavities that are genuinely difficult to reach and even harder to dry. Mold can begin colonizing porous surfaces within 24 to 48 hours of a moisture event, and in a home with historic millwork, hardwood floors, and irreplaceable plaster detailing, the cost of discovering that too late is significant.
 

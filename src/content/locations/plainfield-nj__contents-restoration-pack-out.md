@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Plainfield"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida tore through Union County in 2021, the neighborhoods flanking Cedar Brook and the Green Brook corridor, including East Front Street and the low-lying blocks near the Plainfield Train Station, took some of the worst of it. Flooded basements are one thing; the furniture, clothing, documents, and heirlooms saturated inside them are another problem entirely. Contents restoration and pack-out is the work that happens after the water is gone but before a home can be called livable again, and in Plainfield's dense mix of Victorian, Queen Anne, and early postwar housing, that work carries its own particular complexity.
 

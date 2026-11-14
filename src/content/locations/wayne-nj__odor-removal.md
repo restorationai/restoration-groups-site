@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Wayne"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Wayne has a smell problem that most towns don't. After Ida soaked the Hoffman Grove and Mountain View sections in 2021, following the same script Irene wrote a decade earlier, hundreds of basements took on river water that sat for days before pumps could keep up. Standing water leaves behind more than staining and warped framing; it leaves a musty, organic odor that works its way into drywall, subfloor insulation, and the HVAC ductwork that runs through those finished lower levels. Add a housing stock built mostly between 1950 and 1975, and you have homes where porous materials have had decades to absorb smoke, pet dander, and moisture, layers that a spray bottle of deodorizer will never reach.
 

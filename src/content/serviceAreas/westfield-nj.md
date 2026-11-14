@@ -17,7 +17,7 @@ area_slug: "westfield-nj"
 city: "Westfield"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a sump pump fails under a finished home theater in The Gardens, or a wind-thrown oak limb opens a slate roof in Wychwood during a nor'easter, Westfield property owners need a restoration crew that understands what's at stake, not just the water on the floor, but the plaster walls, the original hardwood beneath it, and the full scope of reconstruction that follows. The Restoration Group responds around the clock to water damage, fire and smoke damage, mold remediation, and storm damage throughout Westfield's 07090 ZIP code, dispatching from our Kenilworth headquarters with the equipment and trade knowledge these homes demand.
 

@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The Elizabeth River hasn't forgotten Hurricane Ida. Low-lying Elizabethport and Bayway took on water that lingered for days inside crawl spaces and basement units, and in the early-1900s two- and three-family frame homes that define so much of this city, that kind of prolonged moisture is exactly what mold needs to colonize wall cavities, floor joists, and shared mechanical chases within 48 to 72 hours. If you're smelling something musty in a 07206 rental or noticing discoloration behind a bathroom vanity in Elmora, a professional mold inspection and testing visit is the first step toward knowing what you're actually dealing with, and what it will take to fix it.
 

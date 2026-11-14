@@ -17,7 +17,7 @@ area_slug: "paramus-nj"
 city: "Paramus"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a West Paramus split-level at 2 a.m. or a sprinkler discharge soaks a retail tenant near Garden State Plaza on a Sunday, The Restoration Group dispatches from Kenilworth around the clock, arriving with drying equipment, moisture meters, and a documented scope ready for your insurance adjuster. We handle water damage, fire and smoke damage, mold remediation, and reconstruction for homeowners, landlords, and commercial property managers across Paramus's 07652 and 07653 ZIP codes.
 

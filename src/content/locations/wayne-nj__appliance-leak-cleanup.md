@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Wayne"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 Wayne's midcentury split-levels and ranches, especially the lake communities around Packanack Lake and Pines Lake, were built in an era when appliance supply lines were copper or early braided steel, and many of those connections are still in place today. When a washing machine hose finally lets go or a refrigerator ice maker line weeps behind a finished wall, the water doesn't just pool on the floor: it disappears into subfloor cavities, insulation batts, and the framed basement ceilings that homeowners spent years finishing. The Restoration Group responds 24/7 to appliance leak cleanup in Wayne, NJ, and the surrounding 07470 corridor.
 

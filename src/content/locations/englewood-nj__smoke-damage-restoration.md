@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Englewood"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a fire moves through one of Englewood's older East Hill estates or a kitchen fire chars the walls of a Fourth Ward apartment, the visible damage is only part of the problem. Smoke residue, the oily, acidic film that travels far beyond the flames, penetrates plaster walls, settles into hardwood floors, and embeds itself in HVAC ductwork within hours. Left unaddressed, it keeps corroding surfaces and keeps releasing odor long after the fire marshal has cleared the scene. The Restoration Group responds 24/7 across Englewood (07631) to stop that secondary destruction before it compounds.
 

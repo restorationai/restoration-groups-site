@@ -19,7 +19,7 @@ city: "Ridgewood"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something unexpected and deeply difficult happens inside a Ridgewood home, whether in a finished basement off the Old Country Club area, an upper floor of one of the village's stately Tudors, or a commercial space steps from Van Neste Square, the last thing a family should have to manage is the cleanup. Biohazard situations carry health risks that go beyond what standard cleaning can address, and in a community where many homes date to the early 1900s, those risks can be complicated by the building itself. The Restoration Group responds 24/7 to biohazard cleanup calls in Ridgewood and the surrounding 07450 ZIP code, handling each situation with discretion, proper containment, and full regulatory compliance.
 

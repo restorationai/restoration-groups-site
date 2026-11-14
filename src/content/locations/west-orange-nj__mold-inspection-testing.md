@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "West Orange"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The hillside terrain that makes West Orange so visually distinctive, the Watchung ridge dropping toward the valley, streams draining off South Mountain Reservation, finished basements tucked under century-old Victorians in Llewellyn Park, creates exactly the conditions mold needs to establish itself quietly behind walls and under floors. When stormwater overwhelms a sump pump or a slow roof leak goes unnoticed through a wet winter, spores can begin colonizing porous materials within 24 to 48 hours. A professional mold inspection and testing assessment tells you what's actually present, where it's concentrated, and whether the air your family breathes has been compromised, before a small problem becomes a gut renovation.
 

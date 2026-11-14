@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "East Orange"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst galvanized riser soaks through three floors of a Brick Church walk-up, or a flat-roof failure sends water cascading into a finished apartment in Elmwood, the damage to furniture, clothing, documents, and keepsakes can feel just as devastating as the structural loss itself. Contents restoration and pack-out is the process that separates salvageable belongings from total losses, and in East Orange's dense, aging building stock, getting that triage right quickly makes a measurable difference in what a family gets back.
 

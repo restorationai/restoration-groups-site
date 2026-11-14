@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Highland Park"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The stretch of Highland Park along the Raritan River has always had a complicated relationship with moisture. Since Tropical Storm Ida pushed the river over its banks in 2021, inundating Donaldson Park and the low-lying sections of River Road, many borough homeowners discovered that the real damage wasn't the flood itself but what grew quietly in the weeks that followed. Mold can colonize wet framing and insulation within 24 to 48 hours, and in the dense pre-war housing stock that defines so much of Highland Park's residential fabric, it rarely stays visible or contained for long.
 

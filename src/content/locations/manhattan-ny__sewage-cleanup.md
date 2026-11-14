@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Manhattan"
 state: "NY"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up in a Manhattan high-rise, the problem rarely stays contained to one unit. Raw sewage can travel through shared drain stacks, saturate subfloor assemblies, and seep into the unit directly below before a resident even realizes something is wrong. Whether the source is a failed riser in a pre-war co-op on the Upper East Side or a blocked municipal lateral beneath a Chelsea townhouse, the window for preventing secondary contamination, and the bacterial colonies that follow, is measured in hours, not days. The Restoration Group responds 24/7 and can reach most Manhattan addresses directly from our Kenilworth, NJ base.
 

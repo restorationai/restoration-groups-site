@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Hoboken"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When water backs up through a combined sewer line into a garden-level unit on a Hoboken brownstone block, the damage rarely stops at the walls. Furniture, clothing, electronics, documents, and irreplaceable personal items absorb contaminated water within hours, and in a city built on former tidal marsh, where below-grade flooding is a recurring fact of life rather than a rare event, getting those contents out quickly and treated correctly is what separates salvageable from lost. The Restoration Group provides contents restoration and pack-out services to homeowners and property managers across Hoboken's 07030 ZIP code, responding around the clock because water damage does not keep business hours.
 

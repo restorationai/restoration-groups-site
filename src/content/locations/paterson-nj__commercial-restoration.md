@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Paterson"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Paterson's commercial corridors, from the dense retail blocks of South Paterson to the converted silk-mill lofts near the Great Falls National Historical Park, sit inside one of New Jersey's most flood-prone urban footprints. The Passaic River has crested into downtown streets twice in the last fifteen years, and the city's aging building stock means that when water, fire, or smoke reaches a commercial property here, the damage rarely behaves the way it would in a newer suburban office park. The Restoration Group responds 24/7 to commercial losses across Paterson, bringing IICRC Certified Firm (#210213) protocols to a city that genuinely needs them.
 

@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a fast-moving nor'easter or a remnant tropical system stalls over Essex County, Bloomfield takes the hit hard. The town's dense grid of 1920s colonials and two-families, most sitting on finished basements, funnels runoff straight toward foundations, and the Third River corridor near Watsessing and Brookdale has already proven what that means: during Ida in 2021, both neighborhoods watched stormwater back through sewer laterals and into finished lower levels within hours. The Restoration Group responds to storm damage calls in Bloomfield 24/7, dispatching from Kenilworth to assess structural damage, extract standing water, and start the drying process before secondary damage sets in.
 

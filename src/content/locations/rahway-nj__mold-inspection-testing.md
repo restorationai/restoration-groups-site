@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Rahway"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The Rahway River has a long memory. After Hurricane Ida swamped low-lying streets near Rahway River Park in 2021, and again after Irene years before, many homes in the downtown corridor and Leesville sat with standing water in finished basements for days before drying crews arrived. Mold can colonize damp building materials in as little as 48 to 72 hours, which means a flood event that felt "handled" two years ago may still be feeding an active colony behind drywall or under subfloor today. If you've noticed a musty smell, unexplained allergy flare-ups, or visible discoloration on walls, a professional mold inspection and testing assessment is the only way to know what you're actually dealing with.
 

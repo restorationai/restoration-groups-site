@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Edison"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a late-night fire scorches the siding on a postwar cape in Clara Barton, or a nor'easter peels back the flashing on a split-level in North Edison, the window between the initial damage and a far costlier secondary loss is measured in hours, not days. Board-up and tarping is the first line of defense: it stops rain, wind, and opportunistic entry before the restoration work even begins. The Restoration Group responds 24/7 out of Kenilworth, and Edison is well within our regular service area.
 

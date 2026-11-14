@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Livingston"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The Canoe Brook watershed doesn't announce itself until a heavy rain turns a finished basement into a wading pool, and in Livingston's split-levels and ranches built between the 1950s and 1970s, that standing water can seed a mold colony within 24 to 48 hours. By the time the musty smell reaches the first floor, spores have often already colonized drywall cavities, floor joists, and the fiberglass batts that were standard insulation decades ago. If you're searching for mold remediation in Livingston, the problem is almost certainly further along than it looks.
 

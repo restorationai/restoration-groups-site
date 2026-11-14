@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Clifton"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The smell that lingers after a basement flood in Lakeview, a kitchen fire in a Botany Village two-family, or a sewage backup in one of Clifton's postwar split-levels is not something an air freshener touches. Odor molecules bond to porous materials, the original plaster walls, the wood subflooring, the fiberglass insulation packed under a 1950s cape, and they stay there until a professional process breaks the chemical bond. The Restoration Group responds 24/7 from Kenilworth, reaching Clifton via Route 21 or the Garden State Parkway to begin that process the same day you call.
 

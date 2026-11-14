@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter peels back a slate roof on a 1920s Tudor in Watsessing, or a kitchen fire blows out windows on a two-family near Bloomfield Center, the clock starts immediately, not on repairs, but on exposure. Rain, wind, and opportunistic theft can turn a contained loss into a catastrophic one within hours. The Restoration Group operates around the clock out of Kenilworth, reaching Bloomfield addresses in 07003 to secure open structures before secondary damage compounds what's already a stressful situation.
 

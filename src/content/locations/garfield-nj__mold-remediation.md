@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Garfield"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Garfield's dense blocks of early-1900s two- and three-family frame homes hold moisture in ways that newer construction simply doesn't. When Hurricane Ida pushed the Passaic River over its banks along River Drive in 2021, basements from the Plauderville flats to the Belmont Avenue corridor sat under water for days, and mold can begin colonizing wet framing, insulation, and drywall in as little as 24 to 48 hours. If you're dealing with a musty smell, visible dark growth, or a recent water event in a finished basement, the window to act is short.
 

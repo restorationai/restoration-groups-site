@@ -17,7 +17,7 @@ area_slug: "jersey-city-nj"
 city: "Jersey City"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts on the 14th floor of a Newport high-rise or a combined-sewer backs up into a Bergen-Lafayette rowhouse basement, the clock starts immediately. The Restoration Group dispatches from Kenilworth around the clock, bringing drying equipment, moisture documentation, and direct insurance coordination to Jersey City property owners, residential and commercial, single-family and multifamily, condo associations and independent landlords.
 

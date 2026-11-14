@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Millburn"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When the West Branch of the Rahway River overtopped its banks during Ida in 2021, the damage to Millburn's downtown business district wasn't just water on the floor, it was saturated subfloor assemblies, destroyed inventory, compromised electrical panels, and the kind of structural moisture that lingers for weeks if extraction starts late. Commercial properties along Millburn Avenue and the surrounding retail corridor face a different recovery calculus than a residential claim: lease obligations don't pause, employees need somewhere to work, and a prolonged closure can cost more than the physical damage itself. The Restoration Group responds 24/7 to commercial losses throughout Millburn and Short Hills, coordinating every phase from emergency mitigation through full reconstruction.
 

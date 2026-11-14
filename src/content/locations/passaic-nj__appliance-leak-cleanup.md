@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Passaic"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 An appliance leak in a Passaic home moves fast, and in a city packed with century-old two- and three-family frame houses, it moves faster than most homeowners expect. The same cast-iron drain lines and aging supply connections that survived decades of use in the Fourth Ward and Downtown Passaic are now reaching the end of their service life, and when a washing machine hose lets go or a refrigerator ice maker line splits behind a cabinet, water finds every gap in original subfloor planking before you've had a chance to grab a towel. The Restoration Group responds 24/7 from Kenilworth, call (844) 808-8838 the moment you notice standing water.
 

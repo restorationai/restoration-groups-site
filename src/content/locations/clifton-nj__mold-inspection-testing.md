@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Clifton"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 When the Passaic River overran its banks during Hurricanes Irene and Ida, the low-lying streets of Lakeview and Delawanna didn't just flood, they stayed wet. Water sat in finished basements and crept beneath slab edges for days, and in Clifton's dense stock of postwar capes and split-levels, that kind of prolonged moisture is exactly the condition mold colonizes within 24 to 72 hours. If you're now noticing a musty odor, discoloration on drywall, or unexplained respiratory symptoms, a professional mold inspection and testing assessment is the only way to know what you're actually dealing with, and where it's hiding.
 

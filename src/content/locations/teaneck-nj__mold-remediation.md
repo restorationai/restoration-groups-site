@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Teaneck"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 When a finished basement in Teaneck's West Englewood or Whittier neighborhood floods, as thousands did during Hurricane Ida in 2021, the water recedes within days, but the mold clock starts within 24 to 48 hours. Teaneck's older housing stock, much of it brick Tudors and center-hall colonials built between the 1920s and 1940s, holds moisture in ways that newer construction simply doesn't: plaster walls, horsehair insulation, and unventilated crawl spaces create the dark, humid pockets where mold colonizes fast and quietly. If you're smelling something musty behind a finished wall or noticing discoloration along a basement ceiling, that's not a cosmetic problem, it's a biology problem that compounds every week you wait.
 

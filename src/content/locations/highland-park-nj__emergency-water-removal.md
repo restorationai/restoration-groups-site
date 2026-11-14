@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Highland Park"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Raritan River crests its banks, as it did with brutal force during Hurricane Ida in 2021, low-lying streets near Donaldson Park and River Road can go from damp to knee-deep in hours. But the water events that quietly damage the most Highland Park homes aren't storms: they're the slow failures happening inside walls and beneath finished basement floors in the borough's dense stock of 1910s-1940s colonials, bungalows, and two-families. If you're dealing with standing water, soaked framing, or a saturated slab in 08904, The Restoration Group is available around the clock and positioned to reach you fast.
 

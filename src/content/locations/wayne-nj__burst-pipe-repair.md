@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Wayne"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 A pipe burst in January doesn't announce itself politely, it announces itself as water sheeting down a finished basement wall at 2 a.m., or as a ceiling sagging above the living room of a 1960s colonial off Ratzer Road. Wayne's aging housing stock, combined with the region's hard freeze-thaw cycles, makes pipe failures a recurring winter and early-spring emergency across 07470 and 07474. The Restoration Group responds 24/7 from Kenilworth, reaching Wayne properties quickly to stop the spread before saturation turns a plumbing failure into a structural problem.
 

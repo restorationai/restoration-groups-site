@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Smoke damage emergency in East Brunswick? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to stop smoke and soot damage from spreading.

@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Bayonne"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 Bayonne's position on a narrow peninsula between Newark Bay and the Kill Van Kull means water doesn't just come from inside your home, it comes from the ground up, the storm surge in, and the aging pipes around you. When standing water appears in a Bergen Point rowhouse basement or a Constable Hook apartment, the clock starts immediately: mold colonization can begin within 24 to 48 hours, and the dense, older housing stock throughout 07002 makes every hour of saturation count. The Restoration Group responds 24/7, dispatching from Kenilworth with the extraction equipment needed for emergency water removal before the damage compounds.
 

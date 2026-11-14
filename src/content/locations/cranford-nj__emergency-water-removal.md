@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Cranford"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 The Rahway River doesn't just define Cranford's character, it defines the water damage calendar here. Residents near Riverside Drive and throughout the 07016 ZIP code have watched the river crest after Floyd, Irene, and Ida, and many have learned that the window between standing water in the basement and the start of mold colonization is shorter than most people expect. The Restoration Group, based in neighboring Kenilworth, responds around the clock to emergency water removal calls across Cranford, because in this town, a heavy rain at 2 a.m. is a genuine emergency, not a morning problem.
 

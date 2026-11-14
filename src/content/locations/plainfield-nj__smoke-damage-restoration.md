@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Plainfield"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire that gets knocked down fast can still leave a Plainfield home smelling like a campfire for months. Smoke particles, especially from the synthetic materials common in postwar and mid-century interiors throughout Netherwood and the West End, are acidic and microscopic. They penetrate plaster, settle into the original woodwork that gives Plainfield's Victorian and Queen Anne blocks their character, and keep off-gassing long after the flames are out. The Restoration Group reaches Plainfield 24/7 from our Kenilworth headquarters and begins reversing that damage the same day you call (844) 808-8838.
 

@@ -19,7 +19,7 @@ city: "Somerville"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Somerville's compact, walkable character, the kind of borough where a Victorian two-family on Gaston Avenue sits a few blocks from Somerset County Courthouse and a new downtown apartment building, means that when a biohazard situation arises, neighbors are close, property access is shared, and discretion matters as much as speed. The Restoration Group responds to biohazard calls in Somerville 24/7, bringing IICRC-certified technicians and clinical-grade protocols to situations that require both precision and privacy.
 

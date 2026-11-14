@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Elizabeth River backs up during a nor'easter or a tropical remnant like Ida stalls over Union County, low-lying streets in Elizabethport and Bayway can go from damp to knee-deep in hours. The Restoration Group is based in Kenilworth, less than ten minutes from Elizabeth's 07206 zip code, and responds 24/7, so when standing water is soaking into the subfloor of a two-family on Trumbull Street at 2 a.m., a crew with extraction equipment is already on the way.
 

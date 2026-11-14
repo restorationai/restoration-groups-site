@@ -19,7 +19,7 @@ city: "Bridgewater"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something happens inside a Bridgewater home, in a finished basement off Finderne Avenue, in a split-level near Green Knoll, or in one of the township's older ranch-style properties, the last thing a family needs is to figure out who to call and whether that crew will handle the situation with discretion. Biohazard situations carry weight that ordinary property damage doesn't. The Restoration Group responds 24/7 to biohazard cleanup calls across Bridgewater (08807 and 08805), and every technician on our team is trained to work quietly, thoroughly, and with full respect for the people involved.
 

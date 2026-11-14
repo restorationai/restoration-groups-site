@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Rahway"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The Rahway River doesn't forget a flood. After Ida soaked the city in 2021, and Irene did the same years before, basements along the riverfront and in low-lying pockets near Rahway River Park were left saturated for days. Mold can begin colonizing wet drywall, insulation, and wood framing within 24 to 48 hours of a moisture event, which means homes that looked fine after the pumps ran may now be harboring hidden growth behind finished walls. If you're noticing a musty smell, dark staining on baseboards, or unexplained respiratory irritation, the problem likely started long before it became visible.
 

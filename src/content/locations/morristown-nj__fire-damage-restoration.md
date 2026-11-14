@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Morristown"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Victorian on the south side of Morristown Green leaves behind more than char and ash, the smoke migrates through original horsehair-plaster walls, settles into ornate woodwork, and works its way down into finished basements that were never designed to be sealed against that kind of infiltration. The Restoration Group responds 24/7 to fire losses throughout Morristown (07960/07963), bringing IICRC Certified Firm #210213 protocols and direct insurance billing to every job, whether it's a single-family colonial or a multi-unit building off Speedwell Avenue.
 

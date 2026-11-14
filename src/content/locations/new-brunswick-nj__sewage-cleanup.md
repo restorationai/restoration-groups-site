@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 Cast-iron drain stacks in New Brunswick's early-1900s rowhouses near Rutgers Village and the Fifth Ward weren't engineered for the volume of wastewater a fully occupied student rental pushes through them daily. When one of those stacks cracks or a city sewer main backs up under George Street, raw sewage doesn't just pool in a basement, it saturates century-old subfloor framing, wicks into masonry, and begins producing dangerous pathogens within hours. The Restoration Group responds to sewage backup calls in New Brunswick around the clock, dispatching from Kenilworth with the equipment to extract, disinfect, and document the loss the same day.
 

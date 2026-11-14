@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Morristown"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a nor'easter tears through Morris County or a kitchen fire punches out a window on a Victorian near the Green, the gap between the damage that already happened and the damage still coming is measured in hours, sometimes less. A broken window, a compromised roof deck, or a door frame blown out by firefighters leaves a Morristown home exposed to whatever the weather decides to do next. The Restoration Group responds 24/7 from Kenilworth, reaching properties across the 07960 and 07963 ZIP codes to install structural board-up and heavy-duty roof tarping before secondary damage compounds the loss.
 

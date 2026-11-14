@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Maplewood"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the East Branch of the Rahway River overtops its banks near Memorial Park, as it did with devastating force during Hurricane Ida in 2021, water doesn't just pool on streets. It pushes through the stone foundations and window wells of the 1920s Tudors and colonials that line the low-lying blocks between Maplewood Village and the train station, filling finished basements before homeowners have time to move a single box. The Restoration Group responds to emergency water removal calls in Maplewood around the clock, dispatching from Kenilworth with the equipment sized for exactly this kind of loss.
 

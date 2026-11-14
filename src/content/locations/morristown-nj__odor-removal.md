@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Morristown"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Morristown's dense mix of 19th-century Victorians near the Historic District, brick multifamily buildings around the Green, and newer downtown mid-rise apartments creates a uniquely layered odor challenge: old plaster walls, cast-iron drains, and finished basements absorb smoke, sewage, and flood-related smells far deeper than modern construction does. When a source odor, whether from a kitchen fire, a sewer backup, or a flooded lower level, embeds itself in that kind of porous substrate, surface sprays and air fresheners accomplish nothing. Neutralizing it requires industrial-grade equipment calibrated to the specific material and the specific source.
 

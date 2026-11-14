@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Somerville"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or fast-moving thunderstorm tears through Somerset County, Somerville's dense grid of century-old Victorians and frame two-families takes the hit differently than newer suburban construction. Mature street trees along Gaston Avenue and Mercer Street come down on roofs that were already carrying decades of deferred maintenance, and the Raritan River, which pushed into low-lying neighborhoods during Ida in 2021, can turn a wind event into a compound flood loss within hours. The Restoration Group responds 24/7, dispatching from Kenilworth to begin emergency stabilization before secondary damage compounds the cost.
 

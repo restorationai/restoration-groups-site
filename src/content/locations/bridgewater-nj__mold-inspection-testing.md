@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The stretch of Bridgewater running along the Raritan River floodplain, from the Finderne flats up through the older split-levels near Bradley Gardens, has been soaked twice in living memory, first by Floyd and again by Ida in 2021. When a basement floods and dries imperfectly, mold doesn't wait weeks to colonize; it can establish visible growth within 48 to 72 hours on drywall paper and wood framing. If you're noticing a musty odor, seeing discoloration on walls, or simply want confirmation after a water event, a professional mold inspection and testing assessment gives you documented answers, not guesswork.
 

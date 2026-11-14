@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Highland Park"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a supply line lets go inside a Highland Park colonial or two-family, the water doesn't wait for a convenient hour. The borough's dense stock of 1910s–1940s homes, many with original galvanized or early copper supply lines running through finished basements, means a single pipe failure can push dozens of gallons into framed ceilings, hardwood floors, and insulated stud cavities before the shutoff is even located. The Restoration Group operates around the clock, and with a team positioned in the area, we can be on-site in Highland Park (08904) quickly after your call to (844) 808-8838.
 

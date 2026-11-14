@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Passaic"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When a burst pipe soaks through the floors of a century-old two-family in the Third Ward, or a sewer backup pushes raw water into a finished basement off Main Avenue, the damage to furniture, clothing, documents, and keepsakes can be just as devastating as the structural loss. In Passaic's dense stock of early 20th-century walkups and frame multi-families, many with cast-iron drains that have been failing quietly for decades, contents rarely escape a water or fire event unscathed. That's where a structured pack-out and professional contents restoration process makes the difference between replacing everything and recovering what matters.
 

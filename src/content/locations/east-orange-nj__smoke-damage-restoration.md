@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "East Orange"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 Smoke from a kitchen fire in a Brick Church three-flat or a blaze that started in a basement mechanical room doesn't stay where it started. In East Orange's dense stock of early-1900s brick apartment buildings and Victorian two-families, smoke travels fast through open stairwells, shared flue chases, and the gaps around aging cast-iron stacks, coating plaster walls, wood trim, and HVAC ductwork in multiple units before the fire department clears the scene. The Restoration Group responds 24/7 to smoke damage calls across East Orange, and we understand the specific way these older buildings hold and spread contamination.
 

@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Perth Amboy"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Perth Amboy's commercial corridor runs hard against the water, literally. The Smith Street storefronts, the waterfront restaurants near the Raritan Bay, and the converted brick buildings throughout Downtown sit in a city that took a direct hit from Sandy's tidal surge in 2012 and still faces coastal-storm exposure every nor'easter season. When a burst pipe, a roof failure, or a fire shuts down your business in a building that may have been standing since 1910, the recovery timeline matters as much as the repair itself. The Restoration Group handles commercial restoration in Perth Amboy with the kind of site-specific knowledge that makes a real difference in how fast your doors reopen.
 

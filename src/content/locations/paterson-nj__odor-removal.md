@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Paterson"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Paterson's dense stock of 19th-century mill-worker rowhomes and brick multi-family walkups creates an odor problem that outlasts the event that caused it. When a basement floods in a Sandy Hill three-family after a sewer backup, or smoke from a kitchen fire soaks into the plaster walls of an Eastside walkup, the smell doesn't leave on its own, it bonds to porous surfaces, travels through shared wall cavities, and lingers for months if treated with consumer-grade sprays. The Restoration Group provides professional odor removal and deodorization in Paterson, reaching properties across the city 24/7 and applying the right method for the specific odor source and building type.
 

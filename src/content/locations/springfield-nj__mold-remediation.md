@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Springfield"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Springfield's finished basements were already vulnerable before Ida made Route 22 look like a tributary of the Rahway River, and wherever floodwater lingers, mold follows within 24 to 48 hours. The west branch of the Rahway drains off the Watchung ridges right through the township's low-lying pockets, meaning a single heavy storm cycle can push moisture into wall cavities and subfloor assemblies that homeowners won't notice for weeks. If you're smelling something musty in a Springfield home or seeing discoloration along a basement wall, the window to contain it is short.
 

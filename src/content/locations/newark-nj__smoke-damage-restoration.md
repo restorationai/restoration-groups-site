@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Newark"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a fire tears through one of Newark's dense brick multifamilies or a pre-war frame three-family, the flames are only half the story. Smoke travels fast through shared stairwells, open risers, and the gaps between century-old balloon framing, and within hours it deposits a fine, acidic residue on every surface it touches. That residue keeps working long after the fire trucks leave: etching chrome fixtures, yellowing plaster ceilings, and embedding a persistent odor into porous brick that no amount of airing out will fix. The Restoration Group responds 24/7 to smoke damage calls across Newark, from the Ironbound to Forest Hill, and we carry the documentation your insurance adjuster needs from the first hour on site.
 

@@ -19,7 +19,7 @@ city: "Perth Amboy"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Perth Amboy's dense blocks of century-old two- and three-family homes, many of them converted multifamily rentals stretching from the Budapest neighborhood toward Dunham Heights, create conditions where biohazard situations can affect shared entryways, common stairwells, and adjacent units in ways that a single-family property simply doesn't. When something happens in a building like that, the need for discreet, methodical cleanup isn't just about one household; it's about the people on every floor. The Restoration Group responds 24/7 to biohazard cleanup calls across Perth Amboy, ZIP codes 08861 and 08862, with a team that is IICRC Certified (Firm #210213) and licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor.
 

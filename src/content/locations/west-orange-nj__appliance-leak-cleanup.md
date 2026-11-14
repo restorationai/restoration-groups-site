@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "West Orange"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 An appliance leak in a West Orange home can turn quietly catastrophic before you notice it. The finished basements common throughout Pleasantdale and the older Victorians of Llewellyn Park share one vulnerability: water from a failed washing machine supply line or a slow refrigerator ice-maker drip travels fast along subfloor joists and disappears into wall cavities, often sitting for 24 to 48 hours before the smell or a soft floor gives it away. The Restoration Group responds to appliance leak calls across West Orange 24/7 and can be on-site to assess the damage the same day you call.
 

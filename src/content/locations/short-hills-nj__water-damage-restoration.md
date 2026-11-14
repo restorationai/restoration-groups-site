@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Short Hills"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 **Water damage emergency in Short Hills?** We answer 24/7, and our crews travel in from Kenilworth with extraction equipment ready to go. Short Hills' mix of older stone-foundation homes and hillside lots means water from a failed sump pump or a burst supply line rarely stays where it started. It finds the lowest point in the basement, soaks into plaster and subfloor, and keeps moving until someone with the right equipment pulls it out.
 

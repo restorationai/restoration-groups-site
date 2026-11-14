@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Hoboken"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Hoboken's commercial properties sit on some of the most flood-vulnerable ground in New Jersey, a fact that became impossible to ignore when Superstorm Sandy pushed the Hudson River through storefronts and office lobbies across the city in 2012, and again when Ida's rainfall overwhelmed the combined sewer system in 2021, backing water into basement-level retail and restaurant spaces citywide. When a pipe bursts in a Washington Street business at 2 a.m. or a sprinkler head fails in a multi-tenant building near Stevens Institute of Technology, the damage compounds fast, and the cost of every idle hour is measured in lost revenue, displaced tenants, and inventory that can't wait.
 

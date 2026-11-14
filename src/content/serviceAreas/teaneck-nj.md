@@ -17,7 +17,7 @@ area_slug: "teaneck-nj"
 city: "Teaneck"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When water is seeping through a finished basement wall in West Teaneck or smoke has settled into the plaster of a 1930s Tudor off Cedar Lane, The Restoration Group sends a trained crew from our Kenilworth base around the clock, extracting, drying, and remediating so the property is ready to be put back to its pre-loss condition. We handle water damage, fire and smoke damage, mold remediation, and sewer backups for homeowners, landlords, and commercial property managers across Teaneck's 07666 ZIP code.
 

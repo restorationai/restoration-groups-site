@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "North Bergen"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When a nor'easter stalls over Hudson County or a summer cloudburst overwhelms the aging storm drains along Tonnelle Avenue, basements in North Bergen fill fast. The town's western flats sit in a low-lying bowl that drains poorly toward the Meadowlands, and the same topography that made Ida's 2021 flooding so severe here keeps recurring every time the sky opens hard. If you're standing in two inches of water in your basement right now, The Restoration Group is available around the clock, call (844) 808-8838.
 

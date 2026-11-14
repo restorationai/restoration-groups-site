@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Springfield"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When the Rahway River's west branch backs up after a heavy storm, or an aging clay sewer lateral beneath one of Springfield's 1940s colonials finally gives way, raw sewage doesn't wait for a convenient time to appear. It comes up through floor drains, seeps under finished basement slabs, and soaks into the framing of homes that were built decades before modern waterproofing standards. The Restoration Group responds 24/7 to sewage backup cleanup across Springfield's 07081 ZIP code, extracting contaminated water, removing compromised materials, and sanitizing affected surfaces to measurable standards before the damage compounds.
 

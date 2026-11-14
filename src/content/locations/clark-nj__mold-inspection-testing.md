@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Clark"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Clark's postwar housing stock, the split-levels off Valley Road, the capes tucked near Brant Lake, the finished basements that absorbed Rahway River backflow during Ida in 2021, creates exactly the conditions where mold takes hold quietly and spreads fast. A musty smell in a basement that flooded two seasons ago, a persistent cough that clears up when you leave the house, discoloration behind a water heater that's been dripping for months: these are the signals that warrant a professional mold inspection and testing visit before a small colony becomes a structural problem.
 

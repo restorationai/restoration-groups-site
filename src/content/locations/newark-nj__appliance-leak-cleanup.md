@@ -18,7 +18,7 @@ service_slug: "appliance-leak-cleanup"
 city: "Newark"
 state: "NJ"
 service_display: "Appliance Leak Cleanup"
-rendered: true
+rendered: false
 ---
 An ice maker line that splits overnight or a washing machine hose that lets go mid-cycle can push dozens of gallons across a floor before anyone notices the sound of water moving where it shouldn't. In Newark's dense pre-war housing stock, the brick three-families of the Ironbound, the grand colonials up in Forest Hill, the stacked multifamily buildings near University Heights, that water doesn't stay on one floor. It follows gravity through subfloor gaps, along plumbing chases, and into the unit below before the upstairs tenant has finished mopping up. The Restoration Group responds 24/7 from Kenilworth, reaching Newark addresses quickly to stop the spread before a contained appliance leak becomes a multi-floor structural claim.
 

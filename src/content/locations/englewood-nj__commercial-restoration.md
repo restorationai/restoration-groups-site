@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Englewood"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head misfires at a Palisade Avenue restaurant at 2 a.m., or a pipe joint fails inside an office suite near Bergen Performing Arts Center on a holiday weekend, the clock on business losses starts immediately. Englewood's commercial corridor runs dense, retail storefronts, medical offices, and food-service operations stacked close together, and a single water or fire event can cascade across shared walls, suspended ceilings, and common HVAC systems before the property manager even gets the call. The Restoration Group responds 24/7 from Kenilworth, bringing IICRC-certified crews (Firm #210213) to Englewood businesses when the damage is still containable.
 

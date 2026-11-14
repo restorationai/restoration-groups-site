@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Ho-Ho-Kus Brook overtops its banks, as it did dramatically during Ida in 2021, basements throughout the neighborhoods near Van Neste Square and along the lower Village streets can flood within hours. But storm surge isn't the only threat in Ridgewood: the borough's signature stock of early-1900s Victorians, Tudors, and stately colonials in areas like the Heights and Old Country Club carry original galvanized supply lines that can fail without warning, turning a finished basement into a recovery project overnight. The Restoration Group responds 24/7 and is on call for exactly these moments.
 

@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Hoboken"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 Hoboken's dense grid of 19th-century brick rowhouses and brownstones burns differently than suburban construction, shared party walls mean a kitchen fire on one floor can push smoke and heat into adjacent units before the FDNY unit even arrives, and the narrow streets between Downtown Hoboken and Uptown can slow equipment staging. When fire damages your home or building in 07030, the hours immediately after the event determine how much of the structure and its contents can be saved. The Restoration Group responds around the clock, dispatching from Kenilworth to begin emergency board-up, smoke containment, and structural assessment the same day you call.
 

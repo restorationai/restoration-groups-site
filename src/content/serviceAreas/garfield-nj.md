@@ -17,7 +17,7 @@ area_slug: "garfield-nj"
 city: "Garfield"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Plauderville two-family at 2 a.m. or a Passaic River surge pushes water into a Belmont basement, The Restoration Group dispatches from Kenilworth around the clock to extract, dry, and restore. We handle water damage, fire and smoke damage, mold remediation, and full reconstruction for homeowners, landlords, and commercial tenants throughout Garfield's 07026 ZIP code, and we bill insurance carriers directly so you are not managing that paperwork alone.
 

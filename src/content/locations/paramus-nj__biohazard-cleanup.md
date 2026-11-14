@@ -19,7 +19,7 @@ city: "Paramus"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 When something traumatic happens inside a Paramus home, whether in a finished basement off Farview, a split-level in West Paramus, or a commercial suite along the Route 17 corridor, the last thing a family or property manager should have to navigate alone is cleanup. Biohazard situations, from unattended deaths and bodily fluid exposure to sharps disposal and infectious material, require trained technicians, proper containment, and regulated disposal. The Restoration Group responds 24/7 from Kenilworth, bringing IICRC-certified crews and clinical discretion to every call in the 07652 and 07653 ZIP codes.
 

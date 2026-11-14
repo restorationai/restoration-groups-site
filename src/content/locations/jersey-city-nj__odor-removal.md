@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Jersey City"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The combined-sewer backups that flood basements in Bergen-Lafayette and Greenville don't just leave behind water, they leave behind a persistent, sulfurous odor that seeps into concrete block walls and subfloor framing and refuses to leave on its own. At the same time, a kitchen fire on the 14th floor of a Newport high-rise can push smoke particulate through HVAC returns into units two floors away, turning a contained incident into a building-wide complaint. Odor in Jersey City isn't a single problem with a single fix, and treating it like one is how properties end up smelling the same six weeks after the fans are gone.
 

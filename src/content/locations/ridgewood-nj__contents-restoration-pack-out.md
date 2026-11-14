@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When the Ho-Ho-Kus Brook overtops its banks, as it did dramatically during Ida in 2021, the finished basements and ground-floor living spaces of Ridgewood's grand Victorians and Tudors don't just flood. They fill with water that carries silt, debris, and contaminants directly into family heirlooms, upholstered furniture, built-in cabinetry, and irreplaceable documents. Contents restoration and pack-out exists precisely for that moment: getting your belongings out of harm's way fast, treating them off-site with the right equipment, and returning them in documented, restored condition.
 

@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Roselle"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 When the Elizabeth River backs up during a heavy storm, the way it did across East Roselle during Ida in 2021, basements don't just flood. They stay damp inside walls and under slabs for days, and in Roselle's dense stock of early-1900s colonials and postwar capes, that hidden moisture is exactly the condition mold needs to colonize within 24 to 72 hours. A mold inspection and testing visit from The Restoration Group gives you a documented, evidence-based picture of what's actually growing, where it started, and whether the air your family is breathing meets safe indoor standards, before a remediation contractor touches a single wall.
 

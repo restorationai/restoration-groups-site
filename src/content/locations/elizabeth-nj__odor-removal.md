@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 The combined-sewer backups that roll through Elizabethport after a heavy rain, the cooking-fire smoke that soaks into the plaster walls of a century-old two-family on Elmora Avenue, the diesel and chemical drift that settles near the Port Newark-Elizabeth Marine Terminal corridor, odors in Elizabeth don't behave the way they do in newer suburban construction, and they don't respond to store-bought sprays. When a smell has worked its way into the bones of a building, it takes calibrated professional equipment and a team that understands what they're walking into.
 

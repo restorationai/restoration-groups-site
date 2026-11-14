@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Jersey City"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Winter in Jersey City hits hard, and when temperatures drop below freezing along the Hudson waterfront or inland toward The Heights, the pipes in older buildings don't always survive. A burst supply line at 2 a.m. in a Newport high-rise can flood three stacked units before anyone reaches the shutoff. A failed galvanized lateral in a Bergen-Lafayette rowhouse can fill a cellar in under an hour. The Restoration Group responds 24/7 to burst pipe emergencies across Jersey City, extracting standing water, drying structural materials, and coordinating the documentation that landlords, condo boards, and insurers need to close a claim cleanly.
 

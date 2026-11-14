@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Manhattan"
 state: "NY"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a radiator valve fails on the 18th floor of a pre-war co-op on the Upper West Side, the water doesn't stop at the unit, it migrates through original plaster ceilings, travels along steam pipe chases, and shows up two floors below before anyone smells the damage. Manhattan water losses are vertical by nature, and getting the water out quickly requires a crew that understands the borough's building stock, its management culture, and the difference between a fast extraction and a genuinely dry structure. The Restoration Group responds 24/7 to emergency water removal and cleanup calls across Manhattan, from Harlem to the Financial District.
 

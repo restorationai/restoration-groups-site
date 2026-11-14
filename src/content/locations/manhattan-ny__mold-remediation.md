@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Manhattan"
 state: "NY"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Manhattan's vertical density creates a mold dynamic you won't find in a suburban split-level. When a radiator valve fails on the 22nd floor of a pre-war co-op on the Upper West Side, the water doesn't spread outward, it travels down through plaster ceilings, behind terracotta tile, and into the unit below before anyone smells the musty signature that means mold has already begun colonizing. Spores can establish a foothold within 24 to 48 hours of a moisture event, and in buildings where the air handling is shared and the walls are thick, the problem is rarely confined to one apartment.
 

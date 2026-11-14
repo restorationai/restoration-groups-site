@@ -18,7 +18,7 @@ service_slug: "water-damage-restoration"
 city: "Somerville"
 state: "NJ"
 service_display: "Water Damage Restoration"
-rendered: true
+rendered: false
 ---
 Somerville's aging housing stock and its position between the Raritan River and Peters Brook create a water damage picture unlike most of central New Jersey. A burst galvanized supply line in a finished basement off Gaston Avenue at 2 a.m. behaves very differently from a drywall leak in a new downtown apartment, and when storm runoff backs up through cast-iron drains in a century-old West End two-family, the window between a manageable cleanup and a structural drying project measured in weeks is surprisingly short. The Restoration Group responds 24/7 to water emergencies throughout Somerville (08876) and the surrounding borough.
 

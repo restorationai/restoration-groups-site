@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Westfield"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Westfield's Victorian, Tudor, and center-hall colonial homes carry a quiet vulnerability that rarely shows up on a home inspection report: plaster walls built before 1940 can harbor slow, invisible leaks for months before a stain appears on the ceiling below. By the time that stain is visible, mold has often been colonizing the cavity behind it for weeks, sometimes longer if the source is a failing clay sewer lateral or a pinhole in an aging cast-iron stack. If you're in the 07090 ZIP code and you're smelling something musty in a finished basement or a second-floor bathroom, that odor is worth taking seriously today.
 

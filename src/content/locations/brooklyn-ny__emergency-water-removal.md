@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Brooklyn"
 state: "NY"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 Brooklyn's brownstone belt and coastal edges create water damage conditions that few other urban markets match. When a sewer backs up into a garden-level apartment in Park Slope, or a nor'easter pushes water under the cellar door of a Brooklyn Heights rowhouse, the clock starts immediately, mold can begin colonizing saturated plaster and wood lath within 24 to 48 hours. The Restoration Group responds 24/7, dispatching IICRC Certified Firm crews (Firm #210213) to provide emergency water removal, addressing standing water, soaked structural materials, and the secondary damage that follows if extraction is delayed.
 

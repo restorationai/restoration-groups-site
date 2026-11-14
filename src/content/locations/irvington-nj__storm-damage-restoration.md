@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Irvington"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a fast-moving nor'easter or a remnant tropical system stalls over Essex County, Irvington absorbs the hit hard. The township's dense grid of early-1900s two- and three-family rowhouses, many still clad in aging wood siding and covered by original slate or asphalt roofing that has never been replaced, leaves little margin when wind-driven rain arrives sideways or a tree limb punches through an attic. The Restoration Group responds to storm damage calls in Irvington 24/7, dispatching from Kenilworth with full extraction, drying, and structural repair capability.
 

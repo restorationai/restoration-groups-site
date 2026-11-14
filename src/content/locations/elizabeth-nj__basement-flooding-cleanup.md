@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Elizabeth"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Elizabeth River backs up during a nor'easter or a corroded riser lets go in a three-family frame on Elmora Avenue, water doesn't wait for business hours, and neither do the consequences. Basements in Elizabeth's older housing stock can accumulate several inches of standing water in under an hour, and the combination of century-old fieldstone foundations, clay-heavy soil, and an overtaxed combined sewer system means the water arriving in your basement is rarely clean. The Restoration Group operates 24/7 out of Kenilworth and can reach most Elizabeth addresses quickly to begin extraction before secondary damage compounds the loss.
 

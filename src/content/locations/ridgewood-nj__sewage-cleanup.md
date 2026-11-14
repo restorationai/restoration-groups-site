@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Ridgewood"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When the Ho-Ho-Kus Brook backs up after a heavy rain and overwhelms the aging clay lateral lines beneath Ridgewood's century-old Victorians and Tudors, the result isn't just standing water, it's raw sewage seeping into finished basements that families use as living space. That combination of flood-prone geography, pre-war infrastructure, and deeply finished lower levels makes sewage backup one of the most urgent and consequential losses a Ridgewood homeowner can face. The Restoration Group responds 24/7, dispatching from Kenilworth to address contaminated spaces before Category 3 water has a chance to soak into framing, subfloor, and drywall.
 

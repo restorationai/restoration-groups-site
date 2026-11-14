@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Plainfield"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 Plainfield's Victorian and Queen Anne homes along the Van Wyck Brooks Historic District were built to last, but their original balloon-frame construction, knob-and-tube-era wiring, and plaster-and-lath walls turn a contained kitchen fire into a whole-house smoke event faster than in newer builds. When fire moves through open wall cavities without fire-blocking, soot travels far beyond the burn room, and the acrid smell of char settles into horsehair plaster and century-old hardwood in ways that standard cleaning won't touch. The Restoration Group responds around the clock from our Kenilworth headquarters, and we've worked enough of Plainfield's ZIP codes, 07060, 07062, 07063, to know exactly what these properties demand.
 

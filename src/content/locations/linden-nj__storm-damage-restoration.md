@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Linden"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or a remnant tropical system rolls through Union County, Linden tends to take it harder than neighboring towns, the Rahway River and Morses Creek funnel stormwater straight into low-lying streets, and the city's dense postwar housing stock means a single downed oak can damage three rooflines at once. The Restoration Group responds 24/7 to storm damage calls across Linden's 07036 ZIP code, and because our Kenilworth headquarters sits just minutes away, we're typically on-site before a second wave of rain arrives.
 

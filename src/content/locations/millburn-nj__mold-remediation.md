@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Millburn"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 When the West Branch of the Rahway River overtopped its banks during Hurricane Ida in 2021, it didn't just flood Millburn's downtown business district, it left behind the moisture conditions that mold needs to colonize within 24 to 48 hours. Finished basements in the large colonials and Tudor estates throughout Short Hills and Old Short Hills, wine cellars built into century-old foundations, and the dense plaster-and-lathe construction common across the 07078 ZIP code all create environments where mold can establish deep root systems long before a homeowner notices a musty smell or a dark stain spreading across drywall.
 

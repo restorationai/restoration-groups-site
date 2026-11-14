@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "New Brunswick"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 Downtown New Brunswick runs on tight margins and tighter timelines, a sprinkler discharge at a George Street restaurant at 2 a.m. or a burst cast-iron supply line flooding a Rutgers-adjacent office building can idle a business for days if the response is slow or the drying protocol is wrong. The Restoration Group handles commercial losses across New Brunswick's 08901 and 08903 ZIP codes, from riverfront retail to institutional facilities, with the kind of structured process that satisfies both insurance adjusters and property managers who can't afford a prolonged closure.
 

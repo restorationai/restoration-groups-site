@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Livingston"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When the Canoe Brook watershed backs up during a heavy storm, the kind that buried basements across Livingston after Ida in 2021, the water that forces its way through floor drains and laundry tub connections isn't clean. It carries raw sewage, and it moves fast. The Restoration Group responds 24/7 from Kenilworth, reaching the 07039 zip code to begin containment, extraction, and full sanitization before the contamination spreads into framing, insulation, or finished flooring.
 

@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Springfield"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 <!-- emergency-open -->
 **Fire damage emergency in Springfield? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to secure the property and start the recovery.

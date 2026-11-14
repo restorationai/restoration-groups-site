@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in Scotch Plains, the clock starts immediately, and in the mid-century split-levels and colonials that line the streets of neighborhoods like Willow Grove and Ashbrook, that basement is almost always lived-in space. Raw sewage carries Category 3 water: bacteria, viruses, and pathogens that saturate carpet padding, wick into drywall, and begin colonizing porous materials within hours. The Restoration Group operates out of Kenilworth, just a short drive away, and responds around the clock to sewage backup calls across the 07076 ZIP code.
 

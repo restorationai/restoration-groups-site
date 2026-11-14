@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Clark"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Rahway River or Robinson's Branch backs up after a heavy storm, basements along Valley Road and Lake Avenue don't just get wet, they fill fast, often mixing groundwater with sewer overflow before a homeowner even realizes the sump pump has quit. Clark's compact grid of 1950s and '60s ranches, split-levels, and capes means nearly every finished basement in the 07066 ZIP code is both a living space and a liability when the water rises. The Restoration Group responds 24/7 from Kenilworth, typically reaching Clark addresses within minutes of your call.
 

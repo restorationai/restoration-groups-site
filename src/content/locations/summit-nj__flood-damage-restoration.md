@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Summit"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 Summit's steep hillside lots and century-old plumbing create a particular kind of flood emergency, one that rarely announces itself with a rising river but instead arrives as a burst supply line behind a plaster wall, a clay sewer lateral overwhelmed by a hard rain, or stormwater funneling straight into a finished basement on a Northside street. When that happens inside a 1910 Colonial or a 1920s Tudor with original hardwood floors, hand-planed millwork, and irreplaceable built-ins, the margin for error during cleanup is essentially zero. The Restoration Group responds 24/7 to flood damage calls across Summit, ZIP code 07901, with equipment and protocols calibrated to the specific demands of high-value older homes.
 

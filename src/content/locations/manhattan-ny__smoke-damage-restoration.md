@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Manhattan"
 state: "NY"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 Smoke doesn't stop at your front door in Manhattan, it travels through shared ductwork, seeps under fire-rated corridor doors, and settles into the plaster of pre-war walls that have been absorbing decades of city air. Whether a kitchen fire on the Upper East Side left soot coating every surface in a 1920s co-op, or a building-wide alarm triggered sprinklers that pushed smoke residue into a Midtown high-rise's HVAC system, the cleanup is rarely as simple as wiping down countertops. The Restoration Group responds 24/7 and is an IICRC Certified Firm (#210213), bringing structured, documented restoration to one of the most process-driven real estate environments in the country.
 

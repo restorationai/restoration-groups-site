@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Garfield"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 In Garfield's tightly packed blocks of early-1900s two- and three-family homes, a burst pipe doesn't stay contained for long. Water moves fast through shared walls, drops into finished basements, and soaks into the century-old framing before a tenant even notices the sound of running water behind the plaster. When a pipe lets go, whether it's a frozen supply line in January or a corroded fitting that finally gives out, the clock starts immediately. The Restoration Group responds 24/7 from Kenilworth, reaching 07026 addresses to stop the damage before it compounds.
 

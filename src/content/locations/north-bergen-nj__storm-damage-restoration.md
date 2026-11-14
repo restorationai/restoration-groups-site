@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "North Bergen"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida tore through Hudson County in September 2021, North Bergen's low-lying western flats near Tonnelle Avenue turned into a drainage crisis overnight, storm sewers backed up, basements flooded, and the packed rows of early 20th-century two- and three-family homes on hillside lots took on water from every direction at once. Storm damage here isn't a rare event; it's a recurring pressure test on aging building stock that was never designed for the rainfall intensities New Jersey now sees. The Restoration Group responds 24/7 to storm damage calls across North Bergen, ZIP 07047, and the surrounding Hudson County corridor.
 

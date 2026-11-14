@@ -17,7 +17,7 @@ area_slug: "passaic-nj"
 city: "Passaic"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Third Ward walkup at 2 a.m. or a basement floods on a Rutherford Heights block the morning after a nor'easter, The Restoration Group dispatches crews from Kenilworth around the clock to handle water extraction, structural drying, mold remediation, fire and smoke cleanup, and full reconstruction, for homeowners, landlords, and commercial property managers across Passaic's 07055 ZIP code.
 

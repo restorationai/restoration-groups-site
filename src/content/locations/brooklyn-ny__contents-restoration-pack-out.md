@@ -18,7 +18,7 @@ service_slug: "contents-restoration-pack-out"
 city: "Brooklyn"
 state: "NY"
 service_display: "Contents Restoration & Pack-Out"
-rendered: true
+rendered: false
 ---
 When smoke, soot, or floodwater works through a Brooklyn brownstone, the damage rarely stops at the walls. It moves into furniture, clothing, artwork, heirlooms, and the irreplaceable accumulation of a household, and in a borough where a Park Slope parlor floor might hold antique plaster moldings, original hardwood, and a century's worth of family belongings, getting those contents out safely and restoring them properly is as important as drying the structure itself. That's the work of a professional pack-out and contents restoration team, and it demands a different approach in Brooklyn than almost anywhere else in the region.
 

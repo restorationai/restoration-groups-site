@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Maplewood"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go in one of Maplewood's 1920s Tudors or craftsman colonials, the damage spreads faster than most homeowners expect. Original plaster walls wick water laterally before a drop ever reaches the floor, finished basements fill quietly while the family sleeps upstairs, and cast-iron supply lines that have been under pressure for a century can fail without warning, especially during the hard freezes that settle over Essex County each January and February. The Restoration Group responds 24/7 from Kenilworth, reaching the 07040 ZIP code quickly to stop the loss before it compounds.
 

@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Paterson"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 The dense rowhouses and aging multi-family walkups that line Paterson's Eastside and Sandy Hill neighborhoods were built for Silk City's mill workers, not for the moisture loads that come with cracked cast-iron drains, unventilated basement apartments, and a river that has twice in the last fifteen years pushed floodwater through ground-floor walls. When mold takes hold in that kind of building stock, it moves fast and hides deep. The Restoration Group responds 24/7 to mold remediation calls across Paterson, working through conditions that most suburban restoration crews rarely encounter.
 

@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Hackensack"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a prewar two-family on Fairmount's tree-lined blocks leaves more than char on the ceiling, it leaves smoke proteins baked into original plaster, charred balloon-frame cavities that can hide embers for hours, and a family displaced while the structure is still legally uninhabitable. That combination of older building materials and dense residential density is exactly the pattern The Restoration Group responds to across Hackensack's 07601 zip code, around the clock.
 

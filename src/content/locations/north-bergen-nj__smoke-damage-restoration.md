@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "North Bergen"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a kitchen fire or electrical fault fills a North Bergen apartment with smoke, the damage doesn't stop when the flames do. In the densely packed two- and three-family brick walkups that line the hillside blocks off Bergenline Avenue, smoke travels fast, up stairwells, through shared wall cavities, into neighboring units, and the soot that settles into plaster walls and original hardwood floors from a 1920s build behaves very differently from what you'd find in a newer construction home. The Restoration Group responds 24/7 to smoke damage calls in the 07047 area, bringing certified technicians and industrial-grade equipment to properties where every hour of delay means deeper contamination.
 

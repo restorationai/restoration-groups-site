@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "East Brunswick"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 The split-levels and colonials tucked into Frost Woods and the older ranch tracts near Lawrence Brook weren't built with modern vapor barriers or high-efficiency HVAC systems, and decades later, that matters. When a slow supply-line drip or a sump that ran dry during a nor'easter goes unnoticed for even 48 hours, mold can begin colonizing behind finished basement drywall before a homeowner smells anything at all. A professional mold inspection and testing assessment gives you documented evidence of what's actually present, where it's concentrated, and whether the air your family breathes meets safe thresholds, not just a visual guess.
 

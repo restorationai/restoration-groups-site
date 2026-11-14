@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Newark"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a fire tears through a brick three-family in the Ironbound or a Forest Hill colonial, the damage doesn't stop when the flames do. Smoke and soot keep working, etching glass, corroding metal fixtures, and penetrating plaster walls that in Newark's pre-war housing stock can run three coats deep. The Restoration Group responds 24/7 from Kenilworth, reaching most Newark addresses in under 30 minutes via McCarter Highway, with board-up crews and certified restorers dispatched on the same call.
 

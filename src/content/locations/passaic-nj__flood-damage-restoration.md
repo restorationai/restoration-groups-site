@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Passaic"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 The Passaic River has flooded this city twice in living memory, Irene in 2011 and Ida in 2021, and both times the damage moved fast: riverfront blocks near the Third Ward inundated within hours, basements filling before residents could pull a single box off the floor. When flood water enters a home in Passaic, the clock starts immediately. Saturated subfloors, compromised cast-iron drains, and decades-old framing don't give you a grace period. The Restoration Group responds 24/7 and can be on-site to begin documented water extraction and structural drying before secondary damage compounds the loss.
 

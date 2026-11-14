@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Brooklyn"
 state: "NY"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A kitchen fire in a Park Slope brownstone behaves differently than one in a suburban ranch house. The same flames that char drywall in a newer build can penetrate 100-year-old plaster, travel up balloon-framed cavities, and deposit oily smoke residue inside original tin ceilings and ornate woodwork before a single hose is turned on. When that happens, whether you're a brownstone owner in Brooklyn Heights or a co-op board managing a Williamsburg building, the clock on secondary damage starts immediately. The Restoration Group responds 24/7, and our crews understand what Brooklyn's older housing stock demands.
 

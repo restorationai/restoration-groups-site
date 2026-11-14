@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Raritan River swells after a heavy storm or a supply line finally gives out in a 1960s Finderne split-level, the water doesn't wait for a convenient time to show up in your basement. Bridgewater's mix of postwar ranches, finished lower levels, and low-lying neighborhoods near Middle Brook means basement flooding here can go from a wet floor to inches of standing water in under an hour, and every hour after that, drywall wicks moisture higher, flooring adhesives release, and the window for salvaging your belongings narrows. The Restoration Group dispatches 24/7 from Kenilworth and can be on-site in Bridgewater when it matters most.
 

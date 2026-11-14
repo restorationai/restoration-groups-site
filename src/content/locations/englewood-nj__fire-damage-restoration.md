@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Englewood"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A house fire in Englewood hits differently when the home is a century-old Victorian on East Hill, thick plaster walls, original woodwork, and horsehair insulation hold smoke odor in ways that modern construction simply doesn't. Whether the loss happened overnight near the Palisade Avenue business corridor or in a postwar multifamily on the west side of town, the clock starts the moment flames are extinguished: smoke residue begins etching surfaces within hours, and soot that isn't neutralized quickly becomes a permanent stain. The Restoration Group responds 24/7 from Kenilworth and is on-site in Englewood, NJ 07631 as fast as roads allow.
 

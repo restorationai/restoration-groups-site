@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Fort Lee"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 Fort Lee's high-rise towers along the Palisades create a smoke damage scenario unlike almost anywhere else in Bergen County. When a kitchen fire or electrical fault ignites on the 18th floor of a condominium building near the Hudson Lights complex, smoke doesn't just fill one unit, it migrates through HVAC risers, elevator shafts, and shared corridors, leaving soot and odor on floors that never saw a flame. The Restoration Group responds 24/7 to smoke damage calls across Fort Lee's 07024 ZIP code, from the dense residential towers overlooking the George Washington Bridge to the older prewar homes tucked into Coytesville and The Hill.
 

@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Rahway"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida tore through Union County in September 2021, the Rahway River jumped its banks and pushed floodwater into basements and ground-floor units from Rahway River Park all the way into the blocks surrounding Downtown Rahway, some homes saw standing water within hours of the first bands arriving. That kind of rapid, compound storm loss is exactly what The Restoration Group is built for: we operate out of Kenilworth, less than ten miles away, and our IICRC Certified Firm team (Firm #210213) responds around the clock, every day of the year.
 

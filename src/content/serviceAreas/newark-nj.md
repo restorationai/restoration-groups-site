@@ -17,7 +17,7 @@ area_slug: "newark-nj"
 city: "Newark"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Ironbound three-family at 2 a.m. or a kitchen fire tears through a Forest Hill colonial on a Sunday afternoon, The Restoration Group dispatches from Kenilworth around the clock, extracting water, boarding up openings, and beginning the documentation your insurance carrier needs before the damage compounds. We handle water, fire, mold, sewage, and biohazard losses for Newark homeowners, landlords, property managers, and institutions, and we work directly with most major carriers so the claims process doesn't fall entirely on your shoulders.
 

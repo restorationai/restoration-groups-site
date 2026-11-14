@@ -18,7 +18,7 @@ service_slug: "odor-removal"
 city: "Passaic"
 state: "NJ"
 service_display: "Odor Removal and Deodorization"
-rendered: true
+rendered: false
 ---
 Passaic's dense stock of early 20th-century brick walkups and two-family frame houses holds odors the way a sponge holds water. When a sewer line backs up in a Third Ward basement, or smoke from a kitchen fire works its way into the plaster walls of a Rutherford Heights two-family, the smell doesn't just sit on the surface, it migrates into porous masonry, old horsehair plaster, and decades of layered paint. Standard air fresheners and fans accomplish nothing. Eliminating the odor means treating the source at a molecular level, and that takes the right equipment matched to the right building.
 

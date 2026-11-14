@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Montclair"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a burst supply line floods a Bloomfield Avenue restaurant at 2 a.m., or a roof leak soaks the ceiling tiles of a Walnut Street retail space after a nor'easter, the clock starts immediately, and so does the liability. Commercial properties in Montclair face a specific combination of pressures: aging building stock, a dense mix of historic storefronts and converted Victorians, and a drainage landscape shaped by the Watchung ridge that pushes stormwater straight into basements and mechanical rooms. The Restoration Group handles the full scope of commercial losses here, from initial emergency stabilization through final reconstruction.
 

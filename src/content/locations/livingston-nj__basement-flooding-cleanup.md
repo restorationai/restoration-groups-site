@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Livingston"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Canoe Brook watershed backs up during a heavy nor'easter or a fast-moving summer storm, basements across Livingston fill faster than most homeowners expect. The 1960s split-levels and colonials that line the streets near Northland and Collins were built before today's waterproofing standards existed, many sit on poured-concrete walls that have been quietly wicking moisture for decades. When a real flood event hits, those same walls offer little resistance. The Restoration Group responds 24/7 to flooded basements throughout the 07039 ZIP code, bringing certified drying equipment and a documented process designed for exactly the kind of housing stock and hydrology Livingston throws at us.
 

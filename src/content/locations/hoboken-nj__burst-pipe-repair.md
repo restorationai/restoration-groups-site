@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Hoboken"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 Hoboken's aging brownstone plumbing doesn't announce itself before it fails. One January freeze or a corroded galvanized stack that's been quietly narrowing for decades, and suddenly a garden-unit apartment in Southwest Hoboken has four inches of standing water before the tenant even realizes what's happening. Burst pipe emergencies in a city this dense move fast, water travels through shared party walls, drops into below-grade units, and soaks century-old brick before a single extraction machine arrives. The Restoration Group responds 24/7 and can be reached at (844) 808-8838 the moment you discover the break.
 

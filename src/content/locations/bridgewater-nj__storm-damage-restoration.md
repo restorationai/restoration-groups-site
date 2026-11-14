@@ -18,7 +18,7 @@ service_slug: "storm-damage-restoration"
 city: "Bridgewater"
 state: "NJ"
 service_display: "Storm Damage Restoration"
-rendered: true
+rendered: false
 ---
 When a nor'easter or a fast-moving line of severe thunderstorms rolls through Somerset County, Bridgewater takes the hit in ways that catch homeowners off guard. The low-lying flats near Finderne and the Middle Brook corridor flood with little warning, mature oaks along Chimney Rock Road drop limbs onto 1960s split-levels that were never engineered for that kind of impact load, and the same storm that knocks out power for a few hours can leave standing water in a finished basement for days. The Restoration Group responds 24/7 to storm damage calls across Bridgewater, ZIP codes 08807 and 08805, because in this township, waiting until morning is rarely an option.
 

@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida pushed the Second River and Third River (Yantacaw) over their banks in 2021, basements across Watsessing and Brookdale flooded with a mix of groundwater and backed-up sewage, and within 24 to 48 hours, mold colonies were already establishing on framing, insulation, and drywall. That pattern repeats itself on a smaller scale every summer in Bloomfield: a sump pump fails during a July downpour, a galvanized supply line finally gives out behind a 1920s colonial's kitchen wall, and by the time the standing water is gone, the conditions for a serious mold problem are already in place. The Restoration Group responds to mold calls in Bloomfield around the clock, handling everything from initial containment through post-remediation clearance.
 

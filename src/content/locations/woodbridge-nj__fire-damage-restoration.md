@@ -18,7 +18,7 @@ service_slug: "fire-damage-restoration"
 city: "Woodbridge"
 state: "NJ"
 service_display: "Fire Damage Restoration"
-rendered: true
+rendered: false
 ---
 A house fire in Woodbridge doesn't end when the flames go out. The postwar capes and split-levels that line streets from Colonia to Fords were built with plaster-and-lath interiors, older balloon-frame cavities, and cast-iron drain stacks, construction that traps smoke odor deep inside wall assemblies and allows soot to travel far beyond the room that burned. The Restoration Group responds around the clock from Kenilworth, reaching most of Woodbridge Township within a short drive, and begins stabilizing your property the same day you call (844) 808-8838.
 

@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Clark"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a burst supply line floods the back office of a Raritan Road restaurant at 2 a.m., or a kitchen fire leaves smoke residue baked into the drop ceilings of a Westfield Avenue retail strip, the clock starts immediately, and the margin for error is close to zero. Commercial losses in Clark carry a pressure that residential jobs don't: every hour of downtime is lost revenue, displaced employees, and a lease obligation that keeps running regardless. The Restoration Group operates out of Kenilworth, less than four miles away, and responds to commercial calls in Clark 24/7.
 

@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "East Orange"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When heavy rain rolls through Essex County, the dense brick apartment buildings and aging two-families packed along East Orange's streets funnel water straight to their basements. Flat roofs, century-old cast-iron stacks, and undersized storm drains, common throughout the Brick Church and Ampere neighborhoods, mean that a single downpour can leave a mechanical room under two inches of standing water before the storm even passes. The Restoration Group responds 24/7 to flooded basements across East Orange, extracting water, drying structural materials, and documenting everything your insurance carrier needs.
 

@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Teaneck"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When Tropical Storm Ida swept through Bergen County in 2021, basements across Teaneck filled faster than sump pumps could respond, and the homes that suffered most were the 1920s and 1930s brick Tudors and center-hall colonials that define neighborhoods like West Englewood and The Grange. Those older foundations, often paired with cast-iron drain lines that have narrowed with decades of buildup, can't shed water the way a newer home can. If you're dealing with standing water right now in a 07666 home or business, The Restoration Group is available around the clock at (844) 808-8838.
 

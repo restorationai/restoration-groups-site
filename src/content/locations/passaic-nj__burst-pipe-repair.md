@@ -18,7 +18,7 @@ service_slug: "burst-pipe-repair"
 city: "Passaic"
 state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
-rendered: true
+rendered: false
 ---
 When a pipe lets go inside one of Passaic's century-old brick three-families, the water doesn't just pool on the floor, it travels fast through plaster ceilings, down balloon-framed walls, and into unfinished basements that were already damp before the break happened. The Restoration Group responds to burst pipe emergencies in Passaic 24/7, dispatching from Kenilworth with the extraction and drying equipment needed to stop a manageable water loss from turning into a weeks-long mold problem.
 

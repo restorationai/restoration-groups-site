@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Jersey City"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Jersey City's two-speed building stock creates mold conditions that don't look alike and don't test alike. A riser leak in a Newport high-rise can saturate gypsum board behind a finished wall for weeks before anyone notices a smell, while a combined-sewer backup in a Bergen-Lafayette brownstone basement can deposit enough organic material in a single event to support visible growth within 48 to 72 hours. Knowing which scenario you're walking into, and choosing the right sampling strategy before the first swab touches a surface, is what separates a useful mold assessment from one that generates paperwork without answers.
 

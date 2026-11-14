@@ -19,7 +19,7 @@ city: "Staten Island"
 state: "NY"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 Staten Island's dense mix of postwar Cape Cods, aging frame homes, and newer townhome developments means that when something traumatic happens inside a residence, an unattended death, a medical emergency, or hazardous material exposure, the cleanup involves more than surface cleaning. Older construction common throughout neighborhoods like Port Richmond and Great Kills often features porous subflooring, plaster-and-lath walls, and limited ventilation, all of which complicate the safe removal of biological material. The Restoration Group responds 24/7, bringing IICRC-certified technicians and regulated disposal protocols to every call across the borough.
 

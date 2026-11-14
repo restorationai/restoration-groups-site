@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Bloomfield"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a roof drain backs up overnight in a Broad Street restaurant or a burst galvanized supply line soaks the server room of an office building near Bloomfield Center, the clock starts immediately, not at 9 a.m. the next morning. Commercial losses in Bloomfield carry a compounding cost that residential jobs don't: every hour a business stays closed is revenue that doesn't come back. The Restoration Group, an IICRC Certified Firm (#210213), responds 24/7 and has the equipment and documented process to stabilize a commercial property fast, then carry it through full reconstruction so your tenants, customers, or staff can get back inside.
 

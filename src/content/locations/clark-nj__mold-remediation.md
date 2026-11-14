@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Clark"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 Clark's postwar ranches, split-levels, and capes were built fast and built tight, finished basements, minimal crawl-space ventilation, and cast-iron drain lines that are now sixty-plus years old. When Robinson's Branch backs up during a summer downpour or a copper supply line finally gives way behind a Valley Road utility room, moisture moves into wall cavities and under slab-on-grade floors before most homeowners realize anything happened. Mold can begin colonizing damp cellulose, drywall paper, wood framing, carpet pad, within 24 to 48 hours of a water event, and in a sealed basement that timeline is unforgiving.
 

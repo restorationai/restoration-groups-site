@@ -17,7 +17,7 @@ area_slug: "carteret-nj"
 city: "Carteret"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 Carteret property owners dealing with water intrusion, storm damage, fire aftermath, or mold growth can reach The Restoration Group for a coordinated response that includes moisture mapping, structural drying per IICRC S500 guidelines, and direct assistance with insurance documentation. We work with homeowners, landlords, and property managers across the borough to assess the loss, stabilize the structure, and scope the rebuild without the property owner having to manage multiple contractors separately.
 

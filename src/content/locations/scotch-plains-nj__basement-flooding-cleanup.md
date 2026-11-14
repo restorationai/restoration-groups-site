@@ -18,7 +18,7 @@ service_slug: "basement-flooding-cleanup"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Basement Flooding Cleanup"
-rendered: true
+rendered: false
 ---
 When the Green Brook backs up during a heavy storm or an original 1960s supply line finally gives out in a Scotch Plains split-level, the water doesn't wait for a convenient hour. Finished basements in this township, and most of the housing stock in 07076 was built between 1950 and 1975, tend to have carpeted rec rooms, drywall over furring strips, and cast-iron floor drains that clog with decades of sediment. That combination turns even a modest pipe break into a multi-day drying project if the water isn't pulled fast. The Restoration Group operates around the clock and can dispatch from our Kenilworth facility to reach Scotch Plains quickly when every hour matters.
 

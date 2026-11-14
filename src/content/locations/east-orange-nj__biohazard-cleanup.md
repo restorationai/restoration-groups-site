@@ -19,7 +19,7 @@ city: "East Orange"
 state: "NJ"
 service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
-rendered: true
+rendered: false
 ---
 East Orange's dense stock of early-1900s brick apartment buildings and three-story walk-ups creates conditions that complicate biohazard situations in ways that rarely come up in newer suburban construction. Shared stairwells, common-area hallways, and units stacked directly above one another mean that a biohazard event on one floor can raise legitimate concerns for neighboring residents, and that discreet, carefully coordinated access matters as much as the remediation itself. The Restoration Group responds 24/7 and handles every step so that families and property managers don't have to.
 

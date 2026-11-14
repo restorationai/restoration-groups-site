@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "Edison"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up into a finished basement in Edison's Clara Barton or Stelton neighborhoods, the clock starts immediately, raw sewage carries bacteria, viruses, and pathogens that begin colonizing porous materials within hours. The Restoration Group responds 24/7 from Kenilworth to address sewage backup cleanup before contamination spreads into the framing, insulation, and subfloor of homes that were never designed with flood-prone basements in mind. If you're dealing with standing sewage right now, call (844) 808-8838.
 

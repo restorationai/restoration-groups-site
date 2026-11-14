@@ -18,7 +18,7 @@ service_slug: "commercial-restoration"
 city: "Newark"
 state: "NJ"
 service_display: "Commercial Restoration"
-rendered: true
+rendered: false
 ---
 When a sprinkler head fails on the third floor of a Downtown Newark office building, the water doesn't stop at the ceiling tiles, it follows the riser shaft, soaks through pre-war concrete decking, and pools in the server room two floors below before anyone notices the smell. Commercial losses in Newark move fast and compound faster, which is why The Restoration Group maintains 24/7 availability and dispatches from Kenilworth, roughly fifteen minutes up McCarter Highway, so mitigation equipment is on your loading dock before the damage has time to migrate.
 

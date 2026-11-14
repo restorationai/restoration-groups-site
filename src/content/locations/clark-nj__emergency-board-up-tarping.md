@@ -18,7 +18,7 @@ service_slug: "emergency-board-up-tarping"
 city: "Clark"
 state: "NJ"
 service_display: "Emergency Board-Up and Tarping"
-rendered: true
+rendered: false
 ---
 When a summer storm tears shingles off a split-level on Valley Road or a kitchen fire blows out a window on the Westfield Avenue corridor, the clock starts immediately, not on the repair, but on the exposure. Every hour a Clark home sits open to rain, wind, or trespassers, the secondary damage compounds. The Restoration Group dispatches board-up and tarping crews around the clock from its Kenilworth base, reaching Clark's 07066 ZIP code quickly enough to matter when the gap between a contained loss and a gutted interior is measured in hours.
 

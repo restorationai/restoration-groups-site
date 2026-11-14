@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Scotch Plains"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 The Green Brook and Cedar Brook don't announce themselves until they're already in your basement. Scotch Plains sits at the kind of low-grade elevation where a heavy nor'easter or a storm on the scale of Ida in 2021 sends water sheeting across backyards and through foundation walls before most homeowners have had time to move a single box. When that happens, or when a supply line finally gives out in one of the township's many 1950s and '60s split-levels, The Restoration Group is reachable around the clock at (844) 808-8838.
 

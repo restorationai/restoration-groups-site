@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Linden"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When the Rahway River or Morses Creek rises after a heavy storm, Linden's low-lying streets don't drain the way newer developments do, and in neighborhoods like Tremley Point, that means water finds its way into finished basements before most homeowners realize what's happening. The Restoration Group responds to emergency water removal calls across Linden 24/7, arriving with extraction equipment, moisture meters, and drying systems calibrated for the specific way postwar construction holds water.
 

@@ -17,7 +17,7 @@ area_slug: "elizabeth-nj"
 city: "Elizabeth"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 The Restoration Group handles water damage, fire and smoke cleanup, mold remediation, sewage extraction, and structural drying for homeowners, landlords, and commercial property managers throughout Elizabeth. Our Kenilworth shop sits roughly ten minutes from the city's core, and because we operate around the clock, we can dispatch a crew the moment you call, whether it's a flooded basement in Elizabethport at 2 a.m. or smoke damage in a Peterstown three-family the morning after a kitchen fire.
 

@@ -18,7 +18,7 @@ service_slug: "smoke-damage-restoration"
 city: "Cranford"
 state: "NJ"
 service_display: "Smoke Damage Restoration"
-rendered: true
+rendered: false
 ---
 Smoke leaves behind more than char marks and ash. In Cranford's older housing stock, the 1920s colonials and cape cods that line the blocks near Nomahegan Park and stretch through Cranford West, wood framing, horsehair plaster, and original hardwood floors act like sponges for smoke residue and odor molecules. A kitchen fire that looks contained can push acidic soot into wall cavities, HVAC ducts, and attic insulation within hours. The Restoration Group, based in Kenilworth just minutes away, responds 24/7 to smoke damage calls in Cranford (07016) and begins the work of reversing that damage before it becomes permanent.
 

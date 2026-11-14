@@ -18,7 +18,7 @@ service_slug: "mold-remediation"
 city: "Union"
 state: "NJ"
 service_display: "Mold Remediation"
-rendered: true
+rendered: false
 ---
 When the Rahway River tributaries backed up through Vauxhall during Ida, a lot of Union Township basements sat under inches of water for days, long enough for mold to establish a foothold inside wall cavities and under flooring before the water was even pumped out. That pattern repeats every hard summer storm in the low spots off Morris Avenue, and it plays out differently here than in newer construction: Union's dense stock of postwar capes, split-levels, and colonials, most built between the 1940s and 1960s, carries original cast-iron drains and galvanized supply lines that fail quietly, often behind finished basement walls where nobody notices until the smell arrives.
 

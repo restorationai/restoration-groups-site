@@ -18,7 +18,7 @@ service_slug: "flood-damage-restoration"
 city: "Morristown"
 state: "NJ"
 service_display: "Flood Damage Restoration"
-rendered: true
+rendered: false
 ---
 When the Whippany River backs up after a hard rain, or a corroded galvanized supply line finally gives out inside one of the Historic District's century-old Victorians, the window between a manageable cleanup and a gut-to-the-studs rebuild is measured in hours, not days. The Restoration Group responds to flood damage calls across Morristown 24/7, dispatching from Kenilworth with equipment loaded and ready so standing water doesn't spend the night soaking into your subfloor.
 

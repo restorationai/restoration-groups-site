@@ -18,7 +18,7 @@ service_slug: "emergency-water-removal"
 city: "Hackensack"
 state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
-rendered: true
+rendered: false
 ---
 When a pipe lets go in one of Hackensack's stacked Prospect Avenue high-rises or a nor'easter pushes the Hackensack River over its banks into low-lying basements near the Southside, the clock starts immediately. Water migrates through floor assemblies, saturates decades-old plaster and lathe, and begins feeding mold colonies within 24 to 48 hours. The Restoration Group responds 24/7 to emergency water removal calls across Hackensack, reaching 07601 and 07602 ZIP codes from our Kenilworth base, so the damage stops spreading before it compounds.
 

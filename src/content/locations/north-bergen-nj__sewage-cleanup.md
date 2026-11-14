@@ -18,7 +18,7 @@ service_slug: "sewage-cleanup"
 city: "North Bergen"
 state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
-rendered: true
+rendered: false
 ---
 When a sewer line backs up in a North Bergen two- or three-family walkup, the problem rarely stays contained to one unit. Raw sewage can migrate through shared floor drains, travel along cast-iron stack lines, and surface in a ground-floor apartment before anyone upstairs notices a thing. The town's density, some of the highest in New Jersey, combined with aging pre-war plumbing means a single clog or main-line failure can become a multi-tenant emergency within hours. The Restoration Group responds 24/7 to sewage backup calls across North Bergen, including the 07047 ZIP code, with a certified team trained to contain, remove, and sanitize affected spaces fast.
 

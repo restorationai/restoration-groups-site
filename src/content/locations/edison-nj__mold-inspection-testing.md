@@ -18,7 +18,7 @@ service_slug: "mold-inspection-testing"
 city: "Edison"
 state: "NJ"
 service_display: "Mold Inspection and Testing"
-rendered: true
+rendered: false
 ---
 Basement moisture readings that spike after a Raritan River flood event or a slow supply-line leak behind a finished wall don't always announce themselves with visible staining, sometimes the first sign is a musty odor in a Clara Barton split-level or a recurring headache in a North Edison colonial that nobody can explain. Mold can begin colonizing porous materials within 24 to 48 hours of a moisture intrusion, and in Edison's mix of postwar housing stock and aging infrastructure, the conditions for hidden growth are common enough that a professional inspection is often the only way to know what you're actually dealing with.
 

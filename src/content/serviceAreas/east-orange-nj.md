@@ -17,7 +17,7 @@ area_slug: "east-orange-nj"
 city: "East Orange"
 state: "NJ"
 primary: false
-rendered: true
+rendered: false
 ---
 When a pipe bursts in a Brick Church walk-up at 2 a.m. or a flat roof fails during a nor'easter and soaks three floors of a Presidential Estates apartment building, The Restoration Group responds, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all coordinated from a single crew operating out of Kenilworth around the clock. We work directly with property owners, landlords, and property managers across ZIP codes 07017, 07018, and 07019, and we bill most major insurance carriers directly so you are not managing two crises at once.
 

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in West Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in West Orange"
-meta_description: "24/7 emergency water damage restoration in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration west orange"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Most water damage claims in West Orange fall under standard homeowners policies,
 
 In West Orange's older neighborhoods, particularly the pre-1920 homes in Llewellyn Park and the 1920s-era Tudors throughout the Gregory area, plaster-and-lath wall assemblies hold moisture significantly longer than modern drywall. During the drying phase, our crews extend the monitoring period and adjust dehumidifier placement accordingly, because plaster releases absorbed water slowly and a structure that reads dry on day three can show elevated moisture again by day five. Closing out a job too early in these homes is one of the most common causes of secondary mold growth, and it's something we account for from the first day of drying.
 
-If your home or commercial property in West Orange has standing water, saturated walls, or a sewer backup, call The Restoration Group at (855) 650-7422. We're available 24/7, we carry IICRC Firm Certification (#210213), and we're licensed through the NJ Division of Consumer Affairs, so the work is documented and defensible from the first hour on-site.
+If your home or commercial property in West Orange has standing water, saturated walls, or a sewer backup, call The Restoration Group at (844) 808-8838. We're available 24/7, we carry IICRC Firm Certification (#210213), and we're licensed through the NJ Division of Consumer Affairs, so the work is documented and defensible from the first hour on-site.

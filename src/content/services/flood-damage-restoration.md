@@ -60,7 +60,7 @@ Because The Restoration Group operates 24/7, we can begin extraction the same ni
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and provides flood damage restoration across Union County and into Essex, Middlesex, and Morris counties, including Cranford, Westfield, Springfield, Summit, Linden, Elizabeth, and surrounding communities. City-specific pages detail local considerations; this page covers the full scope of the service.
+The Restoration Group is based in Fair Lawn, NJ and provides flood damage restoration across Union County and into Essex, Middlesex, and Morris counties, including Cranford, Westfield, Springfield, Summit, Linden, Elizabeth, and surrounding communities. City-specific pages detail local considerations; this page covers the full scope of the service.
 
 ---
 

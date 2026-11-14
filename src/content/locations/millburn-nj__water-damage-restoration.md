@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Millburn, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Millburn"
-meta_description: "24/7 emergency water damage restoration in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration millburn"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ Water losses in Millburn's higher-value homes often involve contents claims that
 
 One thing that catches homeowners off guard in Millburn's older neighborhoods: plaster-and-lath construction holds moisture in a way that standard moisture meters underreport. A reading that looks acceptable on the surface can mask a wet lath cavity behind it. We've seen cases in the Wyoming and Glenwood neighborhoods where walls tested "dry" by a previous contractor were still harboring elevated moisture two weeks after the loss, leading to mold colonization inside the wall assembly. Our protocol on pre-1960 plaster walls includes both penetrating pin meters and thermal imaging before we ever sign off on a dry structure.
 
-If you're dealing with water damage anywhere in Millburn, whether it's a burst pipe in a Short Hills Tudor, storm flooding near the Rahway River corridor, or a sprinkler discharge in a commercial space, call The Restoration Group at (855) 650-7422. We're available around the clock and can begin water extraction and structural drying the same day.
+If you're dealing with water damage anywhere in Millburn, whether it's a burst pipe in a Short Hills Tudor, storm flooding near the Rahway River corridor, or a sprinkler discharge in a commercial space, call The Restoration Group at (844) 808-8838. We're available around the clock and can begin water extraction and structural drying the same day.

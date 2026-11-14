@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Jersey City, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Jersey City"
-meta_description: "24/7 emergency biohazard cleanup in Jersey City, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Jersey City, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup jersey city"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -56,4 +56,4 @@ In Jersey City's older attached rowhouses, particularly in the Heights and parts
 
 If you're managing a property in Journal Square, the Heights, or anywhere in the city and you're not sure what's in the walls or ceiling, ask us, that question is free.
 
-When something difficult happens at a Jersey City address, the last thing you should be managing is paperwork, access logistics, and an unprepared crew. Call The Restoration Group at (855) 650-7422, we're available around the clock, and we'll handle the coordination so you don't have to.
+When something difficult happens at a Jersey City address, the last thing you should be managing is paperwork, access logistics, and an unprepared crew. Call The Restoration Group at (844) 808-8838, we're available around the clock, and we'll handle the coordination so you don't have to.

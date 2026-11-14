@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Burst Pipe Cleanup and Repair in Edison, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Edison"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair edison"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Burst pipe losses are generally covered under standard homeowners and commercial
 
 In Edison's older split-levels, especially those built in the 1960s across the Stelton and Nixon neighborhoods, the finished basement ceiling is often a drop-tile grid installed directly below the first-floor subfloor with no accessible cavity above it. When a supply line bursts inside that assembly, water saturates the tile and the wood framing above it before it ever reaches the basement floor. We pull a representative section of tile on arrival to inspect the joist bays directly, because thermal imaging alone can miss pockets of trapped moisture in that configuration. It adds twenty minutes to the assessment and saves days of callbacks.
 
-If a pipe has let go in your Edison home or commercial property, call (855) 650-7422 now. The Restoration Group's IICRC Certified team, Firm #210213, is available around the clock to stop the damage, dry the structure, and carry the repair through to a finished result, so you're not managing three separate contractors through one of the more stressful events a property owner faces.
+If a pipe has let go in your Edison home or commercial property, call (844) 808-8838 now. The Restoration Group's IICRC Certified team, Firm #210213, is available around the clock to stop the damage, dry the structure, and carry the repair through to a finished result, so you're not managing three separate contractors through one of the more stressful events a property owner faces.

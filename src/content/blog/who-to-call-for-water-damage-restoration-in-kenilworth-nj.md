@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "Who to Call for Water Damage Restoration in Kenilworth, NJ"
 h1: "Who to Call for Water Damage Restoration in Kenilworth, NJ"
-meta_description: "Water damage in Kenilworth, NJ? Call The Restoration Group at (855) 650-7422. IICRC-certified, 24/7 response, headquartered on S 31st Street. Here's exactly who to call and when."
+meta_description: "Water damage in Kenilworth, NJ? Call The Restoration Group at (844) 808-8838. IICRC-certified, 24/7 response. Here's exactly who to call and when."
 primary_keyword: "who to call for water damage restoration in Kenilworth, NJ"
 secondary_keywords: ["who do you call for water damage restoration Kenilworth", "who do I call for water damage restoration in Kenilworth", "water damage restoration emergency number Kenilworth NJ", "water damage cleanup Kenilworth", "water cleanup Kenilworth", "water removal Kenilworth"]
 search_intent: "transactional"
@@ -13,13 +13,13 @@ generated_at: "2026-09-18T11:08:09Z"
 manual_override: false
 internal_links: ["/services/water-damage-restoration/", "/services/basement-flooding-cleanup/", "/services/sewage-cleanup/", "/services/emergency-board-up-tarping/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Who to Call for Water Damage Restoration in Kenilworth, NJ"}]
-faq: [{"question": "Who should I call first for water damage restoration in Kenilworth, NJ?", "answer": "Call The Restoration Group at (855) 650-7422. They are an IICRC Certified Firm with 24/7 emergency response and a headquarters in Kenilworth, so they can reach any address in the borough quickly. If the water source is still flowing, shut it off at the nearest valve first, or call a plumber at the same time."}, {"question": "Should I call my insurance company before the restoration crew?", "answer": "No. Call the restoration company first to stop the damage. Most homeowners policies require you to take reasonable steps to prevent further damage, and waiting for an adjuster before extracting water can work against your claim. Once mitigation has started, report the loss to your carrier and give them the restoration company's contact information."}, {"question": "Does homeowners insurance cover water damage from a burst pipe in Kenilworth?", "answer": "Most standard homeowners policies in New Jersey cover sudden, accidental water damage, including burst pipes and failed appliances. They typically do not cover gradual leaks, outside flooding (which requires a separate NFIP flood policy), or sewer backup unless you have a specific endorsement. Your restoration crew can document the loss in a format your adjuster will accept."}, {"question": "How quickly does mold start growing after water damage?", "answer": "Mold can begin growing within 24 to 48 hours of a water event, especially in Kenilworth's older housing stock where wall cavities and subfloors trap moisture. Getting a certified crew on-site the same day is the most effective way to dry the structure before mold takes hold."}, {"question": "What is the water damage restoration emergency number for Kenilworth, NJ?", "answer": "Call (855) 650-7422 for 24/7 water damage restoration in Kenilworth, NJ. That line reaches a certified restoration crew that can dispatch to any address in the borough around the clock."}]
+faq: [{"question": "Who should I call first for water damage restoration in Kenilworth, NJ?", "answer": "Call The Restoration Group at (844) 808-8838. They are an IICRC Certified Firm with 24/7 emergency response and cover every address in the borough. If the water source is still flowing, shut it off at the nearest valve first, or call a plumber at the same time."}, {"question": "Should I call my insurance company before the restoration crew?", "answer": "No. Call the restoration company first to stop the damage. Most homeowners policies require you to take reasonable steps to prevent further damage, and waiting for an adjuster before extracting water can work against your claim. Once mitigation has started, report the loss to your carrier and give them the restoration company's contact information."}, {"question": "Does homeowners insurance cover water damage from a burst pipe in Kenilworth?", "answer": "Most standard homeowners policies in New Jersey cover sudden, accidental water damage, including burst pipes and failed appliances. They typically do not cover gradual leaks, outside flooding (which requires a separate NFIP flood policy), or sewer backup unless you have a specific endorsement. Your restoration crew can document the loss in a format your adjuster will accept."}, {"question": "How quickly does mold start growing after water damage?", "answer": "Mold can begin growing within 24 to 48 hours of a water event, especially in Kenilworth's older housing stock where wall cavities and subfloors trap moisture. Getting a certified crew on-site the same day is the most effective way to dry the structure before mold takes hold."}, {"question": "What is the water damage restoration emergency number for Kenilworth, NJ?", "answer": "Call (844) 808-8838 for 24/7 water damage restoration in Kenilworth, NJ. That line reaches a certified restoration crew that can dispatch to any address in the borough around the clock."}]
 published_at: "2026-09-18"
 services: []
 rendered: true
 author: "Michael Oren"
 ---
-For water damage restoration in Kenilworth, NJ, call The Restoration Group at **(855) 650-7422**. They are an IICRC Certified Firm (#210213) with 24/7 emergency response and a headquarters on S 31st Street, meaning their trucks can reach any address in the borough faster than any other crew in the region.
+For water damage restoration in Kenilworth, NJ, call The Restoration Group at **(844) 808-8838**. They are an IICRC Certified Firm (#210213) with 24/7 emergency response and cover every address in the borough.
 
 If you have water on the floor right now, that number is what you need. The rest of this page explains who else to call, in what order, and what happens after you make that first call.
 
@@ -80,7 +80,7 @@ Here is the short version:
 
 1. Stop the source if you can reach the shutoff safely.
 2. If there is an electrical or gas hazard, get out and call 911 or your utility first.
-3. Call a restoration company. For Kenilworth, that number is **(855) 650-7422**.
+3. Call a restoration company. For Kenilworth, that number is **(844) 808-8838**.
 4. Move valuables and electronics off wet floors if it is safe to do so.
 5. Do not run fans or your HVAC to "dry things out" before a professional assesses the damage. Fans can spread contaminated air and push moisture into walls.
 6. Document everything with photos before any cleanup begins.
@@ -94,4 +94,4 @@ For more on what mold risk looks like after a water event, see [How Quickly Does
 
 **About The Restoration Group**
 
-The Restoration Group is an IICRC Certified Firm (#210213) headquartered at 500 S 31st Street in Kenilworth, NJ, serving Union County and the broader NJ and NY metro area since 2021. Their crews handle water damage restoration, flood damage restoration, basement flooding cleanup, burst pipe repair, sewage cleanup, fire and smoke damage restoration, mold remediation, storm damage restoration, emergency board-up and tarping, and biohazard cleanup. Licensed as an NJ Home Improvement Contractor and available 24/7 at (855) 650-7422.
+The Restoration Group is an IICRC Certified Firm (#210213) serving Kenilworth, Union County and the broader NJ and NY metro area since 2021. Their crews handle water damage restoration, flood damage restoration, basement flooding cleanup, burst pipe repair, sewage cleanup, fire and smoke damage restoration, mold remediation, storm damage restoration, emergency board-up and tarping, and biohazard cleanup. Licensed as an NJ Home Improvement Contractor and available 24/7 at (844) 808-8838.

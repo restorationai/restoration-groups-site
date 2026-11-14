@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Scotch Plains, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Scotch Plains"
-meta_description: "24/7 emergency biohazard cleanup in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup scotch plains"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -54,4 +54,4 @@ Many homeowners don't realize that biohazard cleanup is often a covered loss und
 
 In Scotch Plains homes with finished basements, particularly the 1960s-era split-levels common in the Willow Grove and Southside sections of town, drop ceilings are almost always present above the finished living space. During a biohazard remediation, those ceiling tiles and the cavity above them require inspection even when the incident appears confined to the floor level. Older homes in this area frequently have open joist bays that allow air movement between the basement and the first floor, which means airborne biological material can travel further than the visible affected zone suggests. We check above the drop ceiling as a standard step on every basement remediation in this housing type, it is not an upsell, it is a necessary part of doing the job correctly.
 
-If you are dealing with a biohazard situation at a property in Scotch Plains, the most useful thing you can do right now is step away from the affected area and call (855) 650-7422. We will walk you through what to expect, answer your questions without judgment, and get a certified crew moving toward your address.
+If you are dealing with a biohazard situation at a property in Scotch Plains, the most useful thing you can do right now is step away from the affected area and call (844) 808-8838. We will walk you through what to expect, answer your questions without judgment, and get a certified crew moving toward your address.

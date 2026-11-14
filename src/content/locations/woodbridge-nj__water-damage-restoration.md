@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Woodbridge, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Woodbridge"
-meta_description: "24/7 emergency water damage restoration in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration woodbridge"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Many homes in Woodbridge Proper and Colonia still have original plaster-and-lath
 
 Most water damage losses in Woodbridge, whether from a burst supply line, appliance failure, or storm-related sewer backup, involve a homeowner's insurance claim. We document the loss thoroughly from the first hour on-site: moisture readings, thermal images, photo logs, and a written scope that aligns with the carrier's estimating platform. We work directly with adjusters and can provide supplemental documentation when initial estimates don't capture hidden damage in older construction. Sewaren and Port Reading properties with flood insurance through the NFIP require separate documentation protocols, and we're familiar with those requirements.
 
-If you're dealing with water in your home or business right now, call (855) 650-7422. The Restoration Group is available around the clock, and we'll have a crew moving toward Woodbridge before you hang up.
+If you're dealing with water in your home or business right now, call (844) 808-8838. The Restoration Group is available around the clock, and we'll have a crew moving toward Woodbridge before you hang up.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Rahway, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Rahway"
-meta_description: "24/7 emergency water damage restoration in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration rahway"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -49,4 +49,4 @@ Kenilworth sits directly adjacent to Rahway, we can reach most of the 07065 ZIP 
 
 After the Ida flooding in 2021, one pattern repeated itself across the riverfront neighborhoods and the streets feeding into Rahway River Park: homeowners who had finished their basements with standard paper-faced drywall and fiberglass batt insulation faced complete gut-outs, while the occasional home with closed-cell spray foam and moisture-resistant drywall came through with far less damage. We now flag this in our post-mitigation documentation and, when a homeowner asks about rebuild specifications, we walk them through moisture-resistant material options, not because we're trying to upsell reconstruction, but because the next storm is a question of when, not if, in this part of Union County.
 
-Call (855) 650-7422 any time, day or night, and a member of our team will walk you through next steps, dispatch a crew to your Rahway address, and start the documentation process your insurance carrier will need. The sooner water extraction begins, the smaller the footprint of damage you're managing.
+Call (844) 808-8838 any time, day or night, and a member of our team will walk you through next steps, dispatch a crew to your Rahway address, and start the documentation process your insurance carrier will need. The sooner water extraction begins, the smaller the footprint of damage you're managing.

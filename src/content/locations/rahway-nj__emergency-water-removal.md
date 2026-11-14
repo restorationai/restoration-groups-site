@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Rahway, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Rahway"
-meta_description: "24/7 emergency water removal and cleanup in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal rahway"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ For addresses near the Milton Lake area or along the river corridor, we're famil
 
 In Rahway's older Victorian and Craftsman homes, particularly on the blocks radiating from the Union County Performing Arts Center toward the river, plaster walls behave very differently from modern drywall during a water loss. Plaster is dense and slow to release moisture, which means a wall can read nearly dry at the surface on day two while the lath behind it is still holding significant moisture content. If drying equipment is pulled too early based on surface readings alone, that trapped moisture becomes the foundation for mold growth inside the wall cavity. The Restoration Group uses deep-wall probes and extended monitoring intervals on these properties rather than relying on surface moisture readings to call a job complete.
 
-If your home in Rahway has been affected by water damage, whether from the river, a plumbing failure, or a storm event, call (855) 650-7422 any time. The team is available around the clock, and getting the right equipment on-site quickly for emergency water removal and cleanup is the single most important factor in limiting the damage that follows.
+If your home in Rahway has been affected by water damage, whether from the river, a plumbing failure, or a storm event, call (844) 808-8838 any time. The team is available around the clock, and getting the right equipment on-site quickly for emergency water removal and cleanup is the single most important factor in limiting the damage that follows.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Fort Lee, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Fort Lee"
-meta_description: "24/7 odor removal and deodorization in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization fort lee"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -56,4 +56,4 @@ From our Kenilworth base, the most direct route to Fort Lee runs north on the Ga
 
 One pattern we've seen repeatedly in Fort Lee's older multifamily buildings on The Hill: when a unit has been smoked in for years and the tenant turns over, the odor has often penetrated not just the painted drywall surface but the joint compound beneath it, and in some cases, the gypsum core itself. A single coat of odor-blocking primer won't hold. The correct fix is mechanical abrasion or full panel replacement in the heaviest areas, followed by thermal fogging of the framing cavity, before any repainting begins. Skipping that step is why some units still smell like cigarettes three months after a renovation.
 
-If you're managing a property in Fort Lee and dealing with a smell that keeps coming back, call The Restoration Group at **(855) 650-7422**. We'll identify the source, explain what it will take to eliminate it permanently, and coordinate with your building management or insurance carrier from start to finish.
+If you're managing a property in Fort Lee and dealing with a smell that keeps coming back, call The Restoration Group at **(844) 808-8838**. We'll identify the source, explain what it will take to eliminate it permanently, and coordinate with your building management or insurance carrier from start to finish.

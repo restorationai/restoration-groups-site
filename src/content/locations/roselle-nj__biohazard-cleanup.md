@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Roselle, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Roselle"
-meta_description: "24/7 emergency biohazard cleanup in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup roselle"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -39,7 +39,7 @@ After removal, affected surfaces are treated with hospital-grade disinfectants a
 
 ## Reaching Roselle from Kenilworth
 
-Our Kenilworth headquarters sits just a few miles from Roselle via Central Avenue and Westfield Avenue, a straightforward run that keeps response times short regardless of where in town the call originates. Properties near Warinanco Park on the eastern edge of Roselle are as accessible to us as addresses along the Chestnut Street business district. Because we operate 24/7, we can be moving toward your address the moment you call (855) 650-7422, day or night.
+Our Kenilworth headquarters sits just a few miles from Roselle via Central Avenue and Westfield Avenue, a straightforward run that keeps response times short regardless of where in town the call originates. Properties near Warinanco Park on the eastern edge of Roselle are as accessible to us as addresses along the Chestnut Street business district. Because we operate 24/7, we can be moving toward your address the moment you call (844) 808-8838, day or night.
 
 ## Insurance Coordination for Roselle Property Owners
 

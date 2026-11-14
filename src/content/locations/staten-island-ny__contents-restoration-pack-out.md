@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Staten Island, NY | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Staten Island"
-meta_description: "24/7 contents restoration & pack-out in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out staten island"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ Contents losses in Staten Island frequently involve both homeowners' policies an
 
 If you are managing a commercial loss along the Hylan Boulevard corridor or a multi-unit building in New Dorp, the documentation requirements scale accordingly, line-item inventories by unit or tenant space, chain-of-custody logs for high-value items, and coordination with property managers and their carriers simultaneously.
 
-When belongings matter and the situation is urgent, call The Restoration Group at (855) 650-7422. We serve Staten Island 24/7 and can begin the pack-out and inventory process as soon as the structure is safe to enter.
+When belongings matter and the situation is urgent, call The Restoration Group at (844) 808-8838. We serve Staten Island 24/7 and can begin the pack-out and inventory process as soon as the structure is safe to enter.

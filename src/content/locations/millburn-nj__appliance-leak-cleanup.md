@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Millburn, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Millburn"
-meta_description: "24/7 emergency appliance leak cleanup in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup millburn"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ As an NJ Licensed Home Improvement Contractor registered with the NJ Division of
 
 In the large estate homes throughout Old Short Hills and Glenwood, ice-maker water lines are frequently routed through interior wall cavities to reach refrigerators positioned away from exterior walls, a layout common in high-end kitchen renovations. When those quarter-inch plastic lines develop a pinhole, the leak runs silently inside the wall for weeks before showing up as a buckled hardwood plank or a soft spot in a basement ceiling. If you're seeing either of those signs without an obvious source, an ice-maker line behind the wall is one of the first things we check.
 
-If you're dealing with a dishwasher overflow, a washing machine flood, a refrigerator or ice-maker line leak, or a water heater discharge anywhere in Millburn, call (855) 650-7422. We'll have a crew on the way, day or night, with the equipment to stop the damage from spreading further into your home.
+If you're dealing with a dishwasher overflow, a washing machine flood, a refrigerator or ice-maker line leak, or a water heater discharge anywhere in Millburn, call (844) 808-8838. We'll have a crew on the way, day or night, with the equipment to stop the damage from spreading further into your home.

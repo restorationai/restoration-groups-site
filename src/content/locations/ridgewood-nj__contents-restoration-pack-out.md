@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Ridgewood, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Ridgewood"
-meta_description: "24/7 contents restoration & pack-out in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out ridgewood"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ Most contents losses in Ridgewood flow through homeowner policies with personal 
 
 Ridgewood's older Victorians and Tudors, particularly those with deep finished basements in the Heights and Old Country Club areas, frequently have built-in cabinetry and wood-paneled walls that were constructed as part of the original structure, not added later. These pieces cannot simply be packed out like freestanding furniture; they require on-site stabilization, careful humidity management during the drying phase, and in some cases targeted wood consolidant treatment before any contents behind or adjacent to them can be safely removed. It's a detail that matters in a town where so many homes were built to last a century, and have.
 
-If you're dealing with a water, fire, or storm loss in Ridgewood and your belongings are at risk, call The Restoration Group at (855) 650-7422. We'll inventory, pack, restore, and return your contents, and handle the documentation your insurance company needs from the first day on-site.
+If you're dealing with a water, fire, or storm loss in Ridgewood and your belongings are at risk, call The Restoration Group at (844) 808-8838. We'll inventory, pack, restore, and return your contents, and handle the documentation your insurance company needs from the first day on-site.

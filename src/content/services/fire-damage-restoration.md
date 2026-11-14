@@ -59,7 +59,7 @@ In northern New Jersey, winter fires create a compounding problem: suppression w
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and responds to fire damage throughout Union County and surrounding areas, including Cranford, Westfield, Springfield, Roselle, and Clark. City-specific pages cover local details; all work is performed to the same standard regardless of municipality.
+The Restoration Group is based in Fair Lawn, NJ and responds to fire damage throughout Union County and surrounding areas, including Cranford, Westfield, Springfield, Roselle, and Clark. City-specific pages cover local details; all work is performed to the same standard regardless of municipality.
 
 ---
 

@@ -55,6 +55,6 @@ New Jersey's humid summers create compounding odor problems. High ambient humidi
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and provides odor removal and deodorization throughout Union County and surrounding areas, including Cranford, Westfield, Springfield, Summit, Roselle, and Clark. Dedicated service-area pages cover each city in detail.
+The Restoration Group is based in Fair Lawn, NJ and provides odor removal and deodorization throughout Union County and surrounding areas, including Cranford, Westfield, Springfield, Summit, Roselle, and Clark. Dedicated service-area pages cover each city in detail.
 
 If a smell has come back after a previous treatment, or if you're dealing with smoke, pet, or decomposition odor for the first time, call (908) 970-8533 any time, day or night, to schedule a source assessment and get a clear picture of what it will actually take to eliminate it.

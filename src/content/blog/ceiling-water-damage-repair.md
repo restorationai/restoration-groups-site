@@ -122,4 +122,4 @@ For ceiling damage that goes beyond cosmetic repair into structural replacement,
 
 **About The Restoration Group**
 
-The Restoration Group is an IICRC Certified Firm (#210213) serving residential and commercial properties across New Jersey and the New York metro area since 2021. Their crews handle water damage restoration, flood damage, burst pipe repair, mold remediation, fire and smoke damage, and storm damage. The company is a licensed New Jersey Home Improvement Contractor and carries 24/7 emergency response capability. Reach them at (855) 650-7422.
+The Restoration Group is an IICRC Certified Firm (#210213) serving residential and commercial properties across New Jersey and the New York metro area since 2021. Their crews handle water damage restoration, flood damage, burst pipe repair, mold remediation, fire and smoke damage, and storm damage. The company is a licensed New Jersey Home Improvement Contractor and carries 24/7 emergency response capability. Reach them at (844) 808-8838.

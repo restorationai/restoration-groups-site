@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Montclair, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Montclair"
-meta_description: "24/7 odor removal and deodorization in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization montclair"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -51,4 +51,4 @@ The Restoration Group is headquartered in Kenilworth, NJ, and operates 24/7. Fro
 
 Montclair's pre-1950 homes, and there are thousands of them, from the Victorian doubles near Watchung Plaza to the center-hall colonials in the Estate Section, have plaster walls that behave very differently from modern drywall when exposed to smoke or sewer gas. Plaster is alkaline and highly porous, and it does not just hold odor on its surface; it absorbs odor-laden moisture into its full depth. Painting over smoke-affected plaster without proper chemical neutralization is a common mistake: the odor bleeds through the new paint within weeks. We treat plaster surfaces with an encapsulant-grade odor counteractant before any repainting is done, and we communicate that step clearly to homeowners and their contractors so the sequence is not skipped.
 
-If you are dealing with a persistent odor in a Montclair home or commercial property, whether it is the aftermath of a fire, a sewer backup, long-term pet or tobacco exposure, or a musty crawl space that survived the last storm season, call The Restoration Group at (855) 650-7422. We are available around the clock, and we bring the equipment and process experience to resolve odors that simpler approaches have already failed to fix.
+If you are dealing with a persistent odor in a Montclair home or commercial property, whether it is the aftermath of a fire, a sewer backup, long-term pet or tobacco exposure, or a musty crawl space that survived the last storm season, call The Restoration Group at (844) 808-8838. We are available around the clock, and we bring the equipment and process experience to resolve odors that simpler approaches have already failed to fix.

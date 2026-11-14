@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Bayonne, NJ | The Restoration Group"
 h1: "Restoration Services in Bayonne"
-meta_description: "Serving Bayonne, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Bayonne, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services bayonne"
 secondary_keywords: ["bayonne restoration company", "damage restoration bayonne", "bayonne disaster restoration"]
 search_intent: "local_commercial"
@@ -56,4 +56,4 @@ Homes built before the 1940s here are usually plaster and wood lath over dimensi
 
 Permits for structural repair, rebuild, electrical, and plumbing go through Bayonne's construction office under the New Jersey Uniform Construction Code. In mapped flood zones, extensive repairs can also trigger elevation requirements, so scope and paperwork get settled before framing starts.
 
-If you are dealing with a water, fire, mold, or storm loss anywhere in Bayonne, from the 07002 waterfront blocks to the residential streets of Uptown, call The Restoration Group at **(855) 650-7422**. We answer around the clock and can begin the documentation and mitigation process before the damage has time to deepen.
+If you are dealing with a water, fire, mold, or storm loss anywhere in Bayonne, from the 07002 waterfront blocks to the residential streets of Uptown, call The Restoration Group at **(844) 808-8838**. We answer around the clock and can begin the documentation and mitigation process before the damage has time to deepen.

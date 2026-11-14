@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Staten Island, NY | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Staten Island"
-meta_description: "24/7 emergency biohazard cleanup in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup staten island"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -53,4 +53,4 @@ For multi-family properties, common in the denser sections of St. George and Por
 
 In Staten Island's older frame homes, particularly in neighborhoods like Great Kills and New Dorp where postwar construction is dense, interior walls are frequently balloon-framed rather than platform-framed. In balloon framing, wall cavities run continuously from the basement sill plate to the roof, meaning biological contamination at one floor level can travel vertically through the wall with no fire block or horizontal barrier to stop it. Technicians working in these homes check cavity access points at multiple levels before signing off on a remediation, because what reads as a contained first-floor situation can involve the wall cavity two floors up.
 
-If you are managing a situation on Staten Island that requires immediate, discreet, and fully documented biohazard cleanup, call The Restoration Group at (855) 650-7422. Crews are available around the clock, and the first conversation is confidential.
+If you are managing a situation on Staten Island that requires immediate, discreet, and fully documented biohazard cleanup, call The Restoration Group at (844) 808-8838. Crews are available around the clock, and the first conversation is confidential.

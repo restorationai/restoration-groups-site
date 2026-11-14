@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Flood Damage Restoration in East Brunswick, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in East Brunswick"
-meta_description: "24/7 emergency flood damage restoration in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration east brunswick"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -43,10 +43,10 @@ Materials that cannot be dried in place, saturated drywall below the flood line,
 
 ## Reaching East Brunswick Around the Clock
 
-The Restoration Group operates 24/7 out of Kenilworth, NJ. From the Garden State Parkway to Route 18 north, crews can reach most East Brunswick addresses, including the Tanglewood and Village of the Golden Triangle areas, at any hour. Because flooding doesn't wait for business hours and mold colonization can begin within 24 to 48 hours of a water event, early arrival matters more than almost any other variable in the outcome of a flood loss. Call (855) 650-7422 the moment you have standing water.
+The Restoration Group operates 24/7 out of Kenilworth, NJ. From the Garden State Parkway to Route 18 north, crews can reach most East Brunswick addresses, including the Tanglewood and Village of the Golden Triangle areas, at any hour. Because flooding doesn't wait for business hours and mold colonization can begin within 24 to 48 hours of a water event, early arrival matters more than almost any other variable in the outcome of a flood loss. Call (844) 808-8838 the moment you have standing water.
 
 ## Local Note: What the Older Tracts Teach You
 
 One thing that becomes clear after working in East Brunswick's postwar ranches and split-levels is that the original basement wall assemblies, often paneled over concrete block with a narrow air gap, hold moisture in ways that modern framed-and-drywalled basements do not. The block itself wicks groundwater slowly even after surface water is extracted, and the air gap behind paneling creates a hidden reservoir that standard drying equipment positioned in the open room won't reach. On these jobs, we pull the base course of paneling to expose the block face and direct airflow into that cavity directly. Skipping that step produces a dry-looking room that fails a moisture meter reading two weeks later.
 
-If your home in East Brunswick has standing water or you're seeing the waterline creep up a finished basement wall, call (855) 650-7422. The Restoration Group is IICRC Certified (Firm #210213), available around the clock, and ready to document, dry, and restore your property, from initial extraction through finished repairs.
+If your home in East Brunswick has standing water or you're seeing the waterline creep up a finished basement wall, call (844) 808-8838. The Restoration Group is IICRC Certified (Firm #210213), available around the clock, and ready to document, dry, and restore your property, from initial extraction through finished repairs.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Plainfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Plainfield"
-meta_description: "24/7 emergency flood damage restoration in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration plainfield"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -57,4 +57,4 @@ We document the loss thoroughly from the moment we arrive, moisture mapping, pho
 
 One thing that surprises homeowners in the Van Wyck Brooks Historic District and similar pre-war Plainfield neighborhoods: plaster walls dry on a fundamentally different timeline than modern drywall. Plaster is dense and holds moisture deep in its substrate long after the surface reads dry on a pin meter. We use both pin and pinless meters at multiple depths and extend drying cycles accordingly, sometimes by several days compared to a comparable drywall home. Skipping that step is how mold colonizes behind a wall that "passed" a surface check. If a previous contractor told you the job was done in 48 hours on a plaster-wall Victorian, it is worth a second opinion.
 
-If your Plainfield home or business has taken on water, whether from a brook overflow, a sewer backup, or a failed supply line, call The Restoration Group at **(855) 650-7422**. We are available 24/7, and we know what flood damage looks like in this city specifically.
+If your Plainfield home or business has taken on water, whether from a brook overflow, a sewer backup, or a failed supply line, call The Restoration Group at **(844) 808-8838**. We are available 24/7, and we know what flood damage looks like in this city specifically.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Perth Amboy, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Perth Amboy"
-meta_description: "24/7 emergency smoke damage restoration in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration perth amboy"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -57,4 +57,4 @@ Smoke damage claims in Perth Amboy's older multifamily buildings frequently invo
 
 Perth Amboy's coastal position means that even after a contained interior fire, the combination of salt-laden humidity from Raritan Bay and the residual moisture left by fire suppression creates conditions where mold colonization can begin on smoke-damaged framing within 48–72 hours, faster than in an inland NJ city. We've seen it in Kearny Heights two-families where the fire was extinguished quickly but the structure sat unventilated for a day before the owner called. When we scope a post-fire property here, we always run a baseline moisture reading on structural members in the same pass as the smoke assessment, because treating smoke damage and missing an emerging mold condition means a second remediation job in six weeks.
 
-If your property in Perth Amboy has sustained smoke or fire damage, call The Restoration Group at (855) 650-7422. We're available around the clock, we understand what these older buildings require, and we'll give you an honest assessment of what's salvageable and what the process actually looks like before any work begins.
+If your property in Perth Amboy has sustained smoke or fire damage, call The Restoration Group at (844) 808-8838. We're available around the clock, we understand what these older buildings require, and we'll give you an honest assessment of what's salvageable and what the process actually looks like before any work begins.

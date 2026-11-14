@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in West Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in West Orange"
-meta_description: "24/7 emergency sewage cleanup and sanitization in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization west orange"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ For commercial properties along Northfield Avenue or the Essex Green retail corr
 
 One pattern we see repeatedly in West Orange's older neighborhoods: homes with original clay-tile lateral lines often have a cleanout access point buried under decades of landscaping or finished concrete. When a backup occurs and a plumber needs to camera-inspect or jet the line, that cleanout has to be located before any upstream work can begin. On jobs in the Gregory and St. Cloud areas especially, it's worth asking your plumber to locate and document the cleanout position before the next storm season, it can save significant time and water damage if a backup happens again.
 
-If you're dealing with sewage in your West Orange home or commercial property right now, call (855) 650-7422. We'll walk you through immediate safety steps on the phone and get a crew moving toward your address.
+If you're dealing with sewage in your West Orange home or commercial property right now, call (844) 808-8838. We'll walk you through immediate safety steps on the phone and get a crew moving toward your address.

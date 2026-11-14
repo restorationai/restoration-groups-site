@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Piscataway, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Piscataway"
-meta_description: "24/7 emergency basement flooding cleanup in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup piscataway"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -49,10 +49,10 @@ For Society Hill and other HOA-governed communities, we're familiar with the doc
 
 ## Reaching Piscataway from Kenilworth
 
-The Restoration Group operates out of Kenilworth, NJ, and responds to Piscataway 24 hours a day, seven days a week. From Kenilworth, the most direct route runs south on the Garden State Parkway to Route 1, then west into Piscataway, a straightforward drive that keeps response times tight even during off-peak hours. For calls in the Stelton corridor or near the Rutgers Livingston and Busch campus areas, we can also route via New Durham Road depending on conditions. Call (855) 650-7422 any time and a live technician will confirm an estimated arrival window before we leave.
+The Restoration Group operates out of Kenilworth, NJ, and responds to Piscataway 24 hours a day, seven days a week. From Kenilworth, the most direct route runs south on the Garden State Parkway to Route 1, then west into Piscataway, a straightforward drive that keeps response times tight even during off-peak hours. For calls in the Stelton corridor or near the Rutgers Livingston and Busch campus areas, we can also route via New Durham Road depending on conditions. Call (844) 808-8838 any time and a live technician will confirm an estimated arrival window before we leave.
 
 ## Local Note
 
 One thing we've learned working in Piscataway's older split-levels and raised ranches: the finished basement walls in many of these homes were furred out directly against the concrete block foundation with no air gap, and the drywall was sometimes installed with the paper face toward the block. When water wicks into that assembly, the paper facing traps moisture against the gypsum core and the block simultaneously. Standard drying timelines don't apply, the wall cavity stays wet far longer than the surface readings suggest, and mold can begin colonizing the paper face within 48 to 72 hours if the assembly isn't opened up or aggressively dried from both sides. We check for this construction pattern on every Piscataway job before finalizing the drying plan.
 
-If you're dealing with a flooded basement anywhere in Piscataway, whether it's a finished rec room in Possumtown, a utility space in a Society Hill unit, or a commercial basement along the Stelton corridor, call (855) 650-7422 now. We'll assess the damage, start extraction, and give you a clear picture of what drying and restoration will involve before any work begins.
+If you're dealing with a flooded basement anywhere in Piscataway, whether it's a finished rec room in Possumtown, a utility space in a Society Hill unit, or a commercial basement along the Stelton corridor, call (844) 808-8838 now. We'll assess the damage, start extraction, and give you a clear picture of what drying and restoration will involve before any work begins.

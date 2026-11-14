@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Livingston, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Livingston"
-meta_description: "24/7 emergency water damage restoration in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration livingston"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ The Restoration Group operates out of Kenilworth, roughly 8 miles from central L
 
 One pattern that comes up repeatedly in Livingston's older split-levels: the original builders ran copper supply lines through the interior of exterior concrete-block foundation walls, a common 1960s practice that made sense before continuous insulation was standard. When those lines fail, water doesn't pour out visibly; it seeps into the block cavity and migrates along the footer before surfacing as a wet spot on the opposite side of the basement, sometimes 15 feet from the actual break. If your moisture readings don't match where you think the water entered, that block-wall migration is worth checking before any drying plan is finalized.
 
-If you are dealing with water in your home or business in Livingston, whether it's a burst pipe in a Cedar Hill colonial, a flooded finished basement near the Canoe Brook corridor, or a sprinkler discharge at a commercial property, call The Restoration Group at **(855) 650-7422**. Technicians are available 24/7, and the sooner extraction begins, the smaller the restoration scope.
+If you are dealing with water in your home or business in Livingston, whether it's a burst pipe in a Cedar Hill colonial, a flooded finished basement near the Canoe Brook corridor, or a sprinkler discharge at a commercial property, call The Restoration Group at **(844) 808-8838**. Technicians are available 24/7, and the sooner extraction begins, the smaller the restoration scope.

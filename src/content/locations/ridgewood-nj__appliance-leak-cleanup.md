@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Ridgewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Ridgewood"
-meta_description: "24/7 emergency appliance leak cleanup in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup ridgewood"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Ridgewood? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to stop the water and start the cleanup.
 
-Ridgewood's stately Victorians and Tudors in neighborhoods like the Heights and Old Country Club were built for a different era of appliances, and the original supply lines, subfloor systems, and finished basement layouts that come with those homes weren't designed to contain a modern dishwasher overflow or a failed washing machine hose. When a refrigerator ice maker line splits behind a built-in cabinet or a water heater lets go in a finished lower level, water moves fast through old-growth hardwood floors, plaster walls, and into the kind of deep, well-appointed basements that define so much of 07450. The Restoration Group responds 24/7 to appliance leak emergencies throughout Ridgewood, call (855) 650-7422 the moment you find standing water.
+Ridgewood's stately Victorians and Tudors in neighborhoods like the Heights and Old Country Club were built for a different era of appliances, and the original supply lines, subfloor systems, and finished basement layouts that come with those homes weren't designed to contain a modern dishwasher overflow or a failed washing machine hose. When a refrigerator ice maker line splits behind a built-in cabinet or a water heater lets go in a finished lower level, water moves fast through old-growth hardwood floors, plaster walls, and into the kind of deep, well-appointed basements that define so much of 07450. The Restoration Group responds 24/7 to appliance leak emergencies throughout Ridgewood, call (844) 808-8838 the moment you find standing water.
 
 ## Why Ridgewood Homes See More Appliance Leak Damage
 
@@ -61,4 +61,4 @@ We document the loss from the moment we arrive: photos of the source appliance, 
 
 In Ridgewood's finished-basement homes, especially the deeper walk-out configurations common in the Heights and along the hillier streets west of the Ridgewood Country Club, sump pump discharge lines occasionally run beneath finished flooring before exiting the foundation wall. When a washing machine overflow or water heater failure saturates the floor, that buried discharge line can act as an unintended channel, spreading water under the slab or into adjacent finished rooms. It's a detail that's easy to miss on a standard walkthrough but shows up clearly on thermal imaging. We flag it on every job in these neighborhoods so the drying plan accounts for the full moisture pathway, not just the visible damage.
 
-If an appliance leak has left you with wet floors, a damaged basement, or the unmistakable smell of standing water in Ridgewood, call The Restoration Group now at (855) 650-7422. We're available around the clock, and early extraction is the single biggest factor in limiting the total cost of the loss.
+If an appliance leak has left you with wet floors, a damaged basement, or the unmistakable smell of standing water in Ridgewood, call The Restoration Group now at (844) 808-8838. We're available around the clock, and early extraction is the single biggest factor in limiting the total cost of the loss.

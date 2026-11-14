@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Water Leak Detection in Kenilworth | The Restoration Group"
 h1: "Water Leak Detection in Kenilworth"
-meta_description: "24/7 water leak detection in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 water leak detection in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water leak detection kenilworth"
 secondary_keywords: ["leak detection", "hidden water leak", "slab leak detection", "water leak in wall", "leak detection service"]
 search_intent: "local_emergency"

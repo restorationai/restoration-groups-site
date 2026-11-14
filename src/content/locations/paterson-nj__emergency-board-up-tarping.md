@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Paterson, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Paterson"
-meta_description: "24/7 emergency board-up and tarping in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping paterson"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Most homeowner and landlord policies in New Jersey cover emergency protective me
 
 One thing that catches out-of-area crews in Paterson: the attached rowhomes throughout Sandy Hill and parts of South Paterson share party walls that extend above the roofline as fire-separation parapets. After a fire in one unit, those parapets often look structurally sound but have had their mortar joints heat-stressed from the interior side. When we tarp a fire-damaged roof in these blocks, we brace against the parapet rather than anchor to it, loading a compromised parapet with tarp tension and wind force can bring it down. It's a detail that matters on these specific blocks and one we account for in every job assessment here.
 
-If you're dealing with a damaged roof, broken windows, or a fire-compromised structure anywhere in Paterson, call The Restoration Group at **(855) 650-7422**. We're an IICRC Certified Firm and NJ Licensed Home Improvement Contractor, and our crews are dispatched around the clock. The sooner the openings are sealed, the smaller the total loss.
+If you're dealing with a damaged roof, broken windows, or a fire-compromised structure anywhere in Paterson, call The Restoration Group at **(844) 808-8838**. We're an IICRC Certified Firm and NJ Licensed Home Improvement Contractor, and our crews are dispatched around the clock. The sooner the openings are sealed, the smaller the total loss.

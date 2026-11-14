@@ -95,7 +95,7 @@ Here is a realistic scenario: a supply line to the dishwasher in unit 8C fails o
 
 This is why having an adequate HO-6 with strong loss assessment coverage matters more in a condo than in a single-family home. The layered structure creates gaps that individual policies are designed to fill.
 
-The Restoration Group handles [commercial restoration](/services/commercial-restoration/) for multi-unit buildings and condo associations across New Jersey and the New York metro area, including the documentation-intensive work that high-rise associations and their insurers require. If you have active water damage in a condo or multi-unit building, call (855) 650-7422 any time, day or night.
+The Restoration Group handles [commercial restoration](/services/commercial-restoration/) for multi-unit buildings and condo associations across New Jersey and the New York metro area, including the documentation-intensive work that high-rise associations and their insurers require. If you have active water damage in a condo or multi-unit building, call (844) 808-8838 any time, day or night.
 
 ---
 

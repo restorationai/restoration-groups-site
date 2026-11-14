@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Piscataway, NJ | The Restoration Group"
 h1: "Mold Remediation in Piscataway"
-meta_description: "24/7 mold remediation in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation piscataway"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -52,4 +52,4 @@ As an NJ Licensed Home Improvement Contractor registered with the Division of Co
 
 In the split-levels and raised ranches common to Possumtown and the older Stelton tracts, the original builders often furred out concrete block foundation walls with a narrow wood-stud cavity and then drywalled directly over it, no vapor barrier, no insulation gap. After a flood event, that cavity traps water against the block and the back of the drywall simultaneously. Standard drying protocols designed for modern framed walls underestimate the drying time needed here by 30 to 40 percent. We account for this by leaving dehumidification equipment in place longer and re-reading moisture levels at the block surface before signing off on structural dryness.
 
-If you're in Piscataway and you're smelling mold, seeing staining, or recovering from any water event, whether it's a Raritan River backflow, a failed supply line, or a slow HVAC leak, call The Restoration Group at (855) 650-7422. Our IICRC Certified team (Firm #210213) is available around the clock, and we'll give you a clear picture of what's there and what it takes to fix it before any work begins.
+If you're in Piscataway and you're smelling mold, seeing staining, or recovering from any water event, whether it's a Raritan River backflow, a failed supply line, or a slow HVAC leak, call The Restoration Group at (844) 808-8838. Our IICRC Certified team (Firm #210213) is available around the clock, and we'll give you a clear picture of what's there and what it takes to fix it before any work begins.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Wayne, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Wayne"
-meta_description: "24/7 emergency basement flooding cleanup in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup wayne"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -47,4 +47,4 @@ Flooding from a storm surge or rising river is typically excluded from standard 
 
 One thing that catches crews off guard in Wayne's lake community homes: the finished basements in the Packanack Lake and Pines Lake neighborhoods were often built with tongue-and-groove wood paneling over furring strips directly against the foundation wall, with no vapor barrier behind them. When those basements flood, the paneling looks intact from the front but the cavity behind it holds standing water and saturated fiberglass batt insulation that will mold within days. Standard moisture meters read the paneling surface and can miss the problem entirely. Thermal imaging is the only reliable way to see what's happening in that wall assembly before deciding what to open up, and skipping that step leads to callbacks.
 
-If your basement is holding water right now, or you are watching the Passaic River gauge and bracing for what's coming, call The Restoration Group at (855) 650-7422. The team is available 24/7 and knows Wayne's neighborhoods, housing stock, and flood patterns well enough to scope the job accurately from the first visit.
+If your basement is holding water right now, or you are watching the Passaic River gauge and bracing for what's coming, call The Restoration Group at (844) 808-8838. The team is available 24/7 and knows Wayne's neighborhoods, housing stock, and flood patterns well enough to scope the job accurately from the first visit.

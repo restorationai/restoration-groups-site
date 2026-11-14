@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Livingston, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Livingston"
-meta_description: "24/7 emergency water removal and cleanup in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal livingston"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Most emergency water removal and cleanup losses in Livingston, burst pipes, appl
 
 Livingston's split-level homes, common throughout Northland and the Collins neighborhood, present a drying challenge that flat ranch or two-story colonial layouts don't: the intermediate level sits partially below grade on one side and above grade on the other. That means the same room can have exterior concrete on one wall and interior framed walls on the other, each with different drying rates and different moisture targets. Crews that aren't familiar with this construction type sometimes under-place equipment on the concrete side because surface readings look acceptable, while the framed wall cavity on the opposite side stays wet. We map both wall types separately and adjust equipment placement accordingly.
 
-If you're dealing with standing water or visible water damage anywhere in Livingston, whether it's a finished basement off the Canoe Brook corridor or a kitchen supply line that let go overnight, call The Restoration Group at **(855) 650-7422**. We're available around the clock and carry IICRC Firm Certification #210213 along with our NJ Home Improvement Contractor license, so your insurer and your adjuster will recognize the paperwork we produce.
+If you're dealing with standing water or visible water damage anywhere in Livingston, whether it's a finished basement off the Canoe Brook corridor or a kitchen supply line that let go overnight, call The Restoration Group at **(844) 808-8838**. We're available around the clock and carry IICRC Firm Certification #210213 along with our NJ Home Improvement Contractor license, so your insurer and your adjuster will recognize the paperwork we produce.

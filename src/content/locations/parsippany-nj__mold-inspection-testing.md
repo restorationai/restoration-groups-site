@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Parsippany, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Parsippany"
-meta_description: "24/7 mold inspection and testing in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing parsippany"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -48,4 +48,4 @@ From our Kenilworth headquarters, the most direct route to Parsippany runs north
 
 After Hurricane Ida's 2021 flooding, remediation crews working the Lake Hiawatha neighborhood found a consistent pattern: finished basements that appeared dry to the eye, no standing water, no visible staining, were reading 18 to 25 percent moisture content in the lower courses of drywall and in the wood bottom plates sitting on the slab. Homeowners had pumped out the water and assumed the job was done. Six to eight weeks later, many of those same basements had visible mold growth behind the baseboards. The lesson for any Parsippany homeowner in a flood-prone lake community: a moisture meter reading after water intrusion is not optional. A mold inspection three to six weeks post-event, even when everything looks fine, is the only way to confirm the structure actually dried.
 
-If you're in Parsippany and you're not sure whether a past water event left hidden moisture behind, call (855) 650-7422. We'll schedule an inspection, run the samples, and give you a written report you can actually use.
+If you're in Parsippany and you're not sure whether a past water event left hidden moisture behind, call (844) 808-8838. We'll schedule an inspection, run the samples, and give you a written report you can actually use.

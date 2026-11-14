@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in North Bergen, NJ | The Restoration Group"
 h1: "Mold Remediation in North Bergen"
-meta_description: "24/7 mold remediation in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation north bergen"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -42,7 +42,7 @@ Final clearance is verified through post-remediation air sampling. We coordinate
 
 ## Reaching North Bergen from Kenilworth
 
-The Restoration Group operates 24/7, and North Bergen is a regular part of our Hudson County service area. From our Kenilworth base, the most direct routing runs up the NJ Turnpike to the Tonnelle Avenue interchange, putting us into the commercial and residential corridors along the western edge of town quickly. For addresses on the hillside blocks near James J. Braddock North Hudson Park or the Bergenline Avenue business district, we typically route through the Lincoln Tunnel approach roads to avoid Tonnelle Avenue congestion during peak hours. Call (855) 650-7422 and a dispatcher will confirm estimated arrival based on current conditions.
+The Restoration Group operates 24/7, and North Bergen is a regular part of our Hudson County service area. From our Kenilworth base, the most direct routing runs up the NJ Turnpike to the Tonnelle Avenue interchange, putting us into the commercial and residential corridors along the western edge of town quickly. For addresses on the hillside blocks near James J. Braddock North Hudson Park or the Bergenline Avenue business district, we typically route through the Lincoln Tunnel approach roads to avoid Tonnelle Avenue congestion during peak hours. Call (844) 808-8838 and a dispatcher will confirm estimated arrival based on current conditions.
 
 ## North Bergen Insurance Coordination
 
@@ -54,4 +54,4 @@ For rental properties along the Tonnelle Avenue corridor or multi-unit buildings
 
 In North Bergen's older multi-family stock, particularly the brick walkups built between the 1920s and 1950s on hillside lots near the Guttenberg border, interior walls often have a plaster-over-wood-lath construction rather than modern drywall. Plaster itself is relatively mold-resistant, but the wood lath behind it is not, and moisture that gets behind a plaster wall can colonize the lath for months before any surface staining appears. When our moisture readings show elevated levels behind a plaster wall but the surface looks clean, we use borescope cameras to inspect the cavity before deciding whether to open the wall. In many cases we can treat through small access points rather than demolishing entire plaster surfaces, which matters both for cost and for preserving the historic character of the building.
 
-If mold has taken hold in your North Bergen home or rental property, whether it's a basement unit off Tonnelle Avenue or a top-floor apartment near Bergenline, call The Restoration Group at (855) 650-7422. We'll assess the scope, explain your options honestly, and get containment in place before the problem spreads to adjacent units or floors.
+If mold has taken hold in your North Bergen home or rental property, whether it's a basement unit off Tonnelle Avenue or a top-floor apartment near Bergenline, call The Restoration Group at (844) 808-8838. We'll assess the scope, explain your options honestly, and get containment in place before the problem spreads to adjacent units or floors.

@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Colonia, NJ | The Restoration Group"
 h1: "Restoration Services in Colonia"
-meta_description: "Serving Colonia, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Colonia, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services colonia"
 secondary_keywords: ["colonia restoration company", "damage restoration colonia", "colonia disaster restoration"]
 search_intent: "local_commercial"
@@ -45,4 +45,4 @@ Most of Colonia was built out in the postwar decades as part of Woodbridge Towns
 
 Middlesex County's clay-heavy soils hold water close to grade, which slows drainage around foundations and is part of why basement seepage is such a recurring call here. Structural repairs and rebuilds after a significant loss require a permit through Woodbridge Township's construction office under the New Jersey Uniform Construction Code, and anything touching pre-1980s building materials should be scoped with that vintage in mind before demolition starts.
 
-If water, fire, smoke, or biohazard damage has hit your Colonia property, call The Restoration Group at (855) 650-7422. We're available 24/7, document everything for your insurance carrier, and get mitigation started before the damage has a chance to spread further into the structure.
+If water, fire, smoke, or biohazard damage has hit your Colonia property, call The Restoration Group at (844) 808-8838. We're available 24/7, document everything for your insurance carrier, and get mitigation started before the damage has a chance to spread further into the structure.

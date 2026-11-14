@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Plainfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Plainfield"
-meta_description: "24/7 emergency board-up and tarping in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping plainfield"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -32,7 +32,7 @@ Commercial properties along the Front Street and Park Avenue corridors face thei
 
 ## Our Emergency Board-Up and Tarping Process in Plainfield
 
-When you call (855) 650-7422, dispatch routes the nearest available crew toward your ZIP code, whether that's 07060 near the historic core, 07062 in the western residential neighborhoods, or 07063 along the southern edge of the city. On arrival, the crew does a rapid exterior assessment: identifying all breach points, checking for structural instability that would affect safe access, and photographing every opening before any material goes up. That documentation matters for your insurance claim.
+When you call (844) 808-8838, dispatch routes the nearest available crew toward your ZIP code, whether that's 07060 near the historic core, 07062 in the western residential neighborhoods, or 07063 along the southern edge of the city. On arrival, the crew does a rapid exterior assessment: identifying all breach points, checking for structural instability that would affect safe access, and photographing every opening before any material goes up. That documentation matters for your insurance claim.
 
 For board-up work, we use 3/4-inch OSB panels cut and fitted to the opening rather than stapled sheeting, a meaningful difference on historic-district homes where the city or your insurer may require evidence that the structure was properly secured. Panels are fastened with exterior-grade screws into the surrounding framing, not just the window trim, so they hold through subsequent weather events rather than pulling free in the next storm.
 
@@ -46,4 +46,4 @@ Kenilworth sits directly east of Plainfield along the Route 28 corridor, making 
 
 One thing crews learn quickly working in Plainfield's Van Wyck Brooks Historic District: standard OSB board-up panels sometimes draw scrutiny from the city's historic preservation office if a property is contributing to the district and the work extends beyond emergency status. We've navigated this before. For properties in the designated historic zone, we document the emergency condition thoroughly, use the minimum footprint necessary to secure the opening, and flag the situation to the homeowner early so they can loop in their contractor or preservation consultant before the temporary protection becomes a longer-term fixture. It's a small step that prevents a code notice on top of an already difficult situation.
 
-If your property in Plainfield has been damaged by fire, storm, or a break-in and needs immediate protection, call (855) 650-7422 now. We'll secure the structure, document everything for your insurer, and hand off a clean site to whatever remediation or reconstruction work comes next.
+If your property in Plainfield has been damaged by fire, storm, or a break-in and needs immediate protection, call (844) 808-8838 now. We'll secure the structure, document everything for your insurer, and hand off a clean site to whatever remediation or reconstruction work comes next.

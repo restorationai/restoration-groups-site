@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Teaneck, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Teaneck"
-meta_description: "24/7 emergency smoke damage restoration in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration teaneck"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ Smoke damage claims in Bergen County follow standard homeowner's policy language
 
 Teaneck's older Tudors and colonials frequently have original horsehair-reinforced plaster, which is denser and harder than standard lime plaster. That density is actually an advantage during smoke remediation, it resists deep penetration better than modern drywall, but it requires slower, more deliberate dry-sponge work and cannot tolerate aggressive alkaline cleaners without surface damage. Crews unfamiliar with this material sometimes skip the dry phase and go straight to wet cleaning, which pushes soot into the surface permanently and triggers a repaint that could have been avoided. It's a detail that comes up repeatedly in the West Teaneck and Whittier neighborhoods where the pre-war housing stock is most concentrated.
 
-If you're dealing with smoke damage at a property in Teaneck (ZIP 07666), whether it's a single-family home, a multi-unit, or a commercial space on Cedar Lane, call The Restoration Group at (855) 650-7422. The assessment is the starting point, and the sooner it happens, the more of the structure and its contents can be saved.
+If you're dealing with smoke damage at a property in Teaneck (ZIP 07666), whether it's a single-family home, a multi-unit, or a commercial space on Cedar Lane, call The Restoration Group at (844) 808-8838. The assessment is the starting point, and the sooner it happens, the more of the structure and its contents can be saved.

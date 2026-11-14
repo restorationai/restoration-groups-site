@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in New Brunswick, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in New Brunswick"
-meta_description: "24/7 contents restoration & pack-out in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out new brunswick"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ The Restoration Group operates out of Kenilworth, NJ, and responds to New Brunsw
 
 In New Brunswick's pre-war multifamily buildings, cast-iron drain lines don't fail all at once, they develop pinhole corrosion that weeps slowly, often inside wall cavities or under subflooring. By the time water reaches a closet floor or a bookshelf, it has typically picked up rust sediment and organic material from inside the pipe. Contents affected by this type of leak carry a gray-water contamination classification even if the source looks like a clean drain. That distinction matters for cleaning protocols: items that appear only lightly soiled may require full decontamination rather than surface cleaning. Knowing to ask about the source, not just the visible damage, is the difference between a restored item and one that fails an odor check six months later.
 
-If belongings in your New Brunswick property have been affected by water, fire, or flood, call The Restoration Group at (855) 650-7422. We respond 24/7, document everything for your insurance carrier, and return your contents in documented, verifiable condition.
+If belongings in your New Brunswick property have been affected by water, fire, or flood, call The Restoration Group at (844) 808-8838. We respond 24/7, document everything for your insurance carrier, and return your contents in documented, verifiable condition.

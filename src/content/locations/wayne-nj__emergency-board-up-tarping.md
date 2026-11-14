@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Wayne, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Wayne"
-meta_description: "24/7 emergency board-up and tarping in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping wayne"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ For Wayne properties with active flood claims through the National Flood Insuran
 
 One thing that catches out-of-area contractors in Wayne's lake communities: the lots around Packanack Lake and Pines Lake are narrow and the driveways are often shared or gated by community associations. Staging a service vehicle and getting materials to the back of a lakefront property sometimes requires a separate access conversation with the HOA or a neighbor. The Restoration Group calls ahead on any address in those communities to confirm access before the crew leaves, it saves a 40-minute delay on a job that's already urgent.
 
-If your Wayne property has been damaged by fire, storm, or a break-in, call (855) 650-7422 now. The crew is available 24/7, carries the materials to secure most residential and commercial openings on the first visit, and will have your property protected while the longer restoration process gets underway.
+If your Wayne property has been damaged by fire, storm, or a break-in, call (844) 808-8838 now. The crew is available 24/7, carries the materials to secure most residential and commercial openings on the first visit, and will have your property protected while the longer restoration process gets underway.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Fort Lee, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Fort Lee"
-meta_description: "24/7 emergency flood damage restoration in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration fort lee"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ High-rise condo losses in Fort Lee almost always involve at least two insurance 
 
 In Fort Lee's older prewar buildings in Coytesville and on The Hill, original horsehair plaster over wood lath behaves very differently from modern 5/8" drywall when flooded. Plaster is dense and slow to release absorbed moisture, surface readings can look acceptable within a few days while the wood lath and stud cavities behind it remain well above safe drying thresholds. We extend monitoring cycles on these buildings and use cavity drying equipment to move air through wall assemblies rather than relying on surface evaporation alone. Calling the job dry too early in a prewar Fort Lee home is how mold problems start two weeks later.
 
-If your Fort Lee property has taken on water, whether it's a high-rise unit off the Palisades, a ground-floor commercial space near Hudson Lights, or a single-family home in Coytesville, call The Restoration Group at (855) 650-7422. We're available 24/7, we work directly with your insurance carrier, and we don't consider the job finished until the numbers say it is.
+If your Fort Lee property has taken on water, whether it's a high-rise unit off the Palisades, a ground-floor commercial space near Hudson Lights, or a single-family home in Coytesville, call The Restoration Group at (844) 808-8838. We're available 24/7, we work directly with your insurance carrier, and we don't consider the job finished until the numbers say it is.

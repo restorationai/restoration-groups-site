@@ -60,6 +60,6 @@ Kenilworth and the surrounding Union County communities sit in a mix of mid-cent
 
 ## Service area
 
-The Restoration Group is based in Kenilworth and provides water damage restoration throughout Union County and the surrounding region, including Springfield, Cranford, Westfield, Clark, Garwood, Roselle Park, and Mountainside. City-specific pages detail local response logistics, this page covers the full scope of what the service involves.
+The Restoration Group is based in Fair Lawn and provides water damage restoration throughout Union County and the surrounding region, including Springfield, Cranford, Westfield, Clark, Garwood, Roselle Park, and Mountainside. City-specific pages detail local response logistics, this page covers the full scope of what the service involves.
 
 If you're watching water spread across your floor right now, call **(908) 970-8533**. We respond 24/7 and can walk you through what to do before the crew arrives. If the immediate emergency has passed and you're assessing damage, schedule a moisture assessment, it takes about an hour and gives you a clear picture of what dried on its own and what didn't.

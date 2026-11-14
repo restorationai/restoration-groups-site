@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Roselle, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Roselle"
-meta_description: "24/7 emergency storm damage restoration in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration roselle"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Storm damage claims in New Jersey are governed by standard homeowners and commer
 
 In Roselle's older two-family and Victorian homes, particularly on blocks between Fifth Avenue and the Roselle Park border, finished basement ceilings are often drop-tile suspended over original plaster or wood-panel assemblies. After a storm-driven basement flood, the visible tile damage is only part of the story: moisture migrates into the structural ceiling above the drop grid and can sit undetected for days. We always pull representative tiles and probe the substrate before assuming the damage is limited to what's visible. Missing that layer is how mold colonization starts quietly in a space the homeowner doesn't check regularly.
 
-If a storm has left your Roselle property with standing water, a damaged roof, or a basement that smells like the river came inside, call The Restoration Group at (855) 650-7422. We're available around the clock, and we'll have a crew on-site to assess and begin work the same day.
+If a storm has left your Roselle property with standing water, a damaged roof, or a basement that smells like the river came inside, call The Restoration Group at (844) 808-8838. We're available around the clock, and we'll have a crew on-site to assess and begin work the same day.

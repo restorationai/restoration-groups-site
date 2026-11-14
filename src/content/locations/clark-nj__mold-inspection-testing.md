@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Clark, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Clark"
-meta_description: "24/7 mold inspection and testing in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing clark"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -52,4 +52,4 @@ Note that standard homeowner's policies in New Jersey typically exclude mold tha
 
 One pattern that comes up repeatedly in Clark's finished basements: the 1970s-era drywall used to panel basement walls in this housing stock is paperless on neither face, and paper-faced gypsum is among the most hospitable substrates mold can colonize. When we inspect a split-level or ranch in the 07066 ZIP code that had any water intrusion during Tropical Storm Ida or a subsequent sump failure, we probe the lower 18 inches of those basement walls carefully, even when the surface looks dry. Mold behind intact paint is common, and a visual-only inspection misses it routinely. Air sampling alone won't locate the source; the physical inspection has to go deeper than the surface.
 
-If you're seeing signs of a moisture problem, or just want confirmation before listing your home or closing on one, call The Restoration Group at (855) 650-7422. We'll assess the situation honestly, give you a written report you can actually use, and tell you plainly whether remediation is necessary.
+If you're seeing signs of a moisture problem, or just want confirmation before listing your home or closing on one, call The Restoration Group at (844) 808-8838. We'll assess the situation honestly, give you a written report you can actually use, and tell you plainly whether remediation is necessary.

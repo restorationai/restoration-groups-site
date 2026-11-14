@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Scotch Plains, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Scotch Plains"
-meta_description: "24/7 emergency water damage restoration in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration scotch plains"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -43,7 +43,7 @@ From there, the process follows the IICRC S500 standard for water damage restora
 
 ## Reaching Scotch Plains from Our Kenilworth HQ
 
-Kenilworth sits just a few miles east of Scotch Plains via Route 28 or Central Avenue. That proximity matters at 3 a.m. when a pipe lets go behind a wall. Because our hours are 24/7, a call to (855) 650-7422 at any hour gets a live response and a crew dispatched, not an answering service that schedules you for morning.
+Kenilworth sits just a few miles east of Scotch Plains via Route 28 or Central Avenue. That proximity matters at 3 a.m. when a pipe lets go behind a wall. Because our hours are 24/7, a call to (844) 808-8838 at any hour gets a live response and a crew dispatched, not an answering service that schedules you for morning.
 
 For addresses near the Shackamaxon area or along the Fanwood border, we typically stage equipment on the street or driveway; those neighborhoods have mature tree canopy and narrower access in spots, so we confirm approach on the way.
 
@@ -57,4 +57,4 @@ As an IICRC Certified Firm (#210213) and NJ Licensed Home Improvement Contractor
 
 One pattern we see repeatedly in Scotch Plains finished basements: the original cast-iron floor drain at the base of the stairs has a trap that dries out between uses, and when stormwater backs up through the municipal line, it comes up through that drain first, sometimes before the homeowner even realizes it's raining hard enough to cause a problem. If your basement has an older floor drain and you've never had a backwater valve installed, it's worth a conversation with a licensed plumber before the next heavy storm. We're not plumbers, but we've dried out enough Scotch Plains basements to know that drain is often the first place water appears and the last place homeowners think to look.
 
-If water has already reached your floors, call (855) 650-7422 now. The faster extraction begins, the smaller the scope of structural drying, and the lower the final cost of getting your Scotch Plains home back to normal.
+If water has already reached your floors, call (844) 808-8838 now. The faster extraction begins, the smaller the scope of structural drying, and the lower the final cost of getting your Scotch Plains home back to normal.

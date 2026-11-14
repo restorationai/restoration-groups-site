@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in West Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in West Orange"
-meta_description: "24/7 emergency flood damage restoration in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration west orange"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ We bill carriers directly and provide the moisture logs, photo documentation, an
 
 In West Orange's older Llewellyn Park and adjacent Victorian-era homes, original horsehair plaster over wood lath is still common on basement stairwells and utility rooms. Unlike modern drywall, plaster does not wick water upward as aggressively, but it holds absorbed moisture for significantly longer once saturated. We have seen plaster walls in these homes read elevated on a moisture meter for ten or more days after extraction is complete, long after a drywall surface would have cleared. Rushing demolition decisions on plaster can mean unnecessary historic material loss; rushing closure on drying can mean hidden mold colonization behind intact surfaces. We take daily readings and do not call a job dry until the numbers confirm it.
 
-If your West Orange home or commercial property has taken on water, whether from a storm drain backup, a sump failure, or a roof breach over the Essex Green commercial corridor, call The Restoration Group at (855) 650-7422. We will assess the loss, explain the scope honestly, and get drying equipment in place before the damage clock runs any further.
+If your West Orange home or commercial property has taken on water, whether from a storm drain backup, a sump failure, or a roof breach over the Essex Green commercial corridor, call The Restoration Group at (844) 808-8838. We will assess the loss, explain the scope honestly, and get drying equipment in place before the damage clock runs any further.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Irvington, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Irvington"
-meta_description: "24/7 emergency water removal and cleanup in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal irvington"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Most standard homeowners policies cover sudden and accidental water discharge, a
 
 In Irvington's prewar multifamily stock, finished basements are often the most valuable square footage in the building, a rental unit, a family room, a home office, and they're also the most exposed. One pattern worth knowing: many of these lower levels were finished with wood-paneled walls furred out from the foundation, leaving a hidden air gap that traps moisture long after the visible floor is pumped out and dried. Standard moisture meters read the panel face, not the masonry behind it. We probe behind the furring before we close out any basement job, because a wall that reads dry on the surface can be growing a mold problem in the cavity.
 
-If you're dealing with standing water, a soaked basement, or a pipe loss anywhere in Irvington, call The Restoration Group at (855) 650-7422. We'll walk you through what needs to happen in the next hour and have a crew moving toward you.
+If you're dealing with standing water, a soaked basement, or a pipe loss anywhere in Irvington, call The Restoration Group at (844) 808-8838. We'll walk you through what needs to happen in the next hour and have a crew moving toward you.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Avenel, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Avenel"
-meta_description: "24/7 emergency water damage restoration in Avenel, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Avenel, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration avenel"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -42,4 +42,4 @@ Most of the water losses we see in Avenel come through homeowner's policies rath
 
 A lot of Avenel basements were finished in stages over the decades, carpet laid over the original slab in the 70s, paneling added later over furring strips, drop ceiling tiles installed last. Each layer traps moisture differently, and a meter reading on the carpet can look dry while the furring strips behind the paneling are still saturated. We've learned to check behind that second and third layer before calling a basement dry, because in this housing stock the surface almost always dries faster than what's underneath it.
 
-Water sitting in a Avenel basement doesn't wait for a convenient time to become a mold problem, and in Middlesex County's humid summer months that window can close in a couple of days. Call The Restoration Group at (855) 650-7422 and we'll get a crew moving toward your address with equipment matched to what this area's homes actually need.
+Water sitting in a Avenel basement doesn't wait for a convenient time to become a mold problem, and in Middlesex County's humid summer months that window can close in a couple of days. Call The Restoration Group at (844) 808-8838 and we'll get a crew moving toward your address with equipment matched to what this area's homes actually need.

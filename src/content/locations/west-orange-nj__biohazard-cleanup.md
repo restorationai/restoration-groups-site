@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in West Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in West Orange"
-meta_description: "24/7 emergency biohazard cleanup in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup west orange"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -53,4 +53,4 @@ If you are a property manager or landlord with units along the Northfield Avenue
 
 West Orange's hillside topography means that many finished basements, particularly in the lower-elevation sections of Pleasantdale and the streets draining toward the Rahway River headwaters, have experienced sewer backups or groundwater intrusion during heavy storms, including the flooding that followed Tropical Storm Ida in 2021. In homes that sustained prior water damage, subfloor and wall cavities may already have compromised integrity. When a biohazard event occurs in one of these spaces, our technicians probe beyond the visible affected area, because a saturated or previously damaged substrate holds contamination differently than sound material. That extra step is not standard practice for every remediation company, but in West Orange it is often the difference between a complete remediation and a recurring problem.
 
-If you are dealing with a biohazard situation anywhere in West Orange, from Llewellyn Park to St. Cloud, call The Restoration Group at (855) 650-7422. We answer every hour of every day, we arrive discreetly, and we handle the process from first call to final clearance so your family or tenants can return to a safe space.
+If you are dealing with a biohazard situation anywhere in West Orange, from Llewellyn Park to St. Cloud, call The Restoration Group at (844) 808-8838. We answer every hour of every day, we arrive discreetly, and we handle the process from first call to final clearance so your family or tenants can return to a safe space.

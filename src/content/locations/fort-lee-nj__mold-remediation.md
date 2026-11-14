@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Fort Lee, NJ | The Restoration Group"
 h1: "Mold Remediation in Fort Lee"
-meta_description: "24/7 mold remediation in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation fort lee"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ Mold remediation in Fort Lee's condo towers almost always involves at least two 
 
 Something worth knowing if you're in one of Fort Lee's older Coytesville or The Hill buildings: pre-1960 plaster-and-lath wall assemblies hold moisture differently than modern drywall. The plaster itself is relatively mold-resistant, but the wood lath behind it is not, and it dries slowly, often taking 30 to 40 percent longer to reach acceptable moisture content than standard half-inch drywall would. Rushing to reconstruction before those readings normalize is one of the most common reasons mold returns in these older buildings. We extend the drying phase on lath-and-plaster assemblies specifically because of this, and we re-test before any new drywall goes up.
 
-If you're seeing discoloration, a persistent musty odor, or recently dealt with water intrusion in a Fort Lee property, the right move is an inspection before the problem spreads to adjacent units or floors. Call The Restoration Group at (855) 650-7422, we're available around the clock and familiar with the specific challenges mold remediation presents in Fort Lee's mix of high-rise towers and older neighborhood homes.
+If you're seeing discoloration, a persistent musty odor, or recently dealt with water intrusion in a Fort Lee property, the right move is an inspection before the problem spreads to adjacent units or floors. Call The Restoration Group at (844) 808-8838, we're available around the clock and familiar with the specific challenges mold remediation presents in Fort Lee's mix of high-rise towers and older neighborhood homes.

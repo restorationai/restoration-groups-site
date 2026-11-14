@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Irvington, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Irvington"
-meta_description: "24/7 emergency fire damage restoration in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration irvington"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -59,4 +59,4 @@ We bill carriers directly and work with your adjuster throughout the process. If
 
 In Irvington's older balloon-frame rowhouses, particularly those built before 1940 in neighborhoods like Grove Park and along the Union Avenue corridor, fire investigators and restoration crews sometimes find that a fire that appeared limited to one floor has actually traveled vertically inside the wall cavity and scorched framing two stories up. We probe wall cavities with borescope cameras before finalizing any scope of work, because missing that hidden char means the structure is never fully restored and odor problems return within months. It's a step that adds an hour to the initial assessment and can save a homeowner from a reopened claim six months later.
 
-If your property in Irvington has been affected by fire, call The Restoration Group at (855) 650-7422. We'll assess the full extent of the damage, visible and hidden, and walk you through every step from emergency securing to final reconstruction.
+If your property in Irvington has been affected by fire, call The Restoration Group at (844) 808-8838. We'll assess the full extent of the damage, visible and hidden, and walk you through every step from emergency securing to final reconstruction.

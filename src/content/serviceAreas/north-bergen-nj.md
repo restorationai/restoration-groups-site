@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in North Bergen, NJ | The Restoration Group"
 h1: "Restoration Services in North Bergen"
-meta_description: "Serving North Bergen, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving North Bergen, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services north bergen"
 secondary_keywords: ["north bergen restoration company", "damage restoration north bergen", "north bergen disaster restoration"]
 search_intent: "local_commercial"
@@ -57,4 +57,4 @@ Era-linked hazards shape the scope: galvanized steel supply lines that rust clos
 
 Structural repair, roof replacement, and plumbing or electrical rework are permitted through North Bergen's construction office under the New Jersey Uniform Construction Code.
 
-If you're dealing with water, fire, mold, or storm damage in North Bergen, call The Restoration Group at **(855) 650-7422**, we answer 24 hours a day and can begin the assessment and mitigation process as soon as we're on site.
+If you're dealing with water, fire, mold, or storm damage in North Bergen, call The Restoration Group at **(844) 808-8838**, we answer 24 hours a day and can begin the assessment and mitigation process as soon as we're on site.

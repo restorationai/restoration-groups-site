@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Bloomfield, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Bloomfield"
-meta_description: "24/7 contents restoration & pack-out in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out bloomfield"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -44,4 +44,4 @@ The Restoration Group's base in Kenilworth puts Bloomfield well within reach via
 
 Bloomfield's two-family and multi-unit homes, common throughout Watsessing and along the avenues radiating from Bloomfield Center, add a coordination layer that single-family pack-outs don't require. When a pipe failure on the first floor affects a second-floor tenant's belongings, or vice versa, two separate inventories need to be maintained for two separate insurance claims, sometimes with two different carriers. Getting that separation right at the inventory stage prevents disputes later. It's a detail that comes up often in Bloomfield's housing stock and one worth asking any restoration contractor about before work begins.
 
-If you're dealing with a loss in Bloomfield, whether it's a sewer backup in a Brookdale basement or a roof leak over a Bloomfield Center storefront, call The Restoration Group at (855) 650-7422. We'll walk through what needs to move, what can be saved, and what the insurance process looks like before a single box is packed.
+If you're dealing with a loss in Bloomfield, whether it's a sewer backup in a Brookdale basement or a roof leak over a Bloomfield Center storefront, call The Restoration Group at (844) 808-8838. We'll walk through what needs to move, what can be saved, and what the insurance process looks like before a single box is packed.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Paramus, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Paramus"
-meta_description: "24/7 emergency smoke damage restoration in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration paramus"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -59,4 +59,4 @@ For commercial properties, particularly the retail and big-box tenants along Rou
 
 Paramus's postwar split-levels and ranches were frequently built with "open-return" HVAC systems, meaning the return air path runs through the basement or a hallway chase rather than through dedicated return ducts. In a smoke event, this design pulls smoke-laden air directly into the air handler and distributes it to every room in the house before anyone realizes what's happening. We've seen this pattern repeatedly in homes near Van Saun County Park, where the housing stock skews older. When we scope a smoke loss in Paramus, we always inspect the air handler cabinet and the return plenum first, not last, because that's often where the highest soot concentration is hiding.
 
-If your home or business in Paramus has smoke or soot damage from a fire, call The Restoration Group at **(855) 650-7422**. We're available around the clock, and the sooner smoke residue is addressed in older construction, the better the outcome for your walls, your air quality, and your claim.
+If your home or business in Paramus has smoke or soot damage from a fire, call The Restoration Group at **(844) 808-8838**. We're available around the clock, and the sooner smoke residue is addressed in older construction, the better the outcome for your walls, your air quality, and your claim.

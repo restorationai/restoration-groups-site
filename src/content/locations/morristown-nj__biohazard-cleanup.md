@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Morristown, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Morristown"
-meta_description: "24/7 emergency biohazard cleanup in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup morristown"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -51,4 +51,4 @@ For multi-unit buildings and managed properties, we communicate directly with bu
 
 In Morristown's older multifamily stock near the Speedwell and Franklin Corner areas, finished basement units often have drop ceilings installed over original cast-iron plumbing runs. When a biohazard event occurs in or near one of these spaces, the ceiling tiles and the cavity above them need to be evaluated, contamination can travel along pipe chases in ways that aren't apparent from a ground-level walkthrough. It's a detail that matters in this particular housing type and one we account for during the initial assessment on any Morristown job involving a below-grade or basement-level space.
 
-If you are dealing with a situation that requires immediate, discreet, and thorough biohazard remediation in Morristown, whether in a private residence, a rental unit, or a commercial property, call The Restoration Group at (855) 650-7422. We are available at any hour, and we handle every call with the seriousness and privacy the situation deserves.
+If you are dealing with a situation that requires immediate, discreet, and thorough biohazard remediation in Morristown, whether in a private residence, a rental unit, or a commercial property, call The Restoration Group at (844) 808-8838. We are available at any hour, and we handle every call with the seriousness and privacy the situation deserves.

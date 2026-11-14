@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Staten Island, NY | The Restoration Group"
 h1: "Odor Removal and Deodorization in Staten Island"
-meta_description: "24/7 odor removal and deodorization in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization staten island"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -53,4 +53,4 @@ One thing crews learn quickly on Staten Island: the plaster walls in pre-1950 ho
 
 If you're dealing with a persistent smell in a home built before 1960, plan for a two-phase treatment and don't let anyone tell you a single afternoon of fogging will be sufficient.
 
-If the smell in your home or commercial property isn't going away on its own, it won't. Call The Restoration Group at **(855) 650-7422**, our Staten Island-based team will assess the source, explain the treatment options honestly, and get the work done right the first time.
+If the smell in your home or commercial property isn't going away on its own, it won't. Call The Restoration Group at **(844) 808-8838**, our Staten Island-based team will assess the source, explain the treatment options honestly, and get the work done right the first time.

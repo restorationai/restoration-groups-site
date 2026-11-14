@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Morristown, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Morristown"
-meta_description: "24/7 emergency appliance leak cleanup in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup morristown"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Morristown? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to stop the water and start the cleanup.
 
-A refrigerator ice maker line that drips for weeks behind a built-in cabinet, or a washing machine supply hose that lets go all at once, either way, the water that ends up under your flooring in a Morristown Victorian or a newer downtown condo moves fast and hides longer than you'd expect. Morristown's mix of 19th-century construction near the Green and recently built mid-rise apartments along South Street means appliance leaks play out very differently depending on where you live, and cleaning up after one requires knowing the difference. Call The Restoration Group at (855) 650-7422 any time, we respond 24/7.
+A refrigerator ice maker line that drips for weeks behind a built-in cabinet, or a washing machine supply hose that lets go all at once, either way, the water that ends up under your flooring in a Morristown Victorian or a newer downtown condo moves fast and hides longer than you'd expect. Morristown's mix of 19th-century construction near the Green and recently built mid-rise apartments along South Street means appliance leaks play out very differently depending on where you live, and cleaning up after one requires knowing the difference. Call The Restoration Group at (844) 808-8838 any time, we respond 24/7.
 
 ## Why Morristown Homes See More Appliance Leak Damage
 
@@ -55,4 +55,4 @@ If your building has an HOA, some Morristown associations require written notifi
 
 In Morristown's older Victorians and colonials, particularly the ones within a few blocks of the Green, finished basements were often converted from unfinished storage space decades ago, and the framing cavities behind those basement walls were never insulated or vapor-managed. When an appliance leak on the first floor saturates the subfloor above, moisture wicks down into those wall cavities and can sit undetected for days. We've learned to check basement wall framing on every Morristown job that involves a kitchen or laundry room on the floor above, because that's consistently where secondary damage hides in this housing stock.
 
-If you're dealing with an appliance leak anywhere in Morristown, a dishwasher that soaked your kitchen floor, a water heater that let go in the utility room, or a refrigerator line that's been quietly dripping for longer than you realized, call (855) 650-7422. The Restoration Group is IICRC Certified (Firm #210213), licensed by the NJ Division of Consumer Affairs, and available around the clock to stop the damage before it compounds.
+If you're dealing with an appliance leak anywhere in Morristown, a dishwasher that soaked your kitchen floor, a water heater that let go in the utility room, or a refrigerator line that's been quietly dripping for longer than you realized, call (844) 808-8838. The Restoration Group is IICRC Certified (Firm #210213), licensed by the NJ Division of Consumer Affairs, and available around the clock to stop the damage before it compounds.

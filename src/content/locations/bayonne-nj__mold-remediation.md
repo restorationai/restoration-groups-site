@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Bayonne, NJ | The Restoration Group"
 h1: "Mold Remediation in Bayonne"
-meta_description: "24/7 mold remediation in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation bayonne"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ In Bayonne's pre-1950 housing stock, original plaster-and-lath walls behave diff
 
 Mold coverage varies significantly by policy, and New Jersey homeowner policies written after 2002 often include mold sublimits or exclusions tied to maintenance-related losses. That distinction matters in Bayonne's rental properties, where the line between a sudden pipe failure (typically covered) and a long-running slow leak (often excluded) is exactly what adjusters scrutinize. We document the loss thoroughly, moisture readings, photo evidence, scope of affected materials, and provide a detailed report that supports your claim and helps your adjuster understand the cause and extent of damage. We work directly with most major carriers and can communicate with your adjuster on your behalf throughout the process.
 
-If you're smelling mold in a Bergen Point rowhouse, finding black growth behind a Constable Hook basement panel, or managing a commercial property loss near the Route 440 corridor, call The Restoration Group at (855) 650-7422. We'll assess the situation, explain the scope honestly, and get containment in place before the problem spreads further.
+If you're smelling mold in a Bergen Point rowhouse, finding black growth behind a Constable Hook basement panel, or managing a commercial property loss near the Route 440 corridor, call The Restoration Group at (844) 808-8838. We'll assess the situation, explain the scope honestly, and get containment in place before the problem spreads further.

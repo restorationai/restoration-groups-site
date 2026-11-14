@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Clark, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Clark"
-meta_description: "24/7 emergency board-up and tarping in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping clark"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Most homeowner policies in New Jersey cover emergency protective measures as par
 
 Clark's postwar split-levels often have a half-story garage level with a door opening that sits below grade on the downhill side of the lot. After a fire or forced entry, that below-grade opening is easy to miss on a quick walk-around, it's not always visible from the street, and it's exactly the kind of unsecured point that causes a "secured" structure to flood or be re-entered. Crews working Clark addresses specifically check those garage-level exposures before signing off on a board-up, because the neighborhood's topography makes them a recurring blind spot.
 
-If your Clark property has been damaged and you need openings secured tonight or first thing tomorrow, call The Restoration Group at (855) 650-7422. An IICRC Certified Firm operating under NJ Division of Consumer Affairs licensure, the team is ready to protect your structure, document the loss, and hand off a clean file to your insurance carrier.
+If your Clark property has been damaged and you need openings secured tonight or first thing tomorrow, call The Restoration Group at (844) 808-8838. An IICRC Certified Firm operating under NJ Division of Consumer Affairs licensure, the team is ready to protect your structure, document the loss, and hand off a clean file to your insurance carrier.

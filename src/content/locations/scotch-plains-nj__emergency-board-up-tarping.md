@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Scotch Plains, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Scotch Plains"
-meta_description: "24/7 emergency board-up and tarping in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping scotch plains"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ If your home falls under an HOA in one of Scotch Plains' planned sections, we ca
 
 Something we have noticed on Scotch Plains jobs specifically: the 1950s and 1960s split-levels common in neighborhoods like Willow Grove and Southside were often built with low-slope shed roofs over the entry-level addition. Those shallow-pitch sections hold debris and standing water in a way that steeper main roofs do not, and when the membrane or roll roofing on those sections fails, the breach is often larger than it looks from the ground. We bring extra tarp material and additional fastening hardware on any Scotch Plains roof call that mentions a split-level, because undersizing the tarp on a low-slope section is a mistake that shows up on the next rain.
 
-If you are looking at storm damage, fire damage, or any structural opening that is letting weather into your home or building in Scotch Plains, call The Restoration Group at (855) 650-7422. We are available around the clock, and the sooner the opening is closed, the smaller the overall restoration scope tends to be.
+If you are looking at storm damage, fire damage, or any structural opening that is letting weather into your home or building in Scotch Plains, call The Restoration Group at (844) 808-8838. We are available around the clock, and the sooner the opening is closed, the smaller the overall restoration scope tends to be.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Clark, NJ | The Restoration Group"
 h1: "Mold Remediation in Clark"
-meta_description: "24/7 mold remediation in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation clark"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ The Kenilworth shop sits roughly three miles from the center of Clark, a straigh
 
 One thing that comes up specifically in Clark's finished-basement ranches: the drop ceilings installed in the 1970s and 1980s often conceal original 1950s fiberboard tile above the suspended grid. That tile is highly absorbent and is almost never visible during a standard walkthrough. When moisture readings in the lower level are elevated but no obvious source is apparent, lifting a few grid panels to inspect the original ceiling above is a step that saves homeowners from a mold recurrence six months after remediation. It is a small thing, but it is the kind of detail that only shows up after you have worked in this specific housing stock long enough to know what is hiding above the drop ceiling.
 
-If you are seeing discoloration on basement walls, a persistent musty odor in a lower level, or you had standing water after a recent storm, do not wait for visible growth to confirm the problem. Call The Restoration Group at (855) 650-7422, the crew serving Clark is familiar with what these homes hide, and an assessment is the right first step before mold turns a contained moisture problem into a full remediation project.
+If you are seeing discoloration on basement walls, a persistent musty odor in a lower level, or you had standing water after a recent storm, do not wait for visible growth to confirm the problem. Call The Restoration Group at (844) 808-8838, the crew serving Clark is familiar with what these homes hide, and an assessment is the right first step before mold turns a contained moisture problem into a full remediation project.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in East Orange, NJ | The Restoration Group"
 h1: "Commercial Restoration in East Orange"
-meta_description: "24/7 commercial restoration in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration east orange"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -52,4 +52,4 @@ One pattern we've seen repeatedly in East Orange's older mixed-use buildings: th
 
 Commercial property claims in New Jersey involve a different documentation burden than residential. Carriers typically require a scope of loss that separates structural damage from contents, distinguishes pre-existing deterioration from storm or water damage, and includes daily moisture logs to support the drying timeline. We prepare that documentation as part of the job, not as an add-on, and we communicate directly with your adjuster to reduce the back-and-forth that delays approvals. Business interruption coverage questions, which are common after significant losses near the Central Avenue corridor, are best handled with your broker, but we can provide the timeline documentation that supports those claims.
 
-Call (855) 650-7422 any time to report a commercial loss in East Orange. Whether you're managing a storefront in the 07019 ZIP code or a multi-tenant building near the hospital campus, we'll assess the damage, start mitigation, and keep your business moving toward reopening.
+Call (844) 808-8838 any time to report a commercial loss in East Orange. Whether you're managing a storefront in the 07019 ZIP code or a multi-tenant building near the hospital campus, we'll assess the damage, start mitigation, and keep your business moving toward reopening.

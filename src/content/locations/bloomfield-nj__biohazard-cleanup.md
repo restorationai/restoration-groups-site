@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Bloomfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Bloomfield"
-meta_description: "24/7 emergency biohazard cleanup in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup bloomfield"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -51,4 +51,4 @@ For Bloomfield's significant inventory of rental properties, particularly two- a
 
 Bloomfield's older two-family and three-family homes were often converted from single-family use, which means utility chases, stairwells, and HVAC ductwork sometimes run through spaces that weren't originally designed as shared. In a biohazard situation on an upper floor, gravity and those original construction pathways can carry contamination downward in ways that aren't obvious from a visual inspection of the primary affected room. Crews working in Bloomfield's pre-war building stock check those secondary pathways as a matter of course, it's the kind of detail that matters in a town where the housing was built before modern compartmentalization standards existed.
 
-If you're facing a situation in Bloomfield that requires professional biohazard cleanup, call The Restoration Group at (855) 650-7422. The line is answered 24 hours a day. You'll speak with someone who can ask the right questions, explain the process clearly, and have a crew moving toward your address without delay.
+If you're facing a situation in Bloomfield that requires professional biohazard cleanup, call The Restoration Group at (844) 808-8838. The line is answered 24 hours a day. You'll speak with someone who can ask the right questions, explain the process clearly, and have a crew moving toward your address without delay.

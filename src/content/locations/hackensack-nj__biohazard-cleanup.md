@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Hackensack, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Hackensack"
-meta_description: "24/7 emergency biohazard cleanup in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup hackensack"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -21,7 +21,7 @@ service_display: "Biohazard Cleanup"
 content_guardrails: "sensitive"
 rendered: true
 ---
-Hackensack's dense mix of prewar two- and three-family homes, mid-century capes, and the high-rise corridor along Prospect Avenue creates a particular challenge when a biohazard situation arises: shared entryways, stacked units, and common hallways mean that discretion and containment matter as much as the cleanup itself. When you call The Restoration Group at (855) 650-7422, you reach a team available around the clock, ready to respond with the sensitivity these situations demand.
+Hackensack's dense mix of prewar two- and three-family homes, mid-century capes, and the high-rise corridor along Prospect Avenue creates a particular challenge when a biohazard situation arises: shared entryways, stacked units, and common hallways mean that discretion and containment matter as much as the cleanup itself. When you call The Restoration Group at (844) 808-8838, you reach a team available around the clock, ready to respond with the sensitivity these situations demand.
 
 ## Why Hackensack Properties Present Unique Biohazard Challenges
 
@@ -49,4 +49,4 @@ Biohazard cleanup is often a covered loss under homeowner's or renter's insuranc
 
 In Hackensack's older two- and three-family homes, common throughout the Southside and Fairmount, original wide-plank subfloors run beneath finished hardwood or vinyl. These boards are often tongue-and-groove and can wick biological contamination laterally several feet beyond the visible affected area. Crews unfamiliar with this construction pattern sometimes underestimate the true extent of affected material. We account for this during scoping, which avoids the frustrating and costly situation of discovering additional contamination after a job is nominally closed.
 
-If you are dealing with a biohazard situation at a Hackensack property, whether in a single-family home, a multifamily building, or a commercial space, call (855) 650-7422 any time, day or night. The Restoration Group will respond promptly, work discreetly, and handle every step so you do not have to.
+If you are dealing with a biohazard situation at a Hackensack property, whether in a single-family home, a multifamily building, or a commercial space, call (844) 808-8838 any time, day or night. The Restoration Group will respond promptly, work discreetly, and handle every step so you do not have to.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Edison, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Edison"
-meta_description: "24/7 contents restoration & pack-out in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out edison"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -52,4 +52,4 @@ For homeowners in postwar neighborhoods where the original contents have signifi
 
 Edison split-levels and raised ranches from the 1960s often have a partial lower level that's neither a true basement nor a slab, a half-story with a concrete floor, wood-framed walls, and minimal vapor barrier. When water enters that space, it wicks into wall framing and subfloor material that isn't visible from above, and the contents stored there, often the densest accumulation in the house, sit in contact with wet concrete for hours before the loss is discovered. In those homes, the pack-out has to happen before any meaningful drying can begin, because furniture and boxes sitting on wet concrete are actively pulling moisture upward. We account for that sequencing when we scope the job, rather than treating pack-out as an afterthought to the structural work.
 
-If you're dealing with a contents loss anywhere in Edison, whether it's a finished basement off the Raritan floodplain or a commercial space along Route 1, call The Restoration Group at (855) 650-7422. We'll assess what can be saved, document everything that can't, and manage the pack-out so your claim and your belongings are both protected.
+If you're dealing with a contents loss anywhere in Edison, whether it's a finished basement off the Raritan floodplain or a commercial space along Route 1, call The Restoration Group at (844) 808-8838. We'll assess what can be saved, document everything that can't, and manage the pack-out so your claim and your belongings are both protected.

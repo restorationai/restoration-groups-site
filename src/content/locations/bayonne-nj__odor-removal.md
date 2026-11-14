@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Bayonne, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Bayonne"
-meta_description: "24/7 odor removal and deodorization in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization bayonne"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -43,10 +43,10 @@ As an IICRC Certified Firm (#210213), our process follows the S520 and S500 stan
 
 ## Reaching Bayonne from Kenilworth
 
-From our Kenilworth headquarters, the fastest route into Bayonne typically runs south on the Garden State Parkway to Route 440 and into the peninsula from the north end. The Route 440 corridor itself, near Bayonne Crossing, is a common commercial loss location, and we're familiar with the access patterns for the strip's retail bays and the overnight calls that come from roof leaks and sprinkler activations in those buildings. For residential calls deeper in the peninsula, near the Bayonne Bridge approach or the Uptown blocks, we account for the limited cross-peninsula road options and communicate an accurate arrival window when you call. Because we operate around the clock, there's no delay waiting for business hours, you reach a live technician at (855) 650-7422 at any hour.
+From our Kenilworth headquarters, the fastest route into Bayonne typically runs south on the Garden State Parkway to Route 440 and into the peninsula from the north end. The Route 440 corridor itself, near Bayonne Crossing, is a common commercial loss location, and we're familiar with the access patterns for the strip's retail bays and the overnight calls that come from roof leaks and sprinkler activations in those buildings. For residential calls deeper in the peninsula, near the Bayonne Bridge approach or the Uptown blocks, we account for the limited cross-peninsula road options and communicate an accurate arrival window when you call. Because we operate around the clock, there's no delay waiting for business hours, you reach a live technician at (844) 808-8838 at any hour.
 
 ## Local Note
 
 One thing specific to Bayonne's older multi-family buildings: the shared flue systems in pre-war brick rowhouses mean that a fire or heavy smoke event in one unit can deposit odor-carrying soot particles into adjacent units through interconnected chimney chases and wall penetrations. We've worked jobs near Midtown Bayonne where the unit of origin was cleaned and deodorized, but the neighbor two doors down was still smelling smoke a week later, because the soot had traveled laterally through a shared flue before anyone noticed. On multi-unit jobs in Bayonne, we always assess adjacent units before closing out, not just the unit where the loss occurred.
 
-If your home or building in Bayonne is holding an odor that cleaning hasn't resolved, smoke, mold, sewage, or something you can't identify, call (855) 650-7422. We'll identify the source, explain what's driving it, and apply the method that actually eliminates it.
+If your home or building in Bayonne is holding an odor that cleaning hasn't resolved, smoke, mold, sewage, or something you can't identify, call (844) 808-8838. We'll identify the source, explain what's driving it, and apply the method that actually eliminates it.

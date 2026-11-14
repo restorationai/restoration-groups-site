@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Staten Island, NY | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Staten Island"
-meta_description: "24/7 emergency water damage restoration in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration staten island"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Flood losses on the East Shore frequently involve both a standard homeowner's po
 
 In the low-lying streets between Oakwood Beach and Great Kills, homes built on fill material after mid-century can have crawlspaces that hold water in pockets the main sump never reaches. We've found standing water under vapor barriers in crawlspaces that appeared dry from the access hatch, a condition that feeds mold colonization within 48 to 72 hours without anyone realizing there's still a moisture source. On East Shore addresses, our standard protocol includes a dedicated crawlspace inspection with a moisture probe before we sign off on any job as complete.
 
-If water has reached your floors, walls, or foundation, the clock is already running. Call The Restoration Group at (855) 650-7422, we're available 24/7 and can dispatch to any Staten Island neighborhood, from Port Richmond to Tottenville, day or night.
+If water has reached your floors, walls, or foundation, the clock is already running. Call The Restoration Group at (844) 808-8838, we're available 24/7 and can dispatch to any Staten Island neighborhood, from Port Richmond to Tottenville, day or night.

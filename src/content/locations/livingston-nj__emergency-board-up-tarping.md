@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Livingston, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Livingston"
-meta_description: "24/7 emergency board-up and tarping in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping livingston"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ HOA considerations matter in certain Livingston developments, particularly newer
 
 Livingston's wave of teardown McMansions, the larger new builds replacing mid-century ranches throughout town, often sit on fully finished basements with egress windows and below-grade window wells. After a fire or storm breach on the upper floors, those window wells become water funnels. We've learned to check below-grade openings as part of every board-up assessment in Livingston, not just the obvious above-grade damage. A missed window well can drain a rainstorm directly into a finished basement that survived the original event intact, turning a single-floor loss into a multi-floor claim.
 
-If a fire, storm, or structural failure has left your Livingston property exposed, call The Restoration Group at (855) 650-7422. We respond around the clock, document everything for your carrier, and secure the building so the restoration work that follows starts from a protected structure, not a soaked one.
+If a fire, storm, or structural failure has left your Livingston property exposed, call The Restoration Group at (844) 808-8838. We respond around the clock, document everything for your carrier, and secure the building so the restoration work that follows starts from a protected structure, not a soaked one.

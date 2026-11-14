@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in West Orange, NJ | The Restoration Group"
 h1: "Restoration Services in West Orange"
-meta_description: "Serving West Orange, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving West Orange, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services west orange"
 secondary_keywords: ["west orange restoration company", "damage restoration west orange", "west orange disaster restoration"]
 search_intent: "local_commercial"
@@ -61,4 +61,4 @@ In the older houses, expect galvanized supply lines that scale shut, cast iron d
 
 Structural repair and rebuild work is permitted through West Orange's construction office under the New Jersey Uniform Construction Code, with separate building, plumbing, electrical and fire subcodes.
 
-If you're dealing with water, fire, mold, or storm damage anywhere in West Orange, from a finished basement in Pleasantdale to a commercial space near Turtle Back Zoo, call The Restoration Group at **(855) 650-7422**. We're available around the clock and ready to get to work.
+If you're dealing with water, fire, mold, or storm damage anywhere in West Orange, from a finished basement in Pleasantdale to a commercial space near Turtle Back Zoo, call The Restoration Group at **(844) 808-8838**. We're available around the clock and ready to get to work.

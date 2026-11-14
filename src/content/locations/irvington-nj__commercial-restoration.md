@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Irvington, NJ | The Restoration Group"
 h1: "Commercial Restoration in Irvington"
-meta_description: "24/7 commercial restoration in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration irvington"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -56,4 +56,4 @@ For mixed-use properties where a commercial tenant's loss overlaps with a reside
 
 One pattern we've seen repeatedly in Irvington's older commercial stock along the Springfield Avenue corridor: the original masonry party walls between adjacent storefronts are often not fully sealed at the roofline. A roof-leak loss in one unit can wick laterally through the shared wall and appear as moisture damage in the neighboring tenant's space days later, sometimes after the original loss has already been dried and closed out. When we're called to a Springfield Avenue storefront for what looks like an isolated roof leak, we always check the adjacent unit's wall assemblies before finalizing the moisture map. Catching that lateral migration early prevents a second claim and a second round of disruption for both tenants.
 
-If your Irvington commercial property has taken on water, smoke, or fire damage, call The Restoration Group at (855) 650-7422. We'll assess the full scope of the loss, document it properly, and get your space back to operational condition as efficiently as the building will allow.
+If your Irvington commercial property has taken on water, smoke, or fire damage, call The Restoration Group at (844) 808-8838. We'll assess the full scope of the loss, document it properly, and get your space back to operational condition as efficiently as the building will allow.

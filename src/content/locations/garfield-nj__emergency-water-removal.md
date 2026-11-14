@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Garfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Garfield"
-meta_description: "24/7 emergency water removal and cleanup in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal garfield"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -55,4 +55,4 @@ Our crews stage out of Kenilworth and reach Garfield via Route 21 north or the G
 
 In most of Garfield's two- and three-family homes, the finished basement isn't a bonus room, it's living space, often with a bedroom, a laundry area, and a full bathroom. That means a water event down there involves flooring, framing, insulation, and personal property all at once. It also means the drying job is more complex than an unfinished utility basement: vapor barriers, drop ceilings, and interior partition walls all trap moisture and slow airflow. We account for this when we size the drying system. A basement that looks like a quick job from the doorway often needs twice the equipment a surface reading would suggest, and in Garfield's housing stock, that's the rule, not the exception.
 
-If you're dealing with water in a Garfield home or commercial property in the 07026 ZIP code, call (855) 650-7422. We'll assess the loss, map the moisture, and get extraction started, day or night.
+If you're dealing with water in a Garfield home or commercial property in the 07026 ZIP code, call (844) 808-8838. We'll assess the loss, map the moisture, and get extraction started, day or night.

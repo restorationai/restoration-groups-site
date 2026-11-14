@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Water Removal & Cleanup in Kenilworth | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Kenilworth"
-meta_description: "24/7 emergency water removal and cleanup in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal kenilworth"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -31,7 +31,7 @@ Category of water matters throughout. Clean water from a supply line (Category 1
 
 ## Our process
 
-1. **Emergency contact and site assessment**, The moment you call (855) 650-7422, we begin routing a crew. On arrival, we determine the water category, identify the source if it is still active, and map moisture migration using thermal and meter readings before a single piece of equipment is placed.
+1. **Emergency contact and site assessment**, The moment you call (844) 808-8838, we begin routing a crew. On arrival, we determine the water category, identify the source if it is still active, and map moisture migration using thermal and meter readings before a single piece of equipment is placed.
 
 2. **Water extraction**, High-powered extraction removes standing water and pulls absorbed moisture from carpet, pad, and hard-surface flooring. In basement losses, this step may also involve sump management and debris removal before extraction equipment can be positioned.
 
@@ -76,6 +76,6 @@ Basements throughout the region, particularly in older neighborhoods with clay-h
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and serves communities throughout Union, Essex, Middlesex, and Morris counties, including Cranford, Westfield, Summit, Springfield, Clark, Rahway, Linden, Roselle, and surrounding areas. Each city service page links back here for the full technical detail on what emergency water removal involves. If your town is not listed, call, coverage extends throughout northern and central New Jersey.
+The Restoration Group is based in Fair Lawn, NJ and serves communities throughout Union, Essex, Middlesex, and Morris counties, including Cranford, Westfield, Summit, Springfield, Clark, Rahway, Linden, Roselle, and surrounding areas. Each city service page links back here for the full technical detail on what emergency water removal involves. If your town is not listed, call, coverage extends throughout northern and central New Jersey.
 
-If you are looking at water on your floor right now, the clock on secondary damage is already running. Call (855) 650-7422 to schedule your moisture assessment, a technician will map the full extent of the loss and give you a written scope before any work begins.
+If you are looking at water on your floor right now, the clock on secondary damage is already running. Call (844) 808-8838 to schedule your moisture assessment, a technician will map the full extent of the loss and give you a written scope before any work begins.

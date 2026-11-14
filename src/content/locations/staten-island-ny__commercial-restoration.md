@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Staten Island, NY | The Restoration Group"
 h1: "Commercial Restoration in Staten Island"
-meta_description: "24/7 commercial restoration in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration staten island"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -60,4 +60,4 @@ We document losses in a format that aligns with how adjusters write commercial e
 
 One thing that catches out-of-market contractors on Staten Island: the borough's newer townhome and mixed-use developments, particularly those built on former industrial land near the North Shore waterfront, sometimes sit on engineered fill rather than native soil. When water intrudes at the slab level in these buildings, it can migrate under the slab through the fill layer and resurface in an adjacent unit or a common-area corridor. We probe slab perimeters and check adjacent spaces before declaring containment on any North Shore commercial loss, because a single affected unit can mask a much larger sub-slab moisture event.
 
-If your Staten Island property has sustained water damage, fire damage, or storm damage, call The Restoration Group at (855) 650-7422. We'll assess the loss, give you a clear scope, and get your business moving toward reopening.
+If your Staten Island property has sustained water damage, fire damage, or storm damage, call The Restoration Group at (844) 808-8838. We'll assess the loss, give you a clear scope, and get your business moving toward reopening.

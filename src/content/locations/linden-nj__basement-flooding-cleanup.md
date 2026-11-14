@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Linden, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Linden"
-meta_description: "24/7 emergency basement flooding cleanup in Linden, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Linden, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup linden"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -41,7 +41,7 @@ Drying timelines in Linden's older homes run three to five days on average for a
 
 ## Reaching Linden from Our Kenilworth HQ
 
-Our base in Kenilworth puts Linden a short drive away, typically down Route 28 to the Garden State Parkway or straight through on local roads depending on traffic. We operate 24/7, so whether a pipe lets go at 2 a.m. on a Tuesday or a sump pump fails during a Saturday afternoon storm, you'll reach a live dispatcher when you call (855) 650-7422. We stage equipment at the truck level, not a warehouse shelf, so response doesn't wait on a loading process.
+Our base in Kenilworth puts Linden a short drive away, typically down Route 28 to the Garden State Parkway or straight through on local roads depending on traffic. We operate 24/7, so whether a pipe lets go at 2 a.m. on a Tuesday or a sump pump fails during a Saturday afternoon storm, you'll reach a live dispatcher when you call (844) 808-8838. We stage equipment at the truck level, not a warehouse shelf, so response doesn't wait on a loading process.
 
 For addresses near the Linden Municipal Airport or the Tremley Point waterfront, areas that can see localized flooding independent of what's happening elsewhere in the city, we're familiar with the access routes and the types of losses those neighborhoods generate.
 
@@ -49,4 +49,4 @@ For addresses near the Linden Municipal Airport or the Tremley Point waterfront,
 
 Here's something that comes up repeatedly on jobs in Sunnyside and the West End: the original basement walls in many of these homes were finished with a thin layer of plaster over masonry block rather than standard drywall over framing. Plaster absorbs water more slowly than drywall, so it doesn't always show obvious surface damage, but it also releases moisture more slowly during the drying phase. We've seen plaster-on-block walls read elevated on a moisture meter for a full week after the standing water is gone. If a previous contractor dried to visual inspection only and closed the job early, that residual moisture is exactly what feeds a mold problem three weeks later. We meter to IICRC standard, not to appearance.
 
-If your basement is holding water right now, the clock is already running. Call (855) 650-7422, The Restoration Group is NJ licensed and IICRC Certified (Firm #210213), and we're ready to dispatch to any address in Linden around the clock.
+If your basement is holding water right now, the clock is already running. Call (844) 808-8838, The Restoration Group is NJ licensed and IICRC Certified (Firm #210213), and we're ready to dispatch to any address in Linden around the clock.

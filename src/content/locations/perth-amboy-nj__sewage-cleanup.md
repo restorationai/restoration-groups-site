@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Perth Amboy, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Perth Amboy"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization perth amboy"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -55,4 +55,4 @@ Sewage backup coverage is a common add-on rider in NJ homeowner policies, but it
 
 In Perth Amboy's older multifamily buildings, especially the brick rowhomes and converted three-families near Bayview Park and the waterfront blocks, basement drain lines often share a single lateral to the street main. When one unit backs up, we've found that the lateral itself, not just the interior drain, is frequently the source. Before we close out any job in these buildings, we recommend a camera inspection of the lateral to the street, because skipping that step means the next heavy rain event is likely to send the same contaminated water back through the same floor drain. It's a conversation worth having with your plumber before the restoration invoice is signed.
 
-If sewage has backed up into your Perth Amboy home or building, the clock on bacterial growth and structural damage starts immediately. Call The Restoration Group at (855) 650-7422, we're on call 24/7 and can have a crew moving toward Perth Amboy within the hour.
+If sewage has backed up into your Perth Amboy home or building, the clock on bacterial growth and structural damage starts immediately. Call The Restoration Group at (844) 808-8838, we're on call 24/7 and can have a crew moving toward Perth Amboy within the hour.

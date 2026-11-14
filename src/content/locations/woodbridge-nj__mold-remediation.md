@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Woodbridge, NJ | The Restoration Group"
 h1: "Mold Remediation in Woodbridge"
-meta_description: "24/7 mold remediation in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation woodbridge"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -36,7 +36,7 @@ Once the scope is defined, the affected area is sealed off with negative-air con
 
 ## Reaching Woodbridge from Kenilworth
 
-The Restoration Group is based in Kenilworth, roughly 10 miles from Woodbridge Proper via the Garden State Parkway or Route 1 & 9. The Route 1 & 9 corridor runs directly into the heart of Woodbridge Township, making neighborhoods like Iselin, Avenel, and the blocks around Woodbridge Center accessible without navigating residential side streets. For addresses in the eastern sections, Port Reading, Sewaren, the team routes via Convery Boulevard or Port Reading Avenue depending on traffic. Because mold remediation is a scheduled, multi-day process rather than a single-visit emergency, we confirm arrival windows and crew size before mobilizing so you're not waiting on a vague timeframe. Calls are answered 24/7 at (855) 650-7422.
+The Restoration Group is based in Kenilworth, roughly 10 miles from Woodbridge Proper via the Garden State Parkway or Route 1 & 9. The Route 1 & 9 corridor runs directly into the heart of Woodbridge Township, making neighborhoods like Iselin, Avenel, and the blocks around Woodbridge Center accessible without navigating residential side streets. For addresses in the eastern sections, Port Reading, Sewaren, the team routes via Convery Boulevard or Port Reading Avenue depending on traffic. Because mold remediation is a scheduled, multi-day process rather than a single-visit emergency, we confirm arrival windows and crew size before mobilizing so you're not waiting on a vague timeframe. Calls are answered 24/7 at (844) 808-8838.
 
 ## Woodbridge Insurance & HOA Coordination
 
@@ -46,4 +46,4 @@ Mold claims in New Jersey are among the most documentation-intensive losses a ho
 
 In Woodbridge's flood-affected neighborhoods near the Rahway River, many homes have concrete block foundation walls rather than poured concrete. Block walls are hollow and absorb water into their cores, a wall that reads dry on the surface can still hold significant moisture inside the block cavities for weeks. Standard moisture meters often miss this. Thermal imaging after a flood event is the only reliable way to confirm a block wall is genuinely dry before you close it back up. Skipping that step is one of the most common reasons mold returns in Woodbridge basements six months after a "completed" remediation.
 
-If you're seeing discoloration, smelling that distinctive earthy or musty odor, or you know your home took on water during Ida or any subsequent storm, don't wait for the stain to spread. Call (855) 650-7422, the team serving Woodbridge is available around the clock, and an assessment is the fastest way to know exactly what you're dealing with.
+If you're seeing discoloration, smelling that distinctive earthy or musty odor, or you know your home took on water during Ida or any subsequent storm, don't wait for the stain to spread. Call (844) 808-8838, the team serving Woodbridge is available around the clock, and an assessment is the fastest way to know exactly what you're dealing with.

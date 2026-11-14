@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in East Brunswick, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in East Brunswick"
-meta_description: "24/7 emergency biohazard cleanup in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup east brunswick"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -56,4 +56,4 @@ For properties governed by an HOA, common in the townhome and condo developments
 
 In East Brunswick's older split-level and ranch homes, particularly those built in the 1960s and early 1970s in tracts like Tanglewood, the finished basement is almost always the lowest point of the structure and often the most used living space. These lower levels were typically finished with glued-down carpet over concrete slab, wood paneling over furring strips, and drop-ceiling tiles. All of those materials are porous and difficult to fully decontaminate; in a biohazard situation, removal is almost always the right call rather than surface treatment alone. Families sometimes hesitate because the basement represents significant finished square footage, but leaving compromised material in place creates ongoing risk that no amount of cleaning product resolves.
 
-If you're dealing with a difficult situation at a property in East Brunswick, call (855) 650-7422. The conversation is private, the response is prompt, and the work is handled by an IICRC Certified Firm with the licensing and protocols to do it correctly.
+If you're dealing with a difficult situation at a property in East Brunswick, call (844) 808-8838. The conversation is private, the response is prompt, and the work is handled by an IICRC Certified Firm with the licensing and protocols to do it correctly.

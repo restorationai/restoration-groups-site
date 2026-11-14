@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Plainfield, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Plainfield"
-meta_description: "24/7 odor removal and deodorization in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization plainfield"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -52,4 +52,4 @@ Kenilworth sits directly east of Plainfield, a straightforward run via Central A
 
 One thing that surprises homeowners in Plainfield's older neighborhoods is how long deodorization takes compared to what they might read online. Modern drywall releases absorbed odors relatively quickly once the source is removed. Original plaster, which is dense, alkaline, and often multiple inches thick, holds odor compounds differently. In our experience working in pre-war homes near the Van Wyck Brooks Historic District, thermal fogging cycles sometimes need to be repeated, and hydroxyl treatment run for 48 to 72 hours rather than the 24 hours typical in newer construction. We build that reality into our scopes of work upfront so there are no surprises on day two.
 
-If the odor in your Plainfield home or business isn't going away on its own, it won't. Call The Restoration Group at (855) 650-7422, we'll assess the source, match the right deodorization method to your specific building, and eliminate the problem rather than mask it.
+If the odor in your Plainfield home or business isn't going away on its own, it won't. Call The Restoration Group at (844) 808-8838, we'll assess the source, match the right deodorization method to your specific building, and eliminate the problem rather than mask it.

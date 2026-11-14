@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Hackensack, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Hackensack"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair hackensack"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ As an NJ Licensed Home Improvement Contractor registered with the NJ Division of
 
 In Hackensack's older two- and three-family homes, particularly the wood-frame colonials and cape cods common in the Southside and near Johnson Park, the original plaster-on-lath wall construction absorbs water differently than the paper-faced drywall most drying protocols are written for. Plaster is denser and holds moisture longer, so drying equipment runs longer and moisture readings can plateau for days before the wall assembly actually reaches equilibrium. We flag this at setup so homeowners aren't surprised when the dehumidifiers are still running on day four or five. Pulling equipment too early in plaster construction is one of the more common reasons mold problems appear weeks after a "completed" water job.
 
-If you're dealing with a burst pipe right now, call (855) 650-7422. We're available around the clock and serve all of Hackensack, from the Heights to the Central Business District, with the documentation and drying process your insurance company will need to close the claim cleanly.
+If you're dealing with a burst pipe right now, call (844) 808-8838. We're available around the clock and serve all of Hackensack, from the Heights to the Central Business District, with the documentation and drying process your insurance company will need to close the claim cleanly.

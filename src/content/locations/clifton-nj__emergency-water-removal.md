@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Clifton, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Clifton"
-meta_description: "24/7 emergency water removal and cleanup in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal clifton"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -57,4 +57,4 @@ We document the loss thoroughly from the first visit: photographs of affected ma
 
 Clifton's postwar plaster-and-lath walls behave differently from modern drywall during a water event. Plaster is dense and slow to absorb, so the surface can feel firm and look intact while the wood lath behind it holds significant moisture. Standard drying timelines built around half-inch drywall will underestimate what's needed here. When we're working in an Athenia colonial or a Richfield cape with original interior walls, we extend monitoring cycles and use cavity drying equipment to pull moisture from inside the wall assembly, not just from the room air, before we sign off on a dry structure.
 
-If you're dealing with water damage anywhere in Clifton, whether it's a flooded basement after a Passaic River event or a supply line failure in a Botany Village multi-family, call The Restoration Group at (855) 650-7422. We're available 24/7 and can begin the water removal and cleanup process before secondary damage sets in.
+If you're dealing with water damage anywhere in Clifton, whether it's a flooded basement after a Passaic River event or a supply line failure in a Botany Village multi-family, call The Restoration Group at (844) 808-8838. We're available 24/7 and can begin the water removal and cleanup process before secondary damage sets in.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Bridgewater, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Bridgewater"
-meta_description: "24/7 emergency flood damage restoration in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration bridgewater"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Flood Damage Restoration"
 rendered: true
 ---
-When the Raritan River crests or a nor'easter stalls over Somerset County, Bridgewater's low-lying flats, particularly in Finderne and the Bound Brook-adjacent sections near Route 22, can take on water faster than a sump pump can cycle. The township saw that firsthand during Hurricane Floyd and again during Ida in September 2021, when finished basements in postwar ranches and split-levels filled to the joists within hours. If you're standing in inches of water right now, The Restoration Group responds 24/7 and can be reached at (855) 650-7422.
+When the Raritan River crests or a nor'easter stalls over Somerset County, Bridgewater's low-lying flats, particularly in Finderne and the Bound Brook-adjacent sections near Route 22, can take on water faster than a sump pump can cycle. The township saw that firsthand during Hurricane Floyd and again during Ida in September 2021, when finished basements in postwar ranches and split-levels filled to the joists within hours. If you're standing in inches of water right now, The Restoration Group responds 24/7 and can be reached at (844) 808-8838.
 
 ## Why Bridgewater Properties See Flood Damage So Often
 
@@ -48,4 +48,4 @@ Flood losses in Bridgewater frequently involve two separate policies: a standard
 
 One thing we've learned working in Bridgewater's older subdivisions: the finished basements in many of the 1960s and 1970s split-levels were built with a partial crawl space or utility chase running beneath the slab that isn't visible from inside the finished space. During a flood event, that void fills with water and stays saturated long after the visible basement floor appears dry. If your home was built in that era and sits in a low section of the township, ask us to probe that cavity before we finalize the drying scope, skipping it is one of the most common reasons a flood remediation job develops a mold problem two weeks later.
 
-If your Bridgewater home or commercial property has taken on water, whether from the Raritan, a failed sump, a burst supply line, or a sprinkler discharge, call (855) 650-7422 now. The Restoration Group is IICRC Certified (Firm #210213), licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and available every hour of the day to begin flood damage restoration before the damage compounds.
+If your Bridgewater home or commercial property has taken on water, whether from the Raritan, a failed sump, a burst supply line, or a sprinkler discharge, call (844) 808-8838 now. The Restoration Group is IICRC Certified (Firm #210213), licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and available every hour of the day to begin flood damage restoration before the damage compounds.

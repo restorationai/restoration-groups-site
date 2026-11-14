@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Montclair, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Montclair"
-meta_description: "24/7 emergency water damage restoration in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration montclair"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ For commercial losses on Bloomfield Avenue, we coordinate with building manageme
 
 One thing that catches out-of-area crews in Montclair: plaster walls in the older Victorians and Tudors don't respond to standard drying timelines. Modern half-inch drywall typically reaches drying goals in three to five days under proper airflow. Original plaster, which can be an inch and a half thick over wood lath, releases moisture slowly and unevenly, and it's not uncommon for drying to run seven to ten days in a heavily saturated wall cavity. Pulling equipment too early because the surface reads dry is a mistake; the lath behind it may still be holding enough moisture to sustain mold colonization. We extend monitoring cycles on plaster assemblies and don't close out a job until subsurface readings confirm the entire assembly is dry.
 
-If your home in Montclair has taken on water, whether from a burst pipe, a backed-up drain, or storm flooding, call The Restoration Group at (855) 650-7422. We'll assess the damage honestly, explain what the drying process will look like in your specific structure, and work directly with your insurance carrier so the paperwork doesn't fall on you.
+If your home in Montclair has taken on water, whether from a burst pipe, a backed-up drain, or storm flooding, call The Restoration Group at (844) 808-8838. We'll assess the damage honestly, explain what the drying process will look like in your specific structure, and work directly with your insurance carrier so the paperwork doesn't fall on you.

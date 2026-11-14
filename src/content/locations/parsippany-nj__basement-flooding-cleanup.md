@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Parsippany, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Parsippany"
-meta_description: "24/7 emergency basement flooding cleanup in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup parsippany"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -55,4 +55,4 @@ We photograph affected materials before any demolition, generate a scope of loss
 
 Homes in the Lake Hiawatha tract that flooded during Tropical Storm Ida in 2021 often have a hidden complication we see repeatedly: the first remediation dried the visible damage but left residual moisture in the concrete block walls themselves. Block absorbs and holds water differently than poured concrete, it can read dry at the surface while the cores remain saturated for weeks. On re-flood calls in this neighborhood, we probe block cores directly and extend drying time accordingly rather than relying on surface readings alone. If your home flooded during Ida and you're seeing efflorescence or a persistent musty smell, that block-wall moisture is the likely culprit.
 
-If your basement is wet right now, call (855) 650-7422. The Restoration Group responds to Parsippany flooding emergencies at any hour, documents everything your insurer needs, and dries to a standard you can verify, not just a standard you have to take our word for.
+If your basement is wet right now, call (844) 808-8838. The Restoration Group responds to Parsippany flooding emergencies at any hour, documents everything your insurer needs, and dries to a standard you can verify, not just a standard you have to take our word for.

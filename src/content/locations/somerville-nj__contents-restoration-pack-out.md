@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Somerville, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Somerville"
-meta_description: "24/7 contents restoration & pack-out in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out somerville"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -58,4 +58,4 @@ Contents losses in Somerville's older homes often involve multiple coverage ques
 
 Somerville's early-1900s two-families and Victorians frequently have horsehair plaster walls and original wood-lath ceilings in upper floors. When a roof leak or supply-line failure saturates those assemblies, the water wicks laterally much farther than it would in modern drywall construction, which means contents in rooms adjacent to the visible damage are often affected too. On pack-out jobs in these homes, we extend our inventory sweep beyond the obvious impact zone, because a dresser or bookcase sitting against a plaster wall two rooms away may have absorbed enough moisture to develop mold on its back panel while the front face still looks and feels dry.
 
-If you're dealing with a contents loss at a Somerville property, whether it's a flooded basement off Mercer Street or smoke damage in a downtown storefront, call The Restoration Group at (855) 650-7422. We'll assess the situation, begin the pack-out process, and keep your belongings protected while the structure is restored.
+If you're dealing with a contents loss at a Somerville property, whether it's a flooded basement off Mercer Street or smoke damage in a downtown storefront, call The Restoration Group at (844) 808-8838. We'll assess the situation, begin the pack-out process, and keep your belongings protected while the structure is restored.

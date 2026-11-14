@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Maplewood, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Maplewood"
-meta_description: "24/7 mold inspection and testing in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing maplewood"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -48,4 +48,4 @@ Our inspection reports include time-stamped photographs, moisture readings with 
 
 One pattern we see repeatedly in Maplewood's Tuscan and Fields neighborhoods: finished basements that were renovated in the 1990s or early 2000s often have fiberglass batt insulation tucked between the original stone foundation wall and a studded interior wall. After a flood event, or even repeated high-humidity summers, that insulation traps moisture against the stone and becomes a hidden mold reservoir that standard visual inspections miss entirely. Thermal imaging during the assessment phase is the only reliable way to identify those cavities without opening walls unnecessarily. If your basement was finished before 2005 and you've had any water intrusion since, that wall assembly deserves a close look.
 
-If you've noticed a musty odor in your Maplewood home, seen discoloration near a foundation wall, or experienced any water intrusion, whether from the Rahway River flooding, a plumbing failure, or a roof leak, a professional mold inspection is the right first step. Call The Restoration Group at (855) 650-7422 any time, day or night, to schedule an assessment.
+If you've noticed a musty odor in your Maplewood home, seen discoloration near a foundation wall, or experienced any water intrusion, whether from the Rahway River flooding, a plumbing failure, or a roof leak, a professional mold inspection is the right first step. Call The Restoration Group at (844) 808-8838 any time, day or night, to schedule an assessment.

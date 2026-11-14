@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Newark, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Newark"
-meta_description: "24/7 contents restoration & pack-out in Newark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Newark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out newark"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ Contents claims in New Jersey tend to generate more line-item disputes than stru
 
 In Newark's older brick multifamily buildings, smoke and soot from a fire on one floor routinely migrate into the units above through the gap between the plaster ceiling and the structural floor deck, a space that wasn't sealed in pre-war construction the way modern fire-stop assemblies require. Residents on unaffected floors sometimes discover weeks later that upholstered furniture and clothing carry embedded odor. If your building had a fire anywhere in the stack, it's worth having contents on adjacent floors assessed before assuming they're clean.
 
-If your home or property in Newark has suffered water, fire, or sewage damage and you're worried about what happens to everything inside, call The Restoration Group at (855) 650-7422. We'll inventory, pack, restore, and return your belongings, and document every step for your insurance claim.
+If your home or property in Newark has suffered water, fire, or sewage damage and you're worried about what happens to everything inside, call The Restoration Group at (844) 808-8838. We'll inventory, pack, restore, and return your belongings, and document every step for your insurance claim.

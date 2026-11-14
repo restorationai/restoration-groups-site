@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Somerville, NJ | The Restoration Group"
 h1: "Commercial Restoration in Somerville"
-meta_description: "24/7 commercial restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration somerville"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -52,4 +52,4 @@ Commercial property claims in Somerset County tend to involve multiple parties: 
 
 One pattern we've seen repeatedly on the Main Street commercial corridor: buildings that underwent ground-floor retail renovations in the 1990s and 2000s often have spray foam insulation packed into wall cavities as part of those remodels. When a pipe fails inside one of those cavities, the foam traps moisture and masks it, standard moisture meters read the foam itself as dry even when the framing behind it is saturated. We use penetrating probe meters and targeted thermal imaging on any Somerville storefront with that renovation era before we sign off on a drying cycle, because a false-dry reading on a Main Street building can mean mold colonization inside a wall that looks perfectly fine from the outside.
 
-If your Somerville business has taken on water, smoke, or structural damage, the fastest next step is a call to (855) 650-7422. We'll have a project manager on-site to assess the loss, start documentation, and give you a clear picture of what comes next, so you can focus on your business while we handle the building.
+If your Somerville business has taken on water, smoke, or structural damage, the fastest next step is a call to (844) 808-8838. We'll have a project manager on-site to assess the loss, start documentation, and give you a clear picture of what comes next, so you can focus on your business while we handle the building.

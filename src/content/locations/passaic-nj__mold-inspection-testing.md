@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Passaic, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Passaic"
-meta_description: "24/7 mold inspection and testing in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing passaic"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -42,7 +42,7 @@ As an IICRC Certified Firm (#210213) and NJ Licensed Home Improvement Contractor
 
 ## Reaching Passaic from Our Kenilworth Location
 
-The Restoration Group operates 24/7 out of Kenilworth, NJ. Passaic is accessible via Route 21 north or the Garden State Parkway to Route 3, putting most of the city, including the neighborhoods around Third Ward Park and the blocks closest to Pulaski Park, within a straightforward drive. When you call (855) 650-7422, you reach a live team member at any hour, not an answering service.
+The Restoration Group operates 24/7 out of Kenilworth, NJ. Passaic is accessible via Route 21 north or the Garden State Parkway to Route 3, putting most of the city, including the neighborhoods around Third Ward Park and the blocks closest to Pulaski Park, within a straightforward drive. When you call (844) 808-8838, you reach a live team member at any hour, not an answering service.
 
 ## Passaic Insurance Coordination for Mold Assessments
 
@@ -54,4 +54,4 @@ For landlords managing multiple units in the Third Ward or Fourth Ward, we can s
 
 One pattern we see repeatedly in Passaic's older two-family homes: the bathroom exhaust fans, when they exist at all, were retrofitted into the original plaster ceiling and vent into the interstitial space between floors rather than to the exterior. The second-floor bathroom moisture has nowhere to go, so it condenses on the cold subfloor above and the ceiling framing below, and mold establishes itself in a cavity that looks completely dry from both the bathroom and the unit above. If you're in a pre-war two-family and the upstairs bathroom has ever felt perpetually damp, that hidden cavity is worth including in any mold assessment scope.
 
-If you're dealing with a musty odor, visible staining, or a property that flooded during Ida and was never professionally assessed, call The Restoration Group at (855) 650-7422. We'll schedule an inspection at a time that works for you, deliver lab-backed results, and give you a clear picture of what's actually happening inside your Passaic property.
+If you're dealing with a musty odor, visible staining, or a property that flooded during Ida and was never professionally assessed, call The Restoration Group at (844) 808-8838. We'll schedule an inspection at a time that works for you, deliver lab-backed results, and give you a clear picture of what's actually happening inside your Passaic property.

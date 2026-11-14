@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Bridgewater, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Bridgewater"
-meta_description: "24/7 odor removal and deodorization in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization bridgewater"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -54,4 +54,4 @@ The right equipment depends on the odor source, the affected materials, and whet
 
 One pattern we see specifically in Bridgewater's older Finderne and Martinsville neighborhoods: homes built in the 1950s and 1960s frequently have original cellulose insulation in the walls and attic. Cellulose is highly absorbent, it holds smoke and moisture odors far longer than fiberglass batts and releases them slowly over months as temperatures change with the seasons. Homeowners sometimes think a deodorization job failed because the smell returns the following summer; in most cases the insulation was never treated. When we scope an odor job in one of these older tracts, we include the attic and wall cavity condition in our assessment before recommending a treatment plan.
 
-If your Bridgewater home or commercial property has an odor that has outlasted every candle, spray, and air purifier you have tried, call The Restoration Group at (855) 650-7422. We will identify the source, explain the treatment options honestly, and eliminate the problem rather than cover it.
+If your Bridgewater home or commercial property has an odor that has outlasted every candle, spray, and air purifier you have tried, call The Restoration Group at (844) 808-8838. We will identify the source, explain the treatment options honestly, and eliminate the problem rather than cover it.

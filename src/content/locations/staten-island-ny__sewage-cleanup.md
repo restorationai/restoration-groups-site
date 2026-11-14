@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Staten Island | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Staten Island"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization staten island"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Sewage backup coverage is one of the most commonly misunderstood elements of a s
 
 In the postwar Cape Cods and split-levels common throughout New Dorp and Great Kills, the subfloor framing often sits directly on a concrete slab or over a shallow crawlspace with minimal clearance. When sewage reaches those crawlspaces, the confined space limits equipment access and extends drying time considerably, sometimes by a full day or more compared to a full basement. Our crews carry low-profile drying equipment specifically for these configurations, and we inspect crawlspace access points before quoting scope so there are no surprises mid-job.
 
-If sewage has backed up into your Staten Island home or commercial property, call (855) 650-7422 now. The longer contaminated water sits against framing, insulation, and concrete, the deeper it penetrates, and the more material has to come out. Our team is on call around the clock and can be on-site the same day.
+If sewage has backed up into your Staten Island home or commercial property, call (844) 808-8838 now. The longer contaminated water sits against framing, insulation, and concrete, the deeper it penetrates, and the more material has to come out. Our team is on call around the clock and can be on-site the same day.

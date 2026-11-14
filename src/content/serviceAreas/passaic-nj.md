@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Passaic, NJ | The Restoration Group"
 h1: "Restoration Services in Passaic"
-meta_description: "Serving Passaic, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Passaic, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services passaic"
 secondary_keywords: ["passaic restoration company", "damage restoration passaic", "passaic disaster restoration"]
 search_intent: "local_commercial"
@@ -57,4 +57,4 @@ That era also brings galvanized supply lines that pinhole from the inside, asbes
 
 Structural repair and rebuild work in Passaic is permitted through the city's construction code office under the New Jersey Uniform Construction Code. In mapped flood areas, the extent of repair can trigger elevation requirements.
 
-If you're dealing with an active loss in Passaic, water, fire, mold, or sewage, call The Restoration Group at **(855) 650-7422**. We answer around the clock, and we'll tell you exactly what to expect before we arrive.
+If you're dealing with an active loss in Passaic, water, fire, mold, or sewage, call The Restoration Group at **(844) 808-8838**. We answer around the clock, and we'll tell you exactly what to expect before we arrive.

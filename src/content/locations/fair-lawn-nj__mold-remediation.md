@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Fair Lawn, NJ | The Restoration Group"
 h1: "Mold Remediation in Fair Lawn"
-meta_description: "24/7 mold remediation in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation fair lawn"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ Mold remediation claims in New Jersey require precise documentation to survive a
 
 In Fair Lawn's Radburn-era homes, the original plaster walls hold moisture differently than the paper-faced drywall installed in later renovations. When a water intrusion event wets both materials in the same room, common in finished basements where a 1970s remodel added drywall over original plaster, the drywall grows mold faster and is removed first, but the plaster behind it often reads elevated on a moisture meter for days longer. Crews who aren't familiar with this mixed-assembly pattern sometimes clear a job prematurely. We take final moisture readings on both substrates independently before signing off.
 
-If you're seeing discoloration on walls or ceilings, smelling mustiness after a wet season, or dealing with the aftermath of flooding near the Saddle River, call (855) 650-7422. We'll assess the situation honestly and give you a clear picture of what remediation in your specific Fair Lawn home will involve.
+If you're seeing discoloration on walls or ceilings, smelling mustiness after a wet season, or dealing with the aftermath of flooding near the Saddle River, call (844) 808-8838. We'll assess the situation honestly and give you a clear picture of what remediation in your specific Fair Lawn home will involve.

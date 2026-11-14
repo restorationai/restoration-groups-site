@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Bloomfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Bloomfield"
-meta_description: "24/7 emergency fire damage restoration in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration bloomfield"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -63,4 +63,4 @@ For two-family homes, a common property type throughout Watsessing and North Cen
 
 Bloomfield's pre-war Tudors and colonials frequently have original cedar-shake or slate roofs with minimal modern underlayment. When firefighters ventilate a roof during suppression, a standard tactic to release heat and gases, the opening left behind is larger and harder to weatherproof temporarily than a cut through modern asphalt shingles. We carry board-up and tarp materials sized for these older roof profiles, and we inspect the attic framing below the cut before any interior work begins, because water intrusion through an improperly sealed vent opening can start a secondary mold problem within 48 to 72 hours in a closed attic space.
 
-If your home or property in Bloomfield has been affected by fire, call The Restoration Group at **(855) 650-7422**, any hour, any day. We'll assess the damage, walk you through the restoration scope, and get the process moving before the soot has time to do more harm.
+If your home or property in Bloomfield has been affected by fire, call The Restoration Group at **(844) 808-8838**, any hour, any day. We'll assess the damage, walk you through the restoration scope, and get the process moving before the soot has time to do more harm.

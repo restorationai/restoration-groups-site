@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in North Bergen, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in North Bergen"
-meta_description: "24/7 emergency fire damage restoration in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration north bergen"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Fire losses in multi-family buildings generate complicated claims. A fire origin
 
 In the dense residential blocks between the Guttenberg border and the hillside streets above James J. Braddock North Hudson Park, many multi-family homes share party walls with adjacent structures. After a fire in one of these attached buildings, smoke and heat can transfer through the party wall into the neighboring property, a condition that isn't always visible during the initial walkthrough but shows up in odor complaints days later. When working in this part of North Bergen, the team routinely checks adjacent units and neighboring structures for smoke infiltration, even when they aren't part of the initial reported loss, because undocumented secondary exposure tends to become a dispute point weeks into the claim.
 
-If your property in North Bergen has sustained fire or smoke damage, call The Restoration Group at (855) 650-7422. Crews are available around the clock, and the assessment starts the moment we arrive, not after paperwork.
+If your property in North Bergen has sustained fire or smoke damage, call The Restoration Group at (844) 808-8838. Crews are available around the clock, and the assessment starts the moment we arrive, not after paperwork.

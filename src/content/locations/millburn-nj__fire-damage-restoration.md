@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Millburn, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Millburn"
-meta_description: "24/7 emergency fire damage restoration in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration millburn"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -55,4 +55,4 @@ For homeowners in Short Hills HOA-governed communities, it's worth confirming wi
 
 One thing that catches homeowners off guard in Millburn's older Tudors and colonials: the original horsehair plaster on interior walls doesn't just hold smoke odor, it can hold it for months if not treated correctly. We've walked into homes in the Old Short Hills area six weeks after a contained kitchen fire where the living room still smelled like the night of the loss, because the plaster had never been properly cleaned and sealed. On these properties, we add a shellac-based primer barrier coat over cleaned plaster before any repainting, it's an extra step that most general contractors skip, but it's the difference between a smell that comes back in humid weather and one that doesn't.
 
-If your home in Millburn has been affected by fire or smoke damage, call (855) 650-7422 any time. The sooner the assessment happens, the more of the original structure and contents can be saved, and in a home built to last a century, that matters.
+If your home in Millburn has been affected by fire or smoke damage, call (844) 808-8838 any time. The sooner the assessment happens, the more of the original structure and contents can be saved, and in a home built to last a century, that matters.

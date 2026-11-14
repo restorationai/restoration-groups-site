@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Basement Flooding Cleanup in Highland Park, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Highland Park"
-meta_description: "24/7 emergency basement flooding cleanup in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup highland park"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -53,4 +53,4 @@ Most homeowner policies in New Jersey distinguish sharply between sudden-and-acc
 
 In Highland Park's pre-war bungalows and colonials, particularly those in the Meadow and North Highland Park sections where basements were finished without a vapor barrier between the slab and the wood subfloor, drying timelines run longer than the industry average. The concrete slab itself holds significant moisture and releases it slowly into the air, which means dehumidifiers need to run well after the visible water is gone. We account for this in our drying logs and do not call a job complete until slab readings stabilize, not just wall and air readings. Closing out early on these assemblies is the most common reason mold appears weeks after a cleanup.
 
-If your basement is wet right now, whether from a burst pipe, a sump failure, or rising groundwater after a storm, call (855) 650-7422. We serve Highland Park and the surrounding Middlesex County area day and night, and we carry NJ Licensed Home Improvement Contractor credentials and IICRC Firm Certification #210213 so the work is documented and defensible from the first hour on-site.
+If your basement is wet right now, whether from a burst pipe, a sump failure, or rising groundwater after a storm, call (844) 808-8838. We serve Highland Park and the surrounding Middlesex County area day and night, and we carry NJ Licensed Home Improvement Contractor credentials and IICRC Firm Certification #210213 so the work is documented and defensible from the first hour on-site.

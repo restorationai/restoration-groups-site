@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Maplewood, NJ | The Restoration Group"
 h1: "Restoration Services in Maplewood"
-meta_description: "Serving Maplewood, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Maplewood, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services maplewood"
 secondary_keywords: ["maplewood restoration company", "damage restoration maplewood", "maplewood disaster restoration"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "NJ"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind the plaster walls of a 1920s Tudor in Hilton, or the East Branch of the Rahway River backs up into a finished basement near Maplewood Village, the window for limiting damage is short. The Restoration Group responds to water damage, fire and smoke damage, mold remediation, and full reconstruction for homeowners and property managers throughout Maplewood, NJ, ZIP code 07040, around the clock, every day of the year. Call **(855) 650-7422** and a live team member will answer.
+When a pipe bursts behind the plaster walls of a 1920s Tudor in Hilton, or the East Branch of the Rahway River backs up into a finished basement near Maplewood Village, the window for limiting damage is short. The Restoration Group responds to water damage, fire and smoke damage, mold remediation, and full reconstruction for homeowners and property managers throughout Maplewood, NJ, ZIP code 07040, around the clock, every day of the year. Call **(844) 808-8838** and a live team member will answer.
 
 ## Restoration emergencies common in Maplewood
 
@@ -57,4 +57,4 @@ Houses of this vintage carry hazards that shape the scope before demolition star
 
 Permits come from the township construction official under the New Jersey Uniform Construction Code. Structural framing, electrical, plumbing, and mechanical work need one; genuine like-for-like finish replacement often falls under minor work.
 
-If you're dealing with water, fire, mold, or storm damage anywhere in Maplewood, whether it's a single-family home in Jefferson, a commercial property near the Maplewood Village shopping district, or anything in between, call The Restoration Group at **(855) 650-7422**. We answer every hour of every day and can walk you through next steps before a crew even arrives.
+If you're dealing with water, fire, mold, or storm damage anywhere in Maplewood, whether it's a single-family home in Jefferson, a commercial property near the Maplewood Village shopping district, or anything in between, call The Restoration Group at **(844) 808-8838**. We answer every hour of every day and can walk you through next steps before a crew even arrives.

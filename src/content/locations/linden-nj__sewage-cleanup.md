@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Sewage Cleanup and Sanitization in Linden, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Linden"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Linden, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Linden, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization linden"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ The Restoration Group's Kenilworth headquarters puts Linden well within our prim
 
 Crew leads working in Linden's postwar housing learn to check for a specific condition before staging equipment: many finished basements from the 1950s and 1960s were built with a thin concrete skim coat poured directly over original clay-tile or cinder-block foundation walls. When sewage backs up and sits even briefly, that skim coat wicks contamination laterally into the block cavities behind it, contamination that a surface wipe-down will not reach. On jobs in the Bower and West End areas especially, we probe the base of finished walls before assuming the damage footprint ends at the visible waterline. Missing that lateral wicking is how a "cleaned" basement ends up with an odor problem three weeks later.
 
-If you are dealing with a sewage backup or septic overflow anywhere in Linden, call (855) 650-7422 now. We will assess the damage, walk you through the sanitization process, and coordinate directly with your insurance carrier so the paperwork does not fall on you during an already stressful situation.
+If you are dealing with a sewage backup or septic overflow anywhere in Linden, call (844) 808-8838 now. We will assess the damage, walk you through the sanitization process, and coordinate directly with your insurance carrier so the paperwork does not fall on you during an already stressful situation.

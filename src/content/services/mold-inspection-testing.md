@@ -59,6 +59,6 @@ The second window opens in late fall and winter, when stack effect pulls cold ex
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ, and performs mold inspection and testing across Union, Essex, Morris, Middlesex, and Bergen counties. Dedicated service-area pages cover individual communities throughout northern and central New Jersey.
+The Restoration Group is based in Fair Lawn, NJ, and performs mold inspection and testing across Union, Essex, Morris, Middlesex, and Bergen counties. Dedicated service-area pages cover individual communities throughout northern and central New Jersey.
 
 If your air quality test results are already in hand and you need a remediation scope, or if you're starting from scratch with an unexplained odor and no data, call (908) 970-8533, we're available around the clock. Request your indoor air quality test and get documented answers, not guesses.

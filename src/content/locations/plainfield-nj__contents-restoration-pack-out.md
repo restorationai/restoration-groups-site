@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Plainfield, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Plainfield"
-meta_description: "24/7 contents restoration & pack-out in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out plainfield"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ Contents claims in Plainfield frequently run through homeowners' policies that c
 
 Plainfield's finished basements deserve specific attention during pack-out planning. Because many of the city's Victorian and Craftsman-era homes were built on deep lots with high foundation walls, finished lower levels often function as full living spaces, home offices, family rooms, storage for irreplaceable items. After a brook-adjacent flood event, those basements can hold standing water for hours before drainage catches up, and contents that appear surface-dry may have wicked moisture upward through upholstered legs, cardboard boxes, or wood furniture bases. We assess from the bottom of every item up, not just the visible surfaces, before making a restoration versus total-loss call.
 
-If your home or business in Plainfield has sustained water, fire, or smoke damage and you're facing the question of what can be saved, call The Restoration Group at (855) 650-7422. We'll walk through the property with you, give you an honest assessment of what's restorable, and get the pack-out moving so your home can get back to normal.
+If your home or business in Plainfield has sustained water, fire, or smoke damage and you're facing the question of what can be saved, call The Restoration Group at (844) 808-8838. We'll walk through the property with you, give you an honest assessment of what's restorable, and get the pack-out moving so your home can get back to normal.

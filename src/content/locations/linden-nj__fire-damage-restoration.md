@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Linden, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Linden"
-meta_description: "24/7 emergency fire damage restoration in Linden, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Linden, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration linden"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Most homeowner policies cover sudden and accidental fire losses, but the documen
 
 Linden's postwar plaster construction creates a specific challenge during fire restoration that newer-construction markets don't face as often: plaster walls absorb smoke odor compounds deep into the gypsum substrate beneath the finish coat, and standard surface cleaning doesn't reach them. In homes along the Sunnyside and Bower neighborhoods, where original plaster is still intact on most walls, we routinely apply encapsulating sealers to interior surfaces after cleaning, a step that adds time but prevents odor bleed-through after paint is applied. Skipping it is the single most common reason a homeowner calls back six months later saying the smoke smell returned.
 
-If your Linden property has been affected by fire, call The Restoration Group at (855) 650-7422, day or night. We'll assess the damage, walk you through the process, and get stabilization started before the loss has time to deepen.
+If your Linden property has been affected by fire, call The Restoration Group at (844) 808-8838, day or night. We'll assess the damage, walk you through the process, and get stabilization started before the loss has time to deepen.

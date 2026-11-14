@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in New Providence, NJ | The Restoration Group"
 h1: "Restoration Services in New Providence"
-meta_description: "Serving New Providence, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving New Providence, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services new providence"
 secondary_keywords: ["new providence restoration company", "damage restoration new providence", "new providence disaster restoration"]
 search_intent: "local_commercial"
@@ -45,4 +45,4 @@ Much of New Providence's housing was built in the mid-20th century, with split-l
 
 Soil in this part of Union County holds moisture well, and proximity to the Great Swamp drainage basin means basements can see a rising water table during sustained wet weather, not just surface runoff. Structural repair or rebuild work in New Providence falls under the New Jersey Uniform Construction Code, with permits issued through the borough's construction office. Any scope that touches framing, electrical, or plumbing beyond simple drywall replacement typically needs a permit before work starts.
 
-If you're dealing with water in the basement, smoke damage, or signs of mold in a New Providence home or rental property, call The Restoration Group at (855) 650-7422. We answer 24/7, document the damage for your insurance carrier, and get equipment on site to stop the loss from getting worse.
+If you're dealing with water in the basement, smoke damage, or signs of mold in a New Providence home or rental property, call The Restoration Group at (844) 808-8838. We answer 24/7, document the damage for your insurance carrier, and get equipment on site to stop the loss from getting worse.

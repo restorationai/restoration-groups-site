@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Maplewood, NJ | The Restoration Group"
 h1: "Mold Remediation in Maplewood"
-meta_description: "24/7 mold remediation in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation maplewood"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ Mold claims in Maplewood frequently originate from a covered water loss, a burst
 
 One thing that catches Maplewood homeowners off guard: original plaster walls in the Tudors and colonials throughout the Hilton neighborhood dry significantly more slowly than modern drywall after a water intrusion. Plaster over wood lath can hold moisture for two to three times longer than half-inch gypsum board, which means mold remediation scopes in these homes often include extended drying phases with desiccant dehumidifiers rather than standard refrigerant units, especially in winter, when basement temperatures drop and refrigerant equipment loses efficiency. Skipping that extended drying phase is the most common reason mold returns within a season.
 
-If you're seeing discoloration on a plaster wall, a musty odor in a finished basement, or you're still dealing with the aftermath of a flooding event near the Rahway River corridor, call (855) 650-7422. The Restoration Group is licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and our team is available around the clock to assess and contain mold in Maplewood homes before the problem spreads further.
+If you're seeing discoloration on a plaster wall, a musty odor in a finished basement, or you're still dealing with the aftermath of a flooding event near the Rahway River corridor, call (844) 808-8838. The Restoration Group is licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and our team is available around the clock to assess and contain mold in Maplewood homes before the problem spreads further.

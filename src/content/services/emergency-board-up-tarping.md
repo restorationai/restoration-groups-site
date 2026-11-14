@@ -57,6 +57,6 @@ Summer storm season, particularly the period from late June through September wh
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and responds to emergency board-up and tarping calls throughout Union County, Essex County, and the surrounding region, including Cranford, Westfield, Summit, Mountainside, Springfield, Maplewood, and neighboring communities. Each service-area page links back here for the full technical detail on how this work is done.
+The Restoration Group is based in Fair Lawn, NJ and responds to emergency board-up and tarping calls throughout Union County, Essex County, and the surrounding region, including Cranford, Westfield, Summit, Mountainside, Springfield, Maplewood, and neighboring communities. Each service-area page links back here for the full technical detail on how this work is done.
 
 If a storm, fire, or structural failure has left your property open to the elements, call (908) 970-8533 now. Crews are available around the clock, the sooner the opening is sealed, the smaller the total loss stays.

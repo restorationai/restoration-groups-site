@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Edison, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Edison"
-meta_description: "24/7 emergency water removal and cleanup in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal edison"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ Multifamily properties and condo associations in Edison sometimes have layered c
 
 Edison's postwar split-levels and raised ranches frequently have a half-story below grade that is finished but not on the permit record as conditioned space. When water enters that area, homeowners sometimes assume it just needs a quick mop-up, but finished walls, recessed lighting, and HVAC ducts change the drying calculation entirely. Thermal imaging often reveals moisture migration into the floor assembly above, which would be missed if the job were scoped only at the visible water line. If your home was built between roughly 1955 and 1975 in ZIP codes like 08820 or 08837, it is worth asking your technician to scan the ceiling of any below-grade finished area before the drying plan is set.
 
-If water is standing in your Edison home or business right now, call (855) 650-7422. The Restoration Group is available around the clock, and every hour of delay increases the likelihood that a manageable water removal job becomes a much larger restoration project.
+If water is standing in your Edison home or business right now, call (844) 808-8838. The Restoration Group is available around the clock, and every hour of delay increases the likelihood that a manageable water removal job becomes a much larger restoration project.

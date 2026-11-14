@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Bayonne, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Bayonne"
-meta_description: "24/7 emergency basement flooding cleanup in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup bayonne"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
-Bayonne sits on a narrow peninsula where Newark Bay presses against one side and the Kill Van Kull against the other, and when a nor'easter stalls over the harbor or a supply line finally gives out in a century-old rowhouse, there is nowhere for the water to go but down. Basements flood fast here, faster than in most of Hudson County, and the combination of tidal exposure, aging infrastructure, and dense two- and three-family housing stock means a wet basement in Bayonne can go from an inch of standing water to a mold-colonization problem in under 72 hours. The Restoration Group responds 24/7 and can be reached at (855) 650-7422.
+Bayonne sits on a narrow peninsula where Newark Bay presses against one side and the Kill Van Kull against the other, and when a nor'easter stalls over the harbor or a supply line finally gives out in a century-old rowhouse, there is nowhere for the water to go but down. Basements flood fast here, faster than in most of Hudson County, and the combination of tidal exposure, aging infrastructure, and dense two- and three-family housing stock means a wet basement in Bayonne can go from an inch of standing water to a mold-colonization problem in under 72 hours. The Restoration Group responds 24/7 and can be reached at (844) 808-8838.
 
 ## Why Bayonne Properties See Basement Flooding So Often
 
@@ -48,4 +48,4 @@ Most sudden basement flooding losses, a burst pipe, a failed sump, a backed-up d
 
 In Bayonne's older rowhouses and two-families, especially those built before 1940 in the blocks running between Midtown and Bergen Point, basement walls are frequently unreinforced concrete block rather than poured concrete. Block walls absorb and hold moisture differently than poured walls: water wicks laterally through the mortar joints and can saturate a large section of wall from a single entry point at the base. Standard drying protocols designed for poured concrete will underestimate drying time in these assemblies. We account for this in our drying calculations and typically extend monitoring cycles on block-wall basements to avoid a false clearance.
 
-If you are dealing with a flooded basement anywhere in Bayonne, whether it is an inch of water from a failed sump or several feet from a storm-surge event near the waterfront, call (855) 650-7422. We will assess the damage, explain the process, and start work the same day.
+If you are dealing with a flooded basement anywhere in Bayonne, whether it is an inch of water from a failed sump or several feet from a storm-surge event near the waterfront, call (844) 808-8838. We will assess the damage, explain the process, and start work the same day.

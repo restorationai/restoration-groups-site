@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Parsippany, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Parsippany"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization parsippany"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -53,4 +53,4 @@ Sewage backup claims in New Jersey are frequently misclassified by adjusters as 
 
 In the older lake-tract neighborhoods, particularly the blocks closest to Troy Brook and the low sections of Lake Hiawatha, basement floors are often poured directly on grade without a vapor barrier, a standard practice in Morris County construction through the early 1970s. When sewage backs up through a floor drain in these homes, the concrete itself absorbs contaminated water several inches deep. Standard surface disinfection is not sufficient; the concrete requires mechanical scrubbing, multiple antimicrobial applications, and extended drying time before moisture readings stabilize. Crews working these addresses should plan for longer on-site hours than a comparable loss in a newer home with a sealed slab would require.
 
-If you're dealing with a sewage backup anywhere in Parsippany-Troy Hills, call (855) 650-7422 now. Whether the source is a failed lateral in a Lake Hiawatha split-level or an overnight drain surcharge in a Mount Tabor cottage, the team at The Restoration Group is dispatched 24/7, arrives prepared for Category 3 conditions, and carries NJ Licensed Home Improvement Contractor credentials through the NJ Division of Consumer Affairs.
+If you're dealing with a sewage backup anywhere in Parsippany-Troy Hills, call (844) 808-8838 now. Whether the source is a failed lateral in a Lake Hiawatha split-level or an overnight drain surcharge in a Mount Tabor cottage, the team at The Restoration Group is dispatched 24/7, arrives prepared for Category 3 conditions, and carries NJ Licensed Home Improvement Contractor credentials through the NJ Division of Consumer Affairs.

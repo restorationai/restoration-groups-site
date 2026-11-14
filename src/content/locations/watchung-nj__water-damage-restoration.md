@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Watchung, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Watchung"
-meta_description: "24/7 emergency water damage restoration in Watchung, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Watchung, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration watchung"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -42,4 +42,4 @@ Most of the water losses we see in Watchung trace back to storm-driven groundwat
 
 Split-level and raised-ranch homes built into Watchung's hillsides often have a walkout lower level on the downhill side and a buried foundation wall on the uphill side. That asymmetry matters during drying: the uphill wall can hold groundwater pressure for days after a storm even once surface water is gone, so we keep moisture meters on that wall longer than homeowners expect, because a reading that looks fine on day two can creep back up on day four as water that was higher in the slope works its way down through the block.
 
-If water has found its way into a Watchung basement, lower level, or crawlspace, waiting rarely makes the job smaller. Call The Restoration Group at (855) 650-7422 and we'll walk you through what to expect before a crew is even on the road.
+If water has found its way into a Watchung basement, lower level, or crawlspace, waiting rarely makes the job smaller. Call The Restoration Group at (844) 808-8838 and we'll walk you through what to expect before a crew is even on the road.

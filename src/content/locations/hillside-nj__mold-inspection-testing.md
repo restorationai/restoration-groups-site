@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Hillside, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Hillside"
-meta_description: "24/7 mold inspection and testing in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing hillside"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -44,7 +44,7 @@ We deliver a written assessment report that includes moisture readings, sampling
 
 ## Reaching Hillside from Kenilworth
 
-Our team is based in Kenilworth, roughly three miles from the center of Hillside via Route 22. We operate 24/7, so whether a property manager on the Conant Street corridor calls at 7 a.m. or a homeowner near Hillside Center notices a problem on a Sunday evening, we can schedule an assessment and dispatch a technician without waiting for the next business day. Call (855) 650-7422 to reach us directly.
+Our team is based in Kenilworth, roughly three miles from the center of Hillside via Route 22. We operate 24/7, so whether a property manager on the Conant Street corridor calls at 7 a.m. or a homeowner near Hillside Center notices a problem on a Sunday evening, we can schedule an assessment and dispatch a technician without waiting for the next business day. Call (844) 808-8838 to reach us directly.
 
 ## Local Note: What Ida Left Behind in Hillside Basements
 
@@ -52,4 +52,4 @@ One pattern we've seen repeatedly in Hillside since the 2021 flooding: homeowner
 
 If your home was affected by Ida or by any subsequent basement flooding and you haven't had a professional inspection since, the time to schedule one is before you finish or renovate that space, not after.
 
-Call (855) 650-7422 or reach out online to schedule a mold inspection and testing assessment for your Hillside property. We document everything, explain the results in plain language, and give you a clear picture of what remediation, if any, your home actually needs.
+Call (844) 808-8838 or reach out online to schedule a mold inspection and testing assessment for your Hillside property. We document everything, explain the results in plain language, and give you a clear picture of what remediation, if any, your home actually needs.

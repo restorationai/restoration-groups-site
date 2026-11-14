@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Clark, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Clark"
-meta_description: "24/7 emergency storm damage restoration in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration clark"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -59,4 +59,4 @@ For commercial properties along the Westfield Avenue corridor or the Raritan Roa
 
 One pattern we see repeatedly in Clark's finished-basement ranches: homeowners assume a sump pump failure during a storm is a clean-water event. It usually isn't. When Robinson's Branch backs up into the municipal system, what enters your floor drain is Category 2 or Category 3 water, gray or black water carrying bacteria and sewage solids. That changes the remediation protocol entirely: porous materials like drywall, carpet padding, and wood framing that contact contaminated water generally cannot be dried in place and must be removed. Homeowners who run a shop vac and a box fan after a sewer backup are unknowingly spreading contamination. If your basement flooded during a storm and there was any sewage odor, treat it as a biohazard event until a technician can test and classify the water source.
 
-If storm damage has left your Clark home or business exposed, whether it's a tree through the roof, a flooded basement off Valley Road, or wind intrusion along the Westfield Avenue corridor, call The Restoration Group at (855) 650-7422. We're available around the clock, we know this township's housing stock, and we'll have a crew moving toward you while most companies are still answering the phone.
+If storm damage has left your Clark home or business exposed, whether it's a tree through the roof, a flooded basement off Valley Road, or wind intrusion along the Westfield Avenue corridor, call The Restoration Group at (844) 808-8838. We're available around the clock, we know this township's housing stock, and we'll have a crew moving toward you while most companies are still answering the phone.

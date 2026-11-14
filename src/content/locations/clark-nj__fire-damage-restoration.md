@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Clark, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Clark"
-meta_description: "24/7 emergency fire damage restoration in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration clark"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -58,4 +58,4 @@ We bill most major carriers directly and can communicate with your adjuster in r
 
 In Clark's split-level homes, particularly those built in the late 1950s and early 1960s in the neighborhoods off Valley Road, the half-level between the garage and the main living floor is often framed with a mix of dimensional lumber and engineered headers added during later renovations. When fire or suppression water affects that transitional level, we routinely find that the original framing and the retrofit framing have different moisture contents and char depths. Treating them as a single assembly for drying or structural assessment leads to callbacks. We scope them separately, which adds a step but prevents a second call six months later.
 
-If your Clark home has been through a fire, the visible damage is the starting point, not the full picture. Call The Restoration Group at (855) 650-7422 any time, day or night, and we will have a crew scoping your property the same day.
+If your Clark home has been through a fire, the visible damage is the starting point, not the full picture. Call The Restoration Group at (844) 808-8838 any time, day or night, and we will have a crew scoping your property the same day.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Staten Island, NY | The Restoration Group"
 h1: "Mold Inspection and Testing in Staten Island"
-meta_description: "24/7 mold inspection and testing in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing staten island"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ The Restoration Group maintains crews that serve Staten Island directly, with ro
 
 One pattern that comes up repeatedly in East Shore inspections, particularly in homes between South Beach and Oakwood Beach, is mold that was remediated after Sandy but never fully cleared. Some post-storm cleanups in 2012 and 2013 were done quickly, under pressure, with incomplete drying before walls were closed back up. More than a decade later, those wall cavities can still harbor dormant or active colonies, especially in homes that have experienced any subsequent water intrusion. If you're buying, selling, or renovating a home in a Sandy-affected ZIP code like 10305 or 10306, a pre-transaction mold assessment is worth treating as a standard line item, not an optional add-on.
 
-If you're seeing unexplained allergy symptoms, a persistent musty odor, or you've had any water event in the past two years, call (855) 650-7422 to schedule a mold inspection and testing appointment in Staten Island. A written report gives you the facts, and the leverage, to make informed decisions about your property.
+If you're seeing unexplained allergy symptoms, a persistent musty odor, or you've had any water event in the past two years, call (844) 808-8838 to schedule a mold inspection and testing appointment in Staten Island. A written report gives you the facts, and the leverage, to make informed decisions about your property.

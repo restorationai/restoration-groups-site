@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Plainfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Plainfield"
-meta_description: "24/7 emergency biohazard cleanup in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup plainfield"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -56,4 +56,4 @@ For landlords managing properties in ZIP code 07060 or 07062, we can coordinate 
 
 Plainfield's finished basements deserve particular attention in any biohazard situation. Throughout the city, especially in the postwar housing stock that fills much of the West End and Netherwood, basements were finished in the 1960s and 1970s with drop ceilings, paneling, and carpet laid directly over concrete. These assemblies trap and hold contamination in ways that are not always visible at the surface. When we assess a basement space in Plainfield, we treat the drop ceiling grid and the subfloor system as primary areas of concern, not afterthoughts, because in this housing stock, that is where the problem often lives.
 
-If you are dealing with a biohazard situation at a Plainfield property, whether you are the homeowner, a landlord, or a property manager, call (855) 650-7422 any time. We will ask a few questions, give you a clear picture of next steps, and get a crew moving. You do not have to manage the details alone.
+If you are dealing with a biohazard situation at a Plainfield property, whether you are the homeowner, a landlord, or a property manager, call (844) 808-8838 any time. We will ask a few questions, give you a clear picture of next steps, and get a crew moving. You do not have to manage the details alone.

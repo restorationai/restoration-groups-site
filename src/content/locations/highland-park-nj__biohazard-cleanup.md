@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Highland Park, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Highland Park"
-meta_description: "24/7 emergency biohazard cleanup in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup highland park"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -54,6 +54,6 @@ For landlords and property managers in Highland Park's rental-heavy neighborhood
 
 ## Local Note
 
-Highland Park's proximity to Rutgers University across the river means a meaningful share of the borough's housing stock functions as student or young-professional rentals, often with absentee landlords managing properties remotely. When a biohazard situation arises in one of these units, whether it involves an unattended death, a sharps accumulation, or infectious material from an illness, the property owner is frequently out of state and coordinating by phone. We're accustomed to that dynamic: we can receive access from a local contact, document everything thoroughly for the owner's records, and handle the full scope without requiring the landlord to be on-site. If you're managing a Highland Park property from a distance, a single call to (855) 650-7422 sets the process in motion.
+Highland Park's proximity to Rutgers University across the river means a meaningful share of the borough's housing stock functions as student or young-professional rentals, often with absentee landlords managing properties remotely. When a biohazard situation arises in one of these units, whether it involves an unattended death, a sharps accumulation, or infectious material from an illness, the property owner is frequently out of state and coordinating by phone. We're accustomed to that dynamic: we can receive access from a local contact, document everything thoroughly for the owner's records, and handle the full scope without requiring the landlord to be on-site. If you're managing a Highland Park property from a distance, a single call to (844) 808-8838 sets the process in motion.
 
-When something difficult has happened at a Highland Park property, whether in a quiet residential block off Raritan Avenue or a basement unit in a two-family on the north end of the borough, the priority is getting the space safe and returning it to normal as quickly and privately as possible. Call (855) 650-7422 any time, day or night.
+When something difficult has happened at a Highland Park property, whether in a quiet residential block off Raritan Avenue or a basement unit in a two-family on the north end of the borough, the priority is getting the space safe and returning it to normal as quickly and privately as possible. Call (844) 808-8838 any time, day or night.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Staten Island, NY | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Staten Island"
-meta_description: "24/7 emergency appliance leak cleanup in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup staten island"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -53,4 +53,4 @@ Sudden and accidental appliance discharge is among the most commonly covered wat
 
 In Staten Island's postwar Cape Cods and split-levels, finished basements often have a layer of vinyl floor tile, sometimes original 9-inch asbestos-containing tile from the 1950s and 60s, installed directly over the concrete slab. When a water heater or washing machine leak saturates that floor assembly, disturbing the tile without proper testing can create a regulatory issue that delays the entire job. We flag this condition early in the assessment and, where tile testing is warranted, coordinate with a qualified industrial hygienist before any mechanical removal begins, keeping the project on track and the homeowner out of liability.
 
-If an appliance leak has left standing water, soft flooring, or a persistent damp smell anywhere in your Staten Island home, call The Restoration Group at (855) 650-7422. We're available 24/7, and the sooner the moisture boundary is mapped, the more of your home's structure and finishes can be saved.
+If an appliance leak has left standing water, soft flooring, or a persistent damp smell anywhere in your Staten Island home, call The Restoration Group at (844) 808-8838. We're available 24/7, and the sooner the moisture boundary is mapped, the more of your home's structure and finishes can be saved.

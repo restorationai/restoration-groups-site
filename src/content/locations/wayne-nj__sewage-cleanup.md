@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Sewage Cleanup and Sanitization in Wayne, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Wayne"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization wayne"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-When a sewer line backs up into a finished basement in Wayne, the damage clock starts immediately, and in a town where aging cast-iron laterals run beneath 1960s split-levels and the Passaic River can push groundwater into the sewer mains during a heavy storm, backups here aren't always a simple clog. Raw sewage carries Category 3 contamination that soaks into concrete, insulation, and drywall within hours. The Restoration Group responds 24/7 to sewage emergencies throughout Wayne and the surrounding Passaic County area, call (855) 650-7422 the moment you see it.
+When a sewer line backs up into a finished basement in Wayne, the damage clock starts immediately, and in a town where aging cast-iron laterals run beneath 1960s split-levels and the Passaic River can push groundwater into the sewer mains during a heavy storm, backups here aren't always a simple clog. Raw sewage carries Category 3 contamination that soaks into concrete, insulation, and drywall within hours. The Restoration Group responds 24/7 to sewage emergencies throughout Wayne and the surrounding Passaic County area, call (844) 808-8838 the moment you see it.
 
 ## Why Wayne Properties See Sewage Backup So Often
 
@@ -56,4 +56,4 @@ Sewage backup coverage in New Jersey is almost never part of a standard homeowne
 
 One thing we've learned working in Wayne: homes in the Preakness and Mountain View sections often have older clay-tile sewer laterals that were never replaced when the house was renovated. When those tiles crack or offset, the backup doesn't announce itself with a slow drain, it comes up fast and all at once, usually through the lowest floor drain. If your home was built before 1975 and you've never had a camera inspection of your lateral, a backup is less a question of *if* than *when*. After we complete the cleanup, we can refer you to a licensed plumber for a scope, catching a failing lateral now costs a fraction of a second cleanup.
 
-If sewage has surfaced anywhere in your Wayne home or business, don't wait to see if it drains on its own. Call The Restoration Group at (855) 650-7422, we're available around the clock and will have a certified crew moving toward your address in Wayne, NJ while you're still on the phone.
+If sewage has surfaced anywhere in your Wayne home or business, don't wait to see if it drains on its own. Call The Restoration Group at (844) 808-8838, we're available around the clock and will have a certified crew moving toward your address in Wayne, NJ while you're still on the phone.

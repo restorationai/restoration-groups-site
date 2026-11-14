@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Piscataway, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Piscataway"
-meta_description: "24/7 contents restoration & pack-out in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out piscataway"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ For Society Hill and similar HOA communities, the master policy usually covers t
 
 Homes in the older Possumtown and New Market tracts, many built in the postwar decades, frequently have cast-iron drain stacks that have partially collapsed or are running at reduced capacity. When a sewage backup or drain overflow occurs in these finished basements, the contents damage carries a Category 3 contamination designation, which changes the restoration calculus significantly: porous soft goods that have contacted sewage-affected water generally cannot be restored to a safe condition regardless of cleaning method. Identifying this early during pack-out prevents the frustrating situation where a homeowner expects cleaned furniture to be returned and the adjuster later disputes the total-loss claim. Flagging contamination category at intake, before any cleaning is attempted, protects both the claim and the homeowner's expectations.
 
-If a loss at your Piscataway property, whether it's storm-driven flooding near the Raritan, a pipe failure in a Society Hill condo, or a sprinkler discharge in a Stelton commercial space, has left your belongings at risk, call The Restoration Group at (855) 650-7422. The inventory starts before anything moves, and nothing comes back until the building is ready to receive it.
+If a loss at your Piscataway property, whether it's storm-driven flooding near the Raritan, a pipe failure in a Society Hill condo, or a sprinkler discharge in a Stelton commercial space, has left your belongings at risk, call The Restoration Group at (844) 808-8838. The inventory starts before anything moves, and nothing comes back until the building is ready to receive it.

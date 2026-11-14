@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Staten Island, NY | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Staten Island"
-meta_description: "24/7 emergency storm damage restoration in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration staten island"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ Storm claims on Staten Island frequently involve multiple damage types, wind, wa
 
 One pattern we see consistently on the East Shore: homes in the South Beach and Midland Beach area that were elevated post-Sandy on new concrete piers now have an enclosed ground-level space, technically not a finished basement, but used for storage and mechanicals. After a storm, that void fills with wind-driven water and debris faster than a traditional basement because the original flood vents were often undersized for the new configuration. If your home was elevated after 2012 and you're seeing water under the living level, the entry point is almost never where it looks like it is from inside.
 
-Call (855) 650-7422 any time, day or night, and a member of our Staten Island team will assess the damage, stop active intrusion, and walk you through exactly what comes next. Storm damage doesn't wait, and neither do we.
+Call (844) 808-8838 any time, day or night, and a member of our Staten Island team will assess the damage, stop active intrusion, and walk you through exactly what comes next. Storm damage doesn't wait, and neither do we.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Fort Lee, NJ | The Restoration Group"
 h1: "Commercial Restoration in Fort Lee"
-meta_description: "24/7 commercial restoration in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration fort lee"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -50,4 +50,4 @@ For property managers overseeing multiple buildings along the Palisades or in th
 
 High-rise buildings along Fort Lee's Palisades Avenue corridor frequently use a combination of concrete plank floors and gypsum board ceilings in common areas, a construction assembly that traps moisture between layers in a way that standard moisture meters can underread. Our technicians use both pin-type and non-invasive sensors in tandem on these properties, and we allow additional drying time before closing out the job, because a reading that looks dry at the surface can still harbor enough residual moisture to support mold colonization within 72 hours. It's a detail that matters more in a densely occupied building than almost anywhere else.
 
-If your Fort Lee commercial property has sustained water, fire, or storm damage, call The Restoration Group at (855) 650-7422. We respond 24/7, document thoroughly, and work directly with your insurance and property management team so the recovery process doesn't stall waiting on paperwork.
+If your Fort Lee commercial property has sustained water, fire, or storm damage, call The Restoration Group at (844) 808-8838. We respond 24/7, document thoroughly, and work directly with your insurance and property management team so the recovery process doesn't stall waiting on paperwork.

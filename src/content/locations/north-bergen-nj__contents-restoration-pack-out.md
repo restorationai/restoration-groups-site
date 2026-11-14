@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in North Bergen, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in North Bergen"
-meta_description: "24/7 contents restoration & pack-out in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out north bergen"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -54,4 +54,4 @@ We work directly with adjusters from most major carriers and can provide the ite
 
 In North Bergen's older multi-family buildings, particularly the brick walkups common between the Guttenberg border and the Bergenline, basement storage areas are often shared or informally subdivided among tenants, with no clear documentation of who owns what. Before we move a single item, we ask the property owner or manager to identify ownership boundaries. That step sounds simple, but skipping it can create liability disputes that outlast the restoration itself. It's a small piece of process that matters more in dense urban housing than almost anywhere else.
 
-If you're dealing with a water loss, fire, or flood affecting belongings in a North Bergen property, call (855) 650-7422. The Restoration Group will assess what can be saved, document what cannot, and handle the entire contents process so you can focus on getting your home or building back to normal.
+If you're dealing with a water loss, fire, or flood affecting belongings in a North Bergen property, call (844) 808-8838. The Restoration Group will assess what can be saved, document what cannot, and handle the entire contents process so you can focus on getting your home or building back to normal.

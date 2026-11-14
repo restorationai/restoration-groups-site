@@ -31,7 +31,7 @@ When water is soaking into your subfloor, smoke residue is settling into every s
 
 ## Why homeowners and property managers call us
 
-The Restoration Group has been operating out of Kenilworth since 2021 and carries IICRC Certified Firm status (#210213), which means the drying and remediation work follows documented industry standards, not guesswork. Being an IICRC Certified Firm matters when your insurance adjuster is reviewing the scope of work, because documentation and methodology hold up to scrutiny.
+The Restoration Group has been operating out of Fair Lawn since 2021 and carries IICRC Certified Firm status (#210213), which means the drying and remediation work follows documented industry standards, not guesswork. Being an IICRC Certified Firm matters when your insurance adjuster is reviewing the scope of work, because documentation and methodology hold up to scrutiny.
 
 Speaking of insurance: the team handles direct billing to most major carriers and provides the photo documentation, moisture logs, and itemized scopes that adjusters need to process a claim. You won't be asked to front the full cost and chase reimbursement on your own.
 
@@ -39,7 +39,7 @@ Licensed through the NJ Division of Consumer Affairs as a Home Improvement Contr
 
 ## Service area
 
-The Restoration Group is based in Kenilworth and serves communities throughout Union County and the surrounding region. Neighboring towns including Cranford, Westfield, and Roselle Park are within the regular service footprint, and the team responds to calls across New Jersey. Older housing stock common throughout Union County, homes with plaster walls, cast-iron drain lines, and finished basements, comes with its own set of water intrusion and mold risks that the team encounters regularly.
+The Restoration Group is based in Fair Lawn and serves communities throughout Union County and the surrounding region. Neighboring towns including Cranford, Westfield, and Roselle Park are within the regular service footprint, and the team responds to calls across New Jersey. Older housing stock common throughout Union County, homes with plaster walls, cast-iron drain lines, and finished basements, comes with its own set of water intrusion and mold risks that the team encounters regularly.
 
 If you're unsure whether your address falls within the service area, call (908) 970-8533 and someone will confirm coverage immediately.
 

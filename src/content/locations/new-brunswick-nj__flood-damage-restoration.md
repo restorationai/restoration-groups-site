@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in New Brunswick, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in New Brunswick"
-meta_description: "24/7 emergency flood damage restoration in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration new brunswick"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -40,7 +40,7 @@ For flood events with contaminated water, river intrusion, sewer backups, drain 
 
 ## Reaching New Brunswick from Kenilworth
 
-Our Kenilworth location puts us roughly 20 minutes from most of New Brunswick under normal conditions via Route 22 East to the Garden State Parkway South, or through Woodbridge to Route 1. We dispatch around the clock, if water is moving in your building at 3 a.m., you reach a live person at (855) 650-7422, not a voicemail. For high-density addresses near Rutgers Village or the downtown corridor, we coordinate parking and equipment staging in advance when building access requires it, since street parking near George Street and the university blocks can complicate large equipment setup.
+Our Kenilworth location puts us roughly 20 minutes from most of New Brunswick under normal conditions via Route 22 East to the Garden State Parkway South, or through Woodbridge to Route 1. We dispatch around the clock, if water is moving in your building at 3 a.m., you reach a live person at (844) 808-8838, not a voicemail. For high-density addresses near Rutgers Village or the downtown corridor, we coordinate parking and equipment staging in advance when building access requires it, since street parking near George Street and the university blocks can complicate large equipment setup.
 
 ## New Brunswick Insurance Coordination
 
@@ -50,4 +50,4 @@ Most flood losses in New Brunswick involve at least one complicating layer: a la
 
 In New Brunswick's older multifamily buildings, particularly the converted rowhouses common in the Fifth Ward and near the Rutgers campus, original hardwood floors are often nailed directly to board subfloors with no vapor barrier underneath. When flood water reaches these assemblies, the flooring can cup within 24 hours, but the subfloor below may still be actively wet days later. We've seen jobs where surface readings looked dry while a moisture meter inserted through a small test hole found the subfloor still at 30% MC. Pulling equipment too early on these assemblies almost always means a callback for secondary damage, buckled floors, mold colonization between layers, so we hold drying systems longer on these buildings than a standard timeline would suggest.
 
-If your New Brunswick property has taken on water, whether from the Raritan, a failed drain stack, or a sprinkler event on George Street, call (855) 650-7422. We'll assess the damage, map the moisture, and get drying equipment in place the same day.
+If your New Brunswick property has taken on water, whether from the Raritan, a failed drain stack, or a sprinkler event on George Street, call (844) 808-8838. We'll assess the damage, map the moisture, and get drying equipment in place the same day.

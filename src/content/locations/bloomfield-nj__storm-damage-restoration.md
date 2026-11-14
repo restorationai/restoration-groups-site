@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Bloomfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Bloomfield"
-meta_description: "24/7 emergency storm damage restoration in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration bloomfield"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Our Kenilworth headquarters puts us on Route 22 East and into the Garden State P
 
 One detail that catches out-of-area contractors in Bloomfield: the finished basements in the Brookdale and Watsessing neighborhoods were often converted in the 1960s and 1970s using furring strips and paneling directly against the block wall, with no vapor barrier behind them. After a sewer backup or flood intrusion, that paneling holds moisture against the block for weeks if it isn't removed promptly. We've learned to probe behind finished wall surfaces before assuming a basement dried on schedule, the moisture meter reading on the room side of the paneling can look fine while the block behind it is still saturated. Skipping that step is how mold colonies establish in Bloomfield basements before anyone realizes there's a problem.
 
-If your home or business in Bloomfield has taken storm damage, whether it's a tree through the roof near Bloomfield Green, a flooded basement off Watsessing Avenue, or a commercial roof leak on Broad Street, call The Restoration Group at **(855) 650-7422**. We document, mitigate, and rebuild, and we work directly with your insurance carrier so the claims process doesn't fall on you to manage alone.
+If your home or business in Bloomfield has taken storm damage, whether it's a tree through the roof near Bloomfield Green, a flooded basement off Watsessing Avenue, or a commercial roof leak on Broad Street, call The Restoration Group at **(844) 808-8838**. We document, mitigate, and rebuild, and we work directly with your insurance carrier so the claims process doesn't fall on you to manage alone.

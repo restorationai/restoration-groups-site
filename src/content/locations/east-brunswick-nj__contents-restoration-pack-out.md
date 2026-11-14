@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in East Brunswick, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in East Brunswick"
-meta_description: "24/7 contents restoration & pack-out in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out east brunswick"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ For condo and townhome owners in East Brunswick, the question of which policy co
 
 In East Brunswick's older split-levels and ranches, finished basements frequently have drop-ceiling systems installed decades after the original build, and those ceiling tiles are among the first things to fail in an overhead leak or flooding event. They're also easy to overlook in a contents inventory because they feel like part of the structure. We catalogue them as contents when they're owner-installed and not original to the home, because that distinction can affect whether they're covered under the dwelling portion of your policy or the contents sublimit. It's a small detail that shows up repeatedly in this town's housing stock and one worth flagging before the adjuster's first visit.
 
-If you're dealing with a water loss, fire, or flood in East Brunswick and need contents protected while your home is restored, call The Restoration Group at (855) 650-7422. The sooner contents are inventoried and moved to a controlled environment, the more of them come back.
+If you're dealing with a water loss, fire, or flood in East Brunswick and need contents protected while your home is restored, call The Restoration Group at (844) 808-8838. The sooner contents are inventoried and moved to a controlled environment, the more of them come back.

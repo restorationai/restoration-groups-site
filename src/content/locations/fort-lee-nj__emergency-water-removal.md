@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Fort Lee, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Fort Lee"
-meta_description: "24/7 emergency water removal and cleanup in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal fort lee"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ From our Kenilworth base, the most direct route to Fort Lee runs north on the Ga
 
 In Fort Lee's prewar buildings, particularly the older stock in Coytesville, plaster-and-lath wall systems absorb and hold water very differently than modern drywall. Plaster is dense enough that surface readings can look acceptable while the lath and framing behind it remain wet. We use penetrating probes rather than surface-only sensors in those structures, and we build extra drying time into the schedule because plaster releases moisture slowly and unevenly. Rushing the drying phase in those buildings is the most common reason a water loss turns into a mold remediation job six weeks later.
 
-If you're dealing with water damage right now, whether it's a burst supply line in a high-rise tower or a flooded basement in one of The Hill's older two-families, call The Restoration Group at **(855) 650-7422**. We'll assess the damage, walk you through the documentation process, and get drying equipment in place before the situation gets worse.
+If you're dealing with water damage right now, whether it's a burst supply line in a high-rise tower or a flooded basement in one of The Hill's older two-families, call The Restoration Group at **(844) 808-8838**. We'll assess the damage, walk you through the documentation process, and get drying equipment in place before the situation gets worse.

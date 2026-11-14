@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Wayne, NJ | The Restoration Group"
 h1: "Mold Remediation in Wayne"
-meta_description: "24/7 mold remediation in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation wayne"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -48,4 +48,4 @@ Mold claims in Wayne frequently originate from documented flood events, which ch
 
 One pattern that comes up repeatedly in Wayne's lake communities: the finished basements in Packanack Lake and Pines Lake ranches were often built with wood-paneled walls over furring strips directly against the foundation block, no vapor barrier, no air gap. When moisture migrates through the block after a high-water event, it feeds mold growth in the cavity behind the paneling without any visible sign on the panel face. Probing and moisture mapping behind those walls before assuming a basement is dry is standard practice on Wayne jobs; skipping that step is how mold gets missed and comes back.
 
-If you're dealing with a musty smell, visible discoloration, or you've had standing water in your Wayne home recently, the window to act before mold spreads further is short. Call The Restoration Group at (855) 650-7422, the team is available 24/7 and can schedule an inspection for any address in Wayne, from the river corridors near Mountain View to the hillside neighborhoods closer to High Mountain Park Preserve.
+If you're dealing with a musty smell, visible discoloration, or you've had standing water in your Wayne home recently, the window to act before mold spreads further is short. Call The Restoration Group at (844) 808-8838, the team is available 24/7 and can schedule an inspection for any address in Wayne, from the river corridors near Mountain View to the hillside neighborhoods closer to High Mountain Park Preserve.

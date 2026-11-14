@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Wayne, NJ | The Restoration Group"
 h1: "Restoration Services in Wayne"
-meta_description: "Serving Wayne, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Wayne, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services wayne"
 secondary_keywords: ["wayne restoration company", "damage restoration wayne", "wayne disaster restoration"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "NJ"
 primary: false
 rendered: true
 ---
-When a pipe bursts in a Packanack Lake split-level or floodwater pushes through the basement door of a Mountain View colonial, The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all coordinated under one call to (855) 650-7422. We handle both residential and commercial losses across Wayne's 07470 and 07474 ZIP codes, and we bill insurance carriers directly so you're not managing that paperwork alone during the worst week of the year.
+When a pipe bursts in a Packanack Lake split-level or floodwater pushes through the basement door of a Mountain View colonial, The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all coordinated under one call to (844) 808-8838. We handle both residential and commercial losses across Wayne's 07470 and 07474 ZIP codes, and we bill insurance carriers directly so you're not managing that paperwork alone during the worst week of the year.
 
 ## Restoration emergencies common in Wayne
 
@@ -63,4 +63,4 @@ The lake neighborhoods started as seasonal cottages that were later winterized, 
 
 In New Jersey, repair and rebuild permits are issued locally under the statewide Uniform Construction Code, and work in mapped flood hazard areas carries added elevation and substantial-improvement requirements.
 
-If you're dealing with a loss in Wayne right now, or want to talk through a situation before it becomes an emergency, call (855) 650-7422. We're available around the clock, and the first conversation costs nothing.
+If you're dealing with a loss in Wayne right now, or want to talk through a situation before it becomes an emergency, call (844) 808-8838. We're available around the clock, and the first conversation costs nothing.

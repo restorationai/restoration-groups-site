@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Somerville, NJ | The Restoration Group"
 h1: "Restoration Services in Somerville"
-meta_description: "Serving Somerville, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Somerville, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services somerville"
 secondary_keywords: ["somerville restoration company", "damage restoration somerville", "somerville disaster restoration"]
 search_intent: "local_commercial"
@@ -61,4 +61,4 @@ Sitting in the Raritan valley, the ground near the river and Peters Brook is all
 
 Structural repair and rebuild work goes through the borough's construction office under the New Jersey Uniform Construction Code, with separate building, plumbing, electrical, and fire subcode permits. Rebuilding in a mapped flood zone brings additional elevation and materials requirements.
 
-If you are dealing with water, fire, mold, or storm damage anywhere in Somerville, from the Wallace House neighborhood to the West End, call The Restoration Group at **(855) 650-7422**. We answer every hour of every day, and we will tell you honestly what the damage involves and what it will take to fix it.
+If you are dealing with water, fire, mold, or storm damage anywhere in Somerville, from the Wallace House neighborhood to the West End, call The Restoration Group at **(844) 808-8838**. We answer every hour of every day, and we will tell you honestly what the damage involves and what it will take to fix it.

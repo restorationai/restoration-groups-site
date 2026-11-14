@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Basement Flooding Cleanup in Scotch Plains, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Scotch Plains"
-meta_description: "24/7 emergency basement flooding cleanup in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup scotch plains"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Most standard homeowners policies in New Jersey cover sudden and accidental wate
 
 In Scotch Plains split-levels built in the late 1950s and early 1960s, the basement slab is often poured directly over compacted fill rather than a gravel drainage bed. That means water that enters through a floor crack or drain backup has nowhere to migrate laterally, it pools on the slab surface and wicks upward into the bottom plate of any framed partition walls. We've learned to check those bottom plates even when the visible water level looks minor, because saturated lumber at the base of a wall can read dry on the surface while staying wet inside the framing cavity for days. Catching it early is the difference between a drying job and a mold remediation job.
 
-If your basement is holding water right now, whether you're in Willow Grove, near the Ashbrook Reservation, or anywhere else in Scotch Plains, call (855) 650-7422. We'll assess the situation, start extraction, and give you a clear picture of what drying and restoration will involve before any work begins.
+If your basement is holding water right now, whether you're in Willow Grove, near the Ashbrook Reservation, or anywhere else in Scotch Plains, call (844) 808-8838. We'll assess the situation, start extraction, and give you a clear picture of what drying and restoration will involve before any work begins.

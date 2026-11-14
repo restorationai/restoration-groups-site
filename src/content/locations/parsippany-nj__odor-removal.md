@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Parsippany, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Parsippany"
-meta_description: "24/7 odor removal and deodorization in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization parsippany"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -56,4 +56,4 @@ One pattern that comes up specifically in the Mount Tabor Historic District: the
 
 Many Parsippany homeowners in ZIP code 07054 and the surrounding lake communities carry policies that cover odor remediation as part of a broader fire, water, or sewage loss. The Restoration Group documents affected areas with photographs, moisture readings, and written scope before and after treatment, providing the carrier with the detail adjusters need to process the claim. We work directly with most major insurance carriers and can communicate with your adjuster throughout the process so you're not acting as the go-between on a technical scope.
 
-Call (855) 650-7422 any time, day or night, to reach The Restoration Group. Whether you're dealing with smoke odor in a Lake Hiawatha ranch, a musty basement in the Troy Hills area, or a large commercial loss off Route 46, the right equipment and a documented process make the difference between odor that fades and odor that's gone.
+Call (844) 808-8838 any time, day or night, to reach The Restoration Group. Whether you're dealing with smoke odor in a Lake Hiawatha ranch, a musty basement in the Troy Hills area, or a large commercial loss off Route 46, the right equipment and a documented process make the difference between odor that fades and odor that's gone.

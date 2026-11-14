@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Piscataway, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Piscataway"
-meta_description: "24/7 emergency fire damage restoration in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration piscataway"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Most residential fire losses in Piscataway are covered under standard homeowners
 
 One pattern that comes up repeatedly in Piscataway's older Possumtown and Arbor neighborhoods: the postwar split-levels were built with unfinished utility chases running from the basement to the attic, originally designed for easy plumbing and electrical access. Those chases are rarely sealed, and in a fire event they act as chimneys, pulling smoke from a first-floor fire directly into the attic space and depositing heavy soot on the roof decking and insulation well before the fire itself reaches that level. If your adjuster's initial estimate does not include attic cleaning and insulation replacement on a Piscataway split-level fire loss, it is worth pushing back. We document attic penetration as a standard part of our scope on these homes.
 
-If your Piscataway property has been through a fire, whether a contained kitchen incident or a loss that involved the fire department, call The Restoration Group at (855) 650-7422. We respond around the clock, assess the full extent of smoke and structural damage, and carry the work through to a finished, livable home.
+If your Piscataway property has been through a fire, whether a contained kitchen incident or a loss that involved the fire department, call The Restoration Group at (844) 808-8838. We respond around the clock, assess the full extent of smoke and structural damage, and carry the work through to a finished, livable home.

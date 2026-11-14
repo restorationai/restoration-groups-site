@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Hackensack, NJ | The Restoration Group"
 h1: "Mold Remediation in Hackensack"
-meta_description: "24/7 mold remediation in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation hackensack"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ Mold claims in Hackensack often trace back to a covered water loss, a burst pipe
 
 In Hackensack's prewar two- and three-family homes, particularly the wood-frame buildings common through the Southside, original horsehair plaster over wood lath is still intact in many units. Plaster holds moisture differently than modern drywall: it doesn't crumble and discolor as quickly, so mold can colonize the back side of a plaster wall for an extended period before any visible sign appears on the painted surface. When we're working in these buildings, we probe carefully before assuming a wall is dry, and we account for longer drying times after water intrusion events. Cutting into original plaster also triggers lead paint protocols under NJ regulations, so our crews are prepared to work under those requirements when the building age warrants it.
 
-If you're dealing with a mold problem in Hackensack, whether it's a damp basement in a Fairmount two-family, a flooded unit in a Prospect Avenue high-rise, or a commercial space off Main Street, call The Restoration Group at (855) 650-7422. We'll assess the situation, explain what remediation actually involves for your specific property, and get the work done to a standard your insurance carrier and future occupants can rely on.
+If you're dealing with a mold problem in Hackensack, whether it's a damp basement in a Fairmount two-family, a flooded unit in a Prospect Avenue high-rise, or a commercial space off Main Street, call The Restoration Group at (844) 808-8838. We'll assess the situation, explain what remediation actually involves for your specific property, and get the work done to a standard your insurance carrier and future occupants can rely on.

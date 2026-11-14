@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Teaneck, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Teaneck"
-meta_description: "24/7 odor removal and deodorization in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization teaneck"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -59,4 +59,4 @@ Our crews dispatch from Kenilworth, NJ, and reach Teaneck via Route 3 East and t
 
 One thing that catches out-of-area contractors in Teaneck: the finished basements in the Whittier and West Teaneck neighborhoods were often converted in the 1960s and 70s using knotty pine paneling and drop ceilings installed directly over original concrete block walls. When sewer backups or flood events hit those spaces, as they did repeatedly during and after Ida, the pine paneling wicks odor compounds deep into the wood grain while the drop-ceiling tiles trap contaminated air above them. Removing the tiles and treating the paneling as a porous, odor-saturated substrate (rather than a hard surface) is the only way to get a lasting result. We've seen homeowners repaint over that paneling and call it remediated, only to have the odor return within weeks when summer humidity opens the wood grain back up.
 
-If your Teaneck home or commercial property is holding onto an odor that won't clear on its own, call The Restoration Group at **(855) 650-7422**. We'll assess the source, explain the treatment options in plain language, and get the work done right the first time.
+If your Teaneck home or commercial property is holding onto an odor that won't clear on its own, call The Restoration Group at **(844) 808-8838**. We'll assess the source, explain the treatment options in plain language, and get the work done right the first time.

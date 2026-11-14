@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Edison, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Edison"
-meta_description: "24/7 emergency storm damage restoration in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration edison"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Storm Damage Restoration"
 rendered: true
 ---
-When a nor'easter or fast-moving summer thunderstorm tears through Edison, the damage rarely stops at a missing shingle. The township's mix of postwar capes and split-levels in neighborhoods like Clara Barton and Stelton were built before modern wind-load standards, and their wide, flat roof overhangs catch gusts the way a sail catches wind, sending fascia boards, gutters, and sometimes entire roof sections into the yard. If you're standing in a wet living room at 2 a.m. watching water drip through a ceiling, The Restoration Group is available around the clock. Call (855) 650-7422.
+When a nor'easter or fast-moving summer thunderstorm tears through Edison, the damage rarely stops at a missing shingle. The township's mix of postwar capes and split-levels in neighborhoods like Clara Barton and Stelton were built before modern wind-load standards, and their wide, flat roof overhangs catch gusts the way a sail catches wind, sending fascia boards, gutters, and sometimes entire roof sections into the yard. If you're standing in a wet living room at 2 a.m. watching water drip through a ceiling, The Restoration Group is available around the clock. Call (844) 808-8838.
 
 ## Why Edison Properties Take a Hard Hit in Severe Weather
 
@@ -55,4 +55,4 @@ Middlesex County storm claims have some patterns worth knowing. Edison propertie
 
 One thing that catches homeowners off guard in the older split-levels common in Stelton and parts of North Edison: the finished basement level sits partially below grade, and the exterior foundation walls are often uninsulated block. After a storm flood event, that block wicks moisture inward for days after the visible water is gone. Standard moisture meters read the surface; we use thermal imaging cameras to map the full wet zone behind finished walls before we set drying equipment. Skipping that step means pulling drywall twice, once when it looks dry and again when the mold shows up six weeks later.
 
-If storm damage has hit your Edison property, whether it's a wind-torn roof in the Clara Barton neighborhood or a flooded lower level near Roosevelt Park, call The Restoration Group at (855) 650-7422. We're available 24/7, we document everything for your insurer, and we don't consider the job finished until the moisture readings confirm it.
+If storm damage has hit your Edison property, whether it's a wind-torn roof in the Clara Barton neighborhood or a flooded lower level near Roosevelt Park, call The Restoration Group at (844) 808-8838. We're available 24/7, we document everything for your insurer, and we don't consider the job finished until the moisture readings confirm it.

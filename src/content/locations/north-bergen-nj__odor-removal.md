@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in North Bergen, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in North Bergen"
-meta_description: "24/7 odor removal and deodorization in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization north bergen"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -40,4 +40,4 @@ The Restoration Group dispatches from Kenilworth and responds to North Bergen ca
 
 One pattern that comes up repeatedly in North Bergen's older walkups: when a smoke or flood odor has been present for more than a few weeks, the horsehair plaster on interior walls has typically absorbed the odor compound several millimeters deep into the substrate. A hydroxyl or ozone treatment will neutralize what's airborne and on the surface, but if the plaster itself isn't sealed or, in severe cases, removed and replaced, the odor will off-gas back into the living space within weeks, especially in summer when humidity rises and the walls breathe. On jobs in the Bergenline and Woodcliff areas where this pattern is common, the team flags this during the initial assessment so property owners aren't surprised by a callback situation months later.
 
-If a persistent odor is making a North Bergen property unlivable or unleasable, call The Restoration Group at (855) 650-7422. The team is available 24/7, holds IICRC Firm Certification (#210213), and is licensed through the NJ Division of Consumer Affairs as a Home Improvement Contractor, so the work is documented and defensible whether you're filing an insurance claim or showing a remediated unit to a prospective tenant.
+If a persistent odor is making a North Bergen property unlivable or unleasable, call The Restoration Group at (844) 808-8838. The team is available 24/7, holds IICRC Firm Certification (#210213), and is licensed through the NJ Division of Consumer Affairs as a Home Improvement Contractor, so the work is documented and defensible whether you're filing an insurance claim or showing a remediated unit to a prospective tenant.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Morristown, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Morristown"
-meta_description: "24/7 emergency flood damage restoration in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration morristown"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ Most standard homeowners and commercial property policies cover sudden and accid
 
 Morristown's Historic District properties, particularly the large Victorians near the Ford Mansion and along the streets radiating off the Green, often have finished basements with original stone or brick foundation walls that were never waterproofed by modern standards. When those spaces flood, water wicks laterally through the mortar joints and can saturate framing that sits directly on the slab. We've learned to check those perimeter walls carefully before declaring a basement dry, because a moisture meter reading taken only at the center of the room will miss the slow release happening at the foundation line. Skipping that step is how a "dry" basement develops a mold problem three weeks later.
 
-If you're dealing with flood damage at a Morristown property, whether it's a historic home near the Green, a commercial space on Speedwell Avenue, or a unit in one of the newer downtown buildings, call The Restoration Group at (855) 650-7422. We'll assess the damage, start extraction, and keep you informed at every step until the property is dry, documented, and ready for rebuild.
+If you're dealing with flood damage at a Morristown property, whether it's a historic home near the Green, a commercial space on Speedwell Avenue, or a unit in one of the newer downtown buildings, call The Restoration Group at (844) 808-8838. We'll assess the damage, start extraction, and keep you informed at every step until the property is dry, documented, and ready for rebuild.

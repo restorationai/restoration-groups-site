@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Bridgewater, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Bridgewater"
-meta_description: "24/7 emergency biohazard cleanup in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup bridgewater"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -57,4 +57,4 @@ For Bridgewater properties under HOA management, we can also coordinate with the
 
 If you're uncertain whether your policy covers the situation, call us first. We'll walk through what we're seeing and help you understand what to ask your carrier.
 
-When something difficult happens at a Bridgewater property, the cleanup shouldn't add to the burden. Call The Restoration Group at (855) 650-7422, we're available around the clock, and we'll handle the work so your family doesn't have to.
+When something difficult happens at a Bridgewater property, the cleanup shouldn't add to the burden. Call The Restoration Group at (844) 808-8838, we're available around the clock, and we'll handle the work so your family doesn't have to.

@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Vandalism and Graffiti Removal in Kenilworth | The Restoration Group"
 h1: "Vandalism and Graffiti Removal in Kenilworth"
-meta_description: "Vandalism and graffiti removal in Kenilworth. Board-up, insurance-documented cleanup, graffiti off brick, concrete, and glass. Call (855) 650-7422."
+meta_description: "Vandalism and graffiti removal in Kenilworth. Board-up, insurance-documented cleanup, graffiti off brick, concrete, and glass. Call (844) 808-8838."
 primary_keyword: "vandalism and graffiti removal kenilworth"
 secondary_keywords: ["graffiti removal", "vandalism cleanup", "break-in repair", "commercial graffiti removal", "graffiti removal brick"]
 search_intent: "local_commercial"
@@ -69,6 +69,6 @@ Northern New Jersey's freeze-thaw cycle adds a masonry wrinkle. Aggressive remov
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and handles vandalism and graffiti removal for homeowners, landlords, property managers, and businesses throughout Union County and the surrounding region, including Union, Elizabeth, Cranford, Westfield, and Newark, as well as the wider NYC metro area. As an IICRC Certified Firm (#210213), we handle vandalism work as a coordinated scope, securing, documenting, cleaning, and repairing, so a single loss does not turn into a scramble across multiple vendors.
+The Restoration Group is based in Fair Lawn, NJ and handles vandalism and graffiti removal for homeowners, landlords, property managers, and businesses throughout Union County and the surrounding region, including Union, Elizabeth, Cranford, Westfield, and Newark, as well as the wider NYC metro area. As an IICRC Certified Firm (#210213), we handle vandalism work as a coordinated scope, securing, documenting, cleaning, and repairing, so a single loss does not turn into a scramble across multiple vendors.
 
-If your property has been tagged, broken into, or vandalized, the right first steps are to secure the opening and document the damage before it is cleaned up. Call The Restoration Group at (855) 650-7422, we are available 24/7 and can walk you through what to photograph and what to do before the crew arrives.
+If your property has been tagged, broken into, or vandalized, the right first steps are to secure the opening and document the damage before it is cleaned up. Call The Restoration Group at (844) 808-8838, we are available 24/7 and can walk you through what to photograph and what to do before the crew arrives.

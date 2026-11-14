@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Paramus, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Paramus"
-meta_description: "24/7 odor removal and deodorization in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization paramus"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -52,4 +52,4 @@ One pattern that comes up repeatedly in Paramus: homeowners in the Farview and S
 
 If the smell in your Paramus home or commercial property keeps coming back after a previous treatment, that hidden cavity is one of the first places worth investigating.
 
-Call The Restoration Group at (855) 650-7422, the team is available around the clock, and an odor assessment for your Paramus property can be scheduled the same day you call.
+Call The Restoration Group at (844) 808-8838, the team is available around the clock, and an odor assessment for your Paramus property can be scheduled the same day you call.

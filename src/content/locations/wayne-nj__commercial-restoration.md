@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Wayne, NJ | The Restoration Group"
 h1: "Commercial Restoration in Wayne"
-meta_description: "24/7 commercial restoration in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration wayne"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -54,4 +54,4 @@ Wayne commercial properties in flood-prone zones near the Passaic River corridor
 
 One pattern that catches Wayne commercial property managers off guard: buildings in the Mountain View section that back up to drainage easements along the river tributaries often have below-grade mechanical rooms that are not reflected accurately in older as-built drawings. When water enters those spaces, the actual affected square footage, and the location of electrical panels and data infrastructure, can differ significantly from what the lease plans show. We've learned to walk the full mechanical footprint before scoping a loss in that part of town, rather than relying on floor plans alone.
 
-If your Wayne business or commercial property has taken on water, smoke, or structural damage, call (855) 650-7422. The Restoration Group handles the documentation, the drying, and the carrier coordination so you can focus on getting your operation back open.
+If your Wayne business or commercial property has taken on water, smoke, or structural damage, call (844) 808-8838. The Restoration Group handles the documentation, the drying, and the carrier coordination so you can focus on getting your operation back open.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Bridgewater, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Bridgewater"
-meta_description: "24/7 emergency basement flooding cleanup in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup bridgewater"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Most standard homeowner policies in New Jersey cover sudden and accidental water
 
 In Bridgewater's Finderne neighborhood and the Bound Brook-adjacent flats, homes that flooded during Ida in 2021 sometimes have residual issues that aren't obvious, subflooring that dried out but lost structural integrity, or wall framing that was dried in place but never properly treated, leaving behind elevated moisture levels that create ideal conditions for mold colonization months later. If your basement flooded during a named storm event in the last few years and you're now noticing musty odors or soft spots in the floor, it's worth having a moisture assessment done before assuming the problem is new.
 
-If your basement is taking on water right now, call (855) 650-7422. We'll dispatch a crew to your Bridgewater address, assess the damage, and start extraction, so the problem stops getting worse while you figure out next steps.
+If your basement is taking on water right now, call (844) 808-8838. We'll dispatch a crew to your Bridgewater address, assess the damage, and start extraction, so the problem stops getting worse while you figure out next steps.

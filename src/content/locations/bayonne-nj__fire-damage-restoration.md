@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Bayonne, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Bayonne"
-meta_description: "24/7 emergency fire damage restoration in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration bayonne"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -58,4 +58,4 @@ For commercial losses along the Route 440 corridor, including retail and restaur
 
 Bayonne's balloon-frame two- and three-families, common from Bergen Point up through the Uptown neighborhood, were built before modern fire-blocking requirements. That means smoke and hot gases from a first-floor fire can travel inside wall cavities all the way to the attic in seconds, depositing soot on framing and sheathing that's invisible until you open the walls. Crews unfamiliar with this construction type sometimes miss upper-floor contamination entirely. We open cavity walls systematically on any Bayonne job where the fire origin is at or below the second floor, because the cost of missing hidden soot is a callback months later when the smell returns.
 
-If your property has been affected by fire in Bayonne, call The Restoration Group at **(855) 650-7422**, we're available around the clock, and we'll have a crew assessing your property and starting the documentation your insurance company needs before the smoke smell has a chance to set permanently into your walls.
+If your property has been affected by fire in Bayonne, call The Restoration Group at **(844) 808-8838**, we're available around the clock, and we'll have a crew assessing your property and starting the documentation your insurance company needs before the smoke smell has a chance to set permanently into your walls.

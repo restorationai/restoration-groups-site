@@ -67,6 +67,6 @@ Septic systems in the more suburban and semi-rural areas west of Kenilworth, par
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and responds to sewage backup and septic overflow calls throughout Union County, Essex County, Middlesex County, and surrounding areas. City-specific pages for Kenilworth, Elizabeth, Linden, Summit, Westfield, and neighboring communities link back to this page for full service detail.
+The Restoration Group is based in Fair Lawn, NJ and responds to sewage backup and septic overflow calls throughout Union County, Essex County, Middlesex County, and surrounding areas. City-specific pages for Kenilworth, Elizabeth, Linden, Summit, Westfield, and neighboring communities link back to this page for full service detail.
 
 If you're standing in a basement that smells like a sewer line failed, call (908) 970-8533 now. Technicians are available around the clock, the sooner extraction begins, the less structural material has to come out.

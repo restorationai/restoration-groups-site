@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Basement Flooding Cleanup in New Brunswick, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in New Brunswick"
-meta_description: "24/7 emergency basement flooding cleanup in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup new brunswick"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Most standard homeowners policies cover sudden and accidental water discharge, a
 
 In New Brunswick's early-1900s rowhouses, particularly the attached two- and three-families common near the Fifth Ward and Rutgers Village, basement floors are often original poured concrete with no vapor barrier beneath them. After a flood, these slabs release absorbed moisture upward for days after the visible water is gone, which can stall drying timelines and fool a less thorough crew into pulling equipment too early. We account for slab off-gassing when we set drying targets in these buildings, extending the dehumidification phase rather than chasing a number that looks good on the surface but leaves the structure damp underneath.
 
-If your basement is holding water right now, or if you're dealing with the aftermath of a recent flood anywhere in New Brunswick, call The Restoration Group at (855) 650-7422. We'll assess the damage, start extraction, and walk you through every step of the process from water removal to final drying verification.
+If your basement is holding water right now, or if you're dealing with the aftermath of a recent flood anywhere in New Brunswick, call The Restoration Group at (844) 808-8838. We'll assess the damage, start extraction, and walk you through every step of the process from water removal to final drying verification.

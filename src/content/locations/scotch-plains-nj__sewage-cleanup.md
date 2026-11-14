@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Scotch Plains | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Scotch Plains"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization scotch plains"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Sewage backup coverage in New Jersey is almost always a separate endorsement fro
 
 In Scotch Plains homes built in the 1950s and 1960s, it is common to find the original cast-iron cleanout access buried under a finished floor or concealed behind a utility closet wall, sometimes completely inaccessible without opening up the structure. When we respond to a sewer backup in these homes, we always locate the cleanout before assuming the source is the main lateral. A blocked branch line or a failed floor drain trap can mimic a full main-line backup, and treating the wrong source wastes time and misses the actual contamination point. Knowing what to look for in this specific housing stock saves hours on a job where hours matter.
 
-If raw sewage has entered your home or business in Scotch Plains, call The Restoration Group at (855) 650-7422. We respond around the clock, and we will have a crew moving toward your address while you are still on the phone.
+If raw sewage has entered your home or business in Scotch Plains, call The Restoration Group at (844) 808-8838. We respond around the clock, and we will have a crew moving toward your address while you are still on the phone.

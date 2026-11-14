@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Wayne, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Wayne"
-meta_description: "24/7 contents restoration & pack-out in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out wayne"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ For commercial losses along the Route 23 and Route 46 corridors, retail tenants 
 
 In Wayne's lake communities, particularly around Packanack Lake and Pines Lake, many finished basements were built with drop ceilings and wood-paneled walls that were fashionable in midcentury construction. When those spaces flood, the ceiling tiles and paneling trap moisture against the framing behind them, and contents stored against those walls absorb secondary moisture long after the visible water is gone. During pack-out in these homes, the crew checks items staged near the perimeter walls, not just those that were sitting in standing water, because contact moisture from saturated paneling can damage upholstery and soft goods that looked dry at first glance.
 
-If flooding, a pipe failure, or any other loss event has left your Wayne home or business with damaged belongings, call The Restoration Group at (855) 650-7422. The pack-out process can begin as soon as the scene is safe, and early action is the single biggest factor in how much of your contents can be saved.
+If flooding, a pipe failure, or any other loss event has left your Wayne home or business with damaged belongings, call The Restoration Group at (844) 808-8838. The pack-out process can begin as soon as the scene is safe, and early action is the single biggest factor in how much of your contents can be saved.

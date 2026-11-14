@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Millburn, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Millburn"
-meta_description: "24/7 mold inspection and testing in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing millburn"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -44,4 +44,4 @@ Our Kenilworth headquarters puts Millburn well within our primary service corrid
 
 One thing that sets Millburn inspections apart from a typical suburban mold call: the sheer complexity of the structures. A 6,000-square-foot Tudor in Old Short Hills may have a wine cellar with a dedicated HVAC zone, a finished lower level with its own bathroom, and a detached carriage house, all of which need to be assessed independently. Mold doesn't respect property lines or room designations. In homes like these, a single slow leak behind a laundry room wall can seed growth in an adjacent finished space that won't show visible signs for six to twelve weeks. We account for that complexity in how we scope the inspection, not just in how we price it.
 
-Call (855) 650-7422 to schedule a mold inspection and testing appointment in Millburn. Whether you're in a post-Ida recovery situation, dealing with a slow plumbing leak in a Short Hills colonial, or preparing a property for sale and need documentation of indoor air quality, we'll give you a clear picture of what's present, where it's coming from, and what, if anything, needs to happen next.
+Call (844) 808-8838 to schedule a mold inspection and testing appointment in Millburn. Whether you're in a post-Ida recovery situation, dealing with a slow plumbing leak in a Short Hills colonial, or preparing a property for sale and need documentation of indoor air quality, we'll give you a clear picture of what's present, where it's coming from, and what, if anything, needs to happen next.

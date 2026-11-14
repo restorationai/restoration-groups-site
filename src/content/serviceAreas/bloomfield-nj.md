@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Bloomfield, NJ | The Restoration Group"
 h1: "Restoration Services in Bloomfield"
-meta_description: "Serving Bloomfield, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Bloomfield, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services bloomfield"
 secondary_keywords: ["bloomfield restoration company", "damage restoration bloomfield", "bloomfield disaster restoration"]
 search_intent: "local_commercial"
@@ -59,4 +59,4 @@ Essex County sits on glacial soils over red shale, and basements near the Third 
 
 Structural repair and rebuild permits in New Jersey run through the municipal construction official under the state Uniform Construction Code, in Bloomfield, the township's construction office.
 
-If you're dealing with water, fire, mold, or storm damage anywhere in Bloomfield, from a finished basement in Brookdale to a commercial space on Broad Street, call The Restoration Group at **(855) 650-7422**. We're available around the clock and ready to send a crew.
+If you're dealing with water, fire, mold, or storm damage anywhere in Bloomfield, from a finished basement in Brookdale to a commercial space on Broad Street, call The Restoration Group at **(844) 808-8838**. We're available around the clock and ready to send a crew.

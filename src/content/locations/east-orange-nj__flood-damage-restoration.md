@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in East Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in East Orange"
-meta_description: "24/7 emergency flood damage restoration in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration east orange"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ We bill carriers directly where possible and provide a written scope that adjust
 
 In East Orange's older brick walk-ups, the floor assemblies between units are often a mix of original wood joists, decades of added concrete topping, and vinyl or tile finishes, not the uniform construction a moisture map assumes. We've found that these layered floors trap water at the concrete-wood interface long after the surface reads dry, which means drying timelines in these buildings routinely run longer than the industry average. If you're a landlord managing a building near Watsessing Park or along the Ampere corridor and a contractor tells you the job will be done in three days, ask to see the daily moisture logs before you sign off.
 
-If your property has taken on water, call The Restoration Group at (855) 650-7422. We'll assess the loss, map the moisture, and give you a documented scope, so you know exactly what you're dealing with before any work begins.
+If your property has taken on water, call The Restoration Group at (844) 808-8838. We'll assess the loss, map the moisture, and give you a documented scope, so you know exactly what you're dealing with before any work begins.

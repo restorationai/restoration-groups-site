@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Perth Amboy, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Perth Amboy"
-meta_description: "24/7 emergency fire damage restoration in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration perth amboy"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Fire Damage Restoration"
 rendered: true
 ---
-When fire tears through one of Perth Amboy's dense blocks of late-1800s frame two- and three-families, the damage compounds fast. Old-growth wood framing chars deeply, balloon-frame wall cavities funnel smoke from the basement to the attic in minutes, and the tight lot spacing means embers can threaten an adjacent structure before the fire department clears the scene. The Restoration Group responds 24/7 from Kenilworth, call (855) 650-7422 the moment the fire marshal releases the property.
+When fire tears through one of Perth Amboy's dense blocks of late-1800s frame two- and three-families, the damage compounds fast. Old-growth wood framing chars deeply, balloon-frame wall cavities funnel smoke from the basement to the attic in minutes, and the tight lot spacing means embers can threaten an adjacent structure before the fire department clears the scene. The Restoration Group responds 24/7 from Kenilworth, call (844) 808-8838 the moment the fire marshal releases the property.
 
 ## Why Perth Amboy's Housing Stock Makes Fire Damage More Complex
 
@@ -58,4 +58,4 @@ Fire losses in multifamily buildings, which make up a significant share of Perth
 
 In Perth Amboy's older multifamily buildings, particularly the converted three-families common in the Budapest and Dunham Heights neighborhoods, original horsehair plaster walls are still found behind later drywall layers. After a fire, these plaster assemblies absorb smoke odor deeply, more so than modern drywall, and they also trap soot between the plaster and the lath. Surface cleaning alone will not eliminate the odor. When we encounter this construction, we plan for either full plaster removal to the lath or aggressive cavity treatment with thermal fogging before any encapsulation, because painting over smoke-saturated plaster reliably fails within months.
 
-If your property in Perth Amboy has sustained fire or smoke damage, call (855) 650-7422 now. The Restoration Group is available around the clock, and the sooner structural drying and soot removal begin, the smaller the final scope of repairs will be.
+If your property in Perth Amboy has sustained fire or smoke damage, call (844) 808-8838 now. The Restoration Group is available around the clock, and the sooner structural drying and soot removal begin, the smaller the final scope of repairs will be.

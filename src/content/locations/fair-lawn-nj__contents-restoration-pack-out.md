@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Fair Lawn, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Fair Lawn"
-meta_description: "24/7 contents restoration & pack-out in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out fair lawn"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ Most homeowner policies in New Jersey cover sudden and accidental water losses, 
 
 Radburn's planned-community design, pedestrian pathways, shared green space, and homes oriented away from streets, means that on some blocks, the front door faces a footpath rather than a driveway. When we're staging a pack-out in that neighborhood, we plan the access route in advance: where the moving truck parks, how far the crew carries items to reach it, and whether any shared pathway has weight or clearance restrictions. It's a small detail that makes a real difference in how quickly and carefully the pack-out goes. If you're in Radburn or anywhere else in Fair Lawn and aren't sure about access, mention it when you call, we'll work it out before the crew arrives.
 
-When water, fire, or smoke has put your belongings at risk, the window for saving them is shorter than most people realize. Call The Restoration Group at (855) 650-7422, we serve all of Fair Lawn, 07410, around the clock, and we'll start the contents inventory the same day.
+When water, fire, or smoke has put your belongings at risk, the window for saving them is shorter than most people realize. Call The Restoration Group at (844) 808-8838, we serve all of Fair Lawn, 07410, around the clock, and we'll start the contents inventory the same day.

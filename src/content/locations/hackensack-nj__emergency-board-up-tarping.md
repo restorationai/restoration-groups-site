@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Hackensack, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Hackensack"
-meta_description: "24/7 emergency board-up and tarping in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping hackensack"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ For commercial properties along Main Street or near the courthouse district, we'
 
 On Hackensack's prewar two- and three-families, the original roof framing often used true-dimension lumber, 2×4s that actually measure two inches by four inches, which is denser and heavier than modern dimensional lumber but also more brittle when fire-damaged. When we're anchoring tarp battens into fire-affected framing on those older roofs, we pre-drill every fastener point to avoid splitting the wood and losing the anchor entirely. It's a small step that adds maybe ten minutes to the job and prevents a tarp from coming loose in the next wind event.
 
-If your Hackensack property has been damaged by fire, storm, or a structural failure, call The Restoration Group at (855) 650-7422. We'll get a crew moving and get the building closed up before the weather or the exposure makes things worse.
+If your Hackensack property has been damaged by fire, storm, or a structural failure, call The Restoration Group at (844) 808-8838. We'll get a crew moving and get the building closed up before the weather or the exposure makes things worse.

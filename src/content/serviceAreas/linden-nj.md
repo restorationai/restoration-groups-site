@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Linden, NJ | The Restoration Group"
 h1: "Restoration Services in Linden"
-meta_description: "Serving Linden, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Linden, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services linden"
 secondary_keywords: ["linden restoration company", "damage restoration linden", "linden disaster restoration"]
 search_intent: "local_commercial"
@@ -51,4 +51,4 @@ Behind the plaster and early drywall in Linden's mid-century houses you usually 
 
 Structural repair and build-back in New Jersey run under the statewide Uniform Construction Code, with permits issued by Linden's construction office and inspections by the municipal subcode officials. In mapped flood areas near the Rahway River and Arthur Kill, the value of the work matters: substantial improvements trigger elevation and floodplain requirements.
 
-If you're dealing with a water, fire, mold, or structural emergency anywhere in Linden, from Tremley Point to the Roselle Park border, call The Restoration Group at **(855) 650-7422**. We're available around the clock and we know this city.
+If you're dealing with a water, fire, mold, or structural emergency anywhere in Linden, from Tremley Point to the Roselle Park border, call The Restoration Group at **(844) 808-8838**. We're available around the clock and we know this city.

@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Livingston, NJ | The Restoration Group"
 h1: "Restoration Services in Livingston"
-meta_description: "Serving Livingston, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Livingston, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services livingston"
 secondary_keywords: ["livingston restoration company", "damage restoration livingston", "livingston disaster restoration"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "NJ"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a finished wall in a Northland split-level or a Canoe Brook rain event pushes two feet of water into a Cedar Hill basement, The Restoration Group dispatches from Kenilworth around the clock to handle the water extraction, drying, mold containment, fire and smoke cleanup, and structural repairs that Livingston homeowners and property managers need. One call to (855) 650-7422 starts the process, assessment, documentation, and mitigation, not a voicemail.
+When a pipe bursts behind a finished wall in a Northland split-level or a Canoe Brook rain event pushes two feet of water into a Cedar Hill basement, The Restoration Group dispatches from Kenilworth around the clock to handle the water extraction, drying, mold containment, fire and smoke cleanup, and structural repairs that Livingston homeowners and property managers need. One call to (844) 808-8838 starts the process, assessment, documentation, and mitigation, not a voicemail.
 
 ## Restoration emergencies common in Livingston
 
@@ -49,4 +49,4 @@ Most Livingston houses from the postwar decades sit on poured concrete foundatio
 
 The ground here is Piedmont: shale and glacial soils, with the Watchung basalt ridge running under the Riker Hill side. Repairs are permitted through the township's construction office under the New Jersey Uniform Construction Code, and structural, electrical, and plumbing work each pull their own subcode approval.
 
-If you're dealing with water, fire, smoke, or mold damage anywhere in Livingston, 07039 or the surrounding streets, call The Restoration Group at **(855) 650-7422**. We document everything, work directly with most major insurance carriers, and stay on the job through the final walk-through.
+If you're dealing with water, fire, smoke, or mold damage anywhere in Livingston, 07039 or the surrounding streets, call The Restoration Group at **(844) 808-8838**. We document everything, work directly with most major insurance carriers, and stay on the job through the final walk-through.

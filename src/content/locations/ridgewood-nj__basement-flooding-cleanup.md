@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Ridgewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Ridgewood"
-meta_description: "24/7 emergency basement flooding cleanup in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup ridgewood"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Most standard homeowners policies cover sudden and accidental water losses, a bu
 
 Homes in the Heights and Old Country Club sections of Ridgewood frequently have basement walls finished with original horsehair plaster over wood lath, a material combination that absorbs water slowly but releases it even more slowly during the drying phase. In our experience working in Bergen County's older housing stock, plaster-and-lath assemblies can require 30 to 50 percent more drying time than modern drywall under identical conditions, and pulling equipment on a standard timeline risks leaving residual moisture that feeds mold growth inside the wall cavity. If your home was built before 1950, tell the technician at the initial assessment, it changes the drying plan.
 
-If water is in your basement right now, call (855) 650-7422. The Restoration Group responds to basement flooding emergencies throughout Ridgewood 24 hours a day, documents everything your insurance carrier needs, and doesn't consider the job done until the moisture readings confirm it.
+If water is in your basement right now, call (844) 808-8838. The Restoration Group responds to basement flooding emergencies throughout Ridgewood 24 hours a day, documents everything your insurance carrier needs, and doesn't consider the job done until the moisture readings confirm it.

@@ -55,4 +55,4 @@ A full recommendation usually means all three things lined up: the crew did what
 
 If you're evaluating restoration companies in Union County or the surrounding area, ask how they document a job, how they handle containment, and who your point of contact will be from start to finish. Those answers tell you more than a sales pitch ever will.
 
-The Restoration Group is an [IICRC Certified Firm](https://www.iicrc.org) (#210213) based in Kenilworth, NJ, serving Union County and the surrounding region. If you're dealing with water, fire, mold, or storm damage and want a crew that documents the job and keeps the site clean while they work, [request an assessment](/contact/) and we'll walk you through the process before anything starts.
+The Restoration Group is an [IICRC Certified Firm](https://www.iicrc.org) (#210213) based in Fair Lawn, NJ, serving northern and central New Jersey. If you're dealing with water, fire, mold, or storm damage and want a crew that documents the job and keeps the site clean while they work, [request an assessment](/contact/) and we'll walk you through the process before anything starts.

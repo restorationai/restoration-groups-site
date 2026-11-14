@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Clark, NJ | The Restoration Group"
 h1: "Commercial Restoration in Clark"
-meta_description: "24/7 commercial restoration in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration clark"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -50,6 +50,6 @@ Because we operate 24/7, a call at any hour reaches a live dispatcher who can co
 
 Many of Clark's Raritan Road storefronts were built on slab-on-grade foundations in the late 1950s and 1960s, with concrete poured directly over compacted fill. When water intrudes, it wicks laterally through the slab and into the base of any framed interior walls, a pattern that's easy to miss if you're only reading surface moisture with a pin meter. We use non-invasive radio-frequency moisture meters on every commercial slab job in Clark to map the full wet footprint before setting equipment. Skipping that step leads to mold colonization inside wall cavities within 48 to 72 hours, which turns a straightforward water loss into a remediation project.
 
-If your Clark property has taken water and you're not certain the drying scope covers the slab perimeter, call (855) 650-7422 for an assessment before closing out the claim.
+If your Clark property has taken water and you're not certain the drying scope covers the slab perimeter, call (844) 808-8838 for an assessment before closing out the claim.
 
 Commercial restoration in Clark demands local knowledge, fast mobilization, and documentation that holds up to carrier scrutiny. Whether the loss is on the Westfield Avenue corridor or a back-office suite near the Raritan Road business district, The Restoration Group is positioned to respond, stabilize, and return your property to operation.

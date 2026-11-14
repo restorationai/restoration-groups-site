@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Chatham, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Chatham"
-meta_description: "24/7 emergency water damage restoration in Chatham, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Chatham, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration chatham"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -38,4 +38,4 @@ Most water damage claims in this part of Morris County involve either a homeowne
 
 A lot of Chatham's older housing stock has partially finished basements with a mix of slab-on-grade sections and crawlspace additions tacked on over the years. That transition point is where we most often find hidden moisture: water travels along the top of the slab, hits the crawlspace framing, and wicks upward into sill plates that never get checked unless someone is specifically looking for it. We check that seam on every basement loss in this area regardless of where the visible water stopped.
 
-Water sitting in a finished basement or soaking into plaster walls doesn't wait for a convenient time of day, and neither do we. The Restoration Group is an IICRC Certified Firm and a New Jersey Licensed Home Improvement Contractor, and our crews run water extraction, structural drying, and full mitigation for Chatham homes around the clock. Call (855) 650-7422 to get a crew moving toward your property now.
+Water sitting in a finished basement or soaking into plaster walls doesn't wait for a convenient time of day, and neither do we. The Restoration Group is an IICRC Certified Firm and a New Jersey Licensed Home Improvement Contractor, and our crews run water extraction, structural drying, and full mitigation for Chatham homes around the clock. Call (844) 808-8838 to get a crew moving toward your property now.

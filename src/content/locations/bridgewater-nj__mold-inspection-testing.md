@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Bridgewater, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Bridgewater"
-meta_description: "24/7 mold inspection and testing in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing bridgewater"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -40,10 +40,10 @@ Air sampling is collected using calibrated pumps that draw a measured volume of 
 
 ## Reaching Bridgewater from Kenilworth
 
-The Restoration Group operates out of Kenilworth, NJ, and dispatches to Bridgewater around the clock. The most direct route runs west on Route 22 through Watchung and into the township, a corridor the crew travels regularly for both residential calls in Martinsville and commercial losses at the office parks and retail centers near Bridgewater Commons. For addresses deeper in the Chimney Rock area or near Chimney Rock Park, the approach via Route 202/206 is typically faster. Because the team is available 24/7, you can call (855) 650-7422 at any hour and reach someone who can schedule an assessment or dispatch for an urgent situation.
+The Restoration Group operates out of Kenilworth, NJ, and dispatches to Bridgewater around the clock. The most direct route runs west on Route 22 through Watchung and into the township, a corridor the crew travels regularly for both residential calls in Martinsville and commercial losses at the office parks and retail centers near Bridgewater Commons. For addresses deeper in the Chimney Rock area or near Chimney Rock Park, the approach via Route 202/206 is typically faster. Because the team is available 24/7, you can call (844) 808-8838 at any hour and reach someone who can schedule an assessment or dispatch for an urgent situation.
 
 ## Local Note: What Ida Left Behind in Bridgewater's Flood Zones
 
 Here's something that comes up repeatedly on inspections in the 08807 ZIP code, particularly in the Finderne and Bradley Gardens areas: homeowners who had their basements pumped and dried after Ida often had remediation work done under time pressure, with contractors focused on extracting standing water and moving on. In some of those homes, the lower courses of drywall were removed but the wood framing behind them was never treated or verified dry before new drywall went up. Two or three years later, that framing can harbor active mold growth that's completely invisible from the finished side. If your home flooded during Ida and you haven't had a post-remediation air quality test, that inspection is worth scheduling before you discover the problem during a real estate transaction or a future renovation.
 
-Mold doesn't announce itself until it's already a significant problem. If you're in Bridgewater, whether you're in a 1960s split-level near Green Knoll, a newer colonial off Route 22, or a commercial property near TD Bank Ballpark, call (855) 650-7422 to schedule a mold inspection and testing assessment with The Restoration Group. IICRC Certified Firm #210213, NJ Licensed Home Improvement Contractor.
+Mold doesn't announce itself until it's already a significant problem. If you're in Bridgewater, whether you're in a 1960s split-level near Green Knoll, a newer colonial off Route 22, or a commercial property near TD Bank Ballpark, call (844) 808-8838 to schedule a mold inspection and testing assessment with The Restoration Group. IICRC Certified Firm #210213, NJ Licensed Home Improvement Contractor.

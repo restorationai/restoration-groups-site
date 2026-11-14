@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Roselle, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Roselle"
-meta_description: "24/7 emergency smoke damage restoration in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration roselle"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -49,4 +49,4 @@ For commercial properties along the St. Georges Avenue corridor or the Chestnut 
 
 One thing we've learned working in Roselle's older housing stock: plaster walls absorb smoke odor at a different rate than drywall, and they release it slowly over weeks if not treated correctly. A fresh coat of paint over smoke-stained plaster without a proper sealant primer will trap odor temporarily, and then release it again as temperatures rise in summer. In a town where many homes still have original plaster on the first and second floors, skipping the sealing step is the single most common reason a smoke job "comes back" with odor complaints two months later. We seal before we prime, every time.
 
-If your home or business in Roselle has sustained smoke damage, whether from a contained kitchen fire, a structural fire next door, or smoke intrusion from a nearby event, call The Restoration Group at (855) 650-7422. We'll assess the full scope of the loss, document everything for your insurance carrier, and start the work of getting your property back to livable condition.
+If your home or business in Roselle has sustained smoke damage, whether from a contained kitchen fire, a structural fire next door, or smoke intrusion from a nearby event, call The Restoration Group at (844) 808-8838. We'll assess the full scope of the loss, document everything for your insurance carrier, and start the work of getting your property back to livable condition.

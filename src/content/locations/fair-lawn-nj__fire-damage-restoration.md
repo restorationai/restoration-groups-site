@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Fair Lawn, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Fair Lawn"
-meta_description: "24/7 emergency fire damage restoration in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration fair lawn"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -57,4 +57,4 @@ Fire losses generate more insurance documentation than almost any other claim ty
 
 In Radburn's original 1929-era homes, interior walls were finished with three-coat plaster over wood lath rather than drywall. After a fire, that plaster absorbs smoke odor compounds differently than gypsum board, the lime-based finish is more porous at the micro level, and soot particles penetrate deeper into the substrate. Standard sponge-wiping that clears a drywall surface often leaves residual odor in plaster. Our crews working in Radburn and the older sections of Warren Point use a two-pass chemical sponge protocol followed by a shellac-based primer seal before any finish coat, a step we skip on postwar construction but build into every estimate for the pre-war blocks.
 
-If your Fair Lawn property has been damaged by fire, the window for limiting secondary damage, smoke migration, soot corrosion on metal fixtures, and odor absorption into soft goods, closes fast. Call The Restoration Group at **(855) 650-7422** any time, day or night, and we'll have a crew moving toward Fair Lawn while you're still on the phone.
+If your Fair Lawn property has been damaged by fire, the window for limiting secondary damage, smoke migration, soot corrosion on metal fixtures, and odor absorption into soft goods, closes fast. Call The Restoration Group at **(844) 808-8838** any time, day or night, and we'll have a crew moving toward Fair Lawn while you're still on the phone.

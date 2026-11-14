@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Englewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Englewood"
-meta_description: "24/7 emergency biohazard cleanup in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup englewood"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -47,4 +47,4 @@ Many biohazard situations, including unattended deaths, trauma scenes, and certa
 
 In Englewood's older East Hill homes, original fir or oak subfloors are often laid directly over unventilated crawl spaces or shallow basements with stone foundations. When biological contamination reaches that subfloor layer, surface treatment alone is not sufficient, the material beneath needs to be assessed and, in many cases, removed. This is a pattern we see in pre-war construction throughout Bergen County, and it's one reason a proper scope assessment before any work begins is not a formality but a practical necessity. Skipping that step in a house built in 1920 leads to incomplete remediation that no amount of surface cleaning can fix.
 
-If you are dealing with a biohazard situation at a property in Englewood, whether a private residence, a rental unit, or a commercial space, call The Restoration Group at (855) 650-7422. We answer around the clock, we work with discretion, and we handle every step from containment through final clearance so you can focus on what comes next.
+If you are dealing with a biohazard situation at a property in Englewood, whether a private residence, a rental unit, or a commercial space, call The Restoration Group at (844) 808-8838. We answer around the clock, we work with discretion, and we handle every step from containment through final clearance so you can focus on what comes next.

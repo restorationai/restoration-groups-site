@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Highland Park, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Highland Park"
-meta_description: "24/7 emergency fire damage restoration in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration highland park"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -63,4 +63,4 @@ For multi-unit properties in Highland Park, the two- and three-family homes comm
 
 One thing that catches homeowners off guard in Highland Park's older two-families: the shared chimney. Many of these homes were built with a single masonry chimney serving both units, often with a coal-converted-to-gas flue on one side and a fireplace flue on the other. After a fire, even one that starts in a first-floor kitchen, the chimney chase can act as a conduit for smoke and heat into the adjacent unit, creating a secondary damage claim that the upstairs or downstairs neighbor wasn't expecting. We flag this on every two-family fire loss and inspect the shared chimney structure before signing off on any scope of work.
 
-If you're dealing with fire damage at a Highland Park property, call The Restoration Group at (855) 650-7422. We'll be there to assess the damage, secure the structure, and walk you through every step from stabilization to the final coat of paint.
+If you're dealing with fire damage at a Highland Park property, call The Restoration Group at (844) 808-8838. We'll be there to assess the damage, secure the structure, and walk you through every step from stabilization to the final coat of paint.

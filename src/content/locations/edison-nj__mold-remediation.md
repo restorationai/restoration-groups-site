@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Edison, NJ | The Restoration Group"
 h1: "Mold Remediation in Edison"
-meta_description: "24/7 mold remediation in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation edison"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -48,4 +48,4 @@ Mold claims in New Jersey are heavily scrutinized by carriers, particularly when
 
 In Edison's postwar cape cods, common throughout the Clara Barton section and pockets of North Edison, the knee-wall spaces flanking the second-floor living area are often uninsulated, unventilated, and accessible only through a small hatch. These cavities are one of the most overlooked mold locations in the township: warm, humid air from the living space migrates in during summer, condenses on the cold roof sheathing, and feeds mold growth that homeowners never see. If you're in a cape cod and noticing a musty smell upstairs that you can't trace to a visible source, those knee walls are the first place we look.
 
-If you're dealing with a mold problem anywhere in Edison, ZIP codes 08817, 08820, 08837, or surrounding areas, call The Restoration Group at (855) 650-7422. We'll assess the situation, explain exactly what needs to happen, and get remediation started before the problem spreads further.
+If you're dealing with a mold problem anywhere in Edison, ZIP codes 08817, 08820, 08837, or surrounding areas, call The Restoration Group at (844) 808-8838. We'll assess the situation, explain exactly what needs to happen, and get remediation started before the problem spreads further.

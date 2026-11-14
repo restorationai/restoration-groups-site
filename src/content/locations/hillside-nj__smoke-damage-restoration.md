@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Hillside, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Hillside"
-meta_description: "24/7 emergency smoke damage restoration in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration hillside"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -61,4 +61,4 @@ The Restoration Group documents losses in the format most carriers accept, itemi
 
 In Hillside's older colonials and two-families, particularly those in the Winans and Conant neighborhoods, interior walls are often true plaster over wood lathe rather than gypsum drywall. Plaster absorbs smoke odor at multiple layers: the finish coat, the brown coat, and sometimes the scratch coat beneath. A surface wipe that would clear odor in a newer home won't reach the contamination in plaster construction. When we scope a smoke loss in one of these homes, we probe wall cavities and test multiple depths before finalizing a cleaning plan, because the difference between a thorough job and a callback six months later is often what's happening two inches behind the wall surface.
 
-If you've had a fire in a Hillside property and the smell hasn't cleared after initial cleanup, that's almost always why, and it's a solvable problem. Call (855) 650-7422 any time, day or night, and we'll assess the full scope of smoke penetration before recommending a course of action.
+If you've had a fire in a Hillside property and the smell hasn't cleared after initial cleanup, that's almost always why, and it's a solvable problem. Call (844) 808-8838 any time, day or night, and we'll assess the full scope of smoke penetration before recommending a course of action.

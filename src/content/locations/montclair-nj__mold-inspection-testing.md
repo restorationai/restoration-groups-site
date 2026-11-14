@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Montclair, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Montclair"
-meta_description: "24/7 mold inspection and testing in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing montclair"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -42,10 +42,10 @@ As an IICRC Certified Firm (#210213) and NJ Licensed Home Improvement Contractor
 
 ## Reaching Montclair from Kenilworth
 
-Our operations are based in Kenilworth, and Montclair is reachable via the Garden State Parkway to Route 3 or via I-78 east to the Garden State and up through Bloomfield, typically a 30-to-45-minute drive depending on traffic. We schedule inspections 24 hours a day, seven days a week, so if you discover a problem on a Sunday evening after pulling up a section of basement carpet, you're not waiting until Monday morning to get someone on-site. Calls to (855) 650-7422 reach a live person around the clock.
+Our operations are based in Kenilworth, and Montclair is reachable via the Garden State Parkway to Route 3 or via I-78 east to the Garden State and up through Bloomfield, typically a 30-to-45-minute drive depending on traffic. We schedule inspections 24 hours a day, seven days a week, so if you discover a problem on a Sunday evening after pulling up a section of basement carpet, you're not waiting until Monday morning to get someone on-site. Calls to (844) 808-8838 reach a live person around the clock.
 
 ## Local Note: What Montclair's Plaster Walls Mean for Air Sampling
 
 In homes along the Watchung Plaza district and through the older blocks near Anderson Park, we consistently see one pattern that surprises homeowners: mold spore counts in finished basement rooms test elevated even when no visible growth is present. The reason is usually the plaster itself. Original lime-and-sand plaster wicks moisture from masonry foundations and releases it slowly into the room air over weeks. By the time a musty smell registers, airborne spore concentrations can already be significant. Surface sampling alone misses this, it's the combination of air sampling and moisture mapping that catches it. If your home was built before 1955 and you're in ZIP code 07042 or 07043, this is worth knowing before you assume a quick visual check is sufficient.
 
-If you've had water in a basement, a roof leak, or a plumbing failure in a Montclair home, or if you're purchasing a property and want an independent assessment before closing, call (855) 650-7422. We'll schedule an inspection, deliver lab-backed results, and give you a clear picture of what's actually in your air and walls.
+If you've had water in a basement, a roof leak, or a plumbing failure in a Montclair home, or if you're purchasing a property and want an independent assessment before closing, call (844) 808-8838. We'll schedule an inspection, deliver lab-backed results, and give you a clear picture of what's actually in your air and walls.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Perth Amboy, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Perth Amboy"
-meta_description: "24/7 emergency board-up and tarping in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping perth amboy"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -32,7 +32,7 @@ Fire losses add another layer. Older balloon-frame construction, common in the b
 
 ## Our Emergency Board-Up and Tarping Process in Perth Amboy
 
-When you call (855) 650-7422, the first question is always structural: is the building safe to approach, and has the fire department or utility company cleared the scene? Once we have access, the process moves in a deliberate sequence.
+When you call (844) 808-8838, the first question is always structural: is the building safe to approach, and has the fire department or utility company cleared the scene? Once we have access, the process moves in a deliberate sequence.
 
 **Assessment and documentation** come first. We photograph every opening, measure it, and note the substrate, whether we're anchoring into a brick rowhouse facade, a wood-frame soffit, or a commercial storefront's aluminum framing. Documentation at this stage is what your insurance adjuster will rely on, so we treat it as part of the job, not an afterthought.
 
@@ -56,4 +56,4 @@ Emergency board-up and tarping is almost universally covered under the "protecti
 
 If you own a multifamily building in Perth Amboy, be aware that a single loss event can generate separate claims for each unit, coordinating those early, with consistent documentation from a single contractor, prevents the conflicting estimates that slow settlements down.
 
-When a storm or fire leaves your Perth Amboy property exposed, call (855) 650-7422. The Restoration Group is available around the clock, and our first priority is getting your building closed before the next rain band moves through.
+When a storm or fire leaves your Perth Amboy property exposed, call (844) 808-8838. The Restoration Group is available around the clock, and our first priority is getting your building closed before the next rain band moves through.

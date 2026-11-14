@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Parsippany, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Parsippany"
-meta_description: "24/7 emergency flood damage restoration in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration parsippany"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Flood losses in Parsippany frequently involve both a homeowner's policy and, for
 
 In the older lake-tract neighborhoods, particularly the streets immediately surrounding Lake Hiawatha, many finished basements were converted from utility space decades ago without permits, using wood-paneled walls over unfaced fiberglass batts. When those walls flood, the insulation compresses and holds water against the framing long after the visible surface looks dry. Moisture meters read the panel face, not the cavity. Crews working these homes probe behind paneling at multiple points before closing out the drying phase, because a reading that looks good at the surface can mask a framing system that's still well above safe moisture content.
 
-If your Parsippany home or commercial property has taken on water, call The Restoration Group at (855) 650-7422. The sooner extraction begins, the narrower the window for secondary damage, and the shorter the road back to normal.
+If your Parsippany home or commercial property has taken on water, call The Restoration Group at (844) 808-8838. The sooner extraction begins, the narrower the window for secondary damage, and the shorter the road back to normal.

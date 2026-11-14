@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Fort Lee, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Fort Lee"
-meta_description: "24/7 contents restoration & pack-out in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out fort lee"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -46,4 +46,4 @@ Anyone who has worked in Fort Lee's Palisades towers knows that a pack-out here 
 
 If you're a property manager overseeing multiple units in one of Fort Lee's larger residential towers, it's worth establishing a restoration contact before a loss occurs. The logistics conversation is much easier when it's not happening at the same time as a water emergency.
 
-If contents from your Fort Lee property have been affected by water, fire, smoke, or storm damage, call The Restoration Group at (855) 650-7422. We'll assess what's salvageable, document everything for your carrier, and move your belongings to safety while the structural work gets done.
+If contents from your Fort Lee property have been affected by water, fire, smoke, or storm damage, call The Restoration Group at (844) 808-8838. We'll assess what's salvageable, document everything for your carrier, and move your belongings to safety while the structural work gets done.

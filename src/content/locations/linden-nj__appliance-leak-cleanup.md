@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Linden, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Linden"
-meta_description: "24/7 emergency appliance leak cleanup in Linden, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Linden, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup linden"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -58,4 +58,4 @@ If you own a multi-family property along the Route 1 & 9 corridor or a commercia
 
 In Linden's postwar split-levels, common throughout the Bower and Wheatsheaf sections of the city, the mechanical room and laundry area often share a half-wall with the finished rec room below the main level. When a washing machine overflows or a water heater supply line fails, water travels horizontally along the concrete slab before finding the gap at the base of that partition wall. Homeowners often see wet carpet in the rec room before they notice anything in the laundry area. If you're calling about a washing machine flood and the damage seems limited to one room, it's worth checking the adjacent finished space, the source and the visible damage are frequently in different rooms in this floor plan type.
 
-If you're dealing with an appliance leak anywhere in Linden, a dishwasher that soaked the kitchen subfloor, a refrigerator line that ran overnight, or a water heater that gave out in a finished basement, call (855) 650-7422. The Restoration Group is IICRC Certified Firm #210213, licensed by the NJ Division of Consumer Affairs, and available around the clock to respond to water losses throughout the 07036 area.
+If you're dealing with an appliance leak anywhere in Linden, a dishwasher that soaked the kitchen subfloor, a refrigerator line that ran overnight, or a water heater that gave out in a finished basement, call (844) 808-8838. The Restoration Group is IICRC Certified Firm #210213, licensed by the NJ Division of Consumer Affairs, and available around the clock to respond to water losses throughout the 07036 area.

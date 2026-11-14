@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Ridgewood, NJ | The Restoration Group"
 h1: "Mold Remediation in Ridgewood"
-meta_description: "24/7 mold remediation in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation ridgewood"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -38,7 +38,7 @@ The Restoration Group holds IICRC Certified Firm status (#210213) and is license
 
 ## Reaching Ridgewood from Kenilworth
 
-The Restoration Group dispatches from Kenilworth, which puts Ridgewood roughly 20 to 25 minutes out via Route 22 West to I-287 North under normal conditions. Because mold remediation is typically a scheduled project rather than an acute emergency, the team coordinates arrival windows directly with homeowners, including same-day assessments when a situation warrants it. The crew is available around the clock, so if you discover a problem late on a Sunday evening or notice something alarming after a storm, calling (855) 650-7422 connects you with someone who can triage the situation and get an assessment scheduled quickly.
+The Restoration Group dispatches from Kenilworth, which puts Ridgewood roughly 20 to 25 minutes out via Route 22 West to I-287 North under normal conditions. Because mold remediation is typically a scheduled project rather than an acute emergency, the team coordinates arrival windows directly with homeowners, including same-day assessments when a situation warrants it. The crew is available around the clock, so if you discover a problem late on a Sunday evening or notice something alarming after a storm, calling (844) 808-8838 connects you with someone who can triage the situation and get an assessment scheduled quickly.
 
 For commercial properties along East Ridgewood Avenue, where pipe failures, roof leaks, and sprinkler discharges in mixed-use buildings can affect multiple tenants, the team is experienced coordinating access and containment in occupied commercial environments.
 
@@ -46,4 +46,4 @@ For commercial properties along East Ridgewood Avenue, where pipe failures, roof
 
 Ridgewood's older homes, particularly the Willard and Somerville neighborhoods where pre-war construction is concentrated, frequently have original horsehair or gypsum plaster walls rather than modern drywall. Plaster absorbs moisture more slowly than drywall but releases it more slowly too. In practice, this means that even after visible mold is remediated and affected material removed, adjacent plaster assemblies can retain elevated moisture readings for significantly longer than a comparable drywall surface would. Rushing the drying phase in these homes risks trapping residual moisture behind a newly painted or reconstructed surface, exactly the condition that leads to a second mold event within a year. The team uses extended drying monitoring and documents moisture readings at every check-in so there is a clear record that the substrate was genuinely dry before closeout.
 
-If you are seeing signs of mold in your Ridgewood home, whether it is a finished basement near the Saddle River corridor, an attic beneath an aging slate roof, or a wall cavity that never quite dried after a plumbing leak, call (855) 650-7422. The Restoration Group will assess the scope, walk you through the remediation plan, and coordinate directly with your insurance carrier so the process moves as smoothly as possible.
+If you are seeing signs of mold in your Ridgewood home, whether it is a finished basement near the Saddle River corridor, an attic beneath an aging slate roof, or a wall cavity that never quite dried after a plumbing leak, call (844) 808-8838. The Restoration Group will assess the scope, walk you through the remediation plan, and coordinate directly with your insurance carrier so the process moves as smoothly as possible.

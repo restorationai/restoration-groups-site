@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Perth Amboy, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Perth Amboy"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair perth amboy"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Our Kenilworth headquarters puts us roughly 20 to 25 minutes from most Perth Amb
 
 One thing that catches building owners off guard in Perth Amboy's older multifamily stock is that a burst galvanized supply line often signals that the rest of the system is close behind. When we open a wall in a Budapest or Chase Avenue three-family and find heavy corrosion scale inside a failed pipe, we document it photographically and flag it in our moisture report, not to upsell, but because insurance carriers and building inspectors will ask. Proactive documentation protects the owner. It's also worth knowing that Perth Amboy's rental housing code requires landlords to notify tenants of water intrusion events that affect habitability, so having a written drying log from a certified firm on file matters when a tenant files a complaint with the city.
 
-If you're dealing with a burst pipe in Perth Amboy right now, whether it's a first-floor unit off Smith Street or a basement apartment near Bayview Park, call (855) 650-7422. We answer around the clock, and we'll walk you through immediate steps while our crew is on the way.
+If you're dealing with a burst pipe in Perth Amboy right now, whether it's a first-floor unit off Smith Street or a basement apartment near Bayview Park, call (844) 808-8838. We answer around the clock, and we'll walk you through immediate steps while our crew is on the way.

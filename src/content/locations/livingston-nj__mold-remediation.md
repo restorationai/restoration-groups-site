@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Livingston, NJ | The Restoration Group"
 h1: "Mold Remediation in Livingston"
-meta_description: "24/7 mold remediation in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation livingston"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -48,4 +48,4 @@ The Restoration Group is based in Kenilworth, NJ, roughly 10 to 12 miles from Li
 
 Livingston's 1960s and early-1970s split-levels were commonly built with a hybrid wall assembly, drywall on the above-grade portions, but concrete block or poured concrete on the below-grade basement walls, sometimes furred out with wood studs and fiberglass insulation directly against the block. When moisture wicks through that block (which it does, especially in the Canoe Brook drainage area), the insulation traps it against the wood framing and creates a hidden mold environment that a surface inspection will miss entirely. We probe those furred-out walls with a deep-penetration moisture meter before assuming the block face is the full extent of the problem, because in these homes, it rarely is.
 
-If mold has taken hold in your Livingston home or commercial property, whether it's a finished basement off the Canoe Brook flood plain, a split-level in Northland, or a commercial space near Saint Barnabas, call The Restoration Group at (855) 650-7422. We're available around the clock, and the sooner containment starts, the smaller the remediation scope.
+If mold has taken hold in your Livingston home or commercial property, whether it's a finished basement off the Canoe Brook flood plain, a split-level in Northland, or a commercial space near Saint Barnabas, call The Restoration Group at (844) 808-8838. We're available around the clock, and the sooner containment starts, the smaller the remediation scope.

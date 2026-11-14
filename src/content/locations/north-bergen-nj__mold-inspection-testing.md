@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in North Bergen, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in North Bergen"
-meta_description: "24/7 mold inspection and testing in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing north bergen"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ From our Kenilworth headquarters, the fastest route to North Bergen runs up the 
 
 One pattern we've learned working in North Bergen's older multi-family stock: plaster walls in pre-war buildings absorb moisture slowly but release it even more slowly, which means a moisture meter reading that looks borderline on day three may still reflect active wetting inside the wall assembly. We've found that buildings near the Hudson River waterfront, where ambient humidity stays elevated through the summer, can show persistently high wall moisture readings weeks after a visible leak is repaired. That's why our assessments here include a second moisture scan of any plaster walls flagged in the initial survey, rather than relying on a single-day reading, before we finalize the remediation scope.
 
-If you're dealing with a musty smell, visible discoloration, or a recent water event in a North Bergen property, the right first step is a documented inspection, not a guess. Call The Restoration Group at (855) 650-7422 to schedule mold inspection and testing in North Bergen and get lab-backed answers you can act on.
+If you're dealing with a musty smell, visible discoloration, or a recent water event in a North Bergen property, the right first step is a documented inspection, not a guess. Call The Restoration Group at (844) 808-8838 to schedule mold inspection and testing in North Bergen and get lab-backed answers you can act on.

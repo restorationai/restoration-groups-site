@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Montclair, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Montclair"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair montclair"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ If your home falls under an HOA, more common in Montclair's newer townhome clust
 
 In Montclair's plaster-wall homes, which includes most of the Victorians near Anderson Park and the older colonials in the Estate Section, drying timelines run longer than they do in modern drywall construction. Plaster holds moisture in a different way: the surface can feel dry to the touch while the brown coat and the wood lath behind it are still well above acceptable moisture content. We've seen incomplete dry-outs in these homes lead to mold colonization inside wall cavities within a week of the initial loss. We leave equipment running until the readings confirm the assembly is dry, not until the surface looks dry, and we explain that timeline upfront so there are no surprises about equipment rental duration.
 
-If you're dealing with a burst pipe anywhere in Montclair, whether it's a supply line in a finished Upper Montclair basement or a corroded fitting in a Watchung Plaza commercial space, call The Restoration Group at (855) 650-7422. We'll assess the damage, stop the spread, and walk you through every step from extraction to repaired walls.
+If you're dealing with a burst pipe anywhere in Montclair, whether it's a supply line in a finished Upper Montclair basement or a corroded fitting in a Watchung Plaza commercial space, call The Restoration Group at (844) 808-8838. We'll assess the damage, stop the spread, and walk you through every step from extraction to repaired walls.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in West Orange, NJ | The Restoration Group"
 h1: "Mold Remediation in West Orange"
-meta_description: "24/7 mold remediation in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation west orange"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ Mold claims in New Jersey require careful documentation, and carriers vary signi
 
 One pattern we see repeatedly in West Orange's pre-1950 homes, particularly the colonials and Tudors in the Gregory neighborhood, is mold growth inside balloon-frame wall cavities. Unlike platform framing, balloon framing runs stud bays continuously from the foundation sill to the roof, which means a basement moisture event can wick upward inside the wall for two or three stories before anyone notices. When our moisture readings in a first-floor wall don't match the visible damage in the basement, we look up, not just sideways. Missing that vertical migration is one of the most common reasons mold returns after a remediation that seemed complete.
 
-If you're seeing discoloration on walls, a persistent musty odor in your basement, or you know your home took on water during a past storm and was never professionally dried, don't wait for the problem to surface on its own. Call The Restoration Group at (855) 650-7422, we serve West Orange around the clock and can have a crew assessing your property the same day.
+If you're seeing discoloration on walls, a persistent musty odor in your basement, or you know your home took on water during a past storm and was never professionally dried, don't wait for the problem to surface on its own. Call The Restoration Group at (844) 808-8838, we serve West Orange around the clock and can have a crew assessing your property the same day.

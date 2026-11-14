@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Hillside, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Hillside"
-meta_description: "24/7 emergency water damage restoration in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration hillside"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ The Restoration Group's base in Kenilworth puts Hillside roughly 10–15 minutes
 
 One thing that catches out-of-area crews in Hillside's older two-family homes: the original plaster-and-lath wall construction common in pre-1950 buildings along streets near Evergreen Cemetery and through the Winans area holds moisture very differently than modern drywall. Plaster is dense and slow to release water vapor, which means standard three-day drying timelines built around half-inch drywall are almost always too short. We extend monitoring cycles on plaster assemblies and reposition air movers to direct airflow across the lath cavity, not just the surface, otherwise the structure reads dry at the face while the lath behind it stays wet and sets up conditions for mold growth within a week.
 
-If you're dealing with standing water, a failed sump, or a pipe that let go overnight, call (855) 650-7422. We'll assess the loss, walk you through the scope, and get drying equipment running the same day, because in Hillside's housing stock, every hour of wet time matters.
+If you're dealing with standing water, a failed sump, or a pipe that let go overnight, call (844) 808-8838. We'll assess the loss, walk you through the scope, and get drying equipment running the same day, because in Hillside's housing stock, every hour of wet time matters.

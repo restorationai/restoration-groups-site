@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Plainfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Plainfield"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization plainfield"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-When a sewer line backs up in a Plainfield home, the problem rarely stays contained. The city's deep, often finished basements, common throughout Sleepy Hollow and the Van Wyck Brooks Historic District, give raw sewage a large surface area to spread across, soaking into framing, insulation, and concrete before the smell even registers upstairs. The Restoration Group operates 24/7 out of Kenilworth, putting a crew on the road toward Plainfield within minutes of your call at (855) 650-7422.
+When a sewer line backs up in a Plainfield home, the problem rarely stays contained. The city's deep, often finished basements, common throughout Sleepy Hollow and the Van Wyck Brooks Historic District, give raw sewage a large surface area to spread across, soaking into framing, insulation, and concrete before the smell even registers upstairs. The Restoration Group operates 24/7 out of Kenilworth, putting a crew on the road toward Plainfield within minutes of your call at (844) 808-8838.
 
 ## Why Plainfield Properties Are Prone to Sewage Backups
 
@@ -54,4 +54,4 @@ For commercial properties along Park Avenue or the Front Street corridor, the do
 
 One pattern that comes up repeatedly in Plainfield's older neighborhoods is the finished basement that conceals how far sewage has traveled. A drop ceiling in a West End Victorian or a carpeted rec room in a Netherwood split-level can hide contaminated framing and subfloor for days before the odor becomes obvious upstairs. By that point, bacterial colonization is well underway. When we assess a sewage loss in Plainfield, we probe behind finished surfaces and under flooring rather than treating only what's visible, because in this housing stock, what's visible is rarely the whole picture.
 
-If you're dealing with a sewage backup anywhere in the 07060, 07062, or 07063 ZIP codes, call (855) 650-7422 now. The Restoration Group is on call around the clock, and getting a crew moving quickly is the single most effective thing you can do to limit the damage to your Plainfield home or business.
+If you're dealing with a sewage backup anywhere in the 07060, 07062, or 07063 ZIP codes, call (844) 808-8838 now. The Restoration Group is on call around the clock, and getting a crew moving quickly is the single most effective thing you can do to limit the damage to your Plainfield home or business.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Fair Lawn, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Fair Lawn"
-meta_description: "24/7 emergency basement flooding cleanup in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup fair lawn"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -57,4 +57,4 @@ Most standard homeowners policies in New Jersey distinguish between sudden-and-a
 
 In the Radburn Historic District, homes built in the late 1920s often have basement floors poured at a lower elevation than the street-side storm drain inlets, a design that made sense for the era but means that during a surcharge event, water can actually flow backward through floor drains. If you're in Radburn and your floor drain is gurgling or bubbling during heavy rain, that's not a slow drain, it's a sign the municipal system is overwhelmed and your basement is the path of least resistance. A backwater valve installation is the long-term fix; in the short term, call us before the water is already in.
 
-Flooded basements in Fair Lawn move fast from inconvenience to structural damage to mold risk. If you're standing in water right now, or watching it rise, call The Restoration Group at **(855) 650-7422**. We're available 24/7, we know this borough, and we'll have a crew moving toward you.
+Flooded basements in Fair Lawn move fast from inconvenience to structural damage to mold risk. If you're standing in water right now, or watching it rise, call The Restoration Group at **(844) 808-8838**. We're available 24/7, we know this borough, and we'll have a crew moving toward you.

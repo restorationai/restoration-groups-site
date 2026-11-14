@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Bloomfield, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Bloomfield"
-meta_description: "24/7 mold inspection and testing in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing bloomfield"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -40,10 +40,10 @@ As an IICRC Certified Firm (#210213), the inspection protocol follows industry s
 
 ## Reaching Bloomfield from Kenilworth
 
-The Restoration Group operates out of Kenilworth, which puts Bloomfield well within a practical service radius. The most direct route runs north on Route 22 to the Garden State Parkway and into Bloomfield via Broad Street or Bloomfield Avenue, a straightforward drive under normal traffic conditions. Because the team is available around the clock, scheduling an inspection after a late-night sump failure or a morning pipe discovery is not a problem. Call (855) 650-7422 and a coordinator will confirm a same-day or next-available appointment window.
+The Restoration Group operates out of Kenilworth, which puts Bloomfield well within a practical service radius. The most direct route runs north on Route 22 to the Garden State Parkway and into Bloomfield via Broad Street or Bloomfield Avenue, a straightforward drive under normal traffic conditions. Because the team is available around the clock, scheduling an inspection after a late-night sump failure or a morning pipe discovery is not a problem. Call (844) 808-8838 and a coordinator will confirm a same-day or next-available appointment window.
 
 ## Local Note: What Ida Left Behind in Bloomfield Basements
 
 One pattern that keeps surfacing in Bloomfield inspections, particularly in homes near Watsessing Park and along the lower reaches of the Second River drainage, is mold that was never properly addressed after the September 2021 flooding. Many homeowners dried out the visible water, replaced ruined carpet, and moved on. But sewer-backup water carries a higher biological load than clean water, and organic materials like wood framing, OSB sheathing, and paper-faced insulation that were saturated even briefly can harbor active mold colonies behind a freshly painted or re-drywalled surface. If your Bloomfield home flooded during Ida and has never had a formal air quality or spore-count assessment, that history alone is reason enough to schedule one, especially before listing the property or finishing additional basement space.
 
-If you're in Bloomfield and have questions about what a mold inspection involves, what the results mean, or how to move forward if growth is confirmed, call (855) 650-7422. The assessment is the first step, and it's the step that keeps the remediation scope honest.
+If you're in Bloomfield and have questions about what a mold inspection involves, what the results mean, or how to move forward if growth is confirmed, call (844) 808-8838. The assessment is the first step, and it's the step that keeps the remediation scope honest.

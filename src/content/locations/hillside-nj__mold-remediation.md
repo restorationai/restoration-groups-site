@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Hillside, NJ | The Restoration Group"
 h1: "Mold Remediation in Hillside"
-meta_description: "24/7 mold remediation in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation hillside"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ Mold claims in New Jersey are fact-specific, and insurers look closely at whethe
 
 In Hillside's pre-war two-family homes, particularly the ones near Evergreen Cemetery and along the older blocks of the Conant and Winans neighborhoods, basement walls are often poured concrete or stone rubble with no interior drainage membrane. When those walls wick groundwater during a wet spring, the moisture doesn't pool visibly; it migrates into the bottom course of framing and the back side of any furring strips or drywall that was added during a basement finish. Homeowners often don't notice until they smell it. If your basement has that musty, earthy odor after a rainy stretch and you can't find standing water, the mold is almost certainly growing on a surface you can't see from the room. That's the inspection we're built to do.
 
-If you're dealing with a mold problem anywhere in Hillside, whether it's a finished basement in Saybrook, a two-family in Hillside Center, or a commercial space off Conant Street, call The Restoration Group at (855) 650-7422. We respond around the clock, and we'll tell you exactly what you're dealing with before any work begins.
+If you're dealing with a mold problem anywhere in Hillside, whether it's a finished basement in Saybrook, a two-family in Hillside Center, or a commercial space off Conant Street, call The Restoration Group at (844) 808-8838. We respond around the clock, and we'll tell you exactly what you're dealing with before any work begins.

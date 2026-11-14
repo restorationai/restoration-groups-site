@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in North Bergen, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in North Bergen"
-meta_description: "24/7 emergency storm damage restoration in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration north bergen"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ For multi-family properties, we're accustomed to coordinating with property mana
 
 One thing that catches out-of-area contractors working in North Bergen: the brick veneer on many of the hillside two- and three-families along the Bergenline corridor is not structural, it's a decorative wythe over a wood-frame wall. After wind-driven rain, moisture migrates through the brick and sits trapped against the sheathing behind it. Drying the interior surface alone isn't enough; without addressing the wall cavity, you'll have mold in the framing within weeks. We use cavity drying equipment and verify moisture readings at the sheathing layer before closing any wall assembly on these properties.
 
-If a storm has hit your North Bergen property, whether it's a tree through the roof on a hillside block or a flooded basement near Tonnelle Avenue, call The Restoration Group at (855) 650-7422. We're available around the clock and will have a crew scoping your damage the same day.
+If a storm has hit your North Bergen property, whether it's a tree through the roof on a hillside block or a flooded basement near Tonnelle Avenue, call The Restoration Group at (844) 808-8838. We're available around the clock and will have a crew scoping your damage the same day.

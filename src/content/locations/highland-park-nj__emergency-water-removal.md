@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Highland Park, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Highland Park"
-meta_description: "24/7 emergency water removal and cleanup in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal highland park"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ The Restoration Group's Kenilworth office puts Highland Park well within our reg
 
 One thing that comes up repeatedly in Highland Park's older housing stock: finished basements that were renovated decades after original construction often have a layer of rigid foam or fiberglass batt tucked between the block foundation wall and a wood-framed interior wall. When water intrudes through the block, common during high water-table events in the Meadow and Livingston Manor areas, that insulation traps moisture against the framing where you can't see it. Standard surface moisture readings come back low while the cavity stays wet for weeks. Probing and thermal imaging behind the finished wall is the only reliable way to catch it, and skipping that step is how a manageable water event becomes a mold remediation job two months later.
 
-If you're in Highland Park and water has entered your home or business, call (855) 650-7422. We'll assess the full scope of the damage, not just what's visible, and walk you through every step from extraction to documented dry.
+If you're in Highland Park and water has entered your home or business, call (844) 808-8838. We'll assess the full scope of the damage, not just what's visible, and walk you through every step from extraction to documented dry.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Somerville, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Somerville"
-meta_description: "24/7 emergency flood damage restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration somerville"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Contractors who don't work regularly in pre-war housing sometimes underestimate 
 
 Flood losses in Somerville frequently involve multiple coverage questions at once: homeowners' property coverage for sudden and accidental water damage, separate NFIP flood policies for riverine events, and, in the newer downtown apartment buildings, landlord policies that interact with tenant renters' insurance. The Restoration Group documents losses in a format that separates the cause-of-loss categories, which matters when a single event triggers more than one policy. We photograph affected materials before removal, produce moisture logs that establish the timeline of the loss, and communicate directly with adjusters so the claim file reflects the actual scope of work.
 
-If you're dealing with flood damage in Somerville right now, call (855) 650-7422. We're available 24/7, and the sooner extraction and drying begin, the narrower the scope of the repair.
+If you're dealing with flood damage in Somerville right now, call (844) 808-8838. We're available 24/7, and the sooner extraction and drying begin, the narrower the scope of the repair.

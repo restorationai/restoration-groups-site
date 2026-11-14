@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Trauma Scene Cleanup in Kenilworth | The Restoration Group"
 h1: "24/7 Emergency Trauma Scene Cleanup in Kenilworth"
-meta_description: "24/7 emergency trauma scene cleanup in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency trauma scene cleanup in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "trauma scene cleanup kenilworth"
 secondary_keywords: ["trauma cleanup services", "trauma scene cleaning", "accident scene cleanup", "crime and trauma decontamination", "emergency trauma cleanup"]
 search_intent: "local_sensitive"
@@ -54,4 +54,4 @@ Costs vary widely depending on the size of the affected area, how far fluid has 
 
 The Restoration Group responds to trauma scene cleanup calls throughout Kenilworth and nearby Union County communities. Because these calls are time-sensitive and emotionally difficult, our teams are set up to move quickly once a scene is released, arriving in unmarked vehicles and working with the discretion the situation calls for.
 
-If you're coordinating a trauma scene cleanup for a home or property in Kenilworth, call (855) 650-7422 any time, day or night, to begin discreet trauma scene cleanup and get a crew scheduled as soon as the scene is released.
+If you're coordinating a trauma scene cleanup for a home or property in Kenilworth, call (844) 808-8838 any time, day or night, to begin discreet trauma scene cleanup and get a crew scheduled as soon as the scene is released.

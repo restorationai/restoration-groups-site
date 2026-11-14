@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Parsippany, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Parsippany"
-meta_description: "24/7 emergency storm damage restoration in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration parsippany"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -32,7 +32,7 @@ The Waterview commercial district and the dense office-park corridor near the In
 
 ## Our Storm Damage Restoration Process in Parsippany
 
-When you call (855) 650-7422, the first priority is stopping active water intrusion. Our crew arrives with emergency tarping and board-up materials to seal any breached roof sections or broken windows before interior drying can begin. On residential properties, particularly the finished basements common throughout the Lake Hiawatha and Powder Mill areas, we deploy truck-mounted extraction equipment alongside portable units to pull standing water from carpet, engineered hardwood, and concrete block walls simultaneously.
+When you call (844) 808-8838, the first priority is stopping active water intrusion. Our crew arrives with emergency tarping and board-up materials to seal any breached roof sections or broken windows before interior drying can begin. On residential properties, particularly the finished basements common throughout the Lake Hiawatha and Powder Mill areas, we deploy truck-mounted extraction equipment alongside portable units to pull standing water from carpet, engineered hardwood, and concrete block walls simultaneously.
 
 Once the structure is stabilized, we conduct a full moisture mapping survey using thermal imaging and calibrated meters. In Parsippany's older homes, this step matters more than it might in newer construction: plaster-over-lath walls, common in the lake-tract capes, hold moisture differently than modern drywall and can read as dry at the surface while staying saturated behind the lath. We set drying targets based on the IICRC S500 standard and monitor daily until materials reach equilibrium. Structural repairs, from sistered rafters to replaced subfloor sections, follow once drying is confirmed, so you're not patching over hidden moisture.
 
@@ -46,4 +46,4 @@ Operating out of Kenilworth, our crews reach Parsippany via I-78 West to I-287 N
 
 One pattern our teams have learned in Parsippany's lake-tract neighborhoods: the original postwar builders in Lake Hiawatha and Lake Parsippany often finished basements by furring out directly against the concrete block foundation walls with no vapor barrier. After a storm flood or a window-well overflow, that assembly traps water between the framing and the block for weeks. A surface reading shows dry drywall while the block behind it stays saturated and begins supporting mold growth. We always pull a section of the bottom course of drywall on these jobs to inspect the cavity directly, skipping that step is how a "dried" basement ends up with an air-quality problem three weeks later.
 
-If your home in the 07054 or 07005 ZIP codes sustained storm damage, whether it's a tree through the roof, a flooded lower level, or wind-driven rain behind your siding, call (855) 650-7422 any time. The Restoration Group is an IICRC Certified Firm (#210213) and a licensed New Jersey Home Improvement Contractor, and we'll document everything your insurance carrier needs from the first hour on site.
+If your home in the 07054 or 07005 ZIP codes sustained storm damage, whether it's a tree through the roof, a flooded lower level, or wind-driven rain behind your siding, call (844) 808-8838 any time. The Restoration Group is an IICRC Certified Firm (#210213) and a licensed New Jersey Home Improvement Contractor, and we'll document everything your insurance carrier needs from the first hour on site.

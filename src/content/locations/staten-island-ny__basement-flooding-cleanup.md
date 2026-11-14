@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Basement Flooding Cleanup in Staten Island, NY | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Staten Island"
-meta_description: "24/7 emergency basement flooding cleanup in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup staten island"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Flooded basement in Staten Island? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to pump out the water and start drying.
 
-Staten Island's East Shore has never fully dried out from Hurricane Sandy's memory, and when Ida dropped several inches of rain in a matter of hours in 2021, low-lying South Shore streets flooded again before most residents could move a single box. If you're standing at the top of your basement stairs right now looking at a foot of brown water, the clock is already running: mold can begin colonizing wet framing within 24 to 48 hours, and the longer saturated water sits against a concrete block or poured-foundation wall, the deeper it wicks. The Restoration Group has crews based on the island and can be reached any hour at (855) 650-7422.
+Staten Island's East Shore has never fully dried out from Hurricane Sandy's memory, and when Ida dropped several inches of rain in a matter of hours in 2021, low-lying South Shore streets flooded again before most residents could move a single box. If you're standing at the top of your basement stairs right now looking at a foot of brown water, the clock is already running: mold can begin colonizing wet framing within 24 to 48 hours, and the longer saturated water sits against a concrete block or poured-foundation wall, the deeper it wicks. The Restoration Group has crews based on the island and can be reached any hour at (844) 808-8838.
 
 ## Why Staten Island Basements Flood, and Why It's Complicated Here
 
@@ -53,4 +53,4 @@ We photograph affected materials before anything is removed, generate moisture l
 
 One thing that catches homeowners off guard in the postwar split-levels common throughout New Dorp and Great Kills: the half-level design means the "basement" floor is often only partially below grade, with one or two walls fully exposed above ground. That sounds like it would make drying easier, and it does for those walls, but the below-grade portion often has no vapor barrier between the slab and the soil, and the soil on the South Shore holds water for days after a rain event. We've seen slabs that read dry on the surface re-wet from below within 48 hours of equipment removal because the ground moisture was never addressed. On those jobs, we extend the drying cycle and verify slab readings at depth before pulling equipment.
 
-If your basement flooded today, whether it's a pipe break in a St. George brownstone or storm surge creeping under a South Beach back door, call (855) 650-7422. Crews are on the island and available around the clock.
+If your basement flooded today, whether it's a pipe break in a St. George brownstone or storm surge creeping under a South Beach back door, call (844) 808-8838. Crews are on the island and available around the clock.

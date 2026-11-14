@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Scotch Plains, NJ | The Restoration Group"
 h1: "Restoration Services in Scotch Plains"
-meta_description: "Serving Scotch Plains, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Scotch Plains, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services scotch plains"
 secondary_keywords: ["scotch plains restoration company", "damage restoration scotch plains", "scotch plains disaster restoration"]
 search_intent: "local_commercial"
@@ -59,4 +59,4 @@ Foundations here are mostly poured concrete or hollow block, and the mid-century
 
 Plan for era hazards: 9x9 floor tile and mastic, pipe wrap, and pre-1978 lead paint all need testing before demolition. Structural, electrical, and plumbing repairs are permitted through the township construction office under the New Jersey Uniform Construction Code.
 
-If you are dealing with a water, fire, mold, or storm loss anywhere in Scotch Plains, ZIP code 07076, Downtown Scotch Plains, Ashbrook, or anywhere along the Fanwood border, call The Restoration Group at **(855) 650-7422**. We answer every hour of every day, and we can walk you through what to do right now while a crew is on the way.
+If you are dealing with a water, fire, mold, or storm loss anywhere in Scotch Plains, ZIP code 07076, Downtown Scotch Plains, Ashbrook, or anywhere along the Fanwood border, call The Restoration Group at **(844) 808-8838**. We answer every hour of every day, and we can walk you through what to do right now while a crew is on the way.

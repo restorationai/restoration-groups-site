@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Bridgewater, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Bridgewater"
-meta_description: "24/7 emergency water removal and cleanup in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal bridgewater"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-When the Raritan River backs up through Finderne or a supply line lets go inside one of Bridgewater's postwar split-levels, the water doesn't wait for business hours, and neither do we. The Restoration Group responds 24/7 to emergency water removal calls across Bridgewater, bringing IICRC-certified technicians and commercial extraction equipment directly to the loss site before secondary damage has a chance to take hold. If you're standing in a wet basement right now, call (855) 650-7422.
+When the Raritan River backs up through Finderne or a supply line lets go inside one of Bridgewater's postwar split-levels, the water doesn't wait for business hours, and neither do we. The Restoration Group responds 24/7 to emergency water removal calls across Bridgewater, bringing IICRC-certified technicians and commercial extraction equipment directly to the loss site before secondary damage has a chance to take hold. If you're standing in a wet basement right now, call (844) 808-8838.
 
 ## Why Bridgewater Properties Need Emergency Water Removal
 
@@ -48,4 +48,4 @@ Most homeowner policies in Somerset County cover sudden and accidental water los
 
 Bridgewater's postwar split-levels were commonly built with a hybrid wall assembly, plaster over metal lath on the upper floors, drywall in the finished basement level added during later renovations. When water enters through the foundation or a failed drain line, it can wick upward into the plaster section of the wall without ever showing a visible stain on the basement drywall below. Technicians who aren't reading moisture meters at multiple heights in these homes regularly miss the saturation zone entirely. It's a pattern specific enough to Bridgewater's era of construction that we check for it on every basement water loss in the township.
 
-If you're dealing with a water emergency anywhere in Bridgewater, from a flooded Finderne crawlspace to a sprinkler discharge at a commercial suite near TD Bank Ballpark, call The Restoration Group at (855) 650-7422. We'll have certified technicians on site, equipment staged, and a documented removal and drying plan in place before the damage has a chance to compound.
+If you're dealing with a water emergency anywhere in Bridgewater, from a flooded Finderne crawlspace to a sprinkler discharge at a commercial suite near TD Bank Ballpark, call The Restoration Group at (844) 808-8838. We'll have certified technicians on site, equipment staged, and a documented removal and drying plan in place before the damage has a chance to compound.

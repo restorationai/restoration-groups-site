@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Livingston, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Livingston"
-meta_description: "24/7 emergency basement flooding cleanup in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup livingston"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ One pattern we see repeatedly in Livingston's split-level homes: the below-grade
 
 Most standard homeowners' policies in New Jersey cover sudden and accidental water damage, a burst pipe or appliance failure, but exclude gradual seepage and rising groundwater. After Ida, many Essex County homeowners discovered that distinction the hard way. We document the loss thoroughly from the moment we arrive: photographs, moisture readings, a written scope of damage, and a drying log. That documentation package is what your adjuster needs to process the claim efficiently. We work directly with most major carriers and can communicate with your adjuster on your behalf so you're not translating between insurance language and restoration work.
 
-If you're dealing with a flooded basement anywhere in Livingston, whether it's a finished lower level in the Collins neighborhood or an older utility space near Cedar Hill, call (855) 650-7422. We'll assess the damage, start extraction, and give you a clear picture of what comes next.
+If you're dealing with a flooded basement anywhere in Livingston, whether it's a finished lower level in the Collins neighborhood or an older utility space near Cedar Hill, call (844) 808-8838. We'll assess the damage, start extraction, and give you a clear picture of what comes next.

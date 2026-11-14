@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Ridgewood, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Ridgewood"
-meta_description: "24/7 mold inspection and testing in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing ridgewood"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -40,10 +40,10 @@ We document everything with photographs and a written report that details moistu
 
 ## Reaching Ridgewood from Our Kenilworth Location
 
-Our team operates 24/7 and dispatches from Kenilworth, NJ. Ridgewood is accessible via Route 17 north to the village, and we regularly serve addresses throughout the 07450 ZIP code, from properties near Graydon Pool on the west side to homes in the Heights closer to the Paramus border. When you call (855) 650-7422, we'll confirm availability and get a crew moving toward your address promptly.
+Our team operates 24/7 and dispatches from Kenilworth, NJ. Ridgewood is accessible via Route 17 north to the village, and we regularly serve addresses throughout the 07450 ZIP code, from properties near Graydon Pool on the west side to homes in the Heights closer to the Paramus border. When you call (844) 808-8838, we'll confirm availability and get a crew moving toward your address promptly.
 
 ## Local Note: What Ridgewood Inspectors See That Others Miss
 
 In Ridgewood's pre-war homes, finished basements often have a layer of 1950s or 1960s-era wood paneling installed directly over the original stone or block foundation wall, with no vapor barrier in between. That cavity is invisible from the living space and rarely gets inspected during a standard home purchase. It's one of the first places we probe with a moisture meter on any Ridgewood inspection, because it's consistently where hidden mold growth shows up years after a slow seepage event that the homeowner may not even remember. If your home has that kind of paneled basement finish and you're anywhere near the Ho-Ho-Kus Brook flood plain, it's worth having that space assessed even without an obvious trigger event.
 
-If mold is confirmed, The Restoration Group can move directly into remediation as a licensed NJ Home Improvement Contractor, you won't need to coordinate a separate company or repeat the documentation process from scratch. Call (855) 650-7422 to schedule a mold inspection and testing appointment in Ridgewood, or to ask questions before you commit to anything.
+If mold is confirmed, The Restoration Group can move directly into remediation as a licensed NJ Home Improvement Contractor, you won't need to coordinate a separate company or repeat the documentation process from scratch. Call (844) 808-8838 to schedule a mold inspection and testing appointment in Ridgewood, or to ask questions before you commit to anything.

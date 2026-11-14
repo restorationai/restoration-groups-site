@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Scotch Plains, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Scotch Plains"
-meta_description: "24/7 odor removal and deodorization in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization scotch plains"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -53,4 +53,4 @@ Odor removal is a covered loss under most homeowner policies when it results fro
 
 In Scotch Plains' older neighborhoods near Downtown and the Frazee House corridor, homes with original plaster-and-lath interior walls absorb smoke and moisture odor differently than modern drywall. Plaster is denser and less porous on the surface, which can make a room smell cleaner after initial airing, but the lath cavity behind it traps odor compounds that off-gas for weeks. We probe these cavities with a thermal imaging camera and a calibrated odor meter before closing out any post-fire or post-flood deodorization job in this part of town. Skipping that step is why some homeowners call a second contractor after the first one clears the job.
 
-If your Scotch Plains property has a smell that cleaning hasn't resolved, call The Restoration Group at (855) 650-7422. We'll identify the source, match the right technology to your specific structure, and document everything your insurance carrier needs to process the claim.
+If your Scotch Plains property has a smell that cleaning hasn't resolved, call The Restoration Group at (844) 808-8838. We'll identify the source, match the right technology to your specific structure, and document everything your insurance carrier needs to process the claim.

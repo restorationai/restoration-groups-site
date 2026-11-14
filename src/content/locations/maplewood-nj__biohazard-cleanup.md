@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Maplewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Maplewood"
-meta_description: "24/7 emergency biohazard cleanup in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup maplewood"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -54,4 +54,4 @@ Biohazard remediation is often a covered loss under homeowner's insurance polici
 
 In Maplewood's older Tudor and craftsman homes, especially those in the Hilton neighborhood with original stone foundation walls, biological contaminants that reach the foundation level can wick into mortar joints in ways that are not visible from the interior. We probe these areas during assessment rather than assuming the contamination boundary stops at the finished floor. It is a step that adds time to the initial walkthrough but prevents incomplete remediation from surfacing weeks later as persistent odor or a failed clearance test. If you are in a home built before World War II, this kind of structural awareness is not optional, it is part of doing the job correctly.
 
-If you are dealing with a biohazard situation in Maplewood, whether it is an emergency right now or a property you need to address before a sale or estate settlement, call The Restoration Group at (855) 650-7422. We will handle the logistics, the documentation, and the cleanup so you can focus on what comes next.
+If you are dealing with a biohazard situation in Maplewood, whether it is an emergency right now or a property you need to address before a sale or estate settlement, call The Restoration Group at (844) 808-8838. We will handle the logistics, the documentation, and the cleanup so you can focus on what comes next.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Morristown, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Morristown"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair morristown"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ For condo owners in Morristown's newer downtown buildings, the split between uni
 
 One thing that catches homeowners off guard in Morristown's older neighborhoods: the finished basements in many Victorians and colonials near Cauldwell and Franklin Corner were built with the finished wall surface applied directly against the foundation masonry, no air gap, no vapor barrier. When a pipe bursts and water gets behind that drywall, it saturates the masonry and the drywall simultaneously. The masonry holds moisture for weeks after the drywall reads dry, which means a drying system pulled too early leaves residual moisture in the wall assembly that can feed mold growth later. We extend monitoring in those situations rather than closing out on the first dry reading.
 
-If a burst pipe has let go anywhere in Morristown, whether you're dealing with a flooded Victorian basement near the Historic District or a supply-line failure in a newer downtown building, call The Restoration Group at (855) 650-7422. We're available around the clock, and we'll have equipment on-site and working before most of the water has had time to soak in.
+If a burst pipe has let go anywhere in Morristown, whether you're dealing with a flooded Victorian basement near the Historic District or a supply-line failure in a newer downtown building, call The Restoration Group at (844) 808-8838. We're available around the clock, and we'll have equipment on-site and working before most of the water has had time to soak in.

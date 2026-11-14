@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Highland Park, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Highland Park"
-meta_description: "24/7 emergency smoke damage restoration in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration highland park"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -42,7 +42,7 @@ From there, the process moves through four stages:
 - **Thermal fogging and hydroxyl treatment** to break down odor-causing molecules embedded in soft goods, insulation, and wall cavities, not just mask them.
 - **Final air quality verification** before the job is closed out, so you have documentation that particulate levels have returned to pre-loss conditions.
 
-As an IICRC Certified Firm (#210213), the work follows S700 standard protocols for smoke and soot restoration. The team is available around the clock, call (855) 650-7422 any time.
+As an IICRC Certified Firm (#210213), the work follows S700 standard protocols for smoke and soot restoration. The team is available around the clock, call (844) 808-8838 any time.
 
 ## Reaching Highland Park from Kenilworth
 
@@ -60,4 +60,4 @@ For rental properties near the Rutgers corridor or multi-unit buildings along th
 
 One pattern that comes up repeatedly in Highland Park's older two-family homes: the shared attic space above a converted second-floor unit often has no fire or smoke barrier between units. When a kitchen fire starts on the first floor, smoke migrates into the attic and then back down into the second-floor unit through ceiling light fixtures and plumbing penetrations, even when the second floor shows no visible damage. Homeowners and landlords are sometimes surprised when the restoration scope includes the upstairs unit. It's not scope creep; it's what the thermal imaging and air sampling actually show.
 
-If your home or rental property in Highland Park has been affected by a fire, don't wait on the odor, smoke residue continues breaking down finishes, fabrics, and metal surfaces every day it sits. Call (855) 650-7422 to schedule an assessment and get a clear picture of what the damage actually involves.
+If your home or rental property in Highland Park has been affected by a fire, don't wait on the odor, smoke residue continues breaking down finishes, fabrics, and metal surfaces every day it sits. Call (844) 808-8838 to schedule an assessment and get a clear picture of what the damage actually involves.

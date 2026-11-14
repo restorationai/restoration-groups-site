@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Morristown, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Morristown"
-meta_description: "24/7 emergency basement flooding cleanup in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup morristown"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -53,4 +53,4 @@ We photograph affected materials before removal, generate moisture logs that mee
 
 In Morristown's Historic District, many finished basements have original wide-plank hardwood or early-20th-century tile floors laid directly over rubble-stone or poured-concrete foundations with no vapor barrier. When these basements flood, the floor assembly traps moisture between the finish layer and the stone, standard surface drying misses it entirely. We use penetrating moisture meters and thermal imaging to map where water has migrated under the floor before we set equipment, which prevents a situation where the visible surface reads dry but mold is already colonizing the substructure beneath it.
 
-If your basement has taken water, whether from the last storm system, a failed sump, or a pipe you discovered this morning, call (855) 650-7422. We'll assess the source, start extraction, and get drying equipment in place the same day.
+If your basement has taken water, whether from the last storm system, a failed sump, or a pipe you discovered this morning, call (844) 808-8838. We'll assess the source, start extraction, and get drying equipment in place the same day.

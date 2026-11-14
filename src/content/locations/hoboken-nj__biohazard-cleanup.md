@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Hoboken, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Hoboken"
-meta_description: "24/7 emergency biohazard cleanup in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup hoboken"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -55,4 +55,4 @@ Biohazard cleanup is frequently a covered loss under homeowners, renters, or com
 
 In Hoboken's older brownstones, original pine or fir hardwood floors are often installed directly over a wood subfloor with no moisture barrier, a construction method common in buildings from the late 1800s through the early 1900s. When biological material reaches the floor, it can wick between boards and into the subfloor layer before it is visible at the surface. Crews working in these buildings need to assess below the finished floor, not just at it. This is a detail that matters in a city where the majority of the residential housing stock predates World War II, and it is something we account for during the initial assessment on every Hoboken job in this building type.
 
-If you are dealing with a biohazard situation at a Hoboken address, whether in a private residence, a rental unit, or a commercial space, call (855) 650-7422. We answer 24/7, we arrive discreetly, and we handle the process so you do not have to navigate it alone.
+If you are dealing with a biohazard situation at a Hoboken address, whether in a private residence, a rental unit, or a commercial space, call (844) 808-8838. We answer 24/7, we arrive discreetly, and we handle the process so you do not have to navigate it alone.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Teaneck, NJ | The Restoration Group"
 h1: "Commercial Restoration in Teaneck"
-meta_description: "24/7 commercial restoration in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration teaneck"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -54,4 +54,4 @@ For businesses along Cedar Lane or in multi-tenant buildings, we can also prepar
 
 One pattern we've seen repeatedly in Teaneck's older commercial masonry buildings: cast-iron drain lines running beneath concrete slab floors are prone to root intrusion and joint separation, and a slow sewer backup can saturate the sub-slab fill material for weeks before it surfaces visibly. By the time a business owner notices an odor or sees moisture wicking up through grout lines, the contamination footprint is often much larger than it looks. On any commercial water loss in Teaneck where the source isn't immediately obvious, we probe sub-slab moisture levels as part of the initial assessment, it's a step that saves significant remediation cost when caught early.
 
-If your Teaneck business or commercial property has experienced water, fire, or smoke damage, call The Restoration Group at (855) 650-7422. We're available around the clock, we document everything for your insurer, and we don't consider the job done until your space is dry, clean, and cleared for occupancy.
+If your Teaneck business or commercial property has experienced water, fire, or smoke damage, call The Restoration Group at (844) 808-8838. We're available around the clock, we document everything for your insurer, and we don't consider the job done until your space is dry, clean, and cleared for occupancy.

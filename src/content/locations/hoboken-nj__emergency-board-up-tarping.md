@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Hoboken, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Hoboken"
-meta_description: "24/7 emergency board-up and tarping in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping hoboken"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -44,4 +44,4 @@ From our Kenilworth headquarters, our crews route via the Garden State Parkway t
 
 One thing that catches out-of-area crews in Hoboken: the exterior brick on most pre-war rowhouses is a single wythe, roughly 3.5 inches thick, with no structural backup behind it. Driving long lag screws through that brick to anchor board-up panels can fracture the masonry and create a new damage claim. Our crews use masonry anchors sized for single-wythe brick, or we anchor to the window frame itself when the frame is intact. On buildings where the facade brick is visibly spalled or cracked, common in blocks that took on water during Sandy in 2012, we flag the condition in our documentation before touching the wall, so there's no dispute later about what was pre-existing.
 
-If your property in Hoboken has been damaged and you need openings secured tonight, call The Restoration Group at (855) 650-7422. We're an IICRC Certified Firm (#210213) and a licensed NJ Home Improvement Contractor, and we carry the documentation your insurer will need from the first hour on site.
+If your property in Hoboken has been damaged and you need openings secured tonight, call The Restoration Group at (844) 808-8838. We're an IICRC Certified Firm (#210213) and a licensed NJ Home Improvement Contractor, and we carry the documentation your insurer will need from the first hour on site.

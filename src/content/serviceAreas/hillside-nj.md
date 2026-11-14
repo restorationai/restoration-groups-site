@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Hillside, NJ | The Restoration Group"
 h1: "Restoration Services in Hillside"
-meta_description: "Serving Hillside, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Hillside, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services hillside"
 secondary_keywords: ["hillside restoration company", "damage restoration hillside", "hillside disaster restoration"]
 search_intent: "local_commercial"
@@ -61,4 +61,4 @@ The ground is Piedmont clay and urban fill over shale, which drains slowly and p
 
 Structural repair and rebuild permits come from Hillside Township's construction office under the New Jersey Uniform Construction Code, with separate building, plumbing, electrical, and fire subcode approvals.
 
-If you are dealing with water, fire, mold, or storm damage anywhere in Hillside, call The Restoration Group at **(855) 650-7422**. We answer around the clock, and our crew is already close.
+If you are dealing with water, fire, mold, or storm damage anywhere in Hillside, call The Restoration Group at **(844) 808-8838**. We answer around the clock, and our crew is already close.

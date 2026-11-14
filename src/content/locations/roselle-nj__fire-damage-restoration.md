@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Roselle, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Roselle"
-meta_description: "24/7 emergency fire damage restoration in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration roselle"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Roselle? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to secure the property and start the recovery.
 
-A house fire in Roselle hits differently than in newer suburban towns. The borough's dense grid of early-1900s Victorians, postwar capes, and brick colonials, many of them on lots so tight that neighbors can hear each other's conversations through the walls, means smoke and soot don't stay in one unit for long. Char odor migrates through shared attic cavities, original horsehair-plaster walls, and uninsulated balloon-frame stud bays before a fire truck has finished packing up. Calling (855) 650-7422 the same night is the difference between a contained restoration and a whole-house deodorization project.
+A house fire in Roselle hits differently than in newer suburban towns. The borough's dense grid of early-1900s Victorians, postwar capes, and brick colonials, many of them on lots so tight that neighbors can hear each other's conversations through the walls, means smoke and soot don't stay in one unit for long. Char odor migrates through shared attic cavities, original horsehair-plaster walls, and uninsulated balloon-frame stud bays before a fire truck has finished packing up. Calling (844) 808-8838 the same night is the difference between a contained restoration and a whole-house deodorization project.
 
 ## Why Roselle's Housing Stock Complicates Fire Damage
 
@@ -49,4 +49,4 @@ Fire claims in Union County typically move faster when the restoration contracto
 
 Roselle's older balloon-frame homes present a specific odor-recurrence problem that crews unfamiliar with the housing stock sometimes miss: original horsehair plaster, still intact on many interior walls in the blocks near the Abraham Clark House historic district, absorbs smoke compounds deeply and releases them slowly over weeks as humidity fluctuates. Standard encapsulant applied over plaster without first addressing the substrate moisture content will peel within a season. Our technicians check plaster moisture levels before sealing and, when necessary, recommend controlled drying periods of 48–72 hours before encapsulant application, a step that adds time upfront but prevents callback jobs months later.
 
-If your home or business in Roselle has sustained fire or smoke damage, the window for limiting secondary loss is measured in hours, not days. Call (855) 650-7422 any time, our Kenilworth crew is ready to respond to Roselle addresses around the clock and will have a documented scope in your hands before your insurance adjuster asks for one.
+If your home or business in Roselle has sustained fire or smoke damage, the window for limiting secondary loss is measured in hours, not days. Call (844) 808-8838 any time, our Kenilworth crew is ready to respond to Roselle addresses around the clock and will have a documented scope in your hands before your insurance adjuster asks for one.

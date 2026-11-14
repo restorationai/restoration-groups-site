@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Parsippany, NJ | The Restoration Group"
 h1: "Commercial Restoration in Parsippany"
-meta_description: "24/7 commercial restoration in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration parsippany"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -50,4 +50,4 @@ For multi-tenant buildings, we coordinate access and sequencing with property ma
 
 One pattern we've seen repeatedly in Parsippany's older commercial buildings, particularly the low-rise office parks built in the late 1970s and 1980s near the Troy Hills area, is that the original cast-iron floor drains in mechanical rooms and restrooms have corroded to the point where they no longer seat properly. When a sprinkler system activates or a supply line fails, water that should drain instead backs up and spreads laterally under the slab. By the time it's visible in an adjacent space, it's already migrated 20 or 30 feet from the source. We check drain function as part of our initial site assessment on any commercial water loss in buildings of that vintage, it changes both the extraction plan and the drying timeline significantly.
 
-If a water loss, fire, or other damage event has shut down part of your Parsippany operation, call The Restoration Group at (855) 650-7422. We'll have a crew on-site, documentation started, and a clear scope in front of your adjuster before the business day is over.
+If a water loss, fire, or other damage event has shut down part of your Parsippany operation, call The Restoration Group at (844) 808-8838. We'll have a crew on-site, documentation started, and a clear scope in front of your adjuster before the business day is over.

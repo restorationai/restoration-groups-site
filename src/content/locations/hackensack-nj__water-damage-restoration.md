@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Hackensack, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Hackensack"
-meta_description: "24/7 emergency water damage restoration in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration hackensack"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ For multi-unit buildings on Prospect Avenue or near the Central Business Distric
 
 In Hackensack's prewar two- and three-family homes, particularly the ones in Fairmount built before 1940, original plaster walls behave very differently from modern drywall during a water loss. Plaster absorbs moisture slowly but releases it even more slowly, and it holds water in a way that standard moisture meters can underread if the technician is not calibrated for the material. We adjust our drying timelines and meter readings accordingly on those properties. Pulling equipment on day three because the surface reads dry, when the underlying plaster is still holding significant moisture, leads to mold colonization inside the wall cavity within a week, a secondary loss that costs far more than the extra drying days.
 
-If you are dealing with water damage anywhere in Hackensack, a flooded basement in the Southside, a pipe burst in a Prospect Avenue high-rise, or storm intrusion near the river, call The Restoration Group at (855) 650-7422. We are available around the clock, we are an IICRC Certified Firm (#210213), and we are licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor. The sooner extraction begins, the more of the structure, and the claim, we can protect.
+If you are dealing with water damage anywhere in Hackensack, a flooded basement in the Southside, a pipe burst in a Prospect Avenue high-rise, or storm intrusion near the river, call The Restoration Group at (844) 808-8838. We are available around the clock, we are an IICRC Certified Firm (#210213), and we are licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor. The sooner extraction begins, the more of the structure, and the claim, we can protect.

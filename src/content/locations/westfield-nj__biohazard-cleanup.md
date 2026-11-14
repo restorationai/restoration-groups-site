@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Westfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Westfield"
-meta_description: "24/7 emergency biohazard cleanup in Westfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Westfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup westfield"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -55,4 +55,4 @@ Biohazard cleanup is often a covered loss under homeowners' policies, but the do
 
 One thing that comes up specifically in Westfield's older neighborhoods: original hardwood floors in pre-war homes are often irreplaceable tongue-and-groove stock that cannot be matched at a lumber yard. When biohazard contamination reaches the subfloor, the decision about what can be saved versus what must be removed requires careful assessment, not a blanket tear-out. We take the time to evaluate each board individually and document the condition for the insurance claim, because replacing a 1920s quarter-sawn oak floor with modern material is not a like-kind restoration. Westfield homeowners and their carriers both deserve that distinction.
 
-If you are dealing with a biohazard situation at a Westfield property right now, call The Restoration Group at (855) 650-7422. Every call is answered directly, and a crew can be dispatched immediately.
+If you are dealing with a biohazard situation at a Westfield property right now, call The Restoration Group at (844) 808-8838. Every call is answered directly, and a crew can be dispatched immediately.

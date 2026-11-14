@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Sewage Cleanup and Sanitization in Edison, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Edison"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization edison"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-When a sewer line backs up into a finished basement in Edison's Clara Barton or Stelton neighborhoods, the clock starts immediately, raw sewage carries bacteria, viruses, and pathogens that begin colonizing porous materials within hours. The Restoration Group responds 24/7 from Kenilworth to address sewage backup cleanup before contamination spreads into the framing, insulation, and subfloor of homes that were never designed with flood-prone basements in mind. If you're dealing with standing sewage right now, call (855) 650-7422.
+When a sewer line backs up into a finished basement in Edison's Clara Barton or Stelton neighborhoods, the clock starts immediately, raw sewage carries bacteria, viruses, and pathogens that begin colonizing porous materials within hours. The Restoration Group responds 24/7 from Kenilworth to address sewage backup cleanup before contamination spreads into the framing, insulation, and subfloor of homes that were never designed with flood-prone basements in mind. If you're dealing with standing sewage right now, call (844) 808-8838.
 
 ## Why Edison Properties Are Especially Vulnerable to Sewage Backups
 
@@ -52,4 +52,4 @@ If your policy does not include sewer backup coverage, we can provide an itemize
 
 One thing crews working in Edison's older split-level homes encounter regularly: the finished basement floor is often a thin concrete slab poured directly over compacted fill, with no vapor barrier between the slab and the soil. When sewage saturates that slab, moisture wicks upward into the lower level's framing from below, not just from the surface. Standard moisture meters read the top of the slab as drying while the underside remains wet. We use penetrating probes and thermal imaging to check the slab assembly from both sides before signing off on dryness, skipping that step is how callbacks happen six weeks later when mold appears under the new flooring.
 
-If sewage has backed up into your Edison home or commercial property, don't wait to see how bad it gets. Call The Restoration Group at (855) 650-7422, we're available around the clock and can dispatch a crew to your address in Edison, whether you're in Clara Barton, North Edison, or anywhere else in the township.
+If sewage has backed up into your Edison home or commercial property, don't wait to see how bad it gets. Call The Restoration Group at (844) 808-8838, we're available around the clock and can dispatch a crew to your address in Edison, whether you're in Clara Barton, North Edison, or anywhere else in the township.

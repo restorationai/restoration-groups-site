@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Teaneck, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Teaneck"
-meta_description: "24/7 contents restoration & pack-out in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out teaneck"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ Contents losses are among the most contested portions of a property insurance cl
 
 In Teaneck's older Tudors and colonials, finished basements were often retrofitted decades after original construction, which means the framing, flooring, and wall assemblies down there are a patchwork of eras and materials. When a sewer backup or groundwater event saturates that space, contents stored on wire shelving or in plastic bins at floor level may look undamaged on the surface while the cardboard boxes and fabric items beneath them have been wicking contaminated water for hours. During pack-out in these homes, we work from the floor up and treat everything at or below the water line as potentially affected, a precaution that prevents contaminated items from being reintroduced to a cleaned space later.
 
-If you are dealing with a loss at a property near Fairleigh Dickinson University or in the dense residential blocks around Holy Name Medical Center, call (855) 650-7422. We will assess the contents, begin the pack-out, and make sure your belongings are documented, protected, and ready to come home.
+If you are dealing with a loss at a property near Fairleigh Dickinson University or in the dense residential blocks around Holy Name Medical Center, call (844) 808-8838. We will assess the contents, begin the pack-out, and make sure your belongings are documented, protected, and ready to come home.

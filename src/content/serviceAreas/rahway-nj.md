@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Rahway, NJ | The Restoration Group"
 h1: "Restoration Services in Rahway"
-meta_description: "Serving Rahway, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Rahway, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services rahway"
 secondary_keywords: ["rahway restoration company", "damage restoration rahway", "rahway disaster restoration"]
 search_intent: "local_commercial"
@@ -63,4 +63,4 @@ Footing depth here follows northern New Jersey frost requirements, and with the 
 
 Permits come from Rahway's construction office under New Jersey's statewide Uniform Construction Code, with separate plumbing, electrical, and fire sub-code approvals. Structural repair and flood-zone rebuilds trigger review.
 
-If you're dealing with a water, fire, or mold emergency in Rahway, or you're a property manager who needs a reliable remediation contractor on call, reach The Restoration Group at **(855) 650-7422**, any hour of the day.
+If you're dealing with a water, fire, or mold emergency in Rahway, or you're a property manager who needs a reliable remediation contractor on call, reach The Restoration Group at **(844) 808-8838**, any hour of the day.

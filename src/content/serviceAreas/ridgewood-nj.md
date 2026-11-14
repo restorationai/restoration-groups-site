@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Ridgewood, NJ | The Restoration Group"
 h1: "Restoration Services in Ridgewood"
-meta_description: "Serving Ridgewood, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Ridgewood, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services ridgewood"
 secondary_keywords: ["ridgewood restoration company", "damage restoration ridgewood", "ridgewood disaster restoration"]
 search_intent: "local_commercial"
@@ -61,4 +61,4 @@ The ground here is glacial soil over red sandstone and shale bedrock, with alluv
 
 Structural repair and rebuild permits come from the Village's construction office under New Jersey's Uniform Construction Code; work in mapped flood areas carries added elevation requirements.
 
-If you're dealing with a loss in Ridgewood right now, or want to talk through what a restoration project involves before committing, call The Restoration Group at **(855) 650-7422**. We're available around the clock and we know the village well.
+If you're dealing with a loss in Ridgewood right now, or want to talk through what a restoration project involves before committing, call The Restoration Group at **(844) 808-8838**. We're available around the clock and we know the village well.

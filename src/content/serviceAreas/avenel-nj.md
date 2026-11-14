@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Avenel, NJ | The Restoration Group"
 h1: "Restoration Services in Avenel"
-meta_description: "Serving Avenel, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Avenel, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services avenel"
 secondary_keywords: ["avenel restoration company", "damage restoration avenel", "avenel disaster restoration"]
 search_intent: "local_commercial"
@@ -45,4 +45,4 @@ Our Kenilworth headquarters sits a straightforward run down the Garden State Par
 
 Much of Avenel's housing was built from the postwar period through the 1960s and 70s, a mix of brick-front capes, ranches, and split-levels, many with full or partial basements rather than slab construction. That means a water intrusion event typically has a basement to deal with first, where finished rec rooms and mechanical equipment sit low and take on water before anyone upstairs notices. Plumbing from that era commonly includes galvanized steel or early copper supply lines and cast iron drains, both of which are well past their expected service life in a meaningful share of these homes, and older homes may still carry asbestos-containing floor tile or siding that has to be accounted for before demolition begins. Permits for structural repair, framing replacement, or rebuild work in Avenel are issued through Woodbridge Township's construction office, and any scope that touches load-bearing elements or exceeds cosmetic repair should expect to go through that process.
 
-If you're dealing with standing water, fire damage, or a mold problem in Avenel right now, call The Restoration Group at (855) 650-7422. We're available 24/7 to talk through what you're seeing and get a crew moving toward your property.
+If you're dealing with standing water, fire damage, or a mold problem in Avenel right now, call The Restoration Group at (844) 808-8838. We're available 24/7 to talk through what you're seeing and get a crew moving toward your property.

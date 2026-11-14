@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Englewood, NJ | The Restoration Group"
 h1: "Mold Remediation in Englewood"
-meta_description: "24/7 mold remediation in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation englewood"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -40,7 +40,7 @@ For multi-unit buildings, which are common across Englewood's apartment stock, w
 
 ## Reaching Englewood from Kenilworth
 
-The Restoration Group operates 24/7 out of Kenilworth, NJ, and Englewood is well within our active service area. Our crews travel Route 3 East to the Garden State Parkway North, reaching Englewood typically within the hour depending on traffic. We serve all Englewood neighborhoods, from the dense residential streets of the Fourth Ward to the larger properties along the Englewood Cliffs border, and we're reachable any time of day or night at (855) 650-7422.
+The Restoration Group operates 24/7 out of Kenilworth, NJ, and Englewood is well within our active service area. Our crews travel Route 3 East to the Garden State Parkway North, reaching Englewood typically within the hour depending on traffic. We serve all Englewood neighborhoods, from the dense residential streets of the Fourth Ward to the larger properties along the Englewood Cliffs border, and we're reachable any time of day or night at (844) 808-8838.
 
 ## Englewood Insurance Coordination
 
@@ -52,4 +52,4 @@ For commercial properties along Palisade Avenue or institutional accounts near E
 
 One pattern we see repeatedly in Englewood's East Hill homes: the original plaster walls, common in houses built between 1900 and 1940, act as a moisture reservoir rather than a moisture barrier. When a slow roof leak or a sweating pipe wets plaster, the material holds that moisture for weeks, creating a prolonged growth window for mold even after the source is repaired. Homeowners who fix the leak and assume the problem is solved often call us months later when the smell returns. In these homes, we use extended drying protocols and take additional moisture readings at depth before we ever close up a wall.
 
-If you're seeing discoloration, smelling mustiness, or you've had any water event in the last 60 days, call The Restoration Group at (855) 650-7422. We'll assess the situation in Englewood specifically, not with a generic checklist, but with the building knowledge and local context this city's housing stock actually requires.
+If you're seeing discoloration, smelling mustiness, or you've had any water event in the last 60 days, call The Restoration Group at (844) 808-8838. We'll assess the situation in Englewood specifically, not with a generic checklist, but with the building knowledge and local context this city's housing stock actually requires.

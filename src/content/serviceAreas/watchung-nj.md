@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Watchung, NJ | The Restoration Group"
 h1: "Restoration Services in Watchung"
-meta_description: "Serving Watchung, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Watchung, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services watchung"
 secondary_keywords: ["watchung restoration company", "damage restoration watchung", "watchung disaster restoration"]
 search_intent: "local_commercial"
@@ -45,4 +45,4 @@ Much of Watchung's housing stock reflects a mix of mid-20th-century construction
 
 Structural repairs tied to a covered loss, from reframing a water-damaged wall to replacing fire-damaged roof decking, require a permit through Watchung's construction department under New Jersey's Uniform Construction Code. We scope repairs with that permitting process in mind from the start, so the paperwork doesn't become the bottleneck between a loss and getting the property back together.
 
-If water, fire, smoke, or storm damage has hit your Watchung property, call The Restoration Group at (855) 650-7422. We answer 24/7, document everything your carrier will ask for, and get crews moving the same day you call.
+If water, fire, smoke, or storm damage has hit your Watchung property, call The Restoration Group at (844) 808-8838. We answer 24/7, document everything your carrier will ask for, and get crews moving the same day you call.

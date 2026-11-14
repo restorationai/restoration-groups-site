@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Hillside, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Hillside"
-meta_description: "24/7 emergency basement flooding cleanup in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup hillside"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Most standard homeowner policies cover sudden and accidental water losses, a bur
 
 Hillside's older two-family homes, common throughout the Winans and Coe's Corner neighborhoods, frequently have basements that were divided into separate utility and storage areas for each unit, with shared drain lines that were never designed for the loads they carry today. When one unit floods, the other unit's plumbing is often affected too, and the scope of work has to account for both sides of the structure. Owners of these properties should expect that a thorough assessment will include both units, even if visible water is only present in one.
 
-If your basement in Hillside (07205) is holding water right now, call (855) 650-7422. The Restoration Group is available around the clock, and the sooner extraction begins, the less material has to be replaced.
+If your basement in Hillside (07205) is holding water right now, call (844) 808-8838. The Restoration Group is available around the clock, and the sooner extraction begins, the less material has to be replaced.

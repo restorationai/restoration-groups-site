@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Bridgewater, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Bridgewater"
-meta_description: "24/7 contents restoration & pack-out in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out bridgewater"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ For commercial properties along Route 22 or near Bridgewater Commons, business-i
 
 Bridgewater's split-level homes, common in Green Knoll and Chimney Rock-area neighborhoods built between the late 1950s and mid-1970s, present a specific pack-out challenge that isn't obvious until you're on-site. The intermediate floor levels mean furniture from a flooded lower level cannot be moved straight out through a ground-floor door; it has to navigate a half-staircase landing. On jobs in those neighborhoods, we stage a larger crew at the outset and sometimes use exterior window access for oversized items rather than risking damage to door frames and railings during the move. It's a small logistical detail that saves real money on the back end.
 
-If a loss has affected your home or business in the 08807 or 08805 ZIP codes, call (855) 650-7422 any time, day or night. The Restoration Group's IICRC Certified Firm team will assess your contents, begin the pack-out inventory, and give you a clear picture of what can be restored before anything leaves the property.
+If a loss has affected your home or business in the 08807 or 08805 ZIP codes, call (844) 808-8838 any time, day or night. The Restoration Group's IICRC Certified Firm team will assess your contents, begin the pack-out inventory, and give you a clear picture of what can be restored before anything leaves the property.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Piscataway, NJ | The Restoration Group"
 h1: "Commercial Restoration in Piscataway"
-meta_description: "24/7 commercial restoration in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration piscataway"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -46,4 +46,4 @@ Buildings near the Rutgers Livingston and Busch campuses, and the biotech and ph
 
 Commercial property claims in New Jersey move faster when the documentation package is complete on first submission. We photograph affected materials before any demo begins, provide moisture mapping reports with timestamped readings, and generate a scope of loss that aligns with Xactimate line items, the format most commercial carriers and their adjusters use. For properties in flood-prone areas like the River Road corridor, we also note pre-existing conditions separately from storm-related damage so your adjuster isn't conflating the two. If your property carries a commercial flood policy through the NFIP or a private carrier, we're familiar with those documentation requirements as well.
 
-If your Piscataway business or commercial property is dealing with water damage, fire damage, or mold right now, call The Restoration Group at (855) 650-7422. We're available around the clock, and we'll have a crew moving toward your address while you're still on the phone.
+If your Piscataway business or commercial property is dealing with water damage, fire damage, or mold right now, call The Restoration Group at (844) 808-8838. We're available around the clock, and we'll have a crew moving toward your address while you're still on the phone.

@@ -18,7 +18,7 @@ rendered: true
 ---
 ## What These Terms Cover
 
-These Terms of Service apply to your use of restorationgroups.com and to any service relationship you enter into with The Restoration Group, located at 500 S 31st St, Kenilworth, NJ 07033. By using this website or requesting services, you agree to the terms described here. If anything is unclear, call us at (908) 970-8533 before proceeding.
+These Terms of Service apply to your use of restorationgroups.com and to any service relationship you enter into with The Restoration Group, located at 8 Harlow Crescent, Fair Lawn, NJ 07410. By using this website or requesting services, you agree to the terms described here. If anything is unclear, call us at (908) 970-8533 before proceeding.
 
 ## Service Area
 

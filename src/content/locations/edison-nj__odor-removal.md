@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Edison, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Edison"
-meta_description: "24/7 odor removal and deodorization in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization edison"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -56,4 +56,4 @@ One thing that comes up repeatedly in Edison's older split-levels and colonials,
 
 Smoke and water-related odor losses are generally covered under standard homeowners and commercial property policies, and the documentation requirements matter. The Restoration Group provides written scope, photographic evidence of affected materials, and moisture and air quality readings formatted for adjuster review. For commercial properties along the Route 1 corridor or within larger complexes, coordination with property managers and their carriers is part of the standard workflow, not an add-on.
 
-If you're dealing with a persistent smell in an Edison home or commercial property and the source has already been identified, call (855) 650-7422. The work is licensed through the NJ Division of Consumer Affairs, and the team can assess the right combination of methods for the specific materials and odor type involved.
+If you're dealing with a persistent smell in an Edison home or commercial property and the source has already been identified, call (844) 808-8838. The work is licensed through the NJ Division of Consumer Affairs, and the team can assess the right combination of methods for the specific materials and odor type involved.

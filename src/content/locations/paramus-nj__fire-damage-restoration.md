@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Paramus, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Paramus"
-meta_description: "24/7 emergency fire damage restoration in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration paramus"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Most fire losses in Paramus ZIP code 07652 and 07653 go through standard homeown
 
 Paramus split-levels and raised ranches built in the 1950s and '60s frequently have a half-story between the garage and the main living level, a utility space that homeowners often use for storage. In a garage fire, this intermediate level fills with smoke before the main floor shows any visible damage, and the low ceiling height (sometimes under six feet) makes it a space adjusters occasionally overlook during a walkthrough. We specifically scope that intermediate level on every split-level fire job in Paramus because the smoke and soot accumulation there is almost always worse than it looks from the stairwell.
 
-If your home or commercial property in Paramus has sustained fire or smoke damage, call The Restoration Group at (855) 650-7422. We will walk you through the immediate steps, dispatch a crew, and handle the documentation so you can focus on your family, not the paperwork.
+If your home or commercial property in Paramus has sustained fire or smoke damage, call The Restoration Group at (844) 808-8838. We will walk you through the immediate steps, dispatch a crew, and handle the documentation so you can focus on your family, not the paperwork.

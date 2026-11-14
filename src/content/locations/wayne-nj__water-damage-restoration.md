@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Wayne, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Wayne"
-meta_description: "24/7 emergency water damage restoration in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration wayne"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Most Wayne homeowners with river-adjacent properties carry separate flood insura
 
 One thing that catches Wayne homeowners off guard: the block-wall foundations common in the Packanack Lake and Pines Lake communities absorb and hold water inside the block cavities themselves, not just on the surface. Standard moisture readings on the interior face of the wall can look acceptable while the block cores remain saturated for days. We probe the mortar joints and use wall cavity sensors specifically because of this, it's a pattern we see consistently in midcentury lake-community construction throughout Passaic County, and skipping that step leads to mold growth inside a wall that passed a surface check.
 
-If your Wayne home or business is dealing with standing water, saturated flooring, or the aftermath of a river backup, call The Restoration Group at (855) 650-7422. We're available 24/7, and we'll begin water extraction and structural drying before the damage compounds.
+If your Wayne home or business is dealing with standing water, saturated flooring, or the aftermath of a river backup, call The Restoration Group at (844) 808-8838. We're available 24/7, and we'll begin water extraction and structural drying before the damage compounds.

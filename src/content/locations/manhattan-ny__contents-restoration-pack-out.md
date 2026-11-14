@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Manhattan, NY | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Manhattan"
-meta_description: "24/7 contents restoration & pack-out in Manhattan, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Manhattan, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out manhattan"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ On the insurance side, our itemized inventory and condition reports are formatte
 
 In Manhattan high-rises, the freight elevator is often the single biggest scheduling constraint on a pack-out job, not crew availability, not equipment, not the contents themselves. Buildings typically allocate freight elevator time in blocks, and those blocks fill up fast in busy buildings. When you call us about a loss in a multi-unit building, one of the first questions we ask is who controls freight elevator scheduling, because reserving that time early is what keeps a two-day pack-out from stretching into a week. It's a detail that doesn't come up in suburban restoration work, but in Manhattan it's often the critical path.
 
-If your property has been affected by water, fire, or smoke damage and your contents are at risk, call The Restoration Group at (855) 650-7422. We'll coordinate the pack-out, the restoration, and the return, on Manhattan's terms.
+If your property has been affected by water, fire, or smoke damage and your contents are at risk, call The Restoration Group at (844) 808-8838. We'll coordinate the pack-out, the restoration, and the return, on Manhattan's terms.

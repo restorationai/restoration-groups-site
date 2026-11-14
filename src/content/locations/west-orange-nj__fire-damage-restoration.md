@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in West Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in West Orange"
-meta_description: "24/7 emergency fire damage restoration in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration west orange"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -59,4 +59,4 @@ Fire losses in West Orange are typically covered under standard homeowners polic
 
 One pattern that comes up repeatedly in West Orange fire jobs: the ornate wood-framed porches on pre-1940 homes in the St. Cloud and Gregory neighborhoods are often the first structural element to show secondary damage after a fire, because they sit at the intersection of firefighting water runoff and prevailing southwest wind that carries smoke back toward the structure. Homeowners sometimes assume the porch is cosmetic damage and defer it, but when that framing is wet and smoke-saturated, it becomes a mold and odor source that re-contaminates the interior for months. Treating the porch as part of the primary loss scope, not a separate project, prevents that cycle.
 
-If fire has affected your West Orange home or commercial property, call The Restoration Group at (855) 650-7422. The team is available around the clock, and the assessment starts the moment crews arrive on-site.
+If fire has affected your West Orange home or commercial property, call The Restoration Group at (844) 808-8838. The team is available around the clock, and the assessment starts the moment crews arrive on-site.

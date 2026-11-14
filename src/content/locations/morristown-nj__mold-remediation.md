@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Morristown, NJ | The Restoration Group"
 h1: "Mold Remediation in Morristown"
-meta_description: "24/7 mold remediation in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation morristown"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ Mold claims in New Jersey require thorough documentation, carriers want moisture
 
 In Morristown's pre-1950 homes, particularly the brick colonials and multifamilies closest to the Historic District, plaster-and-lath walls behave differently from modern drywall during mold remediation. Plaster is dense and slow to release absorbed moisture, which means air-drying timelines run longer than they would in a newer home of comparable size. We account for this in our drying protocols: extended monitoring periods, additional dehumidifier placement, and a final moisture verification before containment comes down. Skipping that step in these older assemblies is one of the more common reasons mold returns within a season.
 
-If you're dealing with visible growth, a persistent musty odor, or a recent water event in a Morristown property, call (855) 650-7422. We'll assess the situation honestly, explain what the remediation scope looks like, and get the work done to a standard that holds up, for your family, your tenants, and your insurance file.
+If you're dealing with visible growth, a persistent musty odor, or a recent water event in a Morristown property, call (844) 808-8838. We'll assess the situation honestly, explain what the remediation scope looks like, and get the work done to a standard that holds up, for your family, your tenants, and your insurance file.

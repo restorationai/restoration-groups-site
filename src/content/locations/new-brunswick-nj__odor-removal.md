@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in New Brunswick, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in New Brunswick"
-meta_description: "24/7 odor removal and deodorization in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization new brunswick"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -53,4 +53,4 @@ For commercial losses in the downtown high-rise corridor or institutional proper
 
 One pattern that comes up repeatedly in New Brunswick's pre-war housing stock, especially in the rowhouses between the Fifth Ward and the Edgebrook area, is homeowners who repaint after a smoke or water event and find the odor returns within weeks. Plaster is hygroscopic: it absorbs and releases moisture and volatile compounds slowly over time. A fresh coat of latex paint seals the surface temporarily, but as the plaster breathes with seasonal humidity changes (and New Jersey humidity swings are significant), trapped odor molecules migrate back through. The fix isn't more paint, it's treating the plaster substrate with a penetrating deodorizing agent before any finish coat goes on. It's a step that adds time to a job, but skipping it means the odor comes back by the following summer.
 
-If you're in New Brunswick and dealing with a smell that keeps returning after cleaning or repainting, call (855) 650-7422. Our IICRC Certified Firm team will identify what's holding the odor and apply the right treatment, not the fastest one.
+If you're in New Brunswick and dealing with a smell that keeps returning after cleaning or repainting, call (844) 808-8838. Our IICRC Certified Firm team will identify what's holding the odor and apply the right treatment, not the fastest one.

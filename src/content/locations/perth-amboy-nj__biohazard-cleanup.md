@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Perth Amboy, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Perth Amboy"
-meta_description: "24/7 emergency biohazard cleanup in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup perth amboy"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -49,4 +49,4 @@ Biohazard cleanup is covered under many homeowner and landlord policies, though 
 
 In Perth Amboy's older multifamily buildings, particularly the converted three-families common in the Kearny Heights area, subfloor construction often includes a layer of original hardwood over diagonal sheathing boards, with no vapor barrier between the wood and the basement ceiling below. When biological material reaches the floor, it can travel through gaps in that assembly faster than it would through modern construction. During our initial assessment, we check the ceiling of the space below the affected unit as a standard step, not an afterthought. It's a detail that matters in buildings of this era and is easy to miss if a crew isn't familiar with how these homes were built.
 
-If you're dealing with a biohazard situation at a Perth Amboy property, whether it's a single-family home near Bayview Park or a multifamily building downtown, call The Restoration Group at (855) 650-7422. We respond 24/7, work with discretion, and handle every step from containment through documentation so you can focus on what comes next.
+If you're dealing with a biohazard situation at a Perth Amboy property, whether it's a single-family home near Bayview Park or a multifamily building downtown, call The Restoration Group at (844) 808-8838. We respond 24/7, work with discretion, and handle every step from containment through documentation so you can focus on what comes next.

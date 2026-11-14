@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Clark, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Clark"
-meta_description: "24/7 emergency smoke damage restoration in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration clark"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -58,4 +58,4 @@ Smoke damage claims in Clark typically run through standard homeowner's policies
 
 One pattern that comes up specifically in Clark's split-levels and raised ranches: the half-story between the main floor and the finished basement acts as a smoke collection chamber. Because these spaces often have limited HVAC return airflow, smoke from a kitchen or garage fire pools there and isn't pulled through the system the way it would be in a single-story home. Contractors unfamiliar with this floor plan sometimes miss the odor source entirely and close out a job that smells clean on the main floor but still has active off-gassing in that intermediate level. During scoping, we specifically probe those interstitial spaces with a combustion-particle meter before finalizing the cleaning plan.
 
-If smoke has moved through your Clark home, whether the fire started in the kitchen, the garage, or a neighboring unit, the damage extends well past what you can see. Call The Restoration Group at (855) 650-7422 to schedule an assessment and get a documented scope before odor and residue cause permanent staining or etching to the surfaces you care about.
+If smoke has moved through your Clark home, whether the fire started in the kitchen, the garage, or a neighboring unit, the damage extends well past what you can see. Call The Restoration Group at (844) 808-8838 to schedule an assessment and get a documented scope before odor and residue cause permanent staining or etching to the surfaces you care about.

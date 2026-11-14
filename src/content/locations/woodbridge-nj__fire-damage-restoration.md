@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Woodbridge, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Woodbridge"
-meta_description: "24/7 emergency fire damage restoration in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration woodbridge"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Fire Damage Restoration"
 rendered: true
 ---
-A house fire in Woodbridge doesn't end when the flames go out. The postwar capes and split-levels that line streets from Colonia to Fords were built with plaster-and-lath interiors, older balloon-frame cavities, and cast-iron drain stacks, construction that traps smoke odor deep inside wall assemblies and allows soot to travel far beyond the room that burned. The Restoration Group responds around the clock from Kenilworth, reaching most of Woodbridge Township within a short drive, and begins stabilizing your property the same day you call (855) 650-7422.
+A house fire in Woodbridge doesn't end when the flames go out. The postwar capes and split-levels that line streets from Colonia to Fords were built with plaster-and-lath interiors, older balloon-frame cavities, and cast-iron drain stacks, construction that traps smoke odor deep inside wall assemblies and allows soot to travel far beyond the room that burned. The Restoration Group responds around the clock from Kenilworth, reaching most of Woodbridge Township within a short drive, and begins stabilizing your property the same day you call (844) 808-8838.
 
 ## Why Woodbridge's Housing Stock Complicates Fire Damage
 
@@ -60,4 +60,4 @@ For commercial properties along the Route 1 & 9 corridor, we're familiar with th
 
 In Woodbridge's older neighborhoods, particularly the blocks of Colonia and Avenel with original 1950s construction, interior walls often have multiple layers of wallpaper beneath painted plaster. After a fire, those layers act like a sponge for smoke odor, the compounds absorb into each layer and off-gas slowly for weeks if not treated correctly. Standard surface cleaning isn't enough. We seal affected plaster with an odor-blocking primer specifically formulated for smoke-contaminated substrates before any finish coat goes on, which is a step that gets skipped when crews aren't familiar with this housing type. Getting it right the first time prevents callbacks and keeps the insurance scope clean.
 
-If your home or business in Woodbridge has sustained fire or smoke damage, call The Restoration Group at (855) 650-7422. We'll walk you through the immediate steps, get a crew moving, and handle the documentation so you can focus on your family, not the paperwork.
+If your home or business in Woodbridge has sustained fire or smoke damage, call The Restoration Group at (844) 808-8838. We'll walk you through the immediate steps, get a crew moving, and handle the documentation so you can focus on your family, not the paperwork.

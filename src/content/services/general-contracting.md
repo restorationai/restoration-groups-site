@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Renovations, Remodels and General Contracting in Kenilworth | The Restoration Group"
 h1: "Renovations, Remodels and General Contracting in Kenilworth"
-meta_description: "24/7 renovations, remodels and general contracting in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 renovations, remodels and general contracting in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "renovations, remodels and general contracting kenilworth"
 secondary_keywords: ["general contractor", "home renovation services", "home remodeling", "kitchen remodel", "bathroom remodel", "post-damage rebuild"]
 search_intent: "local_commercial"
@@ -55,4 +55,4 @@ Kenilworth's housing stock is largely mid-20th-century construction, which means
 
 The Restoration Group handles renovation, remodel, and post-damage rebuild projects in Kenilworth and throughout the surrounding Union County area, including homes with similar construction eras and permitting requirements across neighboring towns.
 
-If a loss left rooms gutted and waiting, or a kitchen and bathroom have been on the project list for years, get a written reconstruction scope of work before signing off on anything. Call (855) 650-7422 to start the conversation.
+If a loss left rooms gutted and waiting, or a kitchen and bathroom have been on the project list for years, get a written reconstruction scope of work before signing off on anything. Call (844) 808-8838 to start the conversation.

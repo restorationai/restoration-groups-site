@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Rahway, NJ | The Restoration Group"
 h1: "Commercial Restoration in Rahway"
-meta_description: "24/7 commercial restoration in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration rahway"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -44,4 +44,4 @@ The Restoration Group's Kenilworth headquarters puts Rahway within a short drive
 
 One pattern we've seen repeatedly along the Main Street business district and the blocks surrounding the Union County Performing Arts Center: commercial spaces that occupy the ground floor of a mixed-use building share mechanical systems, and sometimes structural walls, with residential units above. When a commercial tenant files a water or fire claim, the loss often crosses into the residential portion of the building, which means two separate insurance policies, potentially two different adjusters, and a scope of work that has to be coordinated so the commercial side isn't closed out while the residential side is still open. We flag this at intake and document the boundary between affected spaces early, which prevents disputes over responsibility and keeps both sides of the claim moving on the same timeline.
 
-If your Rahway commercial property has been affected by water, fire, smoke, or mold damage, call The Restoration Group at (855) 650-7422. We'll assess the loss, document it for your carrier, and put a drying or remediation plan in place before the damage has a chance to spread.
+If your Rahway commercial property has been affected by water, fire, smoke, or mold damage, call The Restoration Group at (844) 808-8838. We'll assess the loss, document it for your carrier, and put a drying or remediation plan in place before the damage has a chance to spread.

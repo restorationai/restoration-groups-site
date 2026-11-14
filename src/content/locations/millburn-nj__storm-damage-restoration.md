@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Millburn, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Millburn"
-meta_description: "24/7 emergency storm damage restoration in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration millburn"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -55,4 +55,4 @@ Several of the planned residential communities in Short Hills and surrounding ar
 
 One pattern we've seen repeatedly in Millburn's older estate homes: the finished basement spaces that sit below the Rahway River's flood elevation often have a false floor, a wood subfloor over a concrete slab, that traps standing water invisibly after a storm surge. From the surface, the space looks dry within a day or two. Underneath, water is wicking into the subfloor framing and creating the conditions for mold colonization within 48 to 72 hours. We probe those assemblies on every flood-adjacent job in this area, because what you can't see is usually where the long-term damage lives.
 
-If a storm has hit your property in Millburn, whether you're dealing with a downed tree in Wyoming, a flooded lower level near Taylor Park, or wind damage on a Short Hills estate, call The Restoration Group at (855) 650-7422. We'll have someone on site to assess and begin work, any hour of the day.
+If a storm has hit your property in Millburn, whether you're dealing with a downed tree in Wyoming, a flooded lower level near Taylor Park, or wind damage on a Short Hills estate, call The Restoration Group at (844) 808-8838. We'll have someone on site to assess and begin work, any hour of the day.

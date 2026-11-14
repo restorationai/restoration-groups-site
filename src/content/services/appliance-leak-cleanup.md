@@ -56,6 +56,6 @@ In northern New Jersey, the combination of older housing stock and seasonal temp
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and handles appliance leak cleanup across Union County and into Essex, Middlesex, and Morris counties. The city-specific pages for this service, covering communities like Summit, Westfield, Cranford, Springfield, and others, link back here for full process detail. Wherever you are in the region, the crew and equipment are the same.
+The Restoration Group is based in Fair Lawn, NJ and handles appliance leak cleanup across Union County and into Essex, Middlesex, and Morris counties. The city-specific pages for this service, covering communities like Summit, Westfield, Cranford, Springfield, and others, link back here for full process detail. Wherever you are in the region, the crew and equipment are the same.
 
 If you're standing in front of a wet floor right now, call **(908) 970-8533**, we're available around the clock. The sooner moisture mapping begins, the narrower the damage footprint stays. Schedule your appliance leak moisture assessment today.

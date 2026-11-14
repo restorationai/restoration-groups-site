@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Edison, NJ | The Restoration Group"
 h1: "Restoration Services in Edison"
-meta_description: "Serving Edison, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Edison, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services edison"
 secondary_keywords: ["edison restoration company", "damage restoration edison", "edison disaster restoration"]
 search_intent: "local_commercial"
@@ -59,4 +59,4 @@ Soils here are Coastal Plain sands and clays with a seasonally high water table 
 
 Repairs go through Edison Township's construction office under the New Jersey Uniform Construction Code, with separate building, electrical, plumbing, and fire subcode approvals on most rebuilds.
 
-If you're dealing with a water, fire, mold, or storm loss anywhere in Edison, from the Raritan floodplain to the Route 1 commercial strip, call The Restoration Group at **(855) 650-7422**. We're available around the clock, we work directly with your insurance carrier, and we've been doing this work in Central Jersey since 2021.
+If you're dealing with a water, fire, mold, or storm loss anywhere in Edison, from the Raritan floodplain to the Route 1 commercial strip, call The Restoration Group at **(844) 808-8838**. We're available around the clock, we work directly with your insurance carrier, and we've been doing this work in Central Jersey since 2021.

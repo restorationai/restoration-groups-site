@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in New Brunswick, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in New Brunswick"
-meta_description: "24/7 emergency biohazard cleanup in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup new brunswick"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -56,4 +56,4 @@ For landlords managing properties in New Brunswick under NJ Division of Communit
 
 In New Brunswick's older multifamily buildings, particularly the converted rowhouses common near Robeson Village and the blocks immediately surrounding the Rutgers campus, original hardwood floors are often laid directly over a thin subfloor with minimal vapor barrier. Biological material that reaches a seam or gap in that flooring can travel laterally under the boards before it becomes visible. Crews working in these buildings probe beneath the floor surface as a standard step, not an add-on, because a clean-looking floor is not always a clean floor in this housing stock.
 
-If you are dealing with a difficult situation in New Brunswick and need a team that will handle it discreetly, thoroughly, and with full documentation, call The Restoration Group at (855) 650-7422. We are available any hour, and we will walk you through exactly what to expect before anyone sets foot on the property.
+If you are dealing with a difficult situation in New Brunswick and need a team that will handle it discreetly, thoroughly, and with full documentation, call The Restoration Group at (844) 808-8838. We are available any hour, and we will walk you through exactly what to expect before anyone sets foot on the property.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Somerville, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Somerville"
-meta_description: "24/7 emergency fire damage restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration somerville"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ Fire losses in Somerville almost always involve a homeowner's or commercial prop
 
 Somerville's older Victorians and colonials frequently have finished basements with drop ceilings installed decades after original construction. After a fire on an upper floor, smoke and fire-suppression water both migrate downward, and those suspended ceiling tiles trap moisture and soot above the grid, invisible until the tiles are removed. Crews who haven't worked in this housing stock sometimes close out a job without pulling the drop ceiling, only for the homeowner to discover mold or persistent odor weeks later. We pull and inspect those ceilings as a standard step on every Somerville fire job, not an add-on.
 
-If your home or business in Somerville has been affected by fire, call The Restoration Group at **(855) 650-7422**, we answer every hour of every day, and we can have a crew assessing your property and beginning emergency stabilization the same day you call.
+If your home or business in Somerville has been affected by fire, call The Restoration Group at **(844) 808-8838**, we answer every hour of every day, and we can have a crew assessing your property and beginning emergency stabilization the same day you call.

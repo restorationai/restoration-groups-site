@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Hoboken, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Hoboken"
-meta_description: "24/7 emergency storm damage restoration in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration hoboken"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ For condo owners and HOA-governed buildings, increasingly common in the Uptown a
 
 Hoboken's brownstones were built with solid brick masonry walls, not wood-framed cavities, and that changes how storm-driven moisture behaves inside them. Brick is hygroscopic, it absorbs water and releases it slowly over days, not hours. After a major storm event, we routinely see exterior brick walls that read wet on a pin meter for 10 to 14 days even after interior finishes have dried. Rushing the rebuild before the masonry has equalized leads to paint failure, efflorescence, and mold behind new drywall within a season. We set drying targets based on the masonry substrate, not just the finish materials, and we explain that timeline to owners and adjusters upfront so there are no surprises.
 
-If your property in Hoboken has been hit by a storm, roof damage, flooding, a downed tree, or sewer backup, call (855) 650-7422 any time. We are available 24/7 and will get eyes on the damage fast so you know exactly what you are dealing with before anything gets worse.
+If your property in Hoboken has been hit by a storm, roof damage, flooding, a downed tree, or sewer backup, call (844) 808-8838 any time. We are available 24/7 and will get eyes on the damage fast so you know exactly what you are dealing with before anything gets worse.

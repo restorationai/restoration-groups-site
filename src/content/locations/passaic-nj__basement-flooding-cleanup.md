@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Passaic, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Passaic"
-meta_description: "24/7 emergency basement flooding cleanup in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup passaic"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ The Restoration Group documents the loss origin, photographs all affected materi
 
 In Passaic's older multi-family buildings, particularly the three-story brick walkups common near Pulaski Park and throughout the Fourth Ward, basement utility chases and shared drain stacks connect multiple units vertically. When a basement floods from a sewer backup, contaminated water can wick up through wall cavities into first-floor units before the basement itself is fully extracted. On jobs in these building types, the crew inspects the first-floor wall base and checks moisture levels in the unit above as a standard step, not an add-on. Landlords managing occupied buildings in Passaic's dense rental corridors should flag the building type when they call, it affects how the job is scoped from the start.
 
-If your basement is taking on water right now, call (855) 650-7422. The Restoration Group serves all of Passaic, from the riverfront blocks that saw the worst of Ida to the older frame houses in Rutherford Heights, with the equipment and certified process to dry the structure correctly the first time.
+If your basement is taking on water right now, call (844) 808-8838. The Restoration Group serves all of Passaic, from the riverfront blocks that saw the worst of Ida to the older frame houses in Rutherford Heights, with the equipment and certified process to dry the structure correctly the first time.

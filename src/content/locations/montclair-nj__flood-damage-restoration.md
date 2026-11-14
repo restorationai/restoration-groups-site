@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Montclair, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Montclair"
-meta_description: "24/7 emergency flood damage restoration in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration montclair"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Flood and water damage claims in Montclair often involve two separate policies: 
 
 One thing that catches homeowners off guard in Montclair's older Victorians and Tudors: original slate roofs and the wide copper gutters common on Estate Section homes can hold standing water at the fascia line during a storm, and that water eventually finds its way through deteriorated flashing into finished attic spaces or top-floor walls. A basement flood after a heavy rain is obvious. Water infiltration at the roofline is often invisible until it shows up as a stain on a plaster ceiling two floors above, or until a moisture probe catches it during a post-flood inspection. We flag those secondary intrusion points when we see them, because a dry basement and a wet attic in the same storm event is a pattern we've seen more than once in this town.
 
-If your Montclair home is showing signs of flood damage, standing water, a sewage smell, buckled floors, or walls that feel damp days after a storm, call The Restoration Group at (855) 650-7422. We'll assess the full scope, start drying immediately, and handle the documentation your insurance carrier will need.
+If your Montclair home is showing signs of flood damage, standing water, a sewage smell, buckled floors, or walls that feel damp days after a storm, call The Restoration Group at (844) 808-8838. We'll assess the full scope, start drying immediately, and handle the documentation your insurance carrier will need.

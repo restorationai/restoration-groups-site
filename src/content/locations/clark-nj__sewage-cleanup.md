@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Sewage Cleanup and Sanitization in Clark, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Clark"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization clark"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Sewer backup coverage in New Jersey is typically a rider on a standard homeowner
 
 One pattern that comes up repeatedly in Clark's older split-levels: the original cast-iron cleanout access is often buried under a concrete basement floor pour that was added when the home was finished in the 1960s or 70s. When a sewer line backs up and a plumber needs to clear the blockage, locating that cleanout can add time to the job. On sewage calls in Clark, the crew checks for this early, if the cleanout is inaccessible, we coordinate with the plumber on an alternate access point before extraction begins, which avoids tearing up a finished floor unnecessarily.
 
-If sewage has reached your basement in Clark, the clock matters, bacterial colonization on porous surfaces accelerates after the first 24 hours. Call The Restoration Group at (855) 650-7422 and a crew will be dispatched to your address in 07066 around the clock, any day of the year.
+If sewage has reached your basement in Clark, the clock matters, bacterial colonization on porous surfaces accelerates after the first 24 hours. Call The Restoration Group at (844) 808-8838 and a crew will be dispatched to your address in 07066 around the clock, any day of the year.

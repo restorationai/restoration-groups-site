@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Rahway, NJ | The Restoration Group"
 h1: "Mold Remediation in Rahway"
-meta_description: "24/7 mold remediation in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation rahway"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ Mold claims tied to a sudden and accidental water loss, a burst pipe, an applian
 
 In Rahway's older downtown homes, particularly the late-Victorian and early Craftsman properties within a few blocks of the train station, original horsehair plaster walls are still common. Plaster doesn't absorb bulk water the way drywall does, but it holds residual moisture in its substrate for significantly longer, and the wood lath behind it can harbor mold growth that isn't visible from the surface. When we work in these homes, we extend our drying validation period and use additional moisture readings at the lath layer before clearing a wall as dry. Skipping that step is how remediation jobs in older Rahway homes get called back.
 
-If you're dealing with mold growth anywhere in Rahway, a finished basement that smells wrong, visible black staining on a bathroom wall, or a post-flood inspection that turned up something concerning, call The Restoration Group at (855) 650-7422. We'll assess the situation, explain the scope honestly, and get remediation underway before the problem spreads further.
+If you're dealing with mold growth anywhere in Rahway, a finished basement that smells wrong, visible black staining on a bathroom wall, or a post-flood inspection that turned up something concerning, call The Restoration Group at (844) 808-8838. We'll assess the situation, explain the scope honestly, and get remediation underway before the problem spreads further.

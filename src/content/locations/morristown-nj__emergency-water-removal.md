@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Morristown, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Morristown"
-meta_description: "24/7 emergency water removal and cleanup in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal morristown"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ If you own or manage a condo unit in one of the newer downtown towers, be aware 
 
 Morristown's Victorian and Edwardian-era homes, particularly those on the blocks radiating out from the Historic District, were built with thick plaster-on-lath wall systems that behave very differently from modern drywall during a water loss. Plaster absorbs moisture slowly but releases it even more slowly, which means a room that feels dry to the touch after two days of drying may still carry enough residual moisture in the lath to support mold growth within a week. We extend drying timelines in these homes accordingly and do not call the water removal and cleanup complete until readings in the wall assembly, not just the surface, reach the target range. Cutting that process short is one of the most common reasons Morristown homeowners end up dealing with a mold problem weeks after a water loss was "handled."
 
-If your property has been affected by water damage, whether it's a slow leak you just discovered or standing water you're looking at right now, call The Restoration Group at (855) 650-7422. We're available 24/7 and ready to respond to Morristown properties of any age, type, or complexity.
+If your property has been affected by water damage, whether it's a slow leak you just discovered or standing water you're looking at right now, call The Restoration Group at (844) 808-8838. We're available 24/7 and ready to respond to Morristown properties of any age, type, or complexity.

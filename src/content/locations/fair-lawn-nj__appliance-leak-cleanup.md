@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Fair Lawn, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Fair Lawn"
-meta_description: "24/7 emergency appliance leak cleanup in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup fair lawn"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in Fair Lawn? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to stop the water and start the cleanup.
 
-A refrigerator ice maker line that drips for weeks behind a finished cabinet, a washing machine hose that lets go on a Saturday morning, a water heater that quietly pools on a utility room floor, appliance leaks in Fair Lawn's older housing stock tend to go unnoticed until the damage is already working its way into subfloors and wall cavities. The borough's concentration of 1920s–1940s Radburn planned-community homes and postwar capes means original cast-iron drains, galvanized supply lines, and finished basements that absorb water fast and dry slowly. When you call (855) 650-7422, a crew dispatched from our nearby Kenilworth location can be on-site around the clock.
+A refrigerator ice maker line that drips for weeks behind a finished cabinet, a washing machine hose that lets go on a Saturday morning, a water heater that quietly pools on a utility room floor, appliance leaks in Fair Lawn's older housing stock tend to go unnoticed until the damage is already working its way into subfloors and wall cavities. The borough's concentration of 1920s–1940s Radburn planned-community homes and postwar capes means original cast-iron drains, galvanized supply lines, and finished basements that absorb water fast and dry slowly. When you call (844) 808-8838, a crew dispatched from our nearby Kenilworth location can be on-site around the clock.
 
 ## Why Fair Lawn Homes See More Appliance Leak Damage
 
@@ -55,4 +55,4 @@ For commercial properties along the Broadway corridor, we're experienced with bo
 
 One thing that surprises homeowners in the Radburn section: the planned community's original 1929 construction used interior courtyard layouts that place laundry hookups on interior walls shared between units or adjacent to common green spaces. When a washing machine supply line fails in one of these homes, water can travel along the original party-wall framing and show up as moisture in a neighboring unit's basement, even when the two properties have separate ownership. We flag this possibility during our initial moisture mapping so both households can be assessed before drying equipment is placed, avoiding a situation where one side dries out and the other develops a mold problem three weeks later.
 
-If a washing machine flood or refrigerator leak has you pulling up flooring in Fair Lawn, don't wait to see whether it dries on its own, call (855) 650-7422 now. The longer saturated subfloor and framing materials stay wet in a finished basement, the narrower the window before secondary damage and microbial growth become part of the repair scope.
+If a washing machine flood or refrigerator leak has you pulling up flooring in Fair Lawn, don't wait to see whether it dries on its own, call (844) 808-8838 now. The longer saturated subfloor and framing materials stay wet in a finished basement, the narrower the window before secondary damage and microbial growth become part of the repair scope.

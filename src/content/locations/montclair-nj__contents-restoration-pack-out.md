@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Montclair, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Montclair"
-meta_description: "24/7 contents restoration & pack-out in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out montclair"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ Contents losses in Montclair frequently involve high-value personal property tha
 
 One thing that catches homeowners off guard in Montclair's older neighborhoods: the combination of original hardwood floors, plaster walls, and heavy period furniture means that moving contents out of a flooded room without a proper inventory and lift plan can cause secondary damage, gouged floors, cracked plaster corners, broken furniture legs, that then becomes a separate claim dispute. In homes built before World War II, the interior finishes are often as significant as the contents themselves. A pack-out crew that treats the building as carefully as the belongings saves everyone a difficult conversation later.
 
-If water, fire, or storm damage has put your belongings at risk in Montclair, call The Restoration Group at (855) 650-7422. We respond around the clock, and we will have a technician on-site to begin inventory and pack-out before the damage has time to spread.
+If water, fire, or storm damage has put your belongings at risk in Montclair, call The Restoration Group at (844) 808-8838. We respond around the clock, and we will have a technician on-site to begin inventory and pack-out before the damage has time to spread.

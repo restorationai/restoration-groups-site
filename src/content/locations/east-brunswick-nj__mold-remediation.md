@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in East Brunswick, NJ | The Restoration Group"
 h1: "Mold Remediation in East Brunswick"
-meta_description: "24/7 mold remediation in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation east brunswick"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -48,4 +48,4 @@ Mold claims in East Brunswick follow the same general pattern as elsewhere in Mi
 
 One pattern we've seen specifically in East Brunswick's older tracts: bathroom exhaust fans that were retrofitted in the 1980s and vented into the attic rather than to the exterior. It's a code violation by current standards, but it was common practice at the time and it's still present in a significant share of the ranches and split-levels throughout the Farrington and Old Bridge Turnpike corridors. The result is years of accumulated moisture in attic sheathing that shows up as black staining on the underside of the roof deck, often mistaken for a roof leak. If your attic inspection turns up that pattern, the fix involves both the mold remediation and rerouting the fan duct before the remediation clearance test.
 
-If you're seeing discoloration on walls or ceilings, a persistent musty odor, or you've had a water event in the last 30 days anywhere in East Brunswick, call (855) 650-7422. We'll assess the situation, explain the scope honestly, and get containment in place before the problem spreads further into your home.
+If you're seeing discoloration on walls or ceilings, a persistent musty odor, or you've had a water event in the last 30 days anywhere in East Brunswick, call (844) 808-8838. We'll assess the situation, explain the scope honestly, and get containment in place before the problem spreads further into your home.

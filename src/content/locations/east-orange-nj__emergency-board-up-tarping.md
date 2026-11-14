@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in East Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in East Orange"
-meta_description: "24/7 emergency board-up and tarping in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping east orange"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Board-up and tarping is almost universally covered as an emergency mitigation ex
 
 One thing that catches property owners off guard in East Orange's older brick buildings: the parapet walls on flat-roofed structures from the 1920s and 1930s are often unreinforced and can be partially dislodged during a fire or severe wind event without being visibly obvious from street level. When we're tarping a flat roof in neighborhoods like Elmwood or Doddtown, we check parapet stability before walking the roof surface, a compromised parapet changes both our anchor points for the tarp and the safety protocol for the crew. It also changes what we report to the adjuster, because a destabilized parapet is a separate structural issue that needs to be in the claim.
 
-If a fire, storm, or burst pipe has left your East Orange property exposed, call The Restoration Group at (855) 650-7422. We respond around the clock, document everything for your insurer, and secure the structure so the damage stops where it is.
+If a fire, storm, or burst pipe has left your East Orange property exposed, call The Restoration Group at (844) 808-8838. We respond around the clock, document everything for your insurer, and secure the structure so the damage stops where it is.

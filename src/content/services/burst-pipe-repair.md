@@ -64,6 +64,6 @@ Spring snowmelt and heavy rain events can compound a burst pipe loss when draina
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ, and handles burst pipe cleanup and repair across Union, Essex, Middlesex, and Morris counties, including Cranford, Westfield, Summit, Millburn, Springfield, and surrounding communities. City-specific pages cover local details; this page describes how the work is done regardless of address.
+The Restoration Group is based in Fair Lawn, NJ, and handles burst pipe cleanup and repair across Union, Essex, Middlesex, and Morris counties, including Cranford, Westfield, Summit, Millburn, Springfield, and surrounding communities. City-specific pages cover local details; this page describes how the work is done regardless of address.
 
 If you're standing in a wet room right now, call (908) 970-8533. The Restoration Group operates 24/7, a technician will walk you through immediate steps on the phone and get equipment moving toward your property.

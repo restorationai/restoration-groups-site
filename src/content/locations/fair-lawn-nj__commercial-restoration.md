@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Fair Lawn, NJ | The Restoration Group"
 h1: "Commercial Restoration in Fair Lawn"
-meta_description: "24/7 commercial restoration in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration fair lawn"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -50,4 +50,4 @@ Most commercial property policies in New Jersey cover sudden and accidental wate
 
 Property managers overseeing buildings in the Broadway and Fair Lawn Avenue corridors should know that the borough's older commercial inventory often has shared utility chases between storefronts, a water loss in one unit can migrate laterally into an adjacent tenant space through gaps in the original masonry or along shared drain lines that were never fully separated during buildouts. We've seen losses in this area where the visible damage in Unit A was actually sourced from a failed supply line two units over. Scoping a commercial loss here means checking neighbors, not just the address on the work order.
 
-If your Fair Lawn property at ZIP code 07410 has taken damage, from water, fire, smoke, or storm, call The Restoration Group at (855) 650-7422. We respond around the clock, document everything your insurer needs, and work to keep as much of your business operational as the scope of damage allows.
+If your Fair Lawn property at ZIP code 07410 has taken damage, from water, fire, smoke, or storm, call The Restoration Group at (844) 808-8838. We respond around the clock, document everything your insurer needs, and work to keep as much of your business operational as the scope of damage allows.

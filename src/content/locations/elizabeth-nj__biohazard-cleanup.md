@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Elizabeth, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Elizabeth"
-meta_description: "24/7 emergency biohazard cleanup in Elizabeth, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Elizabeth, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup elizabeth"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -55,4 +55,4 @@ For tenant-occupied properties, we handle communication carefully. Our crews arr
 
 In Elizabeth's older multifamily frame homes, particularly those built before 1940 in Peterstown and Elmora, the interior stairwells are often the structural and mechanical spine of the building. Plumbing risers, electrical conduit, and HVAC chases frequently run through or adjacent to these stairwells, which means a biohazard event on an upper floor can have implications for the common areas below. Experienced crews scope the stairwell and basement access as part of the initial walkthrough, not as an afterthought. It's a small step that prevents a larger problem from being missed.
 
-If you're managing a situation in Elizabeth right now, call (855) 650-7422. We respond 24/7, arrive discreetly, and handle every step, from containment through final clearance, so you can focus on what comes next.
+If you're managing a situation in Elizabeth right now, call (844) 808-8838. We respond 24/7, arrive discreetly, and handle every step, from containment through final clearance, so you can focus on what comes next.

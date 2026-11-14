@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Millburn, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Millburn"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization millburn"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ If your policy does cover sewer backup, the endorsement limits in Essex County t
 
 Millburn's older Tudors and colonials, particularly those in the 07078 ZIP code, were frequently built with stone or rubble-wall foundations rather than poured concrete. Those walls are highly porous and wick moisture laterally in ways that standard moisture meters can underread. During sewage cleanup in these homes, we use both pin-type and non-invasive sensors at multiple wall heights to catch saturation that a single-point reading would miss. It adds time to the assessment, but it's the difference between a job that stays closed and one that reopens six months later with a mold problem.
 
-If you're dealing with a sewage backup anywhere in Millburn, whether it's a slow drain that finally gave out in a Wyoming neighborhood colonial or a full basement flood following a storm event near the Rahway River corridor, call (855) 650-7422. We're available around the clock, and we'll have a crew moving toward you while you're still on the phone.
+If you're dealing with a sewage backup anywhere in Millburn, whether it's a slow drain that finally gave out in a Wyoming neighborhood colonial or a full basement flood following a storm event near the Rahway River corridor, call (844) 808-8838. We're available around the clock, and we'll have a crew moving toward you while you're still on the phone.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Rahway, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Rahway"
-meta_description: "24/7 emergency appliance leak cleanup in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup rahway"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -49,4 +49,4 @@ Kenilworth sits directly adjacent to Rahway, and our crews can reach most of the
 
 One pattern we see repeatedly in Rahway's pre-1950 homes is that cast-iron floor drains in basement utility rooms have partially collapsed or are blocked with decades of sediment, meaning a water heater or washing machine overflow that should drain harmlessly instead backs up and spreads across the entire basement floor. Homeowners often assume the appliance caused more damage than it did; in reality, the drain failure turned a contained spill into a full-floor loss. If we find a compromised drain during cleanup, we flag it in our documentation so your plumber can address it before the next appliance event, because there's almost always a next one.
 
-If you're dealing with an appliance leak anywhere in Rahway right now, call The Restoration Group at **(855) 650-7422**. We'll assess the damage, walk you through the drying plan, and handle the insurance documentation so you're not managing the paperwork while your floors are still wet.
+If you're dealing with an appliance leak anywhere in Rahway right now, call The Restoration Group at **(844) 808-8838**. We'll assess the damage, walk you through the drying plan, and handle the insurance documentation so you're not managing the paperwork while your floors are still wet.

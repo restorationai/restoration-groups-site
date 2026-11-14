@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in North Bergen, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in North Bergen"
-meta_description: "24/7 emergency water damage restoration in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration north bergen"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Most homeowner and landlord policies in New Jersey cover sudden and accidental w
 
 North Bergen's pre-war plaster-and-lath wall systems behave differently during drying than the paper-faced drywall installed in newer construction. Plaster is dense and alkaline, it absorbs moisture slowly but also releases it slowly, which means a wall that reads only slightly elevated on day one can still be harboring significant moisture in the lath cavity by day four. Our technicians adjust drying chamber configurations and extend monitoring cycles on these older assemblies rather than defaulting to a standard three-day pull schedule. It's a small adjustment that prevents the callback mold job three weeks later.
 
-If you're dealing with water damage anywhere in North Bergen, a flooded basement off Tonnelle, a burst pipe in a hillside walkup, or a commercial roof leak on Bergenline, call The Restoration Group at (855) 650-7422. We'll have a crew on the way and a documented plan in place before the water has a chance to become a mold problem.
+If you're dealing with water damage anywhere in North Bergen, a flooded basement off Tonnelle, a burst pipe in a hillside walkup, or a commercial roof leak on Bergenline, call The Restoration Group at (844) 808-8838. We'll have a crew on the way and a documented plan in place before the water has a chance to become a mold problem.

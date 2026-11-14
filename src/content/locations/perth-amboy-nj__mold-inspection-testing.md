@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Perth Amboy, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Perth Amboy"
-meta_description: "24/7 mold inspection and testing in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing perth amboy"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -44,4 +44,4 @@ The Restoration Group operates out of Kenilworth, NJ, and Perth Amboy is reachab
 
 One pattern that comes up repeatedly in Perth Amboy's older multifamily buildings: galvanized supply lines corrode from the inside out, and the rust-colored water staining they leave on ceilings and walls is frequently mistaken for a roof leak. Homeowners and landlords treat the stain, repaint, and move on, but the slow drip continues inside the wall cavity. By the time a musty odor develops in a unit in the 08861 ZIP code, the mold colony behind that stain may be six months old. An inspection that includes moisture meter readings at the stain perimeter, not just a visual assessment, is what catches those cases before they become a full remediation project.
 
-If you're dealing with a suspicious smell, a water stain you can't fully explain, or a tenant concern about indoor air quality in Perth Amboy, call (855) 650-7422. The Restoration Group will schedule a thorough mold inspection and testing assessment, deliver a clear written report, and walk you through exactly what the findings mean for your property.
+If you're dealing with a suspicious smell, a water stain you can't fully explain, or a tenant concern about indoor air quality in Perth Amboy, call (844) 808-8838. The Restoration Group will schedule a thorough mold inspection and testing assessment, deliver a clear written report, and walk you through exactly what the findings mean for your property.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Passaic, NJ | The Restoration Group"
 h1: "Mold Remediation in Passaic"
-meta_description: "24/7 mold remediation in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation passaic"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Mold Remediation"
 rendered: true
 ---
-The Passaic River has flooded this city twice in the last fifteen years, first during Irene in 2011, then again when Ida swept through in 2021, and the watermarks left behind on basement walls and floor joists didn't just dry on their own. In a city as densely built as Passaic, where early 20th-century brick three-families and wood-frame walkups crowd nearly every block, moisture that enters a structure tends to stay there. Mold can begin colonizing damp framing and drywall within 24 to 48 hours of a water event, and in buildings with limited ventilation and aging cast-iron drains, the conditions for growth rarely fully disappear without professional intervention. The Restoration Group responds to mold calls in Passaic around the clock, (855) 650-7422.
+The Passaic River has flooded this city twice in the last fifteen years, first during Irene in 2011, then again when Ida swept through in 2021, and the watermarks left behind on basement walls and floor joists didn't just dry on their own. In a city as densely built as Passaic, where early 20th-century brick three-families and wood-frame walkups crowd nearly every block, moisture that enters a structure tends to stay there. Mold can begin colonizing damp framing and drywall within 24 to 48 hours of a water event, and in buildings with limited ventilation and aging cast-iron drains, the conditions for growth rarely fully disappear without professional intervention. The Restoration Group responds to mold calls in Passaic around the clock, (844) 808-8838.
 
 ## Why Passaic Properties See Persistent Mold Problems
 
@@ -42,4 +42,4 @@ The Restoration Group is based in Kenilworth, NJ, and Passaic sits roughly 20 mi
 
 In Passaic's older three-family walkups, the kind common in the blocks surrounding Pulaski Park, plaster-and-lath walls absorb and release moisture far more slowly than modern drywall. During remediation, this means the drying phase takes longer than it would in a newer construction home, and moisture readings that look acceptable on the surface can still reflect elevated levels deeper in the wall assembly. Crews working in these buildings need to extend drying time and re-check readings before closing up walls, or the mold problem reappears within a season. It's a detail that matters in Passaic specifically, and one that gets missed when a crew treats every job the same.
 
-If you're dealing with visible mold growth, a musty smell that won't clear, or the aftermath of a flood or sewer backup anywhere in Passaic, call The Restoration Group at (855) 650-7422. The assessment starts with real measurements, not guesswork, and the remediation follows a documented process from containment through clearance.
+If you're dealing with visible mold growth, a musty smell that won't clear, or the aftermath of a flood or sewer backup anywhere in Passaic, call The Restoration Group at (844) 808-8838. The assessment starts with real measurements, not guesswork, and the remediation follows a documented process from containment through clearance.

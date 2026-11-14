@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Rahway, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Rahway"
-meta_description: "24/7 emergency storm damage restoration in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration rahway"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ Storm claims in New Jersey are governed by standard homeowner and commercial pro
 
 After Ida, we worked multiple properties in the low blocks between Rahway River Park and the downtown core, and one pattern stood out: homes with finished basements over cast-iron cleanouts often had sewage mixed into the floodwater, not just river overflow. That changes the remediation category from clean-water flood to Category 3 contaminated loss, which requires full PPE, antimicrobial treatment of all affected surfaces, and disposal of porous materials that can't be adequately sanitized. If your basement flooded during a storm and the water had any discoloration or odor, assume contamination until a technician can assess it. Treating it as clean water and simply drying it in place is one of the costlier mistakes we see homeowners make after a Rahway storm event.
 
-If your property in Rahway took storm damage, whether it's a lifted roof on a Victorian near Downtown, a flooded basement in Leesville, or a commercial flat-roof failure on Main Street, call (855) 650-7422. We're available now, and we know this city.
+If your property in Rahway took storm damage, whether it's a lifted roof on a Victorian near Downtown, a flooded basement in Leesville, or a commercial flat-roof failure on Main Street, call (844) 808-8838. We're available now, and we know this city.

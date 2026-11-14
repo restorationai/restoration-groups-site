@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Piscataway, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Piscataway"
-meta_description: "24/7 emergency storm damage restoration in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration piscataway"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ For Society Hill and similar HOA communities in the 08854 ZIP code, we're famili
 
 One pattern we've learned working in Piscataway's older residential tracts: the split-level homes common in Possumtown and along the Stelton corridor frequently have their electrical panels located in finished basement utility rooms that sit below grade. After a flooding event, those panels need to be evaluated and often locked out before any extraction equipment can be safely operated in the space, a step that adds time but is non-negotiable. We coordinate with PSE&G for service disconnects when needed and don't begin powered extraction in a flooded below-grade space until the electrical hazard is cleared.
 
-If your Piscataway home or commercial property has taken storm damage, whether it's a tree through the roof near the Rutgers Livingston campus, a flooded basement off River Road, or wind-driven rain inside a Society Hill unit, call The Restoration Group at (855) 650-7422. We're available around the clock, and we'll have a crew moving toward your address while you're still on the phone.
+If your Piscataway home or commercial property has taken storm damage, whether it's a tree through the roof near the Rutgers Livingston campus, a flooded basement off River Road, or wind-driven rain inside a Society Hill unit, call The Restoration Group at (844) 808-8838. We're available around the clock, and we'll have a crew moving toward your address while you're still on the phone.

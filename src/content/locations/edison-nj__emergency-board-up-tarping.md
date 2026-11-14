@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Edison, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Edison"
-meta_description: "24/7 emergency board-up and tarping in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping edison"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -32,7 +32,7 @@ Edison also sits in a storm corridor that funnels nor'easters and remnant tropic
 
 ## Our Emergency Board-Up and Tarping Process in Edison
 
-When you call (855) 650-7422, dispatch logs your address and we stage from Kenilworth, reaching most Edison ZIP codes, including 08820 and 08837, around the clock. Here is what happens on-site:
+When you call (844) 808-8838, dispatch logs your address and we stage from Kenilworth, reaching most Edison ZIP codes, including 08820 and 08837, around the clock. Here is what happens on-site:
 
 **Damage assessment first.** Before a single sheet of plywood goes up, a crew lead walks the perimeter and documents every breach point with photos. That documentation feeds directly into your insurance claim file.
 
@@ -56,4 +56,4 @@ For commercial properties along the Route 1 corridor, we are familiar with the d
 
 Edison's older split-levels and raised ranches, common in neighborhoods like Stelton and parts of North Edison, often have low-pitched hip roofs with minimal overhang. When a section of that roof decking is exposed by wind or fire, standard tarp-and-weight methods can leave the edges vulnerable to uplift because there is no fascia extension to anchor against. Our crews carry additional batten stock specifically for low-pitch applications, running the securing boards parallel to the slope rather than across it, which distributes wind load more evenly and keeps the tarp seated until permanent repairs can be made.
 
-If your Edison property has been damaged by fire, storm, or a break-in, call (855) 650-7422 now. The Restoration Group's 24/7 crew will secure the structure, document the loss, and hand you a clean chain of custody for your insurance claim, so the next problem you face is repairs, not preventable secondary damage.
+If your Edison property has been damaged by fire, storm, or a break-in, call (844) 808-8838 now. The Restoration Group's 24/7 crew will secure the structure, document the loss, and hand you a clean chain of custody for your insurance claim, so the next problem you face is repairs, not preventable secondary damage.

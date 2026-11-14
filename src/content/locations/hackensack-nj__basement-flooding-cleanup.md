@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Hackensack, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Hackensack"
-meta_description: "24/7 emergency basement flooding cleanup in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup hackensack"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
-When the Hackensack River swells after a hard rain and the ground along the low-lying Southside and Fairmount neighborhoods is already saturated, basements in this city don't just get damp, they fill. Tropical Storm Ida in 2021 put that reality on display across Bergen County, and Hackensack's mix of prewar two- and three-family homes, aging cast-iron drain lines, and tidal-influenced soil gave water every advantage. If you're standing in a wet basement right now, call (855) 650-7422. The Restoration Group responds 24/7 and can reach Hackensack from our Kenilworth base at any hour.
+When the Hackensack River swells after a hard rain and the ground along the low-lying Southside and Fairmount neighborhoods is already saturated, basements in this city don't just get damp, they fill. Tropical Storm Ida in 2021 put that reality on display across Bergen County, and Hackensack's mix of prewar two- and three-family homes, aging cast-iron drain lines, and tidal-influenced soil gave water every advantage. If you're standing in a wet basement right now, call (844) 808-8838. The Restoration Group responds 24/7 and can reach Hackensack from our Kenilworth base at any hour.
 
 ## Why Hackensack Properties Flood More Than You'd Expect
 
@@ -50,4 +50,4 @@ Most standard homeowner policies cover sudden and accidental water discharge, a 
 
 In Hackensack's older two- and three-family homes, common throughout the Heights and Southside, basement utility spaces are often shared between units with no fire-rated separation. When a flood affects that shared space, both units' contents and structural assemblies may be involved in a single loss. Coordinating access, documentation, and drying across two separate tenants or owners adds complexity that a single-family job doesn't have. We're accustomed to that dynamic here and handle the communication and scheduling across multiple parties as part of the job.
 
-If your basement is holding water right now, don't wait to see if it drains on its own. Every hour standing water sits against a concrete block wall or wood-framed partition in a Hackensack home is an hour closer to a mold problem that doubles the scope of the repair. Call (855) 650-7422, The Restoration Group is on call 24/7 and ready to dispatch to your address today.
+If your basement is holding water right now, don't wait to see if it drains on its own. Every hour standing water sits against a concrete block wall or wood-framed partition in a Hackensack home is an hour closer to a mold problem that doubles the scope of the repair. Call (844) 808-8838, The Restoration Group is on call 24/7 and ready to dispatch to your address today.

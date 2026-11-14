@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Wayne, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Wayne"
-meta_description: "24/7 mold inspection and testing in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing wayne"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -44,4 +44,4 @@ From the Kenilworth headquarters, Wayne is accessible via I-78 West to I-287 Nor
 
 One pattern that comes up repeatedly in Wayne's lake-community homes: the finished basement walls in many Packanack Lake and Lionshead Lake split-levels were furred out with wood framing directly against the concrete block, with no vapor barrier in between. That cavity, typically an inch and a half wide, is invisible from the finished side and almost never inspected during a standard home purchase. It is, however, exactly the kind of enclosed, damp, dark space where Cladosporium and Penicillium establish quietly over years. When homeowners in these neighborhoods report a persistent musty smell they can't locate, that wall assembly is the first place we look.
 
-If you're in Wayne, whether you're dealing with post-flood uncertainty, a real estate transaction, or symptoms that don't have an obvious cause, a thorough mold inspection and testing assessment is the clearest way to move from guessing to knowing. Call The Restoration Group at (855) 650-7422 to schedule.
+If you're in Wayne, whether you're dealing with post-flood uncertainty, a real estate transaction, or symptoms that don't have an obvious cause, a thorough mold inspection and testing assessment is the clearest way to move from guessing to knowing. Call The Restoration Group at (844) 808-8838 to schedule.

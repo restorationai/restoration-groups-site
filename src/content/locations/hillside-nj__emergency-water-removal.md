@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Hillside, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Hillside"
-meta_description: "24/7 emergency water removal and cleanup in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal hillside"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Our Kenilworth base puts us a short drive from Hillside via Route 22 or Springfi
 
 In Hillside's semi-finished basements, the kind with drop-ceiling tiles, paneled walls over concrete block, and carpet over a slab, emergency water removal is more complicated than it looks on the surface. Carpet and pad over concrete trap moisture against a non-permeable surface, and the concrete itself wicks water laterally for several feet beyond the visible wet zone. Drop-ceiling tiles hide the condition of the joists and any insulation above. We pull ceiling tiles and probe the joist bays before finalizing the extraction plan, because what's happening above the ceiling line in a flooded Hillside basement is almost always worse than what's visible from the floor. Skipping that step is how a "cleaned up" basement ends up with a mold problem sixty days later.
 
-If your home or property in Hillside has taken on water, whether from a pipe failure, a sump that couldn't keep up, or storm-driven sewer backup, call (855) 650-7422 now. We'll assess the full scope, start extraction immediately, and document everything your insurance carrier needs to move the claim forward.
+If your home or property in Hillside has taken on water, whether from a pipe failure, a sump that couldn't keep up, or storm-driven sewer backup, call (844) 808-8838 now. We'll assess the full scope, start extraction immediately, and document everything your insurance carrier needs to move the claim forward.

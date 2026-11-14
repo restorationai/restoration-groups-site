@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Millburn, NJ | The Restoration Group"
 h1: "Commercial Restoration in Millburn"
-meta_description: "24/7 commercial restoration in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration millburn"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -48,4 +48,4 @@ Commercial property claims in Millburn tend to be more complex than residential 
 
 One pattern we've seen repeatedly in Millburn's older mixed-use buildings, particularly the two- and three-story commercial blocks between the train station and Millburn Center, is that original terrazzo and quarry tile floors were often installed over a sand-set mortar bed, not a modern thin-set. When water infiltrates those assemblies, the mortar bed acts as a reservoir, holding moisture long after surface extraction is complete. Standard drying timelines based on modern construction don't apply. We account for this during initial scoping by probing the floor assembly before finalizing the drying plan, which prevents the situation where a business reopens, the floors look dry, and then cupping or efflorescence appears two weeks later.
 
-If your commercial property in Millburn has sustained water damage, fire damage, or any loss that's keeping your doors closed or your tenants displaced, call The Restoration Group at (855) 650-7422. We're available around the clock, and the sooner mitigation begins, the shorter the recovery.
+If your commercial property in Millburn has sustained water damage, fire damage, or any loss that's keeping your doors closed or your tenants displaced, call The Restoration Group at (844) 808-8838. We're available around the clock, and the sooner mitigation begins, the shorter the recovery.

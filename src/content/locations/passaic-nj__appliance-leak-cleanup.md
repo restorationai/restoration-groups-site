@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Passaic, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Passaic"
-meta_description: "24/7 emergency appliance leak cleanup in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup passaic"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Appliance Leak Cleanup"
 rendered: true
 ---
-An appliance leak in a Passaic home moves fast, and in a city packed with century-old two- and three-family frame houses, it moves faster than most homeowners expect. The same cast-iron drain lines and aging supply connections that survived decades of use in the Fourth Ward and Downtown Passaic are now reaching the end of their service life, and when a washing machine hose lets go or a refrigerator ice maker line splits behind a cabinet, water finds every gap in original subfloor planking before you've had a chance to grab a towel. The Restoration Group responds 24/7 from Kenilworth, call (855) 650-7422 the moment you notice standing water.
+An appliance leak in a Passaic home moves fast, and in a city packed with century-old two- and three-family frame houses, it moves faster than most homeowners expect. The same cast-iron drain lines and aging supply connections that survived decades of use in the Fourth Ward and Downtown Passaic are now reaching the end of their service life, and when a washing machine hose lets go or a refrigerator ice maker line splits behind a cabinet, water finds every gap in original subfloor planking before you've had a chance to grab a towel. The Restoration Group responds 24/7 from Kenilworth, call (844) 808-8838 the moment you notice standing water.
 
 ## Why Passaic Properties See More Appliance Leak Damage
 
@@ -54,4 +54,4 @@ Appliance leak claims in New Jersey are generally covered under standard homeown
 
 In Passaic's older multi-family walkups, particularly the brick and frame buildings common in the Fourth Ward and along the streets radiating from Pulaski Park, original plaster-on-lath walls are still common in kitchens and bathrooms that haven't been renovated. Plaster absorbs water more slowly than drywall but releases it even more slowly during the drying phase. A wall cavity that reads wet on day one may still show elevated moisture readings on day four even with aggressive air movement, because the plaster acts as a slow-release reservoir. We account for this in our drying timelines and don't call a job complete based on surface readings alone, we probe the lath layer and the stud cavity before signing off.
 
-If an appliance leak has left you with wet floors, a damaged ceiling, or a smell you can't place, don't wait to see if it dries on its own, in Passaic's dense housing stock, water that isn't extracted within the first 24 to 48 hours almost always becomes a mold problem. Call The Restoration Group at (855) 650-7422 any time, day or night, and we'll dispatch a crew to your Passaic address with the equipment to stop the damage before it compounds.
+If an appliance leak has left you with wet floors, a damaged ceiling, or a smell you can't place, don't wait to see if it dries on its own, in Passaic's dense housing stock, water that isn't extracted within the first 24 to 48 hours almost always becomes a mold problem. Call The Restoration Group at (844) 808-8838 any time, day or night, and we'll dispatch a crew to your Passaic address with the equipment to stop the damage before it compounds.

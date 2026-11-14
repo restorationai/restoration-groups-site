@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Fort Lee, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Fort Lee"
-meta_description: "24/7 emergency smoke damage restoration in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration fort lee"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -59,4 +59,4 @@ Fort Lee condominium associations frequently require advance notice and written 
 
 In Fort Lee's older Coytesville and Palisade neighborhood homes, we've found that original horsehair plaster walls absorb smoke odor compounds into the substrate in a way that standard odor counteractants can't fully neutralize from the surface alone. On those jobs, we apply a shellac-based primer-sealer to the affected plaster before repainting, it locks in residual odor molecules rather than just masking them. Skipping that step is why some homeowners repaint after a fire and still smell smoke six months later. It's a small detail that makes a significant difference in the long-term result.
 
-If your Fort Lee home or building has smoke damage from any source, a kitchen fire, an electrical fault, or smoke that traveled from a neighboring unit, call The Restoration Group at (855) 650-7422. We'll assess the damage, walk you through the process, and coordinate with your insurance carrier from the first call forward.
+If your Fort Lee home or building has smoke damage from any source, a kitchen fire, an electrical fault, or smoke that traveled from a neighboring unit, call The Restoration Group at (844) 808-8838. We'll assess the damage, walk you through the process, and coordinate with your insurance carrier from the first call forward.

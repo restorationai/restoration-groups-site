@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Paterson, NJ | The Restoration Group"
 h1: "Restoration Services in Paterson"
-meta_description: "Serving Paterson, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Paterson, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services paterson"
 secondary_keywords: ["paterson restoration company", "damage restoration paterson", "paterson disaster restoration"]
 search_intent: "local_commercial"
@@ -55,4 +55,4 @@ Behind the brick and clapboard, most of these houses are balloon-framed with pla
 
 Permits for structural repair or rebuild come from Paterson's construction office under the New Jersey Uniform Construction Code, with separate building, electrical, plumbing, and fire subcode reviews. Work in mapped flood areas brings added elevation and substantial-improvement requirements.
 
-If you're dealing with water, fire, mold, or storm damage at a Paterson property, whether it's a single-family home in Sandy Hill or a multi-unit building in the 07522 ZIP code, call The Restoration Group at **(855) 650-7422**. We answer around the clock and can begin the assessment process the same day you call.
+If you're dealing with water, fire, mold, or storm damage at a Paterson property, whether it's a single-family home in Sandy Hill or a multi-unit building in the 07522 ZIP code, call The Restoration Group at **(844) 808-8838**. We answer around the clock and can begin the assessment process the same day you call.

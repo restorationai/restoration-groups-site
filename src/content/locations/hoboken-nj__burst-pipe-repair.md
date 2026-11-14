@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Burst Pipe Cleanup and Repair in Hoboken, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Hoboken"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair hoboken"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-Hoboken's aging brownstone plumbing doesn't announce itself before it fails. One January freeze or a corroded galvanized stack that's been quietly narrowing for decades, and suddenly a garden-unit apartment in Southwest Hoboken has four inches of standing water before the tenant even realizes what's happening. Burst pipe emergencies in a city this dense move fast, water travels through shared party walls, drops into below-grade units, and soaks century-old brick before a single extraction machine arrives. The Restoration Group responds 24/7 and can be reached at (855) 650-7422 the moment you discover the break.
+Hoboken's aging brownstone plumbing doesn't announce itself before it fails. One January freeze or a corroded galvanized stack that's been quietly narrowing for decades, and suddenly a garden-unit apartment in Southwest Hoboken has four inches of standing water before the tenant even realizes what's happening. Burst pipe emergencies in a city this dense move fast, water travels through shared party walls, drops into below-grade units, and soaks century-old brick before a single extraction machine arrives. The Restoration Group responds 24/7 and can be reached at (844) 808-8838 the moment you discover the break.
 
 ## Why Hoboken Properties See Burst Pipe Damage So Often
 
@@ -52,4 +52,4 @@ For condo buildings and co-ops, we're accustomed to working within HOA requireme
 
 In Hoboken's pre-war rowhomes, the original plaster-on-brick wall assemblies absorb water differently than modern drywall, moisture penetrates deep into the plaster scratch coat and the mortar bed behind it, then releases slowly over days. We've found that drying times in these assemblies run roughly 30–40% longer than in comparable modern construction, and that cutting standard drying check-ins short leads to secondary mold growth inside walls that looked dry on the surface. If you're in a pre-war unit in Uptown or Castle Point and another contractor quotes you a three-day dry-out, ask them how they're verifying moisture in the masonry substrate, not just the plaster face.
 
-If you're dealing with a burst pipe anywhere in Hoboken, call The Restoration Group at (855) 650-7422. We'll assess the damage, stop the spread, and walk you through every step from initial extraction to finished repairs, so you're not left managing a half-dried building while water keeps working its way through your walls.
+If you're dealing with a burst pipe anywhere in Hoboken, call The Restoration Group at (844) 808-8838. We'll assess the damage, stop the spread, and walk you through every step from initial extraction to finished repairs, so you're not left managing a half-dried building while water keeps working its way through your walls.

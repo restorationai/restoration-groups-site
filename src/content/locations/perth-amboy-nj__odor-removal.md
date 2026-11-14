@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Perth Amboy, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Perth Amboy"
-meta_description: "24/7 odor removal and deodorization in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization perth amboy"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -56,4 +56,4 @@ The Restoration Group's Kenilworth headquarters puts Perth Amboy within a direct
 
 In Perth Amboy's pre-1920 frame multifamilies, particularly the converted three-families common in the blocks surrounding Bayview Park, interior walls are often true lathe-and-plaster over wood framing with no vapor barrier. Smoke and sewer odors absorb into the plaster matrix itself, not just the paint layer. Surface-only treatments will suppress odor for a few days and then allow it to off-gas back into the living space as the plaster warms with seasonal temperature changes. Technicians working these buildings need to account for that re-emission cycle and extend treatment time or use a second-pass hydroxyl run, something that is easy to miss if a crew is calibrated for modern drywall construction.
 
-If your Perth Amboy property is holding an odor that has come back after a previous treatment, that re-emission pattern is likely the reason. Call The Restoration Group at (855) 650-7422 for an assessment, the goal is odor elimination that holds through the next summer, not just through the weekend.
+If your Perth Amboy property is holding an odor that has come back after a previous treatment, that re-emission pattern is likely the reason. Call The Restoration Group at (844) 808-8838 for an assessment, the goal is odor elimination that holds through the next summer, not just through the weekend.

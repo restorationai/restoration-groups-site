@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in East Orange, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in East Orange"
-meta_description: "24/7 mold inspection and testing in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing east orange"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -40,7 +40,7 @@ For multi-unit buildings near the Central Avenue business corridor or properties
 
 Our team operates 24/7 out of Kenilworth, NJ, and East Orange is a straightforward run up Route 22 East to the Garden State Parkway or directly via Springfield Avenue into the heart of the city. Brick Church station and the surrounding Brick Church neighborhood are typically reachable in under 30 minutes from our yard under normal traffic. For properties in the Doddtown or Presidential Estates sections, we route through the Garden State Parkway to Exit 145 and come in from the north, a path that avoids the congestion that builds on Central Avenue during morning and evening hours.
 
-When you call (855) 650-7422, we gather the address and building type upfront so we arrive with the right equipment for the job, whether that's a single-family Victorian or a 24-unit walk-up with a shared boiler room.
+When you call (844) 808-8838, we gather the address and building type upfront so we arrive with the right equipment for the job, whether that's a single-family Victorian or a 24-unit walk-up with a shared boiler room.
 
 ## Local Note: What East Orange's Plaster Walls Mean for Mold Testing
 
@@ -48,4 +48,4 @@ In the older Elmwood and Ampere sections of East Orange, many buildings still ha
 
 If you've had a water loss in a pre-1950 building in East Orange and a previous inspector gave it a clean bill of health based on a visual check alone, it may be worth a second opinion.
 
-Mold doesn't wait for a convenient time to become a problem, and in East Orange's aging building stock, the window between a water event and active colonization is short. Call (855) 650-7422 to schedule a mold inspection and testing assessment, we serve all of East Orange, including the 07017, 07018, and 07019 ZIP codes, and we're available around the clock.
+Mold doesn't wait for a convenient time to become a problem, and in East Orange's aging building stock, the window between a water event and active colonization is short. Call (844) 808-8838 to schedule a mold inspection and testing assessment, we serve all of East Orange, including the 07017, 07018, and 07019 ZIP codes, and we're available around the clock.

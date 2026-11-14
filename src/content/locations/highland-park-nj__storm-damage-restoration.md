@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Highland Park, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Highland Park"
-meta_description: "24/7 emergency storm damage restoration in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration highland park"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ Most storm losses in Highland Park are covered under standard homeowners' polici
 
 One pattern we see repeatedly in the Meadow and Livingston Manor sections of Highland Park: finished basements in the area's two-family homes were often converted without permits in the 1970s and 1980s, which means the framing sits directly on a concrete slab with no vapor barrier. After a Raritan River backflow event, the bottom plate of those stud walls absorbs water like a wick and tests elevated on moisture meters even after the visible water is gone. We always probe the base of finished walls in these neighborhoods before closing out a drying job, skipping that step is how a "dry" basement develops a mold problem three weeks later.
 
-If a storm has left your Highland Park property with a compromised roof, a flooded basement, or tree damage you're not sure how to scope, call (855) 650-7422. We're available around the clock and can be on-site to assess the damage before the next weather system moves through.
+If a storm has left your Highland Park property with a compromised roof, a flooded basement, or tree damage you're not sure how to scope, call (844) 808-8838. We're available around the clock and can be on-site to assess the damage before the next weather system moves through.

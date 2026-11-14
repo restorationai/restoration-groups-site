@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Paterson, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Paterson"
-meta_description: "24/7 emergency water damage restoration in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration paterson"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-The Passaic River has always defined Paterson's relationship with water, and not always kindly. Low-lying blocks near the Great Falls and along the Riverside corridor flooded catastrophically during Hurricane Irene in 2011 and again during Ida in 2021, pushing water into basements and first floors that had barely dried from the previous event. When a water emergency hits a Paterson home, the clock starts immediately: mold can begin colonizing damp framing within 24 to 48 hours, and in a city where housing stock runs deep into the 19th century, the hidden cavities inside those walls give moisture plenty of places to hide. The Restoration Group responds 24/7, call (855) 650-7422 the moment you find standing water.
+The Passaic River has always defined Paterson's relationship with water, and not always kindly. Low-lying blocks near the Great Falls and along the Riverside corridor flooded catastrophically during Hurricane Irene in 2011 and again during Ida in 2021, pushing water into basements and first floors that had barely dried from the previous event. When a water emergency hits a Paterson home, the clock starts immediately: mold can begin colonizing damp framing within 24 to 48 hours, and in a city where housing stock runs deep into the 19th century, the hidden cavities inside those walls give moisture plenty of places to hide. The Restoration Group responds 24/7, call (844) 808-8838 the moment you find standing water.
 
 ## Why Paterson Properties Face Elevated Water Damage Risk
 
@@ -54,4 +54,4 @@ Paterson's dense rental market means we also work regularly with property manage
 
 One thing that catches out-of-area contractors working in Paterson's older rowhouse blocks: the party walls between attached homes are often shared rubble-stone or unreinforced brick construction with no vapor barrier. When water enters one unit, it wicks laterally into the adjacent property through the wall assembly, sometimes significantly, before the neighbor has any visible sign of a problem. On any rowhouse job in Sandy Hill or similar attached-housing blocks, we always check the adjoining unit's wall cavity moisture readings as part of the initial inspection, and we flag the finding to both property owners. Skipping that step has caused more than one "dry" job to reopen as a mold claim 60 days later.
 
-If you are dealing with water damage anywhere in Paterson, a flooded basement after a heavy rain event, a burst pipe in a multi-family building, or the aftermath of a sprinkler discharge, call The Restoration Group at (855) 650-7422. We are available 24/7, and we know what water does inside Paterson's buildings.
+If you are dealing with water damage anywhere in Paterson, a flooded basement after a heavy rain event, a burst pipe in a multi-family building, or the aftermath of a sprinkler discharge, call The Restoration Group at (844) 808-8838. We are available 24/7, and we know what water does inside Paterson's buildings.

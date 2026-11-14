@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Summit, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Summit"
-meta_description: "24/7 emergency water removal and cleanup in Summit, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Summit, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal summit"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -53,4 +53,4 @@ Most water losses in Summit's older homes involve coverage questions that aren't
 
 In Summit's larger pre-war homes, particularly those with deep finished basements in the Brayton School area, the original drain tile systems were designed to weep water away from the foundation, not to handle the volume of stormwater that modern impervious surfaces now redirect toward those same walls. When a basement floods after a storm, it's worth having the source evaluated carefully before the job is closed out. A removal and cleanup job that doesn't account for a compromised drain tile system is likely to see a repeat loss within a season or two. We flag these conditions when we see them and can coordinate with a waterproofing contractor if the structural picture warrants it.
 
-If water has reached the floors, walls, or contents of your Summit home, call The Restoration Group at (855) 650-7422. We're available around the clock, and we'll walk you through next steps before we're even on-site.
+If water has reached the floors, walls, or contents of your Summit home, call The Restoration Group at (844) 808-8838. We're available around the clock, and we'll walk you through next steps before we're even on-site.

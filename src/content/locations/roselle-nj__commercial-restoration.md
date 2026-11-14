@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Roselle, NJ | The Restoration Group"
 h1: "Commercial Restoration in Roselle"
-meta_description: "24/7 commercial restoration in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration roselle"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -52,4 +52,4 @@ Commercial property claims in Roselle, particularly those involving sewer backup
 
 One pattern we see repeatedly in Roselle's older commercial corridors: buildings that share party walls, common along Chestnut Street where storefronts were built contiguous, can transfer moisture laterally into an adjacent tenant's space even when that unit had no direct exposure to the loss. If your neighbor had a pipe burst, your wall cavity may already be wet. We check both sides of any shared assembly before signing off on a drying job, because the liability for undiscovered moisture in a party-wall building falls on whoever certified the structure dry.
 
-If your Roselle business has taken on water, smoke damage, or structural harm, call The Restoration Group at (855) 650-7422. We will assess the damage, protect what can be saved, and get your property back to operational as quickly as the work allows, done right the first time so you are not revisiting the same loss in six months.
+If your Roselle business has taken on water, smoke damage, or structural harm, call The Restoration Group at (844) 808-8838. We will assess the damage, protect what can be saved, and get your property back to operational as quickly as the work allows, done right the first time so you are not revisiting the same loss in six months.

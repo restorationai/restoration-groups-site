@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Short Hills, NJ | The Restoration Group"
 h1: "Restoration Services in Short Hills"
-meta_description: "Serving Short Hills, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Short Hills, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services short hills"
 secondary_keywords: ["short hills restoration company", "damage restoration short hills", "short hills disaster restoration"]
 search_intent: "local_commercial"
@@ -45,4 +45,4 @@ Short Hills, part of Millburn Township in Essex County, has a housing stock that
 
 Clay-heavy soils common across this part of Essex County hold water against foundation walls longer than sandy soil would, which is part of why basement seepage and hydrostatic pressure issues show up repeatedly in this area. Structural repairs, electrical work tied to fire damage, and any rebuild after storm damage typically require a permit through Millburn Township's building department, and homes in established neighborhoods may also carry deed or association restrictions worth checking before exterior work begins.
 
-If water, fire, smoke, or storm damage has hit your Short Hills property, call The Restoration Group at (855) 650-7422. We're available 24/7 to start the assessment and get drying or stabilization underway.
+If water, fire, smoke, or storm damage has hit your Short Hills property, call The Restoration Group at (844) 808-8838. We're available 24/7 to start the assessment and get drying or stabilization underway.

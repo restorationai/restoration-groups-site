@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Bloomfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Bloomfield"
-meta_description: "24/7 emergency flood damage restoration in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration bloomfield"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -55,4 +55,4 @@ Most standard homeowner policies in New Jersey cover sudden and accidental water
 
 In Bloomfield's pre-war colonials and two-families, original plaster walls are common in finished basements that were converted decades after the house was built. Plaster absorbs water more slowly than drywall but releases it even more slowly during the drying phase, a wall that reads wet on day one may still be releasing vapor on day six. We've learned to extend monitoring cycles on these properties rather than pulling equipment on a standard three-day schedule. Calling the job dry too early in a Brookdale or Watsessing basement is how secondary mold growth starts two weeks later.
 
-If your basement, ground floor, or commercial space in Bloomfield has taken on water, whether from a backed-up sewer, a failed sump, or a burst supply line, call The Restoration Group at **(855) 650-7422**. We'll assess the damage, explain the process, and start drying before the moisture has time to move further into your structure.
+If your basement, ground floor, or commercial space in Bloomfield has taken on water, whether from a backed-up sewer, a failed sump, or a burst supply line, call The Restoration Group at **(844) 808-8838**. We'll assess the damage, explain the process, and start drying before the moisture has time to move further into your structure.

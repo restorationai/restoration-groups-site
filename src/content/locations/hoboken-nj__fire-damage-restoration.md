@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Hoboken, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Hoboken"
-meta_description: "24/7 emergency fire damage restoration in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration hoboken"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -58,4 +58,4 @@ Fire losses in Hoboken's multi-family stock frequently involve multiple policies
 
 In Hoboken's older brownstone blocks, particularly the streets running between Castle Point and Southwest Hoboken, many buildings still have original tin ceilings in first-floor units. Tin ceilings trap smoke residue in the seams between panels and are easily dented or warped by aggressive cleaning. We treat them with low-pressure dry-sponge methods and a specialized coating rather than standard soot-wash protocols, which preserves the original material and avoids a costly replacement line item on the insurance claim.
 
-If your home or building in Hoboken has been damaged by fire, call The Restoration Group at **(855) 650-7422**. We are available 24 hours a day, and our team will walk you through the immediate steps, what to touch, what not to touch, and what your insurance company will need, before we arrive on site.
+If your home or building in Hoboken has been damaged by fire, call The Restoration Group at **(844) 808-8838**. We are available 24 hours a day, and our team will walk you through the immediate steps, what to touch, what not to touch, and what your insurance company will need, before we arrive on site.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Linden, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Linden"
-meta_description: "24/7 emergency water removal and cleanup in Linden, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Linden, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal linden"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -53,4 +53,4 @@ For calls near Tremley Point or the areas south toward the Arthur Kill, we accou
 
 Linden's postwar split-levels present a specific drying challenge that doesn't show up in newer construction: the intermediate floor level, the "lower level" that sits partially below grade, often has a concrete slab with a wood subfloor system built on top of it. When water gets under that assembly, the slab stays cold, condensation continues even after the visible water is gone, and standard drying timelines don't apply. We position dehumidifiers to address the vapor drive from the slab surface, not just the ambient room humidity. Skipping that step is why some water removal jobs in this housing type end with a mold call three weeks later.
 
-If you're dealing with standing water, wet materials, or a loss that happened overnight, call (855) 650-7422. We serve all of Linden, from Sunnyside to Tremley Point to the Wood Avenue corridor, and we'll walk you through exactly what the water removal and cleanup involves before any work begins.
+If you're dealing with standing water, wet materials, or a loss that happened overnight, call (844) 808-8838. We serve all of Linden, from Sunnyside to Tremley Point to the Wood Avenue corridor, and we'll walk you through exactly what the water removal and cleanup involves before any work begins.

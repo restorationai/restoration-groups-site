@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Chatham, NJ | The Restoration Group"
 h1: "Restoration Services in Chatham"
-meta_description: "Serving Chatham, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Chatham, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services chatham"
 secondary_keywords: ["chatham restoration company", "damage restoration chatham", "chatham disaster restoration"]
 search_intent: "local_commercial"
@@ -43,4 +43,4 @@ Chatham sits a direct run from our Kenilworth base along Route 24 and the connec
 
 Much of Chatham's housing dates to the early-to-mid 20th century, with wood-frame construction, plaster or early drywall interiors, and full basements rather than slab or crawlspace foundations, a layout that concentrates water damage below grade where it's easy to miss until it's extensive. Plumbing from that era is a mix of galvanized and early copper supply lines, with cast iron drain stacks in many homes, both of which are prone to age-related failure that a restoration scope has to account for. Homes built before 1978 may also contain lead paint, and some outbuildings or older additions may still have asbestos-containing materials, so testing is part of responsible scoping rather than an afterthought. Structural repairs and rebuilds typically require a permit through the local building department, and homeowners in flood-prone sections near the Passaic River basin should expect additional review tied to floodplain regulations.
 
-If water is spreading through your basement, smoke has settled into your walls, or a storm has left your roof open to the weather, call The Restoration Group at (855) 650-7422. We answer 24/7 and can get a crew moving toward your Chatham property the same day.
+If water is spreading through your basement, smoke has settled into your walls, or a storm has left your roof open to the weather, call The Restoration Group at (844) 808-8838. We answer 24/7 and can get a crew moving toward your Chatham property the same day.

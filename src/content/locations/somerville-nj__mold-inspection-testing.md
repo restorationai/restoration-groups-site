@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Somerville, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Somerville"
-meta_description: "24/7 mold inspection and testing in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing somerville"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -44,4 +44,4 @@ The Restoration Group's base in Kenilworth puts Somerville roughly 25 to 30 minu
 
 One thing that comes up repeatedly in post-flood inspections in Somerville's low-lying neighborhoods is a false sense of resolution: the standing water was pumped out, the dehumidifiers ran for a week, and the basement looks dry. What a moisture meter and air sampling often reveal is a different picture, elevated spore counts concentrated near the base of framing walls, or elevated relative humidity locked inside closed-cell insulation that was never fully dried. Homes along the streets that flooded during Ida that were remediated quickly sometimes skipped post-drying verification testing. If your property is in one of those areas and you haven't had an air quality test since, that's the specific scenario where a mold assessment pays for itself before a sale, a renovation, or a health concern forces the issue.
 
-Call (855) 650-7422 to schedule a mold inspection and testing visit for your Somerville property. Whether you're dealing with a post-flood basement in 08876, an unexplained air quality complaint in a Main Street storefront, or a pre-listing concern in a century-old West End colonial, the written lab report you receive gives you a clear, defensible picture of what's actually in your air and on your surfaces.
+Call (844) 808-8838 to schedule a mold inspection and testing visit for your Somerville property. Whether you're dealing with a post-flood basement in 08876, an unexplained air quality complaint in a Main Street storefront, or a pre-listing concern in a century-old West End colonial, the written lab report you receive gives you a clear, defensible picture of what's actually in your air and on your surfaces.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Passaic, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Passaic"
-meta_description: "24/7 odor removal and deodorization in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization passaic"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -55,4 +55,4 @@ One thing that catches some contractors off guard in Passaic's older neighborhoo
 
 Odor removal is frequently a covered loss when it results from a fire, water damage, or sewer backup, all common claim types in Passaic's rental-heavy housing stock. We document the loss with photographs, moisture readings, and written scope notes formatted for carrier review, and we work directly with adjusters to support the claim. Passaic properties with multiple units sometimes involve both a landlord's commercial policy and individual tenant renters insurance; we can coordinate documentation across both. If your carrier disputes coverage for deodorization as a standalone line item, our scope documentation is structured to support the argument that odor treatment is a necessary component of the primary loss restoration.
 
-Call (855) 650-7422 any time, day or night, to reach a crew that knows Passaic's building stock and has the equipment to eliminate odors at the source, not just mask them.
+Call (844) 808-8838 any time, day or night, to reach a crew that knows Passaic's building stock and has the equipment to eliminate odors at the source, not just mask them.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in New Brunswick, NJ | The Restoration Group"
 h1: "Mold Remediation in New Brunswick"
-meta_description: "24/7 mold remediation in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation new brunswick"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ Most mold losses in New Brunswick trace back to a covered water event, a burst p
 
 In New Brunswick's older multifamily stock, particularly the attached brick rowhouses common in the Fifth Ward and blocks just off George Street, interior wythe walls (the inner layer of a double-brick exterior wall) frequently trap condensation during New Jersey's humid summers. When a plumbing event adds liquid moisture to a wall cavity that is already running at high relative humidity, mold can establish on the back face of drywall or plaster lath within days. Crews unfamiliar with this construction type sometimes clear surface mold and close out the job without checking the cavity side of the wall. We probe and instrument those cavities before signing off, because a missed colony in a shared wall becomes someone else's problem within a season.
 
-If you are dealing with a mold situation anywhere in New Brunswick, whether it is a visible patch in a basement near Boyd Park or a musty smell you cannot locate in a Rutgers-area rental, call The Restoration Group at (855) 650-7422. We respond around the clock, assess the full scope before recommending demolition, and carry NJ Licensed Home Improvement Contractor status through the NJ Division of Consumer Affairs.
+If you are dealing with a mold situation anywhere in New Brunswick, whether it is a visible patch in a basement near Boyd Park or a musty smell you cannot locate in a Rutgers-area rental, call The Restoration Group at (844) 808-8838. We respond around the clock, assess the full scope before recommending demolition, and carry NJ Licensed Home Improvement Contractor status through the NJ Division of Consumer Affairs.

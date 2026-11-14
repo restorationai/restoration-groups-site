@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Teaneck, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Teaneck"
-meta_description: "24/7 emergency board-up and tarping in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping teaneck"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -36,7 +36,7 @@ For window and door openings, panels are cut to overlap the frame by at least tw
 
 ## Reaching Teaneck from Kenilworth, Any Hour
 
-The Restoration Group operates 24/7, and the route from Kenilworth to Teaneck is straightforward: Route 9W north or the Garden State Parkway to I-80 west connects directly into the township. Neighborhoods closer to the Hackensack River corridor, the low-lying streets near Teaneck Creek Conservancy and the eastern residential blocks, can see localized road flooding after heavy rain, which is exactly when board-up calls spike. Our crew monitors road conditions and will route through Cedar Lane or Teaneck Road if the eastern approach is compromised. When you call (855) 650-7422, dispatch confirms an ETA based on real-time conditions rather than a fixed estimate that doesn't account for weather.
+The Restoration Group operates 24/7, and the route from Kenilworth to Teaneck is straightforward: Route 9W north or the Garden State Parkway to I-80 west connects directly into the township. Neighborhoods closer to the Hackensack River corridor, the low-lying streets near Teaneck Creek Conservancy and the eastern residential blocks, can see localized road flooding after heavy rain, which is exactly when board-up calls spike. Our crew monitors road conditions and will route through Cedar Lane or Teaneck Road if the eastern approach is compromised. When you call (844) 808-8838, dispatch confirms an ETA based on real-time conditions rather than a fixed estimate that doesn't account for weather.
 
 ## Local Note: Brick Facades and Masonry Anchoring in Teaneck
 
@@ -46,4 +46,4 @@ One thing that catches crews off guard on Teaneck's older brick homes is the mor
 
 As an IICRC Certified Firm and NJ Licensed Home Improvement Contractor, The Restoration Group produces documentation that meets the evidentiary standard most carriers require for emergency protective-measures claims. That means timestamped photos of every opening before boarding, a written scope with materials listed by type and dimension, and a signed authorization you can hand directly to your adjuster. Most homeowners' policies cover emergency board-up as a protective-measures expense separate from the underlying loss, your adjuster will want proof the work was necessary and that materials were appropriate to the damage. We provide both.
 
-If your property on Cedar Lane or anywhere else in Teaneck has taken structural damage, fire, storm, vehicle impact, vandalism, call (855) 650-7422 now. The Restoration Group secures the opening, documents the loss, and keeps the next rain event from turning a manageable repair into a gut renovation.
+If your property on Cedar Lane or anywhere else in Teaneck has taken structural damage, fire, storm, vehicle impact, vandalism, call (844) 808-8838 now. The Restoration Group secures the opening, documents the loss, and keeps the next rain event from turning a manageable repair into a gut renovation.

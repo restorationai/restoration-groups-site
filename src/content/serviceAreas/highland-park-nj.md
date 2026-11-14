@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Highland Park, NJ | The Restoration Group"
 h1: "Restoration Services in Highland Park"
-meta_description: "Serving Highland Park, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Highland Park, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services highland park"
 secondary_keywords: ["highland park restoration company", "damage restoration highland park", "highland park disaster restoration"]
 search_intent: "local_commercial"
@@ -59,4 +59,4 @@ Most of the borough's homes sit on full basements with footings set below the Ne
 
 Structural repair and rebuild permits are issued by the Highland Park construction office under the state Uniform Construction Code, with separate building, plumbing, electrical, and fire subcode approvals. Work in the mapped floodplain near the river carries additional elevation review.
 
-If you are dealing with water, fire, mold, or any property emergency in Highland Park, call The Restoration Group at **(855) 650-7422**, we answer every hour of every day and can have a crew moving toward your address while you are still on the phone.
+If you are dealing with water, fire, mold, or any property emergency in Highland Park, call The Restoration Group at **(844) 808-8838**, we answer every hour of every day and can have a crew moving toward your address while you are still on the phone.

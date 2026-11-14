@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Irvington, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Irvington"
-meta_description: "24/7 mold inspection and testing in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing irvington"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -38,7 +38,7 @@ When sampling is warranted, we collect air samples from affected rooms and from 
 
 In Irvington's older multifamily stock, we pay particular attention to shared wall assemblies between units. Mold in one unit's bathroom wall can colonize the adjacent unit's framing without producing visible signs on either side, a detail that matters enormously when a landlord or property manager needs to understand the full scope before remediation begins.
 
-The Restoration Group holds IICRC Firm Certification (#210213) and is licensed as an NJ Home Improvement Contractor through the NJ Division of Consumer Affairs. Inspections are available around the clock, call (855) 650-7422 any time.
+The Restoration Group holds IICRC Firm Certification (#210213) and is licensed as an NJ Home Improvement Contractor through the NJ Division of Consumer Affairs. Inspections are available around the clock, call (844) 808-8838 any time.
 
 ## Reaching Irvington from Kenilworth
 
@@ -48,4 +48,4 @@ Operating out of Kenilworth, we reach Irvington quickly via Route 22 east to Spr
 
 One pattern we've seen repeatedly in Irvington's attached rowhouse blocks: when a plumbing leak occurs in the middle unit of a three-family row, moisture migrates laterally through shared masonry party walls before it migrates downward. Homeowners in the adjoining unit will sometimes call about a musty smell or elevated humidity with no visible water source and no history of their own plumbing problems. In those situations, air sampling in both units, combined with a moisture scan of the shared wall, is the only way to establish whether cross-contamination has occurred. It's a scenario that rarely comes up in detached single-family homes but is common enough in Irvington's rowhouse stock that we treat it as a standard part of the inspection protocol here.
 
-If you've noticed a persistent odor, recently dealt with any water event, or are purchasing or managing a property in Irvington, call (855) 650-7422 to schedule a mold inspection and testing assessment. We'll give you a clear, documented picture of what's present, and what, if anything, needs to be done about it.
+If you've noticed a persistent odor, recently dealt with any water event, or are purchasing or managing a property in Irvington, call (844) 808-8838 to schedule a mold inspection and testing assessment. We'll give you a clear, documented picture of what's present, and what, if anything, needs to be done about it.

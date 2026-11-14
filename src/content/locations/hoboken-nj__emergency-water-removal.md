@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Hoboken, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Hoboken"
-meta_description: "24/7 emergency water removal and cleanup in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal hoboken"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-Hoboken sits on land that was once tidal marsh, and the city has never fully outrun that geography. When heavy rain overwhelms the combined sewer system, as it did catastrophically during Superstorm Sandy and again during Ida in 2021, water doesn't just pool in streets. It backs up through floor drains, seeps under basement doors, and fills garden-level units across the city's dense grid of 19th-century brownstones. If you're dealing with standing water or soaked floors right now, call The Restoration Group at (855) 650-7422 for emergency water removal and cleanup. We're available around the clock.
+Hoboken sits on land that was once tidal marsh, and the city has never fully outrun that geography. When heavy rain overwhelms the combined sewer system, as it did catastrophically during Superstorm Sandy and again during Ida in 2021, water doesn't just pool in streets. It backs up through floor drains, seeps under basement doors, and fills garden-level units across the city's dense grid of 19th-century brownstones. If you're dealing with standing water or soaked floors right now, call The Restoration Group at (844) 808-8838 for emergency water removal and cleanup. We're available around the clock.
 
 ## Why Hoboken Properties See Water Damage So Often
 
@@ -58,4 +58,4 @@ For multi-unit buildings, common across Uptown and Downtown Hoboken, losses that
 
 Hoboken's brownstones were built with plaster-on-lath walls, not modern drywall, and that distinction matters during drying. Plaster absorbs water more slowly than drywall but releases it slowly too, surface readings can look acceptable within a day or two while the lath and the brick behind it remain saturated. We've seen cases where a wall tests dry at the face but the moisture content inside the assembly is still well above acceptable levels. We extend monitoring in these buildings and don't close out an emergency water removal job based on surface readings alone. It takes longer, but it's the only way to confirm the structure is actually dry.
 
-If you're dealing with water damage anywhere in Hoboken, a flooded garden unit in Southwest Hoboken, a burst pipe near Castle Point, or a roof leak above a Washington Street commercial space, call (855) 650-7422 for emergency water removal and cleanup. We're IICRC Certified (Firm #210213), licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and available any time of day or night.
+If you're dealing with water damage anywhere in Hoboken, a flooded garden unit in Southwest Hoboken, a burst pipe near Castle Point, or a roof leak above a Washington Street commercial space, call (844) 808-8838 for emergency water removal and cleanup. We're IICRC Certified (Firm #210213), licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and available any time of day or night.

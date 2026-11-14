@@ -51,7 +51,7 @@ While GDPR is primarily designed for businesses operating within the European Un
 If you have questions about this policy or want to request access to, correction of, or deletion of information we hold about you, reach out directly:
 
 **The Restoration Group**  
-500 S 31st St, Kenilworth, NJ 07033  
+8 Harlow Crescent, Fair Lawn, NJ 07410  
 Phone: (908) 970-8533
 
 This policy may be updated periodically. Material changes will be reflected with a revised effective date at the top of this page.

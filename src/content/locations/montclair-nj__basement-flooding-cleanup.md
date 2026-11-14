@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Montclair, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Montclair"
-meta_description: "24/7 emergency basement flooding cleanup in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup montclair"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -40,7 +40,7 @@ If the flooding involved sewage backup, common in the South End and Frog Hollow 
 
 ## Getting to Montclair from Kenilworth
 
-Kenilworth to Montclair runs roughly 12 miles via Route 22 East to the Garden State Parkway north, or through Springfield and Maplewood on local roads depending on traffic. We're on call around the clock, so whether a pipe bursts at 2 a.m. in Upper Montclair (07043) or a sump fails during a Friday afternoon storm near Watchung Plaza, a crew can be rolling within minutes of your call to (855) 650-7422.
+Kenilworth to Montclair runs roughly 12 miles via Route 22 East to the Garden State Parkway north, or through Springfield and Maplewood on local roads depending on traffic. We're on call around the clock, so whether a pipe bursts at 2 a.m. in Upper Montclair (07043) or a sump fails during a Friday afternoon storm near Watchung Plaza, a crew can be rolling within minutes of your call to (844) 808-8838.
 
 For properties near Montclair State University's border or along the Bloomfield Avenue corridor, where mixed-use buildings and older retail spaces add commercial complexity, we coordinate staging with property managers and, where needed, confirm access with building superintendents before arrival.
 
@@ -48,4 +48,4 @@ For properties near Montclair State University's border or along the Bloomfield 
 
 Here's something that surprises homeowners in Montclair's Estate Section and older Upper Montclair neighborhoods: plaster walls dry significantly more slowly than modern drywall, and they do it quietly. A plaster wall can read damp on a moisture meter for five to seven days after the visible water is gone, because the lime-and-sand matrix releases moisture gradually rather than all at once. We account for this by extending the drying phase and taking daily readings rather than pulling equipment on a fixed schedule. Pulling dehumidifiers too early in a plaster-walled basement is one of the most common reasons secondary mold growth appears two weeks after a "completed" job, we've seen it in homes near Anderson Park and along the Watchung Plaza district, and we don't cut that corner.
 
-If your basement has been flooded and you're not sure whether the drying is truly finished, call (855) 650-7422. As an IICRC Certified Firm (#210213) and NJ Licensed Home Improvement Contractor, The Restoration Group documents every step, moisture logs, photo evidence, and drying reports, so you have what you need for your insurance claim and for your own peace of mind.
+If your basement has been flooded and you're not sure whether the drying is truly finished, call (844) 808-8838. As an IICRC Certified Firm (#210213) and NJ Licensed Home Improvement Contractor, The Restoration Group documents every step, moisture logs, photo evidence, and drying reports, so you have what you need for your insurance claim and for your own peace of mind.

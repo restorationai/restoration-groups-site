@@ -58,6 +58,6 @@ Winter storm damage carries an added complication: ice damming. When heat escape
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ, and responds to storm damage throughout Union County and the surrounding region, including Cranford, Westfield, Springfield, Summit, Roselle, and neighboring communities. City-specific pages for each area link back here for full service details.
+The Restoration Group is based in Fair Lawn, NJ, and responds to storm damage throughout Union County and the surrounding region, including Cranford, Westfield, Springfield, Summit, Roselle, and neighboring communities. City-specific pages for each area link back here for full service details.
 
 If a storm has left your home or property exposed, call (908) 970-8533 to begin emergency securing and get a damage assessment started, available 24/7, any day of the year.

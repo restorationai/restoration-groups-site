@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Teaneck, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Teaneck"
-meta_description: "24/7 emergency flood damage restoration in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration teaneck"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -49,4 +49,4 @@ The Restoration Group operates 24/7 out of Kenilworth, NJ, which puts Teaneck ro
 
 Many of the pre-war homes in Teaneck, particularly the larger colonials near Fairleigh Dickinson University and the brick Tudors throughout The Grange, were finished with three-coat plaster over wood lath rather than modern drywall. Plaster absorbs water more slowly than drywall, which can create a false sense of security in the first 24 hours when surface readings look relatively low. The problem is that plaster also releases that moisture slowly, and the wood lath behind it can hold elevated moisture content for days after the plaster face reads dry. On these jobs, we extend the drying validation period and use deeper-probe readings before signing off, a step that prevents callbacks weeks later when the lath finally dries out and the plaster cracks or the finish paint bubbles.
 
-If your home in Teaneck has taken on water, whether from a backed-up drain during a storm, a failed sump pump, or direct flooding from Teaneck Creek, call The Restoration Group at (855) 650-7422. We will assess the damage, explain the scope honestly, and get drying equipment in place before secondary damage compounds the loss.
+If your home in Teaneck has taken on water, whether from a backed-up drain during a storm, a failed sump pump, or direct flooding from Teaneck Creek, call The Restoration Group at (844) 808-8838. We will assess the damage, explain the scope honestly, and get drying equipment in place before secondary damage compounds the loss.

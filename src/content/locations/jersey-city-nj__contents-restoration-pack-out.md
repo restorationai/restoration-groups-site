@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Jersey City, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Jersey City"
-meta_description: "24/7 contents restoration & pack-out in Jersey City, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Jersey City, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out jersey city"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -46,4 +46,4 @@ The Restoration Group is an IICRC Certified Firm (#210213) and a licensed New Je
 
 In Jersey City's older rowhouse neighborhoods, it is common to find finished basement spaces that were converted without permits, drop ceilings, laminate flooring laid directly on slab, and built-in shelving that was never designed to be waterproof. When a basement floods in these spaces, the contents inventory gets complicated quickly because the shelving itself may be unsalvageable, and items stored on lower shelves may have been sitting in contaminated water longer than the homeowner realizes. We flag these conditions during the initial walkthrough so the inventory accurately reflects what was exposed and for how long, a detail that matters when the carrier reviews the claim.
 
-If you're dealing with a loss at a property in the Heights, Bergen-Lafayette, or anywhere across Jersey City's 07304 or 07305 ZIP codes, call The Restoration Group at (855) 650-7422. We're available around the clock, and we'll start the inventory process before anything is moved so your claim has the documentation it needs from the first hour.
+If you're dealing with a loss at a property in the Heights, Bergen-Lafayette, or anywhere across Jersey City's 07304 or 07305 ZIP codes, call The Restoration Group at (844) 808-8838. We're available around the clock, and we'll start the inventory process before anything is moved so your claim has the documentation it needs from the first hour.

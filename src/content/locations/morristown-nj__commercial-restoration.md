@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Morristown, NJ | The Restoration Group"
 h1: "Commercial Restoration in Morristown"
-meta_description: "24/7 commercial restoration in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration morristown"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -50,4 +50,4 @@ For businesses near Morristown Medical Center or in the Historic District where 
 
 One pattern we see repeatedly in Morristown's older commercial blocks, particularly the brick storefronts along the streets radiating off the Green, is that water from a roof leak or a failed parapet flashing doesn't travel straight down. It migrates laterally through the mortar joints and can emerge inside a wall cavity two or three bays away from the actual breach. A business owner sees water staining on an interior wall and assumes the problem is directly above, but the entry point is often 15 to 20 feet away on the roofline. Thermal imaging on the exterior facade, not just the interior, is the only reliable way to trace that path accurately before opening walls.
 
-If your Morristown commercial property has experienced a loss or you're managing a building in the Speedwell or Historic District area and want a proactive assessment, call The Restoration Group at (855) 650-7422. We're available around the clock, and we'll give you a straight answer about what the damage actually involves before any work begins.
+If your Morristown commercial property has experienced a loss or you're managing a building in the Speedwell or Historic District area and want a proactive assessment, call The Restoration Group at (844) 808-8838. We're available around the clock, and we'll give you a straight answer about what the damage actually involves before any work begins.

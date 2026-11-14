@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Fair Lawn, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Fair Lawn"
-meta_description: "24/7 emergency water damage restoration in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration fair lawn"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -53,4 +53,4 @@ Water damage claims in Fair Lawn, especially those tied to storm events like Ida
 
 One thing crews learn quickly working in the Radburn section: the planned-community layout means some homes share rear-yard pathways and have limited driveway access from the street. When a basement flood call comes in from that neighborhood, we confirm the access situation before dispatch so equipment trucks are staged correctly from the start, a small detail that saves real time when every hour of standing water matters for your flooring and framing.
 
-If water has reached your floors, walls, or belongings anywhere in Fair Lawn, call (855) 650-7422 now. The longer water sits, the deeper it travels, and in a borough where so many homes have finished basements and aging infrastructure, acting in the first few hours makes a measurable difference in what can be saved.
+If water has reached your floors, walls, or belongings anywhere in Fair Lawn, call (844) 808-8838 now. The longer water sits, the deeper it travels, and in a borough where so many homes have finished basements and aging infrastructure, acting in the first few hours makes a measurable difference in what can be saved.

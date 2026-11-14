@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in West Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in West Orange"
-meta_description: "24/7 emergency smoke damage restoration in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration west orange"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -59,4 +59,4 @@ We photograph and document every affected surface, pull moisture and air quality
 
 One thing that comes up repeatedly on West Orange jobs: the balloon-frame construction common in the older sections near Thomas Edison National Historical Park means wall cavities run uninterrupted from the basement sill plate to the roof rafters. When a fire event occurs on a lower floor, smoke travels vertically inside those cavities and deposits soot behind plaster on upper floors and in the attic, rooms that show no visible fire damage at all. Homeowners and even some contractors miss this entirely. On any West Orange job in a pre-1940 structure, we probe the attic and upper-floor wall cavities as a standard step, not an add-on.
 
-If you're dealing with smoke damage anywhere in West Orange, from a kitchen fire, an electrical event, or smoke infiltration from a neighboring property, call (855) 650-7422. We'll assess the full scope of what the smoke has reached, not just what's visible, and walk you through the restoration path from first call to final clearance.
+If you're dealing with smoke damage anywhere in West Orange, from a kitchen fire, an electrical event, or smoke infiltration from a neighboring property, call (844) 808-8838. We'll assess the full scope of what the smoke has reached, not just what's visible, and walk you through the restoration path from first call to final clearance.

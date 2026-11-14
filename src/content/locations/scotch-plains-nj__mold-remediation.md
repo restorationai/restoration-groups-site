@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Scotch Plains, NJ | The Restoration Group"
 h1: "Mold Remediation in Scotch Plains"
-meta_description: "24/7 mold remediation in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation scotch plains"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -48,4 +48,4 @@ For properties near the Ashbrook Reservation or on the south side of town closer
 
 One pattern we've seen repeatedly in Scotch Plains's 1950s and 1960s split-levels: the original builders often used kraft-faced fiberglass batts in basement rim joists, and that kraft paper, now 60-plus years old, is among the first materials to show mold growth after any moisture intrusion. Homeowners frequently miss it entirely because it's tucked behind a finished drop ceiling. During every inspection in this housing stock, we pull back ceiling tiles in the perimeter of the basement as a standard step, not an add-on. It's a small thing that routinely changes the scope of what needs to be addressed.
 
-If you're dealing with mold in a Scotch Plains home or commercial property, whether it's a visible patch in the bathroom or a musty smell you can't locate, call The Restoration Group at (855) 650-7422. We'll assess the situation honestly and give you a clear picture of what remediation actually involves before any work begins.
+If you're dealing with mold in a Scotch Plains home or commercial property, whether it's a visible patch in the bathroom or a musty smell you can't locate, call The Restoration Group at (844) 808-8838. We'll assess the situation honestly and give you a clear picture of what remediation actually involves before any work begins.

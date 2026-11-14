@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Fair Lawn, NJ | The Restoration Group"
 h1: "Restoration Services in Fair Lawn"
-meta_description: "Serving Fair Lawn, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Fair Lawn, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services fair lawn"
 secondary_keywords: ["fair lawn restoration company", "damage restoration fair lawn", "fair lawn disaster restoration"]
 search_intent: "local_commercial"
@@ -47,7 +47,7 @@ Because we handle both mitigation and rebuild, there is no handoff gap, the same
 
 ## Coverage and how fast we can get there
 
-The Restoration Group operates 24/7, and our Kenilworth office sits roughly 12 to 14 miles from Fair Lawn via Route 17 North or the Garden State Parkway to Route 208, a straightforward run that keeps drive time short even in Bergen County traffic. We cover the entire borough: the historic blocks of the Radburn Historic District, the residential streets around Saddle River County Park, the commercial strip along the Broadway commercial district, and the flood-prone stretches of River Road. When you call (855) 650-7422, a live dispatcher answers and gets a crew moving, no voicemail queue, no next-business-day callback.
+The Restoration Group operates 24/7, and our Kenilworth office sits roughly 12 to 14 miles from Fair Lawn via Route 17 North or the Garden State Parkway to Route 208, a straightforward run that keeps drive time short even in Bergen County traffic. We cover the entire borough: the historic blocks of the Radburn Historic District, the residential streets around Saddle River County Park, the commercial strip along the Broadway commercial district, and the flood-prone stretches of River Road. When you call (844) 808-8838, a live dispatcher answers and gets a crew moving, no voicemail queue, no next-business-day callback.
 
 ## Building stock, site conditions, and permits in Fair Lawn
 
@@ -57,4 +57,4 @@ The ground near the Passaic and Saddle rivers is river-deposited sand and silt o
 
 Structural repair and rebuild permits go through Fair Lawn's construction office under the New Jersey Uniform Construction Code, with separate building, electrical, and plumbing subcode approvals. Work in a mapped flood zone brings elevation rules into the scope.
 
-If you are dealing with water, fire, mold, or storm damage anywhere in Fair Lawn, from a flooded River Road basement to smoke damage near Memorial Park, call The Restoration Group at **(855) 650-7422**. We answer every call, every hour, and we can have a crew on the road to you today.
+If you are dealing with water, fire, mold, or storm damage anywhere in Fair Lawn, from a flooded River Road basement to smoke damage near Memorial Park, call The Restoration Group at **(844) 808-8838**. We answer every call, every hour, and we can have a crew on the road to you today.

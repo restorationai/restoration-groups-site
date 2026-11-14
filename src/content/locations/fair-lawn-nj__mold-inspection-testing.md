@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Fair Lawn, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Fair Lawn"
-meta_description: "24/7 mold inspection and testing in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing fair lawn"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ Our crews are available around the clock, and Fair Lawn is a straightforward run
 
 After the 2021 flooding tied to Hurricane Ida, we worked extensively in the low-lying corridors near the Saddle River. One pattern that came up repeatedly: homeowners who had pumped out standing water quickly assumed the problem was solved once the floor was dry to the touch. What the moisture meters showed was a different picture, block foundation walls were still reading 20 to 30 percent moisture content weeks later, and mold had already begun growing on the back face of the drywall where no one could see it. In Fair Lawn's flood-prone zones, a visual inspection alone is never enough. Thermal imaging and moisture mapping are the only way to confirm a basement is actually dry, not just dry on the surface.
 
-If you've had water in your home, whether from a storm, a pipe failure, or a slow leak you only recently discovered, call (855) 650-7422 to schedule a mold inspection and testing assessment in Fair Lawn. We'll give you a clear picture of what's in your air and inside your walls, so you can make informed decisions about next steps.
+If you've had water in your home, whether from a storm, a pipe failure, or a slow leak you only recently discovered, call (844) 808-8838 to schedule a mold inspection and testing assessment in Fair Lawn. We'll give you a clear picture of what's in your air and inside your walls, so you can make informed decisions about next steps.

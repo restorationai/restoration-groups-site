@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Clark, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Clark"
-meta_description: "24/7 odor removal and deodorization in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization clark"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -42,10 +42,10 @@ Effective deodorization isn't a single step, it's a sequence calibrated to the o
 
 ## Reaching Clark from Kenilworth
 
-The Restoration Group's base in Kenilworth puts Clark within a short drive via Central Avenue or Raritan Road, and we operate 24/7, so an overnight sump failure or a 2 a.m. smoke event doesn't mean waiting until morning. Neighborhoods near Oak Ridge Golf Course and the Lake Avenue corridor are straightforward to reach from the Kenilworth side; the Westfield Avenue corridor and properties closer to the Robert Wood Johnson area along Clark's eastern edge add a few minutes but remain well within our regular service footprint. When you call (855) 650-7422, we'll give you an honest arrival estimate based on current conditions rather than a marketing number.
+The Restoration Group's base in Kenilworth puts Clark within a short drive via Central Avenue or Raritan Road, and we operate 24/7, so an overnight sump failure or a 2 a.m. smoke event doesn't mean waiting until morning. Neighborhoods near Oak Ridge Golf Course and the Lake Avenue corridor are straightforward to reach from the Kenilworth side; the Westfield Avenue corridor and properties closer to the Robert Wood Johnson area along Clark's eastern edge add a few minutes but remain well within our regular service footprint. When you call (844) 808-8838, we'll give you an honest arrival estimate based on current conditions rather than a marketing number.
 
 ## Local Note: Clark's Finished Basements and the Odor Trap Nobody Talks About
 
 One pattern we see repeatedly in Clark that doesn't show up as often in newer construction: the finished basement that was converted in the 1970s or '80s using paneling over furring strips. That air gap between the paneling and the original concrete block wall becomes a reservoir for odor, mold spores, smoke particles, and sewer gas accumulate in a space that's almost impossible to clean without pulling the paneling. Homeowners sometimes repaint or re-carpet and wonder why the smell returns within a season. If your Clark home has that era of basement finish and you're dealing with a persistent odor, the answer is almost always behind the walls, not on them. We'll assess that space specifically rather than treating only what's visible.
 
-If a smell in your Clark home or business has outlasted every cleaning attempt, it's time to treat the structure, not just the surface. Call The Restoration Group at (855) 650-7422, we'll assess the source, explain the method, and give you a clear picture of what it takes to get your home back to neutral.
+If a smell in your Clark home or business has outlasted every cleaning attempt, it's time to treat the structure, not just the surface. Call The Restoration Group at (844) 808-8838, we'll assess the source, explain the method, and give you a clear picture of what it takes to get your home back to neutral.

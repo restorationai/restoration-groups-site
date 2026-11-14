@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Somerville, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Somerville"
-meta_description: "24/7 emergency basement flooding cleanup in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup somerville"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ Most standard homeowners policies cover sudden and accidental water intrusion, a
 
 Somerville's pre-war finished basements frequently used beadboard paneling and tongue-and-groove pine flooring over sleepers, materials that look dry on the surface hours after extraction but hold moisture in the wood grain for days. Technicians working in the West End and Fairview areas know to probe below the surface finish before declaring a space dry, because a moisture reading taken only at the face of the paneling will understate actual drying time by a significant margin. Skipping that step is one of the most common reasons a "dried" basement develops a mold odor three weeks later.
 
-If your basement is holding water right now, whether from a pipe failure, a backed-up drain, or groundwater pushing through a block wall, call The Restoration Group at **(855) 650-7422**. We serve all of Somerville, including the Downtown corridor, Fairview, and the neighborhoods flanking the Raritan River, and we're available any hour to stop the damage before it compounds.
+If your basement is holding water right now, whether from a pipe failure, a backed-up drain, or groundwater pushing through a block wall, call The Restoration Group at **(844) 808-8838**. We serve all of Somerville, including the Downtown corridor, Fairview, and the neighborhoods flanking the Raritan River, and we're available any hour to stop the damage before it compounds.

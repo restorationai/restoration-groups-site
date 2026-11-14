@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Irvington, NJ | The Restoration Group"
 h1: "Restoration Services in Irvington"
-meta_description: "Serving Irvington, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Irvington, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services irvington"
 secondary_keywords: ["irvington restoration company", "damage restoration irvington", "irvington disaster restoration"]
 search_intent: "local_commercial"
@@ -59,4 +59,4 @@ Footings in this part of North Jersey are set below a roughly three-foot frost l
 
 Structural repair and rebuild permits come from Irvington Township's construction office under the New Jersey Uniform Construction Code, with separate subcode permits for plumbing, electrical, and fire.
 
-If you're dealing with an active loss or need an assessment on damage you've already found, call The Restoration Group at (855) 650-7422. We're available around the clock and can dispatch to any Irvington neighborhood.
+If you're dealing with an active loss or need an assessment on damage you've already found, call The Restoration Group at (844) 808-8838. We're available around the clock and can dispatch to any Irvington neighborhood.

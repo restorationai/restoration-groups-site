@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Somerville, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Somerville"
-meta_description: "24/7 odor removal and deodorization in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization somerville"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -51,4 +51,4 @@ The Restoration Group is headquartered in Kenilworth, roughly 25 miles northeast
 
 Somerville's Victorian and colonial homes along Mercer Street and in the Fairview area frequently have finished basements with drop ceilings installed over original wood-beam ceilings. When a sewage backup or flood odor is treated, those drop-ceiling tiles trap the deodorizing agent and prevent it from reaching the original ceiling above, and the original ceiling is where the odor has actually migrated. We pull drop-ceiling tiles before fogging in these configurations rather than treating through them, which cuts re-treatment callbacks significantly. It's a small step that makes a real difference in homes built the way Somerville's were.
 
-If a persistent smell is making your home or storefront uninhabitable, whether it's smoke from a fire, sewage from a backed-up drain, or the musty aftermath of a flooded basement, call The Restoration Group at (855) 650-7422. We'll assess the source, recommend the right treatment sequence, and document everything for your insurance carrier.
+If a persistent smell is making your home or storefront uninhabitable, whether it's smoke from a fire, sewage from a backed-up drain, or the musty aftermath of a flooded basement, call The Restoration Group at (844) 808-8838. We'll assess the source, recommend the right treatment sequence, and document everything for your insurance carrier.

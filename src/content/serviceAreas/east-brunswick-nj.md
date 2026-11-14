@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in East Brunswick, NJ | The Restoration Group"
 h1: "Restoration Services in East Brunswick"
-meta_description: "Serving East Brunswick, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving East Brunswick, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services east brunswick"
 secondary_keywords: ["east brunswick restoration company", "damage restoration east brunswick", "east brunswick disaster restoration"]
 search_intent: "local_commercial"
@@ -53,7 +53,7 @@ Once mitigation is complete, the same crew that dried your home can rebuild it, 
 
 ## Coverage and how fast we can get there
 
-From our Kenilworth headquarters, East Brunswick is roughly 25 miles via the Garden State Parkway south to Route 9 or via Route 1 through Metuchen, a straightforward run that keeps us well within Middlesex County reach. Because we operate 24/7, a call at 2 a.m. from a property manager in the Village of the Golden Triangle or a homeowner off Old Bridge Turnpike gets the same dispatch response as a mid-afternoon call. We will give you an honest estimated arrival window when you call (855) 650-7422, conditions on the Parkway and Route 18 vary, and we do not quote arrival times we cannot stand behind.
+From our Kenilworth headquarters, East Brunswick is roughly 25 miles via the Garden State Parkway south to Route 9 or via Route 1 through Metuchen, a straightforward run that keeps us well within Middlesex County reach. Because we operate 24/7, a call at 2 a.m. from a property manager in the Village of the Golden Triangle or a homeowner off Old Bridge Turnpike gets the same dispatch response as a mid-afternoon call. We will give you an honest estimated arrival window when you call (844) 808-8838, conditions on the Parkway and Route 18 vary, and we do not quote arrival times we cannot stand behind.
 
 ## Building stock, site conditions, and permits in East Brunswick
 
@@ -63,4 +63,4 @@ This part of Middlesex County sits on coastal plain sands and clays, so drainage
 
 Repairs beyond cosmetic replacement need permits from East Brunswick Township's construction office under the New Jersey Uniform Construction Code, with separate building, plumbing, and electrical subcode approvals. In townhome and condo clusters, the association usually controls exterior and common-element work.
 
-If you are dealing with a water, fire, mold, or structural loss anywhere in East Brunswick, from a ranch off Frost Woods to a commercial bay near the Ireland Brook Conservation Area, call The Restoration Group at **(855) 650-7422**. We answer every hour of every day and can walk you through next steps before we even arrive on site.
+If you are dealing with a water, fire, mold, or structural loss anywhere in East Brunswick, from a ranch off Frost Woods to a commercial bay near the Ireland Brook Conservation Area, call The Restoration Group at **(844) 808-8838**. We answer every hour of every day and can walk you through next steps before we even arrive on site.

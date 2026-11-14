@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in New Brunswick, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in New Brunswick"
-meta_description: "24/7 mold inspection and testing in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing new brunswick"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ For properties near Robert Wood Johnson University Hospital or the institutional
 
 One pattern that comes up repeatedly in New Brunswick's older multifamily stock: buildings that were converted from single-family rowhouses to two- or three-unit rentals often have sealed-off original chimneys that now function as unventilated vertical shafts connecting every floor. When a ground-floor unit has a moisture event, humid air migrates upward through these chases and condenses inside upper-floor walls, producing mold growth two stories above the original water source. Inspectors who don't probe these pathways will miss the secondary colonies entirely. It's a construction quirk specific to this era and housing type, and it's one reason we treat New Brunswick multifamily inspections as multi-zone investigations rather than single-unit assessments.
 
-If you're dealing with a suspected mold problem anywhere in New Brunswick, whether it's a Rutgers Village rental, a rowhouse in the Fifth Ward, or a commercial space off George Street, call (855) 650-7422. We'll schedule an inspection, collect the samples, and give you a clear, documented picture of what's actually in the air and walls of your property.
+If you're dealing with a suspected mold problem anywhere in New Brunswick, whether it's a Rutgers Village rental, a rowhouse in the Fifth Ward, or a commercial space off George Street, call (844) 808-8838. We'll schedule an inspection, collect the samples, and give you a clear, documented picture of what's actually in the air and walls of your property.

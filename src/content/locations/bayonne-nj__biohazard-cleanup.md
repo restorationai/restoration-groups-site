@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Bayonne, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Bayonne"
-meta_description: "24/7 emergency biohazard cleanup in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup bayonne"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -49,4 +49,4 @@ Many biohazard situations are covered under homeowners or renters insurance poli
 
 In Bayonne's older two- and three-family homes, the finished basement level is often the lowest point of the structure and frequently sits at or near the water table, a condition that is especially pronounced in the low-lying blocks near Constable Hook and the Newark Bay waterfront. During and after a biohazard event in these spaces, moisture already present in the slab and block foundation walls can complicate the drying and decontamination process. Technicians working in Bayonne basements account for ambient moisture readings separately from contamination readings, because a surface that tests clean for biological material may still be retaining enough moisture to support secondary microbial growth if it is not addressed as part of the same scope of work.
 
-If you are managing a situation in Bayonne and need help now, call The Restoration Group at (855) 650-7422. The team is available at any hour, responds promptly, and handles every job with the discretion that a difficult situation deserves.
+If you are managing a situation in Bayonne and need help now, call The Restoration Group at (844) 808-8838. The team is available at any hour, responds promptly, and handles every job with the discretion that a difficult situation deserves.

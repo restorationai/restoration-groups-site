@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Linden, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Linden"
-meta_description: "24/7 emergency flood damage restoration in Linden, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Linden, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration linden"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Flood losses in Linden often involve both homeowners insurance (for sudden and a
 
 In Linden's postwar split-levels, the intermediate floor level, the "lower level" that sits partially below grade, is often the first space to flood and the last to dry. Because that level typically has concrete block walls rather than poured concrete, water infiltrates through the mortar joints and the block face itself, not just through obvious cracks. Homeowners sometimes see the visible water stop and assume the problem is resolved, but the block continues to release moisture into the air for days. We extend drying equipment placement and monitoring cycles on those structures specifically because of this, it's a pattern we see repeatedly in Sunnyside and the blocks around the former Linden GM Assembly site.
 
-If your Linden home or commercial property has taken on water, whether from a storm event, a failed sump pump, or a pipe failure, call (855) 650-7422 now. We're available around the clock, and the sooner extraction and drying begin, the less material you lose to secondary damage.
+If your Linden home or commercial property has taken on water, whether from a storm event, a failed sump pump, or a pipe failure, call (844) 808-8838 now. We're available around the clock, and the sooner extraction and drying begin, the less material you lose to secondary damage.

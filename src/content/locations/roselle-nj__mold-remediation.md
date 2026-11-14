@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Roselle, NJ | The Restoration Group"
 h1: "Mold Remediation in Roselle"
-meta_description: "24/7 mold remediation in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation roselle"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ Mold claims in New Jersey can be complicated. Standard homeowners policies often
 
 One pattern we see repeatedly in Roselle's pre-1950 homes: original horsehair plaster over wood lath. Unlike modern drywall, plaster doesn't wick moisture to the surface in a way that's easy to read with a surface meter, the lath behind it can be saturated while the plaster face feels dry to the touch. We use deep-penetration moisture meters and thermal imaging on every plaster-wall inspection in this housing stock. It takes longer to assess, but it prevents the scenario where a homeowner gets a clearance and then finds mold returning inside the wall cavity three months later.
 
-If you're seeing signs of mold growth anywhere in your Roselle home or commercial property, or if you had water intrusion after a storm and never had the structure formally dried and tested, call The Restoration Group at (855) 650-7422. We'll assess the situation honestly and give you a clear picture of what remediation actually requires before any work begins.
+If you're seeing signs of mold growth anywhere in your Roselle home or commercial property, or if you had water intrusion after a storm and never had the structure formally dried and tested, call The Restoration Group at (844) 808-8838. We'll assess the situation honestly and give you a clear picture of what remediation actually requires before any work begins.

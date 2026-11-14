@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Fort Lee, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Fort Lee"
-meta_description: "24/7 emergency biohazard cleanup in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup fort lee"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -53,4 +53,4 @@ If the incident is insurance-eligible, and many are, under homeowner's or renter
 
 In Fort Lee's older multifamily buildings, particularly in Coytesville and on the streets climbing The Hill, many units have original hardwood floors laid directly over board subfloor with no moisture barrier. When biological contamination reaches those boards, it wicks laterally along the grain in ways that aren't visible from above. We probe and test beyond the obvious perimeter before concluding that a floor section is unaffected. Skipping that step is how contamination gets missed and odors return weeks later. It's a detail that matters more in this housing stock than in newer construction.
 
-If you're dealing with a situation in Fort Lee and need help now, call (855) 650-7422. We respond around the clock, handle the logistics with discretion, and work directly with your building management and insurance carrier so you can focus on what matters.
+If you're dealing with a situation in Fort Lee and need help now, call (844) 808-8838. We respond around the clock, handle the logistics with discretion, and work directly with your building management and insurance carrier so you can focus on what matters.

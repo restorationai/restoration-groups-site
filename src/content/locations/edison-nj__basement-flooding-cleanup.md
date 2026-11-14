@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Edison, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Edison"
-meta_description: "24/7 emergency basement flooding cleanup in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup edison"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ We photograph and document affected materials before any demolition, provide moi
 
 One pattern we've seen repeatedly in Edison's postwar split-levels and raised ranches: the original builders poured basement floors with a slight crown toward the center rather than sloping to a floor drain. It's a common construction detail from that era, and it means water from a failed sump or a backed-up drain doesn't flow to a single low point, it pools across the entire slab. Standard extraction wands miss the shallow edges. We bring flat-profile squeegee extractors specifically for these floors, which cuts extraction time and gets the drying phase started faster. If your home in the 08820 or 08837 ZIP code was built before 1975, there's a reasonable chance your basement floor has this profile.
 
-If water is standing in your Edison basement right now, the clock is already running. Call The Restoration Group at (855) 650-7422, we're available around the clock, we carry NJ Licensed Home Improvement Contractor credentials, and we're an IICRC Certified Firm (#210213) with the equipment and documentation process to get your basement dry and your claim supported from the first hour on-site.
+If water is standing in your Edison basement right now, the clock is already running. Call The Restoration Group at (844) 808-8838, we're available around the clock, we carry NJ Licensed Home Improvement Contractor credentials, and we're an IICRC Certified Firm (#210213) with the equipment and documentation process to get your basement dry and your claim supported from the first hour on-site.

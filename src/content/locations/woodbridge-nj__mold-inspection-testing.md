@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Woodbridge, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Woodbridge"
-meta_description: "24/7 mold inspection and testing in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing woodbridge"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -38,10 +38,10 @@ Because The Restoration Group holds IICRC Firm certification (#210213) and is li
 
 ## Reaching Woodbridge from Kenilworth
 
-The Restoration Group operates out of Kenilworth, NJ, and Woodbridge is a straightforward run down the Garden State Parkway or Route 9. Whether the property is near the Woodbridge Center mall corridor, tucked into a Colonia neighborhood off Route 27, or sitting in the Avenel section close to the train station, the team can reach most addresses in the township without the long dispatch delays that come with firms headquartered farther south or in the city. Calls are answered 24/7 at (855) 650-7422, and scheduling can begin immediately.
+The Restoration Group operates out of Kenilworth, NJ, and Woodbridge is a straightforward run down the Garden State Parkway or Route 9. Whether the property is near the Woodbridge Center mall corridor, tucked into a Colonia neighborhood off Route 27, or sitting in the Avenel section close to the train station, the team can reach most addresses in the township without the long dispatch delays that come with firms headquartered farther south or in the city. Calls are answered 24/7 at (844) 808-8838, and scheduling can begin immediately.
 
 ## Local Note: What Ida Left Behind in Woodbridge Basements
 
 One pattern that comes up repeatedly in Woodbridge inspections, particularly in homes near the Rahway River flood plain, is mold that established itself in the wall cavity just above the flood line, not at floor level where most homeowners look first. When floodwater recedes, capillary wicking pulls moisture upward into framing and insulation for several inches above the visible water mark. In postwar split-levels with fiberglass batt insulation in the lower-level walls, that batt holds moisture like a sponge and creates ideal conditions for Cladosporium and Penicillium growth inside a cavity that looks perfectly dry from the finished side. Inspectors who only check the floor and the obvious wet spots miss this zone entirely. It's one reason air sampling matters as much as the visual component of any inspection in a post-flood Woodbridge home.
 
-If you've had water in a lower level, whether from Ida, a burst supply line, or a backed-up cast-iron drain, and you haven't had a post-drying mold assessment, call (855) 650-7422. The Restoration Group serves all of Woodbridge Township, and a written clearance report is the only way to know the job is actually done.
+If you've had water in a lower level, whether from Ida, a burst supply line, or a backed-up cast-iron drain, and you haven't had a post-drying mold assessment, call (844) 808-8838. The Restoration Group serves all of Woodbridge Township, and a written clearance report is the only way to know the job is actually done.

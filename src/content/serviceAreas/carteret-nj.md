@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Carteret, NJ | The Restoration Group"
 h1: "Restoration Services in Carteret"
-meta_description: "Serving Carteret, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Carteret, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services carteret"
 secondary_keywords: ["carteret restoration company", "damage restoration carteret", "carteret disaster restoration"]
 search_intent: "local_commercial"
@@ -47,4 +47,4 @@ Much of Carteret's residential stock dates to the early and mid-20th century, wi
 
 The borough's flat, low-elevation terrain along the Arthur Kill and its industrial waterfront history mean site drainage and water table conditions are a real factor in basement and crawlspace work, not just a coastal talking point. Structural repairs and rebuild work generally require permitting through Carteret's local construction office, and any scope touching flood-prone sections of the borough should account for New Jersey's flood-zone construction requirements before work begins.
 
-If water, fire, smoke, or storm damage has hit your Carteret property, call The Restoration Group at (855) 650-7422. We answer 24/7, document the loss for your insurance carrier, and get a crew moving toward your address as soon as you call.
+If water, fire, smoke, or storm damage has hit your Carteret property, call The Restoration Group at (844) 808-8838. We answer 24/7, document the loss for your insurance carrier, and get a crew moving toward your address as soon as you call.

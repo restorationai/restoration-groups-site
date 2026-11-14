@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Roselle, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Roselle"
-meta_description: "24/7 emergency flood damage restoration in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration roselle"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Flood Damage Restoration"
 rendered: true
 ---
-When the Elizabeth River backs up during a heavy summer storm, low-lying blocks near Warinanco Park can take on water fast, and in a town built largely between 1910 and 1955, that water has plenty of places to hide. Finished basements under Victorian two-families, cast-iron drain lines that have been quietly corroding for decades, and sump pits that simply can't keep pace with a Nor'easter runoff event: these are the conditions The Restoration Group responds to in Roselle, 24 hours a day. Call us at (855) 650-7422 the moment water enters your home.
+When the Elizabeth River backs up during a heavy summer storm, low-lying blocks near Warinanco Park can take on water fast, and in a town built largely between 1910 and 1955, that water has plenty of places to hide. Finished basements under Victorian two-families, cast-iron drain lines that have been quietly corroding for decades, and sump pits that simply can't keep pace with a Nor'easter runoff event: these are the conditions The Restoration Group responds to in Roselle, 24 hours a day. Call us at (844) 808-8838 the moment water enters your home.
 
 ## Why Roselle Properties See Flood Damage Differently
 
@@ -54,4 +54,4 @@ Most standard homeowner policies in New Jersey cover sudden and accidental water
 
 In Roselle's older finished basements, particularly the walk-out styles common near the Warinanco Park corridor, original concrete block foundation walls wick moisture laterally through the mortar joints long after the visible water is gone. We've seen cases where a homeowner assumed the job was done because the floor was dry, only to find active moisture readings in the lower 18 inches of the block wall two weeks later. We use thermal imaging and pin-type moisture meters on every block-wall basement in town before we call a job dry, because pulling equipment too early in that construction type almost always means a callback.
 
-If your Roselle home or commercial property has taken on water, whether from the Elizabeth River, a sump failure, a sewer backup, or a roof-drain event on Chestnut Street, call The Restoration Group at (855) 650-7422. We'll assess the damage, start extraction, and give you a clear picture of what comes next.
+If your Roselle home or commercial property has taken on water, whether from the Elizabeth River, a sump failure, a sewer backup, or a roof-drain event on Chestnut Street, call The Restoration Group at (844) 808-8838. We'll assess the damage, start extraction, and give you a clear picture of what comes next.

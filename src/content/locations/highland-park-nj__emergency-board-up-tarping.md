@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Highland Park, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Highland Park"
-meta_description: "24/7 emergency board-up and tarping in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping highland park"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -57,4 +57,4 @@ Most standard homeowner policies cover emergency board-up and tarping as part of
 
 One thing that catches homeowners off guard on Highland Park's older two-families: the party wall between units is often original balloon-frame construction with no fire blocking between floors. When one unit has a fire or a window breach, the opening in the exterior wall can create a draft path that pulls smoke, moisture, or outside air into the adjacent unit through the shared wall cavity, even if that unit looks untouched. On jobs in attached or semi-attached homes in Livingston Manor and the Triangle, we assess both sides of the structure before signing off on the board-up scope, because sealing only the affected unit sometimes isn't enough.
 
-If you're dealing with a damaged roof, broken windows, or a fire-compromised opening anywhere in Highland Park, call (855) 650-7422. We're available around the clock, and we carry our NJ Licensed Home Improvement Contractor credentials and IICRC Firm certification (#210213) to every job.
+If you're dealing with a damaged roof, broken windows, or a fire-compromised opening anywhere in Highland Park, call (844) 808-8838. We're available around the clock, and we carry our NJ Licensed Home Improvement Contractor credentials and IICRC Firm certification (#210213) to every job.

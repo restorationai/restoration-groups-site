@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Maplewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Maplewood"
-meta_description: "24/7 emergency flood damage restoration in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration maplewood"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -57,4 +57,4 @@ Flood damage claims in Maplewood often involve both homeowners insurance (for su
 
 One thing that shapes how we approach jobs in this town: the stone and rubble foundations common to pre-war Maplewood homes often show active seepage in multiple locations simultaneously during a major event, not just at the lowest point. Crews unfamiliar with this housing stock sometimes treat only the most visible intrusion point and miss lateral migration through the mortar bed. We probe the full perimeter of the foundation interior before setting drying equipment, because a missed wet zone in a corner framing bay is exactly where mold establishes itself first, and the last place a homeowner thinks to check three weeks later.
 
-If your home in Maplewood has taken on water, whether from the Rahway River's overflow, a failed sump pump, or a backed-up drain during a storm, call The Restoration Group at (855) 650-7422. We respond around the clock, assess the full scope of the damage, and start the drying process before the timeline for secondary damage runs out.
+If your home in Maplewood has taken on water, whether from the Rahway River's overflow, a failed sump pump, or a backed-up drain during a storm, call The Restoration Group at (844) 808-8838. We respond around the clock, assess the full scope of the damage, and start the drying process before the timeline for secondary damage runs out.

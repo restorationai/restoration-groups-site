@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Summit, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Summit"
-meta_description: "24/7 emergency biohazard cleanup in Summit, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Summit, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup summit"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -49,4 +49,4 @@ Biohazard remediation is frequently covered under homeowners' insurance policies
 
 Something worth knowing if you own an older home near the Overlook Medical Center corridor or in the Northside neighborhoods: Summit's finished basements in pre-1940 construction frequently have original concrete floors poured directly over rubble fill, with no vapor barrier. When a biohazard event occurs at floor level in these spaces, contamination can migrate into the fill below the slab through hairline cracks that are invisible until you look for them. We probe and test these areas as part of our standard assessment, because missing that layer means the remediation is incomplete, regardless of how clean the surface looks.
 
-If you are facing a situation that requires biohazard cleanup anywhere in Summit, call (855) 650-7422. We answer around the clock, we handle the logistics, and we treat your home, and your family, with the respect this moment deserves.
+If you are facing a situation that requires biohazard cleanup anywhere in Summit, call (844) 808-8838. We answer around the clock, we handle the logistics, and we treat your home, and your family, with the respect this moment deserves.

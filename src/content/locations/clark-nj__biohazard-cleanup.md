@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Clark, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Clark"
-meta_description: "24/7 emergency biohazard cleanup in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup clark"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -54,4 +54,4 @@ Because the team is available around the clock, scheduling is not constrained to
 
 Clark's finished basements frequently have drop ceilings installed directly above the original concrete block or poured-concrete foundation walls, a construction detail common in Union County postwar builds. In a biohazard situation, those ceiling tiles and the metal grid framing can trap contaminated material above the visible plane of the room. Technicians working in these spaces lift and inspect above the grid as a standard step, not an afterthought, because what's visible from standing height in a Clark basement is rarely the complete picture.
 
-If you're dealing with a situation at a property in Clark and need a team that will handle it carefully, completely, and without unnecessary attention, call The Restoration Group at (855) 650-7422. The line is answered at any hour.
+If you're dealing with a situation at a property in Clark and need a team that will handle it carefully, completely, and without unnecessary attention, call The Restoration Group at (844) 808-8838. The line is answered at any hour.

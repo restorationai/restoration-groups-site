@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Scotch Plains, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Scotch Plains"
-meta_description: "24/7 emergency fire damage restoration in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration scotch plains"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Most homeowners in Scotch Plains carry standard HO-3 policies through carriers l
 
 Homes in the blocks closest to Downtown Scotch Plains and near the Frazee House area include some of the oldest structures in Union County, a handful date to the late 1800s and early 1900s, with original horsehair plaster, wide-plank pine floors, and wood lath behind the walls. When smoke penetrates horsehair plaster, the organic binder in the plaster absorbs odor compounds differently than modern drywall compound does. Standard encapsulant primers applied without prior dry chemical sponging will trap the odor rather than seal it, and it comes back within weeks when humidity rises. We adjust our cleaning sequence specifically for these materials, which is not something every restoration crew that works primarily in newer construction will think to do.
 
-If your home in Scotch Plains has been affected by fire or smoke, call The Restoration Group at (855) 650-7422. We'll assess the full scope of the damage, including what's hidden inside the walls, and walk you through exactly what restoration looks like for your specific property.
+If your home in Scotch Plains has been affected by fire or smoke, call The Restoration Group at (844) 808-8838. We'll assess the full scope of the damage, including what's hidden inside the walls, and walk you through exactly what restoration looks like for your specific property.

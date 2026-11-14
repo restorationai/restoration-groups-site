@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Bridgewater, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Bridgewater"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair bridgewater"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -44,4 +44,4 @@ Kenilworth sits roughly 20 miles northeast of Bridgewater via I-78 West and Rout
 
 One pattern that comes up repeatedly in Bridgewater's older split-levels: the supply line to a second-floor bathroom often runs through an interior chase that was originally designed for a different era's plumbing layout. When that line bursts, water tracks down the chase and exits at the lowest point, sometimes appearing in a first-floor closet or utility room well away from the actual break. Homeowners and even some contractors assume the leak is at the exit point and start demo there first. Thermal imaging of the full chase from the second floor down is the correct first step; it saves hours of unnecessary demolition and prevents a second insurance supplement later.
 
-If you're dealing with a burst pipe in Bridgewater, whether it's a weekend freeze in Martinsville or a commercial sprinkler discharge near the Route 22 corridor, call The Restoration Group at (855) 650-7422. Crews are available 24/7, documentation is insurance-ready from the first hour on-site, and the goal is always to limit the footprint of damage before it becomes a full reconstruction project.
+If you're dealing with a burst pipe in Bridgewater, whether it's a weekend freeze in Martinsville or a commercial sprinkler discharge near the Route 22 corridor, call The Restoration Group at (844) 808-8838. Crews are available 24/7, documentation is insurance-ready from the first hour on-site, and the goal is always to limit the footprint of damage before it becomes a full reconstruction project.

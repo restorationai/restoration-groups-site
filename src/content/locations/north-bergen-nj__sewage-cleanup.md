@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in North Bergen | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in North Bergen"
-meta_description: "24/7 emergency sewage cleanup and sanitization in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization north bergen"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ In North Bergen's two- and three-family homes, the kind packed onto hillside lot
 
 Sewer backup damage is frequently covered under homeowners' or landlords' policies as an endorsement, it's not always included in the base policy, and many North Bergen property owners discover this only after a loss. The Restoration Group documents the damage photographically, prepares a detailed scope of work, and communicates directly with adjusters to support your claim. We work with most major carriers and can provide the itemized documentation adjusters require for Category 3 losses, including material removal logs and moisture monitoring records.
 
-If you're managing a rental property near the Bergenline Avenue business district or a multi-family building anywhere in North Bergen and you're dealing with a sewage backup right now, call (855) 650-7422. The team is available around the clock, and the sooner containment begins, the smaller the scope of the remediation.
+If you're managing a rental property near the Bergenline Avenue business district or a multi-family building anywhere in North Bergen and you're dealing with a sewage backup right now, call (844) 808-8838. The team is available around the clock, and the sooner containment begins, the smaller the scope of the remediation.

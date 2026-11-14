@@ -56,6 +56,6 @@ Wildfire smoke events, while less common in the Northeast than in western states
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and provides smoke damage restoration services throughout Union County and surrounding communities, including Cranford, Westfield, Clark, Roselle Park, Springfield, and neighboring areas across Essex and Middlesex counties. City-specific service pages detail local response logistics; this page covers the full scope of what the service involves.
+The Restoration Group is based in Fair Lawn, NJ and provides smoke damage restoration services throughout Union County and surrounding communities, including Cranford, Westfield, Clark, Roselle Park, Springfield, and neighboring areas across Essex and Middlesex counties. City-specific service pages detail local response logistics; this page covers the full scope of what the service involves.
 
 If your home or property smells like smoke, has visible soot on walls or ceilings, or recently experienced any fire, even a contained one, call (908) 970-8533 to begin smoke and soot removal. The Restoration Group is available 24/7, holds IICRC Firm Certification #210213, and is licensed in New Jersey as a Home Improvement Contractor. The sooner soot is characterized and treated, the less permanent the damage.

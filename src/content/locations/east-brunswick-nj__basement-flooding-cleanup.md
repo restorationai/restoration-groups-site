@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Basement Flooding Cleanup in East Brunswick, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in East Brunswick"
-meta_description: "24/7 emergency basement flooding cleanup in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup east brunswick"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Most standard homeowner policies cover sudden and accidental water losses, a bur
 
 One thing that catches homeowners off guard in the older split-level and raised-ranch tracts around Farrington and the Village of the Golden Triangle: the half-wall framing common in those basement layouts often has fiberglass batt insulation tucked between the studs with no vapor barrier. Once that insulation gets wet, it holds moisture for weeks and provides an ideal environment for mold growth, but it doesn't show up on a surface moisture reading. We probe those cavities as a standard step on East Brunswick jobs rather than waiting for a musty smell to surface two months later.
 
-If your basement in East Brunswick (ZIP 08816) is holding water right now, call The Restoration Group at (855) 650-7422. We'll walk you through immediate steps to limit damage while we're in transit, and we'll arrive with the equipment to start extraction the same visit.
+If your basement in East Brunswick (ZIP 08816) is holding water right now, call The Restoration Group at (844) 808-8838. We'll walk you through immediate steps to limit damage while we're in transit, and we'll arrive with the equipment to start extraction the same visit.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Passaic, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Passaic"
-meta_description: "24/7 emergency water removal and cleanup in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal passaic"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -57,4 +57,4 @@ For landlords managing multiple units, that documentation also establishes which
 
 In Passaic's older brick walkups, particularly the three-story buildings common through the Third Ward, plaster walls behave very differently from modern drywall during a water loss. Plaster is dense and slow to release absorbed moisture, which means surface readings can drop to acceptable levels while the wood lath behind the plaster stays saturated. If drying equipment is pulled too early based on surface readings alone, that trapped moisture becomes a mold problem inside the wall cavity within weeks. Crews working in this housing stock need to extend drying cycles and verify with penetrating probes, not just pin meters held against the face coat.
 
-If you're dealing with water damage in a Passaic home or building, call The Restoration Group at (855) 650-7422, any hour, any day. The sooner extraction and cleanup begin, the more of the structure and its contents can be saved.
+If you're dealing with water damage in a Passaic home or building, call The Restoration Group at (844) 808-8838, any hour, any day. The sooner extraction and cleanup begin, the more of the structure and its contents can be saved.

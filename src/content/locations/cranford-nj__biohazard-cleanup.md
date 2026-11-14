@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Cranford, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Cranford"
-meta_description: "24/7 emergency biohazard cleanup in Cranford, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Cranford, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup cranford"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -45,4 +45,4 @@ Our Kenilworth headquarters sits one town over from Cranford, which means respon
 
 One thing crews working in Cranford's older neighborhoods learn quickly: the original balloon-frame construction common in pre-1940 colonials and capes means wall cavities run continuously from the basement sill plate to the roof line with no fire blocking. In a biohazard context, this matters because biological material, particularly from a sewage event or an unattended situation, can migrate vertically through wall cavities in ways that aren't visible from the room side. A wall that reads clean at the surface may have contamination traveling upward inside the framing. Our process accounts for this by inspecting cavity access points and, when indicated, opening representative sections to verify containment before the job is closed out.
 
-If you are dealing with a situation that requires immediate, discreet attention in Cranford, whether it's in a family home near Nomahegan Park or a rental property in the 07016 area, call The Restoration Group at (855) 650-7422. We'll walk you through what to expect before anyone sets foot on site.
+If you are dealing with a situation that requires immediate, discreet attention in Cranford, whether it's in a family home near Nomahegan Park or a rental property in the 07016 area, call The Restoration Group at (844) 808-8838. We'll walk you through what to expect before anyone sets foot on site.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Paramus, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Paramus"
-meta_description: "24/7 emergency storm damage restoration in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration paramus"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Our Kenilworth headquarters puts us well within Bergen County's reach. We route 
 
 One thing we've learned working Paramus storm losses specifically: the finished basements in this town are often more finished than the permit record reflects. Homeowners added a second bathroom, a wet bar, or a home theater room in the 1980s or 90s, sometimes without pulling permits, and those spaces contain materials (older vinyl floor tile, textured ceiling panels, insulation batted between framing) that need to be assessed carefully before demo begins. We flag anything that warrants further evaluation and coordinate with the appropriate professionals before disturbing materials of concern. It's a step that adds a day to the process but protects everyone involved.
 
-If your Paramus home or commercial property has taken storm damage, call The Restoration Group at (855) 650-7422. We'll assess the damage, stabilize the structure, and walk you through the insurance documentation process from the first hour on site.
+If your Paramus home or commercial property has taken storm damage, call The Restoration Group at (844) 808-8838. We'll assess the damage, stabilize the structure, and walk you through the insurance documentation process from the first hour on site.

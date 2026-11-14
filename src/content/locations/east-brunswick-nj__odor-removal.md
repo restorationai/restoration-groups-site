@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in East Brunswick, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in East Brunswick"
-meta_description: "24/7 odor removal and deodorization in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization east brunswick"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -53,4 +53,4 @@ One pattern that comes up repeatedly in East Brunswick's older residential tract
 
 If you're dealing with a persistent smell in an East Brunswick home that's survived multiple owners, mention that history when you call, it changes the treatment plan.
 
-Call The Restoration Group at (855) 650-7422 to schedule an assessment. Whether the source is smoke, sewage, flood damage, or something harder to name, the team will identify it, remove it, and treat the structure, not just the air above it.
+Call The Restoration Group at (844) 808-8838 to schedule an assessment. Whether the source is smoke, sewage, flood damage, or something harder to name, the team will identify it, remove it, and treat the structure, not just the air above it.

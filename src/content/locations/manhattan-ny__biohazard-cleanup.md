@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Manhattan, NY | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Manhattan"
-meta_description: "24/7 emergency biohazard cleanup in Manhattan, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Manhattan, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup manhattan"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -54,4 +54,4 @@ If the incident involves a commercial space, a restaurant, retail storefront, or
 
 Manhattan buildings, particularly pre-war co-ops in ZIP codes like 10021 and 10025, often have building rules that govern when contractors may use service entrances and how waste must be staged for removal. Biological waste cannot simply be left at a curbside collection point; it requires licensed medical waste transport, and the building's superintendent needs to know in advance how that pickup will be coordinated. Crews unfamiliar with these protocols can create secondary problems for building management even after the remediation itself is complete. We walk through these logistics with the super or managing agent at the start of every job.
 
-If you are dealing with a difficult situation in a Manhattan property, the right next step is a confidential phone call. Reach The Restoration Group any time at **(855) 650-7422**, we will talk through what you are facing, explain what the process looks like, and dispatch a crew as quickly as access and logistics allow.
+If you are dealing with a difficult situation in a Manhattan property, the right next step is a confidential phone call. Reach The Restoration Group any time at **(844) 808-8838**, we will talk through what you are facing, explain what the process looks like, and dispatch a crew as quickly as access and logistics allow.

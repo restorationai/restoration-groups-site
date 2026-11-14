@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Livingston, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Livingston"
-meta_description: "24/7 emergency appliance leak cleanup in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup livingston"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Appliance Leak Cleanup"
 rendered: true
 ---
-A slow drip from a refrigerator ice maker line or a dishwasher door seal that finally gives out might not look like much at first, but in Livingston's stock of 1960s split-levels and ranches, that water has nowhere obvious to go. It seeps under vinyl flooring, wicks into the particleboard subfloor beneath, and in homes with finished basements, it finds the ceiling of the level below before you ever notice the smell. When that happens at 2 a.m. or on a Sunday, The Restoration Group is reachable at (855) 650-7422 around the clock.
+A slow drip from a refrigerator ice maker line or a dishwasher door seal that finally gives out might not look like much at first, but in Livingston's stock of 1960s split-levels and ranches, that water has nowhere obvious to go. It seeps under vinyl flooring, wicks into the particleboard subfloor beneath, and in homes with finished basements, it finds the ceiling of the level below before you ever notice the smell. When that happens at 2 a.m. or on a Sunday, The Restoration Group is reachable at (844) 808-8838 around the clock.
 
 ## Why Livingston Homes See More Appliance Leak Damage Than You'd Expect
 
@@ -54,4 +54,4 @@ Sudden appliance leaks, a burst washing machine hose, a failed ice maker line, a
 
 In Livingston's split-level homes, particularly those built in the Collins and Squiretown areas during the 1960s, the laundry area is often positioned on an intermediate level directly above a finished family room. The floor assembly in those homes typically uses tongue-and-groove boards over a wood subfloor rather than a modern OSB panel system, and that layered construction holds water in the seams longer than it appears to from the surface. We've seen homes where the top floor looked nearly dry within a day but the family room ceiling below was still reading elevated moisture a week later. Thermal imaging on both levels is not optional on those jobs, it's how you avoid a mold call three weeks after the cleanup is "done."
 
-If an appliance has let go in your Livingston home, don't wait to see if it dries on its own. Call (855) 650-7422 now, the difference between a contained cleanup and a full subfloor replacement is often measured in hours, not days.
+If an appliance has let go in your Livingston home, don't wait to see if it dries on its own. Call (844) 808-8838 now, the difference between a contained cleanup and a full subfloor replacement is often measured in hours, not days.

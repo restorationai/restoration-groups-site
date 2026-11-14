@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Burst Pipe Cleanup and Repair in Fort Lee, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Fort Lee"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair fort lee"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ High-rise losses in Fort Lee almost always involve at least two insurance polici
 
 In Fort Lee's older high-rise buildings, particularly those constructed before the mid-1980s, the original plumbing risers often run through enclosed chases that were never designed for access during a repair. Building management sometimes doesn't have current as-built drawings showing exactly where shutoffs are located. We've learned to coordinate directly with the building super on arrival, and in some cases we've had to trace live supply lines from the mechanical room up through multiple floors before isolating the break. If you're a unit owner in one of these buildings, it's worth asking your building manager now, before an emergency, where your unit's isolation valve is located and whether it's operational.
 
-If a pipe has already let go in your Fort Lee property, call (855) 650-7422 now. We'll dispatch a crew, assess the full scope of water migration, and start drying before secondary damage compounds the loss, whether you're in a Coytesville two-family or a tower overlooking the George Washington Bridge.
+If a pipe has already let go in your Fort Lee property, call (844) 808-8838 now. We'll dispatch a crew, assess the full scope of water migration, and start drying before secondary damage compounds the loss, whether you're in a Coytesville two-family or a tower overlooking the George Washington Bridge.

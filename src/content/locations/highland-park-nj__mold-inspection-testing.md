@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Highland Park, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Highland Park"
-meta_description: "24/7 mold inspection and testing in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Highland Park, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing highland park"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ One pattern we see consistently in Highland Park's older two-family homes: the o
 
 Mold claims in Highland Park frequently originate from Ida-related losses that were initially documented as flood damage. If your carrier previously paid a flood or water claim on the property, a current mold inspection report can support a supplemental claim for hidden secondary damage, particularly in finished basements where drying documentation from 2021 may be incomplete. We photograph affected materials, note moisture readings, and provide a written assessment formatted for direct submission to adjusters. NJ-licensed as a Home Improvement Contractor through the Division of Consumer Affairs, we can coordinate with your remediation contractor and your carrier without adding an unnecessary layer of back-and-forth.
 
-If you've noticed a musty odor in a Highland Park property, seen discoloration along a basement wall, or recently dealt with a plumbing failure in an older home near the Raritan Avenue corridor, the next step is a professional assessment, not a wait-and-see approach. Call (855) 650-7422 to schedule mold inspection and testing in Highland Park.
+If you've noticed a musty odor in a Highland Park property, seen discoloration along a basement wall, or recently dealt with a plumbing failure in an older home near the Raritan Avenue corridor, the next step is a professional assessment, not a wait-and-see approach. Call (844) 808-8838 to schedule mold inspection and testing in Highland Park.

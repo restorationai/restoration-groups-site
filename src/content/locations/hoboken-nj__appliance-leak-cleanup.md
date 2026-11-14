@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Hoboken, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Hoboken"
-meta_description: "24/7 emergency appliance leak cleanup in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup hoboken"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -44,4 +44,4 @@ The Restoration Group is based in Kenilworth, NJ, and routes crews to Hoboken vi
 
 One thing that surprises homeowners new to Hoboken: the city's combined sewer system means that during heavy rain events, street-level drain backups can coincide with an appliance leak, making it genuinely difficult to identify the primary water source without moisture mapping. We have worked enough jobs in the Southwest Hoboken and Downtown neighborhoods to know that what looks like a washing machine flood is sometimes a washing machine flood on top of a slow sewer backup, and the remediation protocol for each is different. We test for both before we set equipment, because treating only one source means the other one keeps working against your drying timeline.
 
-If you are dealing with water on the floor right now, call (855) 650-7422. We will confirm the source, stop the spread, and get drying equipment in place, so a single appliance failure does not turn into a weeks-long rebuild.
+If you are dealing with water on the floor right now, call (844) 808-8838. We will confirm the source, stop the spread, and get drying equipment in place, so a single appliance failure does not turn into a weeks-long rebuild.

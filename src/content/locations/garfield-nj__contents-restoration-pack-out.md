@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Garfield, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Garfield"
-meta_description: "24/7 contents restoration & pack-out in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out garfield"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ Contents losses in Garfield, especially flood-related losses from Passaic River 
 
 In Garfield's older two- and three-family homes, particularly those in the Belmont Avenue corridor and near Dahnert's Lake, finished basements were often converted informally over decades, with drop ceilings, laminate flooring laid directly on concrete, and wall paneling that traps moisture behind it. When contents are packed out of these spaces after a flood, the items themselves may look intact while the paneling and subfloor behind them are already growing mold. We flag those structural conditions during the inventory walk so the remediation scope is identified at the same time as the contents scope, waiting until contents are returned to discover hidden mold means starting the process over.
 
-If you're dealing with a water, fire, or storm loss at a Garfield property in ZIP code 07026, call (855) 650-7422 any time. The Restoration Group is an IICRC Certified Firm (#210213) and a licensed New Jersey Home Improvement Contractor. The sooner contents are assessed and stabilized, the more can be saved.
+If you're dealing with a water, fire, or storm loss at a Garfield property in ZIP code 07026, call (844) 808-8838 any time. The Restoration Group is an IICRC Certified Firm (#210213) and a licensed New Jersey Home Improvement Contractor. The sooner contents are assessed and stabilized, the more can be saved.

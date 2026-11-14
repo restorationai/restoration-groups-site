@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Garfield, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Garfield"
-meta_description: "24/7 mold inspection and testing in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing garfield"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -53,4 +53,4 @@ Mold inspections in New Jersey often intersect with homeowner insurance claims, 
 
 One thing that catches homeowners off guard in Garfield's older two- and three-families: mold found in a basement doesn't always stay in the basement. Balloon-frame construction, standard in homes built before roughly 1940, uses continuous wall studs that run from the foundation sill all the way to the roof rafters. Moisture and mold spores can travel that entire vertical cavity. In the Belmont Avenue corridor, we've seen basement flooding events that drove mold growth up into first-floor wall cavities and occasionally into attic spaces, all through those open stud bays. That's why air sampling on upper floors is part of a thorough assessment in these buildings, not an optional add-on.
 
-If you're in Garfield and something doesn't smell right, or you're preparing a property for sale, a rental inspection, or an insurance claim, call (855) 650-7422 to schedule a mold inspection and testing visit. We'll give you lab-backed answers, not guesswork.
+If you're in Garfield and something doesn't smell right, or you're preparing a property for sale, a rental inspection, or an insurance claim, call (844) 808-8838 to schedule a mold inspection and testing visit. We'll give you lab-backed answers, not guesswork.

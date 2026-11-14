@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Livingston, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Livingston"
-meta_description: "24/7 emergency biohazard cleanup in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup livingston"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -51,4 +51,4 @@ If coverage is uncertain, the team can walk through what the documentation will 
 
 Livingston's split-level homes, particularly those built in the 1960s on the Cedar Hill and Collins sections of town, often have intermediate floor levels where a finished family room sits partially below grade. These rooms typically have concrete slab subfloors with carpet or vinyl laid directly on top, and no crawl space underneath. That construction detail matters in a biohazard context: fluids can migrate beneath flooring and sit against the slab without any visible surface indication. Technicians familiar with this housing type know to probe beneath finished flooring before assuming the affected area is contained to what's visible.
 
-If you are dealing with a situation that requires immediate, professional, and discreet biohazard cleanup in Livingston, call The Restoration Group at (855) 650-7422. The team is available 24/7, responds to all of Essex County, and handles every step from initial assessment through final clearance, so the property can return to normal, and you can focus on what matters most.
+If you are dealing with a situation that requires immediate, professional, and discreet biohazard cleanup in Livingston, call The Restoration Group at (844) 808-8838. The team is available 24/7, responds to all of Essex County, and handles every step from initial assessment through final clearance, so the property can return to normal, and you can focus on what matters most.

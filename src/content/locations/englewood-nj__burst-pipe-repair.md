@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Englewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Englewood"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair englewood"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-When a pipe lets go in January on East Hill, the water doesn't wait for business hours. Englewood's older housing stock, the grand late-Victorian and early-20th-century homes that line the streets above the Palisade Avenue corridor, often runs original galvanized or early copper supply lines that have spent decades contracting and expanding through Bergen County winters. One hard freeze, and what was a slow seep behind a plaster wall becomes a full rupture flooding a finished basement in under an hour. The Restoration Group responds 24/7 to burst pipe emergencies across Englewood (07631) and can be on-site the same night you call (855) 650-7422.
+When a pipe lets go in January on East Hill, the water doesn't wait for business hours. Englewood's older housing stock, the grand late-Victorian and early-20th-century homes that line the streets above the Palisade Avenue corridor, often runs original galvanized or early copper supply lines that have spent decades contracting and expanding through Bergen County winters. One hard freeze, and what was a slow seep behind a plaster wall becomes a full rupture flooding a finished basement in under an hour. The Restoration Group responds 24/7 to burst pipe emergencies across Englewood (07631) and can be on-site the same night you call (844) 808-8838.
 
 ## Why Englewood Properties See Burst Pipe Damage
 
@@ -40,10 +40,10 @@ In multifamily buildings, common in the Fourth Ward and along the western side o
 
 ## Reaching Englewood from Kenilworth
 
-Our crews stage out of Kenilworth and route north via I-78 and the Garden State Parkway to reach Englewood around the clock. Because we operate 24/7, a pipe that bursts at 2 a.m. on a Sunday gets the same dispatch priority as a weekday afternoon call. Neighborhoods closer to the Englewood Cliffs border or near Flat Rock Brook Nature Center on the city's western edge are straightforward to reach via Route 9W; the denser residential blocks near Downtown and the Palisade Avenue corridor are accessible directly off Grand Avenue. Call (855) 650-7422 and our dispatcher will confirm your address and get a crew moving.
+Our crews stage out of Kenilworth and route north via I-78 and the Garden State Parkway to reach Englewood around the clock. Because we operate 24/7, a pipe that bursts at 2 a.m. on a Sunday gets the same dispatch priority as a weekday afternoon call. Neighborhoods closer to the Englewood Cliffs border or near Flat Rock Brook Nature Center on the city's western edge are straightforward to reach via Route 9W; the denser residential blocks near Downtown and the Palisade Avenue corridor are accessible directly off Grand Avenue. Call (844) 808-8838 and our dispatcher will confirm your address and get a crew moving.
 
 ## Local Note: Plaster Walls and Hidden Moisture in East Hill Homes
 
 One thing that catches homeowners off guard in Englewood's older East Hill properties: plaster-and-lath walls hold moisture in a fundamentally different way than modern drywall. When a pipe ruptures behind plaster, the material absorbs water slowly but releases it even more slowly, thermal imaging often shows saturation extending 18 to 24 inches beyond the visible damage line. We account for this by running moisture mapping across the full affected cavity before setting equipment, and we extend drying cycles accordingly. Pulling plaster prematurely to speed drying can actually trap moisture in the lath substrate and create conditions for mold growth behind whatever new surface goes up. It's a detail that matters specifically in the housing stock Englewood has, and it shapes how we scope every job on that side of the city.
 
-If you're dealing with a burst pipe anywhere in Englewood, whether it's a finished basement on East Hill, a multifamily unit in the Fourth Ward, or a commercial space on Palisade Avenue, call The Restoration Group at (855) 650-7422. We're available around the clock, and every job is documented from first arrival through final dry-out.
+If you're dealing with a burst pipe anywhere in Englewood, whether it's a finished basement on East Hill, a multifamily unit in the Fourth Ward, or a commercial space on Palisade Avenue, call The Restoration Group at (844) 808-8838. We're available around the clock, and every job is documented from first arrival through final dry-out.

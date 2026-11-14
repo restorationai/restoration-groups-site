@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Parsippany, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Parsippany"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair parsippany"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -44,4 +44,4 @@ From our Kenilworth base, the most direct route to central Parsippany runs north
 
 In the older lake-tract neighborhoods, particularly around Lake Hiawatha, where homes were built on lots that sit only a few feet above the seasonal water table, a burst pipe in a finished basement can interact with already-elevated ground moisture in ways that slow drying significantly. We've found that homes in this area frequently show elevated ambient humidity readings even before a loss event, which means dehumidification loads run higher and drying timelines can run a day or two longer than a comparable job in a drier inland neighborhood. We account for this in our equipment placement and daily moisture logging rather than applying a standard drying schedule that was calibrated for a different type of structure.
 
-If your Parsippany home or commercial property has taken on water from a burst or broken pipe, call The Restoration Group at (855) 650-7422. We'll assess the damage, walk you through the documentation your insurance carrier needs, and get drying equipment running the same day.
+If your Parsippany home or commercial property has taken on water from a burst or broken pipe, call The Restoration Group at (844) 808-8838. We'll assess the damage, walk you through the documentation your insurance carrier needs, and get drying equipment running the same day.

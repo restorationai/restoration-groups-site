@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Passaic, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Passaic"
-meta_description: "24/7 emergency water damage restoration in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration passaic"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -55,4 +55,4 @@ Most standard homeowner and landlord policies cover sudden and accidental water 
 
 In Passaic's older multi-family walkups, particularly the brick three-families common in the Fourth Ward and around the Prospect Park border, the interior wall construction often combines plaster over wood lath with no vapor barrier behind it. When water gets into those wall assemblies, the plaster face can feel dry to the touch within a day or two while the lath and stud cavity behind it stays saturated for a week or more. Crews that rely on surface readings alone will call those walls dry when they aren't. We drill small inspection ports and read deep-cavity moisture before signing off on any wall assembly in these building types.
 
-If water has reached your property in Passaic, whether it's a burst pipe in a walkup, a sewer backup in a basement rental, or a commercial loss on Main Avenue, call The Restoration Group at (855) 650-7422. We're available around the clock, and we bring the documentation and drying process that older Passaic buildings actually require.
+If water has reached your property in Passaic, whether it's a burst pipe in a walkup, a sewer backup in a basement rental, or a commercial loss on Main Avenue, call The Restoration Group at (844) 808-8838. We're available around the clock, and we bring the documentation and drying process that older Passaic buildings actually require.

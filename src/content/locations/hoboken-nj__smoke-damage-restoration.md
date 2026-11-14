@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Hoboken, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Hoboken"
-meta_description: "24/7 emergency smoke damage restoration in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration hoboken"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -59,4 +59,4 @@ Condo boards along the Waterfront and in newer mid-rise buildings near Stevens I
 
 Hoboken's brownstones were built when coal was the primary heating fuel, and many still have residual soot deposits inside original chimney flues and behind fireplace surrounds, even in units that converted to gas heat decades ago. When a modern fire event adds fresh smoke to a building with that kind of history, the odor profile is layered and harder to fully neutralize. We probe chimney chases and original flue liners during our assessment on pre-1950 buildings because missing that reservoir of old soot is one of the most common reasons a smoke odor job gets called back. It's a detail that only shows up in buildings with Hoboken's specific age and construction history.
 
-If your home or building in Hoboken has been affected by smoke or fire, call The Restoration Group at (855) 650-7422. We're available around the clock, and we'll walk you through exactly what to expect before a single piece of equipment comes through your door.
+If your home or building in Hoboken has been affected by smoke or fire, call The Restoration Group at (844) 808-8838. We're available around the clock, and we'll walk you through exactly what to expect before a single piece of equipment comes through your door.

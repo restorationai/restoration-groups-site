@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Englewood, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Englewood"
-meta_description: "24/7 mold inspection and testing in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing englewood"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -38,7 +38,7 @@ The Restoration Group holds IICRC Certified Firm status (#210213) and is license
 
 ## Reaching Englewood from Our Kenilworth Location
 
-The Restoration Group operates around the clock and dispatches from Kenilworth, NJ. Englewood is accessible via the Garden State Parkway to Route 4 or via I-95 north to the Palisades Interstate Parkway, routes our technicians run regularly for both residential and commercial calls. Whether the property is a historic home near the Dwight-Englewood School corridor or a commercial space near Bergen Performing Arts Center, we can schedule same-day inspections and respond to urgent calls at any hour. When you call (855) 650-7422, you reach a live person, not an answering service.
+The Restoration Group operates around the clock and dispatches from Kenilworth, NJ. Englewood is accessible via the Garden State Parkway to Route 4 or via I-95 north to the Palisades Interstate Parkway, routes our technicians run regularly for both residential and commercial calls. Whether the property is a historic home near the Dwight-Englewood School corridor or a commercial space near Bergen Performing Arts Center, we can schedule same-day inspections and respond to urgent calls at any hour. When you call (844) 808-8838, you reach a live person, not an answering service.
 
 ## Local Note: What Englewood's Older Plaster Walls Mean for Air Sampling
 
@@ -50,4 +50,4 @@ Mold claims in New Jersey require specific documentation to move through the ins
 
 If you own or manage a multifamily building in the Fourth Ward or a commercial property along Palisade Avenue, we can also provide the multi-unit sampling protocols and chain-of-custody documentation that property managers and commercial insurers typically require.
 
-If you've noticed a musty odor, visible discoloration, or recently resolved a water event anywhere in Englewood, whether a finished basement in a West Englewood colonial or a ground-floor unit near the Highwood neighborhood, call (855) 650-7422 to schedule a mold inspection and testing assessment. Knowing what's actually in your air is the first step toward fixing it.
+If you've noticed a musty odor, visible discoloration, or recently resolved a water event anywhere in Englewood, whether a finished basement in a West Englewood colonial or a ground-floor unit near the Highwood neighborhood, call (844) 808-8838 to schedule a mold inspection and testing assessment. Knowing what's actually in your air is the first step toward fixing it.

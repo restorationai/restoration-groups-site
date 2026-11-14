@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Paterson, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Paterson"
-meta_description: "24/7 emergency flood damage restoration in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration paterson"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Paterson's converted mill buildings, particularly those repurposed as residentia
 
 Flood losses in Paterson often involve both homeowner policies and National Flood Insurance Program (NFIP) claims, particularly for properties in FEMA-designated flood zones along the Passaic River corridor. We prepare itemized moisture logs, photo documentation, and scope-of-loss reports formatted for adjuster review, and we work directly with your carrier's field adjuster when they schedule the site visit. If your property is in a higher-risk zone and your claim involves an NFIP policy, we can walk you through the documentation requirements that differ from a standard HO claim, the timelines and proof-of-loss deadlines are stricter.
 
-If you're dealing with standing water or a saturated structure anywhere in Paterson, from the river-adjacent blocks near downtown to the hillside neighborhoods above Route 20, call (855) 650-7422. The Restoration Group is NJ Licensed and IICRC Certified (Firm #210213), and we're available any hour to assess the damage and start drying.
+If you're dealing with standing water or a saturated structure anywhere in Paterson, from the river-adjacent blocks near downtown to the hillside neighborhoods above Route 20, call (844) 808-8838. The Restoration Group is NJ Licensed and IICRC Certified (Firm #210213), and we're available any hour to assess the damage and start drying.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Clifton, NJ | The Restoration Group"
 h1: "Mold Remediation in Clifton"
-meta_description: "24/7 mold remediation in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation clifton"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -52,4 +52,4 @@ Mold remediation claims in Clifton frequently trace back to a covered water loss
 
 In Clifton's split-level homes, particularly common in the Athenia and Richfield neighborhoods, the half-level between the garage and the main living floor is a chronic mold blind spot. That intermediate level often shares a wall with the garage slab, has minimal insulation, and sits directly above the crawl or basement space. After any moisture event, that cavity should be inspected first, because it is the one area most contractors miss and the one area where mold can spread upward into living-space walls before it ever becomes visible.
 
-If you are dealing with visible mold growth, a persistent musty odor, or the aftermath of flooding anywhere in Clifton, from a finished basement in Lakeview to a commercial unit along Route 3, call The Restoration Group at (855) 650-7422. We will assess the situation, explain the scope honestly, and get containment in place before the problem spreads further.
+If you are dealing with visible mold growth, a persistent musty odor, or the aftermath of flooding anywhere in Clifton, from a finished basement in Lakeview to a commercial unit along Route 3, call The Restoration Group at (844) 808-8838. We will assess the situation, explain the scope honestly, and get containment in place before the problem spreads further.

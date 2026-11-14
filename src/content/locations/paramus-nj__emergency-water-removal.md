@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Paramus, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Paramus"
-meta_description: "24/7 emergency water removal and cleanup in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal paramus"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Most standard homeowners' policies in New Jersey cover sudden and accidental wat
 
 In Paramus's split-level homes, a floor plan that was almost a default in Bergen County subdivisions of the 1960s, the half-level below grade is often finished as a family room or home office, with the mechanical room tucked into a separate lower bay. That layout creates a drainage blind spot: water that enters the lower mechanical area doesn't always migrate visibly into the finished space, so homeowners sometimes don't discover a loss until odor or efflorescence signals that moisture has been sitting in the concrete block for weeks. If you're calling about a musty smell rather than visible water, that's still worth an inspection, what's hidden in the structure often costs more to address than what's on the floor.
 
-If water has reached your floors, walls, or foundation in Paramus, the window for limiting damage is short, mold colonization in wet drywall can begin within 24 to 48 hours in summer humidity. Call The Restoration Group at (855) 650-7422 any time, day or night, and we'll get a crew moving toward your address.
+If water has reached your floors, walls, or foundation in Paramus, the window for limiting damage is short, mold colonization in wet drywall can begin within 24 to 48 hours in summer humidity. Call The Restoration Group at (844) 808-8838 any time, day or night, and we'll get a crew moving toward your address.

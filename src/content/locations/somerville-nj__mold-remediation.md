@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Somerville, NJ | The Restoration Group"
 h1: "Mold Remediation in Somerville"
-meta_description: "24/7 mold remediation in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation somerville"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -52,4 +52,4 @@ For commercial properties along the Main Street business district, we can coordi
 
 In Somerville's early-1900s frame two-families, particularly those on streets running between Mercer Street and the West End, original horsehair plaster walls are still common behind later drywall renovations. When moisture gets into that assembly, the plaster layer absorbs and holds water far longer than modern materials, which means mold can persist in the cavity even after surface readings look normal. Crews working in these homes need to account for extended drying cycles and, in some cases, selective plaster removal to confirm the substrate is genuinely dry before closing the wall. It's a detail that matters in Somerville in a way it simply doesn't in newer construction.
 
-If you're seeing discoloration, a persistent musty odor, or you've had any water intrusion in the past 90 days, the time to act is before the colony spreads further. Call The Restoration Group at **(855) 650-7422**, we'll assess the situation, explain the scope honestly, and get Somerville properties back to safe, dry conditions.
+If you're seeing discoloration, a persistent musty odor, or you've had any water intrusion in the past 90 days, the time to act is before the colony spreads further. Call The Restoration Group at **(844) 808-8838**, we'll assess the situation, explain the scope honestly, and get Somerville properties back to safe, dry conditions.

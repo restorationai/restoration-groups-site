@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Millburn, NJ | The Restoration Group"
 h1: "Mold Remediation in Millburn"
-meta_description: "24/7 mold remediation in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation millburn"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -52,4 +52,4 @@ If an adjuster requires a third-party industrial hygienist report before authori
 
 In Millburn's older Short Hills and Wyoming-area homes, finished basements often have original stone or brick foundation walls that were parged, coated with a thin layer of mortar, decades ago. That parging traps moisture between the stone and the finish surface, creating a hidden reservoir that feeds mold growth on the interior side of framing even when the basement appears dry. When the team encounters this pattern, the remediation scope typically includes pulling the bottom 12 to 16 inches of any stud-framed interior wall to inspect the cavity before assuming the visible mold is the full extent of the problem.
 
-If you're dealing with mold in a Millburn home, whether it's a musty finished basement in the 07041 corridor near Paper Mill Playhouse or water damage that followed the last major flood event downtown, call The Restoration Group at (855) 650-7422. The assessment starts the process, and the process doesn't end until the air and the structure test clean.
+If you're dealing with mold in a Millburn home, whether it's a musty finished basement in the 07041 corridor near Paper Mill Playhouse or water damage that followed the last major flood event downtown, call The Restoration Group at (844) 808-8838. The assessment starts the process, and the process doesn't end until the air and the structure test clean.

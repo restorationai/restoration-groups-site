@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in East Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in East Orange"
-meta_description: "24/7 emergency basement flooding cleanup in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup east orange"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ We bill carriers directly and provide the complete documentation package, scope 
 
 One thing that catches out-of-area contractors in East Orange's older apartment buildings: the basement slab is often not monolithic. Many pre-war buildings have a poured perimeter footing with a separate interior slab that was added later, and there's a cold joint between them that holds moisture long after the visible surface reads dry. We probe that joint specifically during moisture mapping because it's a common source of secondary mold growth that doesn't show up until weeks after a crew has packed up and left. If your building was constructed before 1945, ask any contractor you hire whether they're checking that joint, it's a detail that matters in East Orange's housing stock in a way it simply doesn't in newer construction.
 
-If your basement is wet right now, call (855) 650-7422. We'll walk you through immediate steps to limit damage while we're in transit, and we'll be on-site to start extraction, drying, and documentation as quickly as possible.
+If your basement is wet right now, call (844) 808-8838. We'll walk you through immediate steps to limit damage while we're in transit, and we'll be on-site to start extraction, drying, and documentation as quickly as possible.

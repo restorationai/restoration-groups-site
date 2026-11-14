@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Scotch Plains, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Scotch Plains"
-meta_description: "24/7 emergency flood damage restoration in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration scotch plains"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Flood losses in Scotch Plains typically run through one of two channels: standar
 
 Something worth knowing if you own a split-level in Willow Grove or Southside: the lower level of a Scotch Plains split often sits partially below grade on two or three sides, which means the concrete block or poured foundation walls are in direct contact with saturated soil after a flood event. Even after interior water is extracted, those walls continue to transmit moisture inward for days. We see homeowners who assume the job is done once the floor is dry, then call back two weeks later with mold growth on the lower-level framing. Monitoring the foundation walls through the full drying cycle, not just the floor assembly, is the step that prevents that callback.
 
-If your Scotch Plains home or commercial property has taken on water, call The Restoration Group at (855) 650-7422. We document thoroughly, dry completely, and coordinate your claim from first call to final inspection.
+If your Scotch Plains home or commercial property has taken on water, call The Restoration Group at (844) 808-8838. We document thoroughly, dry completely, and coordinate your claim from first call to final inspection.

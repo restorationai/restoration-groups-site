@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Brooklyn, NY | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Brooklyn"
-meta_description: "24/7 contents restoration & pack-out in Brooklyn, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Brooklyn, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out brooklyn"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ The Restoration Group, as an IICRC Certified Firm (#210213), produces the scope-
 
 In Brooklyn's pre-war rowhouses, garden-level apartments often have interior stairs that are too narrow for standard furniture dollies, a detail that matters enormously during a pack-out when speed counts. Crews working in these buildings need to plan for manual carries, furniture disassembly at the threshold, and tight stairwell clearances before the first box is loaded. Building access in a shared brownstone also means coordinating with upstairs neighbors and, in some cases, the building's managing agent, to ensure the front vestibule and stoop are available during the move. Knowing this before arrival, not after, is the difference between a smooth pack-out and a four-hour delay on a bad day.
 
-If smoke, water, or storm damage has put your belongings at risk anywhere in Brooklyn, call The Restoration Group at (855) 650-7422. We're available around the clock, we document everything for your insurer, and we treat your contents with the same care we'd want for our own.
+If smoke, water, or storm damage has put your belongings at risk anywhere in Brooklyn, call The Restoration Group at (844) 808-8838. We're available around the clock, we document everything for your insurer, and we treat your contents with the same care we'd want for our own.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Englewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Englewood"
-meta_description: "24/7 emergency flood damage restoration in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration englewood"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ One pattern that comes up repeatedly in Englewood's East Hill and older Fourth W
 
 Most residential flood losses in the 07631 ZIP code fall under standard homeowners policies for sudden and accidental discharge, while true surface flooding from events like Ida typically routes through NFIP (National Flood Insurance Program) policies. The documentation requirements differ. We photograph and log affected materials, square footage, and moisture readings in a format that supports both claim types, and we communicate directly with adjusters to keep the scope of work aligned with what the policy covers. For commercial properties along Palisade Avenue or multi-unit buildings, we coordinate with property managers and their carriers simultaneously so tenants aren't left waiting on competing approval chains.
 
-If you're dealing with standing water or soaked materials at an Englewood property right now, call (855) 650-7422. The faster extraction begins, the narrower the damage footprint, and the lower the final restoration cost.
+If you're dealing with standing water or soaked materials at an Englewood property right now, call (844) 808-8838. The faster extraction begins, the narrower the damage footprint, and the lower the final restoration cost.

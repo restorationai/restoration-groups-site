@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Englewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Englewood"
-meta_description: "24/7 emergency board-up and tarping in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping englewood"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -35,7 +35,7 @@ Englewood's proximity to Flat Rock Brook and the Overpeck Creek tributaries also
 
 ## Our Emergency Board-Up and Tarping Process in Englewood
 
-When you call (855) 650-7422, the first thing we do is ask for the address and the nature of the opening, fire damage, storm breach, broken window, or structural failure, because the materials and approach differ. A fire-damaged wall needs fire-rated plywood and a vapor barrier before standard OSB goes up. A roof breach on a slate-covered East Hill home requires reinforced tarping anchored to the ridge and weighted at the eaves rather than nailed into historic roofing material.
+When you call (844) 808-8838, the first thing we do is ask for the address and the nature of the opening, fire damage, storm breach, broken window, or structural failure, because the materials and approach differ. A fire-damaged wall needs fire-rated plywood and a vapor barrier before standard OSB goes up. A roof breach on a slate-covered East Hill home requires reinforced tarping anchored to the ridge and weighted at the eaves rather than nailed into historic roofing material.
 
 On arrival, the crew photographs every affected opening before touching anything, documentation that feeds directly into your insurance claim. We then measure, cut, and install plywood panels using case-hardened screws rather than nails wherever possible, which reduces additional damage to door frames and window casings and makes removal cleaner once permanent repairs begin. Roof tarps are secured with batten strips and rope anchors rated for sustained wind, not just draped and weighted with sandbags.
 
@@ -53,4 +53,4 @@ One thing that catches out-of-area crews on East Hill jobs is the slate. Driving
 
 As an IICRC Certified Firm and NJ Licensed Home Improvement Contractor, the documentation we produce, photographs, moisture readings, written scope of temporary protection, is formatted to meet the standards most major carriers require before they authorize permanent repair work. We work with homeowners and commercial property managers in Englewood to make sure the board-up scope is captured as a covered emergency service, not lumped into the general repair estimate in a way that reduces reimbursement. If your policy has a mitigation clause requiring prompt action to prevent further damage, a documented board-up completed the same night the loss occurs satisfies that requirement.
 
-If you're dealing with an open structure anywhere in Englewood, a fire-damaged window, a storm-breached roof, a broken storefront, call (855) 650-7422 now. We're available around the clock, and every hour an opening stays unprotected is an hour the structure is working against you.
+If you're dealing with an open structure anywhere in Englewood, a fire-damaged window, a storm-breached roof, a broken storefront, call (844) 808-8838 now. We're available around the clock, and every hour an opening stays unprotected is an hour the structure is working against you.

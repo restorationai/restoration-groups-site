@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in New Brunswick, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in New Brunswick"
-meta_description: "24/7 emergency water removal and cleanup in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal new brunswick"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ We bill carriers directly where the policy allows, which reduces the out-of-pock
 
 In New Brunswick's older multifamily stock, particularly the three- and four-story walkups built in the early 1900s near the Rutgers campus, water from an upper-floor event almost always travels further than it appears. These buildings were framed with full-dimension lumber and finished with plaster on wood lath, and the floor assemblies have decades of gaps, penetrations, and settled framing that channel water horizontally as well as down. It is common to find saturation in a first-floor unit when the source was two floors above. If you're a landlord or property manager dealing with a loss in that building type, plan for moisture mapping across multiple floors before assuming the damage is contained to one unit.
 
-Call The Restoration Group at (855) 650-7422 any time, day or night, and we'll dispatch to your New Brunswick address, assess the full scope of the water damage, and start emergency water removal before secondary damage sets in.
+Call The Restoration Group at (844) 808-8838 any time, day or night, and we'll dispatch to your New Brunswick address, assess the full scope of the water damage, and start emergency water removal before secondary damage sets in.

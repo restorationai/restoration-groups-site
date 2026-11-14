@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Hackensack, NJ | The Restoration Group"
 h1: "Commercial Restoration in Hackensack"
-meta_description: "24/7 commercial restoration in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration hackensack"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -48,4 +48,4 @@ For properties near Hackensack University Medical Center, where adjacent medical
 
 One thing that catches out-of-area contractors in Hackensack's Prospect Avenue high-rises: building management often controls the main water shutoff from a locked mechanical room that requires a key from the super or a building engineer, and those contacts aren't always reachable at 3 a.m. We've learned to ask for the emergency building contact before we start work, not after we're already on-site with water still running. If you're a property manager in the Fairmount or Heights sections with a multi-unit building, having that contact pinned somewhere accessible can cut 30 to 45 minutes off your response time on a pipe failure.
 
-If your Hackensack business or commercial property has taken water, fire, or smoke damage, call (855) 650-7422, we're available around the clock and can mobilize for commercial losses of any scale across the 07601 corridor and the broader Bergen County area.
+If your Hackensack business or commercial property has taken water, fire, or smoke damage, call (844) 808-8838, we're available around the clock and can mobilize for commercial losses of any scale across the 07601 corridor and the broader Bergen County area.

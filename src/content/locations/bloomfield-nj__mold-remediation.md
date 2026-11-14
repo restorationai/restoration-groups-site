@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Bloomfield, NJ | The Restoration Group"
 h1: "Mold Remediation in Bloomfield"
-meta_description: "24/7 mold remediation in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation bloomfield"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -42,4 +42,4 @@ Our Kenilworth headquarters puts us roughly 20 to 25 minutes from most Bloomfiel
 
 One thing that catches homeowners off guard in Bloomfield's older two-family and colonial stock: mold behind original horsehair plaster often doesn't look like the black or green growth people expect. Because plaster is alkaline, early-stage growth sometimes appears as a faint gray or white efflorescence that's easy to confuse with mineral staining. By the time the color deepens, the colony has frequently spread into the wood lath behind the plaster. If you're seeing any discoloration on plaster walls within a few weeks of a water event, especially in a finished basement near Watsessing Park or in a Brookdale two-family, it's worth having it tested rather than assuming it's a cosmetic issue.
 
-If mold has shown up in your Bloomfield home or commercial property, the sooner containment starts, the less structural material ends up in a dumpster. Call The Restoration Group at (855) 650-7422, we're available around the clock, and we'll give you a straight assessment of what you're dealing with before any work begins.
+If mold has shown up in your Bloomfield home or commercial property, the sooner containment starts, the less structural material ends up in a dumpster. Call The Restoration Group at (844) 808-8838, we're available around the clock, and we'll give you a straight assessment of what you're dealing with before any work begins.

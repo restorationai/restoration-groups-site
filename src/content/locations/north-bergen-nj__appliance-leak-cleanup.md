@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in North Bergen, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in North Bergen"
-meta_description: "24/7 emergency appliance leak cleanup in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup north bergen"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ Our IICRC Certified Firm (#210213) documentation package is built for exactly th
 
 In North Bergen's older multi-family buildings, cast-iron drain stacks often run inside interior wall cavities that are shared between units. When a washing machine floods and water enters that wall cavity, it can wick upward through the cast-iron's exterior rust scale and appear as a stain two floors above the actual source, a pattern we've seen enough times in this area that we always inspect the full vertical run of any shared wall before closing out a drying job. If your building has that configuration and a restoration crew doesn't check above the source floor, they may sign off on a job that still has hidden moisture.
 
-If an appliance leak has hit your North Bergen home or rental property, call The Restoration Group at (855) 650-7422. We're available around the clock, we know these buildings, and we'll give you a straight answer about what it takes to dry the structure correctly, not just what it takes to make it look dry.
+If an appliance leak has hit your North Bergen home or rental property, call The Restoration Group at (844) 808-8838. We're available around the clock, we know these buildings, and we'll give you a straight answer about what it takes to dry the structure correctly, not just what it takes to make it look dry.

@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Large Loss and Catastrophic Response in Kenilworth | The Restoration Group"
 h1: "Large Loss and Catastrophic Response in Kenilworth"
-meta_description: "24/7 large loss and catastrophic response in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 large loss and catastrophic response in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "large loss and catastrophic response kenilworth"
 secondary_keywords: ["large loss restoration", "catastrophic loss response", "commercial catastrophic restoration", "multi-million dollar restoration", "large loss adjusters"]
 search_intent: "local_b2b"
@@ -57,6 +57,6 @@ Union County's mix of older multi-family buildings, aging commercial strips, and
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and responds to large loss and catastrophic events throughout Union County and the surrounding region, including commercial, multi-family, and mixed-use properties.
+The Restoration Group is based in Fair Lawn, NJ and responds to large loss and catastrophic events throughout Union County and the surrounding region, including commercial, multi-family, and mixed-use properties.
 
-A catastrophic loss doesn't wait for business hours, and neither should the response. Call (855) 650-7422 to mobilize a large loss team and start building the scope of work your adjuster needs to move the claim forward.
+A catastrophic loss doesn't wait for business hours, and neither should the response. Call (844) 808-8838 to mobilize a large loss team and start building the scope of work your adjuster needs to move the claim forward.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Hackensack, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Hackensack"
-meta_description: "24/7 odor removal and deodorization in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization hackensack"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -57,4 +57,4 @@ Our team operates 24/7 and dispatches from Kenilworth, NJ. Hackensack is a direc
 
 In Hackensack's prewar multi-family homes, particularly the three-family buildings common in Fairmount, original interior walls often contain horsehair plaster over wood lath. This material holds smoke and mold odors differently than modern drywall, the lath creates air pockets behind the plaster face that trap odor compounds and release them slowly over weeks. When we encounter this construction type, we extend hydroxyl treatment cycles and, where necessary, inject deodorizing agents into wall cavities rather than relying solely on surface or airborne treatment. Skipping this step is the most common reason odor jobs in older Hackensack homes get called back.
 
-If you're dealing with a smoke smell that won't quit, a basement that still smells like the flood months later, or a unit in a Prospect Avenue building where the odor source is somewhere in the walls, call The Restoration Group at (855) 650-7422. We're IICRC Certified (Firm #210213), licensed through the NJ Division of Consumer Affairs, and available around the clock.
+If you're dealing with a smoke smell that won't quit, a basement that still smells like the flood months later, or a unit in a Prospect Avenue building where the odor source is somewhere in the walls, call The Restoration Group at (844) 808-8838. We're IICRC Certified (Firm #210213), licensed through the NJ Division of Consumer Affairs, and available around the clock.

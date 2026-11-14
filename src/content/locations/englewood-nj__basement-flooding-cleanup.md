@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Englewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Englewood"
-meta_description: "24/7 emergency basement flooding cleanup in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup englewood"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Flooded basement in Englewood? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to pump out the water and start drying.
 
-When Flat Rock Brook backs up or an aging supply line finally gives out under a finished East Hill basement, the water doesn't wait for business hours, and neither do the consequences. Englewood's mix of early-1900s multifamily housing, postwar ranches in the Fourth Ward, and grand estates near the Englewood Cliffs border means flooded basements here rarely look the same twice. Some have poured-concrete walls that wick moisture for days; others have fully finished rec rooms with carpeting, drywall, and electrical panels that turn a plumbing failure into a serious hazard. The Restoration Group responds 24/7 and can be reached at (855) 650-7422 the moment you find standing water.
+When Flat Rock Brook backs up or an aging supply line finally gives out under a finished East Hill basement, the water doesn't wait for business hours, and neither do the consequences. Englewood's mix of early-1900s multifamily housing, postwar ranches in the Fourth Ward, and grand estates near the Englewood Cliffs border means flooded basements here rarely look the same twice. Some have poured-concrete walls that wick moisture for days; others have fully finished rec rooms with carpeting, drywall, and electrical panels that turn a plumbing failure into a serious hazard. The Restoration Group responds 24/7 and can be reached at (844) 808-8838 the moment you find standing water.
 
 ## Why Englewood Properties See Basement Flooding
 
@@ -55,4 +55,4 @@ We document losses with photographs, moisture readings, and written scope report
 
 One thing that catches homeowners off guard in Englewood's older multifamily stock, particularly the two- and three-family homes common in the Fourth Ward, is that the basement water meter and main shutoff often serve all units from a single shared location. When a pipe bursts on an upper floor and water tracks down to the basement, the tenant nearest the shutoff may not have legal access to the other units' spaces to confirm the source. We carry non-invasive moisture meters and thermal cameras specifically to trace water migration paths without opening walls unnecessarily, which keeps the job cleaner and the neighbor relationships intact.
 
-If you're dealing with standing water in your basement right now, call (855) 650-7422. The Restoration Group serves Englewood and surrounding Bergen County communities 24 hours a day, and the sooner extraction begins, the narrower the gap between a manageable cleanup and a structural drying project that runs for weeks.
+If you're dealing with standing water in your basement right now, call (844) 808-8838. The Restoration Group serves Englewood and surrounding Bergen County communities 24 hours a day, and the sooner extraction begins, the narrower the gap between a manageable cleanup and a structural drying project that runs for weeks.

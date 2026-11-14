@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Irvington, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Irvington"
-meta_description: "24/7 emergency storm damage restoration in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration irvington"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -44,4 +44,4 @@ Kenilworth sits roughly four miles southwest of Irvington Center, and our crews 
 
 One pattern our crews have seen repeatedly in Irvington's attached rowhouse blocks, particularly near Irvington Park and along the Union Avenue corridor, is that a roof breach on one unit quietly feeds water into the party-wall cavity shared with the adjacent unit. The neighbor may not see any sign of damage for days, by which point mold colonization can begin in as little as 24 to 48 hours inside a wet wall cavity. If your property shares a wall with the house that took the visible hit, it is worth having a moisture inspection done on your side of that wall even if your ceiling looks dry. We flag this routinely when we are already on site for the primary loss.
 
-Storm damage doesn't follow a convenient schedule, and neither do we. If your property in Irvington has taken wind, water, or tree damage, call The Restoration Group at (855) 650-7422, we'll assess the loss, document everything for your carrier, and get the work started before secondary damage compounds the claim.
+Storm damage doesn't follow a convenient schedule, and neither do we. If your property in Irvington has taken wind, water, or tree damage, call The Restoration Group at (844) 808-8838, we'll assess the loss, document everything for your carrier, and get the work started before secondary damage compounds the claim.

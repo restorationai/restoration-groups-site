@@ -27,4 +27,4 @@ If your situation isn't an active emergency, you need a mold inspection schedule
 
 ## Where we're located
 
-Our office is at **500 S 31st St, Kenilworth, NJ 07033**, in Union County. We serve residential and commercial properties across northern and central New Jersey, including communities in Essex, Middlesex, Morris, Somerset, and Bergen counties. Nearby areas we regularly work in include Newark, Elizabeth, Edison, Westfield, Summit, and Morristown. If you're unsure whether your property falls within our service area, call or submit the form, we'll let you know quickly.
+Our office is at **8 Harlow Crescent, Fair Lawn, NJ 07410**, in Bergen County. We serve residential and commercial properties across northern and central New Jersey, including communities in Essex, Middlesex, Morris, Somerset, and Bergen counties. Nearby areas we regularly work in include Newark, Elizabeth, Edison, Westfield, Summit, and Morristown. If you're unsure whether your property falls within our service area, call or submit the form, we'll let you know quickly.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Paterson, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Paterson"
-meta_description: "24/7 emergency biohazard cleanup in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup paterson"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -49,4 +49,4 @@ Many biohazard situations are covered under homeowners or landlord policies, tho
 
 In Paterson's older converted mill buildings, several of which now operate as apartment complexes near the Great Falls National Historical Park corridor, standpipe and sprinkler systems were retrofitted into structures never designed for them. When a biohazard situation occurs in one of these units, the presence of overhead pipe runs and open ceiling chases means contaminated material can travel farther than it would in a standard residential build. We account for this during our initial assessment by tracing any potential migration paths before sealing the work area, rather than discovering them mid-job.
 
-If you're dealing with a situation that can't wait and can't be handled alone, call (855) 650-7422. The Restoration Group is available around the clock, and our team approaches every Paterson job, whether it's a single-family home in Lakeview or a multi-unit walkup in Sandy Hill, with the clinical care and quiet professionalism the moment requires.
+If you're dealing with a situation that can't wait and can't be handled alone, call (844) 808-8838. The Restoration Group is available around the clock, and our team approaches every Paterson job, whether it's a single-family home in Lakeview or a multi-unit walkup in Sandy Hill, with the clinical care and quiet professionalism the moment requires.

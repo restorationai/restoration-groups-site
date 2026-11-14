@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Carteret, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Carteret"
-meta_description: "24/7 emergency water damage restoration in Carteret, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Carteret, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration carteret"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Water Damage Restoration"
 rendered: true
 ---
-**Water damage emergency in Carteret?** Call (855) 650-7422. We answer 24/7, and our crews work from Kenilworth down through the Arthur Kill corridor regularly, so we understand what water does to a low-lying industrial waterfront town differently than it does ten miles inland. Whether it's a burst supply line in a Carteret Avenue rowhouse or storm surge pushing into a crawlspace near the refinery corridor, the clock matters more here than in most towns we serve.
+**Water damage emergency in Carteret?** Call (844) 808-8838. We answer 24/7, and our crews work from Kenilworth down through the Arthur Kill corridor regularly, so we understand what water does to a low-lying industrial waterfront town differently than it does ten miles inland. Whether it's a burst supply line in a Carteret Avenue rowhouse or storm surge pushing into a crawlspace near the refinery corridor, the clock matters more here than in most towns we serve.
 
 ## Why Carteret Properties See Water Damage Issues
 

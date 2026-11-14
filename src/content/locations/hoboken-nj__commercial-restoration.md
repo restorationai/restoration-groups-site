@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Hoboken, NJ | The Restoration Group"
 h1: "Commercial Restoration in Hoboken"
-meta_description: "24/7 commercial restoration in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration hoboken"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -52,4 +52,4 @@ For properties managed by commercial property management companies, common in th
 
 One thing that catches out-of-area contractors in Hoboken: the city's combined sewer system means that basement and garden-level flooding during heavy rain events is often a mix of stormwater, groundwater intrusion, and sewage backflow, not clean water. That changes the remediation category under IICRC S500 guidelines from Category 1 to Category 3, which requires full PPE, antimicrobial treatment of all affected surfaces, and disposal of porous materials that might otherwise be salvageable in a clean-water loss. Misclassifying the water source leads to incomplete remediation and creates liability for the property owner. Any commercial space in Southwest Hoboken or along the low-lying blocks east of the rail yards that floods during a storm event should be treated as a potential Category 3 loss until the source is confirmed.
 
-If your Hoboken commercial property has taken on water, sustained fire or smoke damage, or you're managing a multi-tenant loss that needs coordinated documentation and rapid drying, call The Restoration Group at (855) 650-7422. Crews are available around the clock, and the first step is always a thorough on-site assessment, not a guess made over the phone.
+If your Hoboken commercial property has taken on water, sustained fire or smoke damage, or you're managing a multi-tenant loss that needs coordinated documentation and rapid drying, call The Restoration Group at (844) 808-8838. Crews are available around the clock, and the first step is always a thorough on-site assessment, not a guess made over the phone.

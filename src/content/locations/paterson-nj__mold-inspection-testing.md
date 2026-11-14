@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Paterson, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Paterson"
-meta_description: "24/7 mold inspection and testing in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing paterson"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ The Restoration Group operates 24/7 and dispatches from Kenilworth, NJ. Paterson
 
 Inspectors who work primarily in post-1980 construction are accustomed to drywall, a material that shows moisture damage visibly and relatively quickly. Paterson's older housing stock is different. The original horsehair-and-lime plaster on interior walls in pre-war rowhomes and multi-families absorbs water slowly and releases it even more slowly. A wall that reads dry to the touch can still carry elevated moisture content several inches in. During inspections in these buildings, the team uses calibrated pin-type meters alongside non-invasive sensors and takes readings at multiple depths when the wall construction allows. Missing this layer is how mold gets missed, and how a property owner ends up calling for a second inspection six months later.
 
-If you're managing a property in the 07503 or 07504 ZIP codes and have had any water intrusion in the past two years, a baseline indoor air quality test is worth scheduling even if nothing looks wrong on the surface. Call (855) 650-7422 to arrange an assessment, the team is available around the clock, and a written report is included with every inspection.
+If you're managing a property in the 07503 or 07504 ZIP codes and have had any water intrusion in the past two years, a baseline indoor air quality test is worth scheduling even if nothing looks wrong on the surface. Call (844) 808-8838 to arrange an assessment, the team is available around the clock, and a written report is included with every inspection.

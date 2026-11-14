@@ -58,6 +58,6 @@ In northern New Jersey, basement flooding peaks in two windows: the spring thaw 
 
 ## Service area
 
-The Restoration Group is based in Kenilworth and handles basement flooding cleanup throughout Union County and surrounding areas, including Cranford, Westfield, Springfield, Mountainside, Garwood, Roselle Park, and Clark. City-specific pages for each of those communities link back here for the full technical detail on how the work gets done.
+The Restoration Group is based in Fair Lawn and handles basement flooding cleanup throughout Union County and surrounding areas, including Cranford, Westfield, Springfield, Mountainside, Garwood, Roselle Park, and Clark. City-specific pages for each of those communities link back here for the full technical detail on how the work gets done.
 
 If your basement has water in it right now, call (908) 970-8533, we're available 24/7. The sooner extraction starts, the narrower the window for mold to take hold and the less structural material ends up in a dumpster. Schedule your basement moisture assessment today.

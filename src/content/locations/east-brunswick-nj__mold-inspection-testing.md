@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in East Brunswick, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in East Brunswick"
-meta_description: "24/7 mold inspection and testing in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing east brunswick"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ Our team dispatches from Kenilworth and reaches most of East Brunswick via the G
 
 One pattern we see specifically in East Brunswick's finished-basement ranches: original 1960s-era fiberglass batt insulation packed between the rim joist and the sill plate traps condensation against the wood framing every winter. Over years, that cycling moisture creates a narrow but persistent mold corridor running the entire perimeter of the basement, invisible from inside the finished space, but consistently positive on air samples. If your home is a postwar ranch and your basement air tests elevated even without visible growth, that rim joist cavity is the first place we look.
 
-If you're dealing with a musty smell, a recent water event, or a real estate transaction that requires a clean bill of health, call The Restoration Group at (855) 650-7422. We'll schedule an inspection, deliver lab-backed results, and give you a clear picture of what's happening inside your East Brunswick home, no guesswork, no pressure.
+If you're dealing with a musty smell, a recent water event, or a real estate transaction that requires a clean bill of health, call The Restoration Group at (844) 808-8838. We'll schedule an inspection, deliver lab-backed results, and give you a clear picture of what's happening inside your East Brunswick home, no guesswork, no pressure.

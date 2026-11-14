@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Piscataway, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Piscataway"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair piscataway"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -49,4 +49,4 @@ Kenilworth sits roughly 12 miles northwest of central Piscataway via Route 28 or
 
 Here's something that matters on jobs in the older split-levels and capes throughout Possumtown and similar tracts: when a galvanized supply line has been weeping or running at reduced pressure for weeks before it fully bursts, the framing and subfloor in that wall cavity has often been absorbing slow moisture for far longer than the visible event suggests. We've opened walls in these homes expecting a two-day dry and found framing at 40% moisture content, well into the range where mold colonization begins within 48 to 72 hours. Thermal imaging on arrival isn't optional in these houses; it's the only way to know what you're actually dealing with before you set equipment.
 
-If you're dealing with a burst pipe anywhere in Piscataway, whether it's a frozen supply line in a Possumtown split-level, a sprinkler discharge in a Stelton commercial building, or a shared-chase failure in Society Hill, call The Restoration Group at (855) 650-7422. We're available around the clock, we carry the full scope from extraction through repair, and we'll have a crew moving toward you as soon as you hang up.
+If you're dealing with a burst pipe anywhere in Piscataway, whether it's a frozen supply line in a Possumtown split-level, a sprinkler discharge in a Stelton commercial building, or a shared-chase failure in Society Hill, call The Restoration Group at (844) 808-8838. We're available around the clock, we carry the full scope from extraction through repair, and we'll have a crew moving toward you as soon as you hang up.

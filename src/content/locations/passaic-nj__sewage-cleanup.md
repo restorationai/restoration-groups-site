@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Passaic, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Passaic"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization passaic"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Sewer backup coverage in New Jersey is typically a rider on a homeowner's or lan
 
 In Passaic's older multi-family buildings, particularly the brick three-families common in the Fourth Ward and the frame two-families closer to the Prospect Park border, basement floors are often bare concrete poured directly over fill, with no vapor barrier and no sump. When a sewer backup floods that kind of basement, the concrete itself absorbs contaminated water several inches deep. Standard surface disinfection is not enough; the slab needs to be treated, allowed to dry to verified moisture content, and in some cases sealed before the space is safe to use for storage again. It's a step that gets skipped when crews aren't familiar with this building type, and it's one reason we scope Passaic basement jobs differently than a finished suburban basement in a newer build.
 
-If you're dealing with a sewage backup anywhere in Passaic, whether it's a single-family home near Downtown Passaic or a multi-unit rental with tenants waiting to return, call The Restoration Group at (855) 650-7422. We'll assess the contamination, explain exactly what needs to come out, and get the sanitization process started the same day.
+If you're dealing with a sewage backup anywhere in Passaic, whether it's a single-family home near Downtown Passaic or a multi-unit rental with tenants waiting to return, call The Restoration Group at (844) 808-8838. We'll assess the contamination, explain exactly what needs to come out, and get the sanitization process started the same day.

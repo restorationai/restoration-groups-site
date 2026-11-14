@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Maplewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Maplewood"
-meta_description: "24/7 emergency appliance leak cleanup in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup maplewood"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -33,7 +33,7 @@ Finished basements are another compounding factor. Maplewood homeowners have inv
 
 ## Our Appliance Leak Cleanup Process in Maplewood
 
-When you call (855) 650-7422, the process starts before a crew arrives. We ask you to shut off the water supply to the failed appliance, usually a valve behind the unit or under the sink, and, if water has reached an electrical panel or outlet, to cut power to that circuit. Our IICRC Certified Firm (#210213) technicians arrive with truck-mounted extraction equipment, calibrated moisture meters, and thermal imaging cameras that can map water migration through plaster walls and subfloor assemblies without tearing everything open.
+When you call (844) 808-8838, the process starts before a crew arrives. We ask you to shut off the water supply to the failed appliance, usually a valve behind the unit or under the sink, and, if water has reached an electrical panel or outlet, to cut power to that circuit. Our IICRC Certified Firm (#210213) technicians arrive with truck-mounted extraction equipment, calibrated moisture meters, and thermal imaging cameras that can map water migration through plaster walls and subfloor assemblies without tearing everything open.
 
 Extraction comes first. Standing water is removed from hard surfaces and pulled from carpet and padding using high-flow extractors. Then we set the drying system: commercial-grade desiccant or refrigerant dehumidifiers paired with axial air movers, positioned to create a directed airflow through the wet assembly. In older Maplewood homes, drying timelines run longer than in newer construction, plaster releases absorbed moisture slowly, and stone foundation walls can wick ground moisture back into a space that's trying to dry. We monitor daily with calibrated meters and adjust equipment placement until readings confirm the structure has returned to baseline.
 
@@ -51,4 +51,4 @@ Sudden and accidental appliance leaks, a burst ice maker line, a failed dishwash
 
 In Maplewood's older colonials and Tudors, particularly those on streets that slope toward Memorial Park and the East Branch of the Rahway River corridor, finished basements sometimes have a pre-existing elevated ambient moisture level from seasonal groundwater pressure. When an appliance leak occurs in one of these homes, that background moisture can make drying readings misleading: the space may appear to be drying when it is actually plateauing at an elevated baseline driven by soil conditions rather than the leak itself. Experienced crews recognize this pattern and establish a true dry standard by referencing unaffected areas of the same structure rather than relying on generic target values.
 
-If your home in Maplewood is dealing with a dishwasher leak, a washing machine flood, a refrigerator ice maker line failure, or a water heater leak, call (855) 650-7422 now. The Restoration Group responds around the clock, and getting extraction started quickly is the single most effective thing you can do to protect the floors, framing, and finished spaces in your home.
+If your home in Maplewood is dealing with a dishwasher leak, a washing machine flood, a refrigerator ice maker line failure, or a water heater leak, call (844) 808-8838 now. The Restoration Group responds around the clock, and getting extraction started quickly is the single most effective thing you can do to protect the floors, framing, and finished spaces in your home.

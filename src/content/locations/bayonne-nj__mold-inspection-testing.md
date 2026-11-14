@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Bayonne, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Bayonne"
-meta_description: "24/7 mold inspection and testing in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing bayonne"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -44,4 +44,4 @@ The Restoration Group is based in Kenilworth, NJ, and dispatches crews around th
 
 In Bayonne's pre-war two- and three-family homes, the interior walls are frequently original three-coat plaster over wood lath rather than modern drywall. Plaster is less porous than drywall and doesn't wick moisture the same way, but it also masks moisture readings on standard pin-type meters, the wet zone is often in the lath and framing behind the plaster face, not in the plaster itself. When we inspect these properties, we supplement pin-meter readings with non-invasive radio-frequency moisture meters and thermal imaging to locate hidden wet framing before deciding whether a wall opening is necessary. Getting this right at the inspection stage prevents both under-scoping (missing active mold) and over-scoping (unnecessary demolition of plaster that's structurally sound).
 
-If you're dealing with a potential mold problem in a Bayonne home or commercial property, whether it's a post-flood basement, a chronic leak in an older rowhouse, or an indoor air quality concern flagged by a tenant, call The Restoration Group at (855) 650-7422. We'll schedule an inspection, give you lab-backed results, and provide a clear written assessment you can act on.
+If you're dealing with a potential mold problem in a Bayonne home or commercial property, whether it's a post-flood basement, a chronic leak in an older rowhouse, or an indoor air quality concern flagged by a tenant, call The Restoration Group at (844) 808-8838. We'll schedule an inspection, give you lab-backed results, and provide a clear written assessment you can act on.

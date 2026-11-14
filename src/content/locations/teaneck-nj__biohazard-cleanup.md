@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Teaneck, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Teaneck"
-meta_description: "24/7 emergency biohazard cleanup in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup teaneck"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -53,4 +53,4 @@ If your property is a rental near the Fairleigh Dickinson University corridor or
 
 In Teaneck's older colonials and Tudors, particularly those with finished basements that were converted in the 1970s and 1980s, the subfloor assembly often includes a layer of sleepers over concrete, with the finished floor on top. This sandwich construction can trap and hold biological material between layers even when the finished surface appears intact. Crews working in this housing stock probe beneath finished flooring before assuming the remediation boundary is limited to what is visible. It is a detail that matters in Teaneck's pre-war neighborhoods in a way it rarely does in post-2000 construction.
 
-If you are dealing with a situation that requires immediate, discreet professional attention anywhere in Teaneck, call The Restoration Group at (855) 650-7422. The line is answered 24 hours a day, and the conversation is private from the first word.
+If you are dealing with a situation that requires immediate, discreet professional attention anywhere in Teaneck, call The Restoration Group at (844) 808-8838. The line is answered 24 hours a day, and the conversation is private from the first word.

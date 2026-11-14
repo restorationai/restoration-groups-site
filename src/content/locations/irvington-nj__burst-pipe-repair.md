@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Irvington, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Irvington"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair irvington"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-When a pipe lets go inside one of Irvington's tightly packed two- and three-family homes, the damage doesn't stay contained for long. Water finds the path of least resistance through shared wall cavities, drops into finished basements, and saturates the kind of dense plaster-and-lath construction that was standard when most of this housing stock was built a century ago. The Restoration Group responds 24/7, call (855) 650-7422 the moment you hear the rush of water or see a ceiling start to bow.
+When a pipe lets go inside one of Irvington's tightly packed two- and three-family homes, the damage doesn't stay contained for long. Water finds the path of least resistance through shared wall cavities, drops into finished basements, and saturates the kind of dense plaster-and-lath construction that was standard when most of this housing stock was built a century ago. The Restoration Group responds 24/7, call (844) 808-8838 the moment you hear the rush of water or see a ceiling start to bow.
 
 ## Why Irvington Properties See Burst Pipe Issues
 
@@ -52,4 +52,4 @@ Burst pipe losses are among the most commonly covered water damage claims under 
 
 In Irvington's multifamily rowhouses, the main water shutoff is frequently located in a shared basement utility corridor that serves two or three units, and it's not always labeled clearly. On more than one job in this area, locating and operating that shutoff required knocking on a neighbor's door or contacting the property owner for basement access. If you're a landlord with properties near the Camptown Historic District or elsewhere in town, it's worth walking your tenants through shutoff locations before winter, a two-minute conversation can be the difference between a contained pipe repair and a multi-unit loss.
 
-If water is moving now, don't wait to sort out access, call (855) 650-7422 and our crew will work through the logistics on-site. The Restoration Group is IICRC Certified Firm #210213, licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and available every hour of the day to respond to burst pipe emergencies across Irvington and Essex County.
+If water is moving now, don't wait to sort out access, call (844) 808-8838 and our crew will work through the logistics on-site. The Restoration Group is IICRC Certified Firm #210213, licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and available every hour of the day to respond to burst pipe emergencies across Irvington and Essex County.

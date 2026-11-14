@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in West Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in West Orange"
-meta_description: "24/7 emergency burst pipe cleanup and repair in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair west orange"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Burst pipe or leak in West Orange? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to stop the water and start the cleanup.
 
-When a pipe lets go in January and your finished basement is already at the bottom of a slope that drains half of Pleasantdale, the water doesn't wait for business hours. West Orange's hillside topography means burst pipes here carry a compounding risk: gravity pulls released water fast and far, and in the older Tudors and colonials that line streets off Prospect Avenue, many with original galvanized or early copper supply lines, a single failure can soak floor joists, saturate wall cavities, and reach a finished lower level before the homeowner even hears the rush. The Restoration Group responds 24/7 and is on the road from Kenilworth the moment you call (855) 650-7422.
+When a pipe lets go in January and your finished basement is already at the bottom of a slope that drains half of Pleasantdale, the water doesn't wait for business hours. West Orange's hillside topography means burst pipes here carry a compounding risk: gravity pulls released water fast and far, and in the older Tudors and colonials that line streets off Prospect Avenue, many with original galvanized or early copper supply lines, a single failure can soak floor joists, saturate wall cavities, and reach a finished lower level before the homeowner even hears the rush. The Restoration Group responds 24/7 and is on the road from Kenilworth the moment you call (844) 808-8838.
 
 ## Why West Orange Properties See More Burst Pipe Damage
 
@@ -55,4 +55,4 @@ Most sudden and accidental pipe bursts are covered under standard homeowners' po
 
 In West Orange's older Tudors and colonials, particularly those on the streets climbing toward Thomas Edison National Historical Park, original galvanized supply lines were often run through interior wall chases that share space with original knob-and-tube wiring. When a burst pipe saturates those cavities, the drying plan has to account for electrical safety before we introduce high-velocity airflow. We flag this during the initial moisture mapping walk-through and coordinate with a licensed electrician when needed before equipment goes into those wall spaces. It's a detail that comes up more often in this part of Essex County than in newer construction, and skipping it creates a hazard.
 
-If a pipe has let go anywhere in West Orange, whether you're dealing with a flooded finished basement in Pleasantdale or a supply-line break in a century-old Llewellyn Park Victorian, call (855) 650-7422 now. The Restoration Group is IICRC Certified (Firm #210213), licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and ready to respond 24 hours a day.
+If a pipe has let go anywhere in West Orange, whether you're dealing with a flooded finished basement in Pleasantdale or a supply-line break in a century-old Llewellyn Park Victorian, call (844) 808-8838 now. The Restoration Group is IICRC Certified (Firm #210213), licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and ready to respond 24 hours a day.

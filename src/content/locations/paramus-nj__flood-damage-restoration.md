@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Paramus, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Paramus"
-meta_description: "24/7 emergency flood damage restoration in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration paramus"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Most standard homeowners policies in New Jersey cover sudden and accidental wate
 
 In Paramus's postwar ranches and split-levels, the subfloor is frequently tongue-and-groove planking over wood joists rather than modern OSB, a construction detail that matters during drying. Tongue-and-groove planks hold moisture in the seams and release it more slowly than sheet goods, which means drying timelines in these homes routinely run a day or two longer than industry averages suggest. We account for this when setting equipment schedules and communicating timelines to homeowners and adjusters, rather than promising a standard 3-day dry that the structure simply won't achieve.
 
-If your Paramus home or commercial property has standing water, saturated walls, or a floor that sounds hollow underfoot, call The Restoration Group at (855) 650-7422. We document, dry, and restore, and we stay on the job until the moisture readings confirm the structure is genuinely dry, not just surface-dry.
+If your Paramus home or commercial property has standing water, saturated walls, or a floor that sounds hollow underfoot, call The Restoration Group at (844) 808-8838. We document, dry, and restore, and we stay on the job until the moisture readings confirm the structure is genuinely dry, not just surface-dry.

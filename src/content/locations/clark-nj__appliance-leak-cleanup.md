@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Clark, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Clark"
-meta_description: "24/7 emergency appliance leak cleanup in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup clark"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -45,4 +45,4 @@ The Restoration Group's base in Kenilworth puts Clark within a short drive via C
 
 One thing worth knowing about Clark's split-levels specifically: the intermediate floor between the garage and the main living level is often where the washing machine lives, and that floor assembly typically has no waterproofing membrane beneath it, it was built as a structural floor, not a wet area. When a washing machine floods on that level, water moves through the subfloor and into the garage ceiling below faster than it would in a basement setup, and it can reach electrical boxes in the garage ceiling before it's visible anywhere. On calls in Clark's split-level stock, the team checks the garage ceiling cavity as a standard step even when the homeowner reports the water stayed on the laundry level, because in these homes, it rarely does.
 
-If you're dealing with an appliance leak anywhere in Clark, whether it's a dishwasher that ran overnight, a water heater that let go in a finished utility room, or a refrigerator line that's been seeping behind cabinetry for weeks, call The Restoration Group at (855) 650-7422. The crew arrives with the equipment and the documentation process to dry the structure correctly and give you a clear record for your insurance claim.
+If you're dealing with an appliance leak anywhere in Clark, whether it's a dishwasher that ran overnight, a water heater that let go in a finished utility room, or a refrigerator line that's been seeping behind cabinetry for weeks, call The Restoration Group at (844) 808-8838. The crew arrives with the equipment and the documentation process to dry the structure correctly and give you a clear record for your insurance claim.

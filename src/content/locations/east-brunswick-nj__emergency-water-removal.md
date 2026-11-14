@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in East Brunswick, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in East Brunswick"
-meta_description: "24/7 emergency water removal and cleanup in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal east brunswick"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ For condo and townhome owners, HOA master policies sometimes cover common-area s
 
 East Brunswick's finished basements deserve specific attention: the vast majority of the township's 1950s-70s ranch and split-level homes were built with basements that were finished sometime after original construction, often with a second layer of framing set inside the foundation wall. That gap between the foundation and the interior framing is a common place for water to accumulate invisibly, it reads dry at the drywall surface while the cavity behind it stays wet. Standard moisture meters can miss it. Thermal imaging during the initial assessment is the reliable way to find it, and skipping that step is how a "minor" basement seep turns into a mold problem two weeks later.
 
-If your home in East Brunswick has standing water, visible damage, or a musty smell that appeared after a storm or plumbing event, call The Restoration Group at (855) 650-7422. We'll assess the full extent of the loss, start water removal and cleanup the same day, and handle the documentation your insurance claim will require.
+If your home in East Brunswick has standing water, visible damage, or a musty smell that appeared after a storm or plumbing event, call The Restoration Group at (844) 808-8838. We'll assess the full extent of the loss, start water removal and cleanup the same day, and handle the documentation your insurance claim will require.

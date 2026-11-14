@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Morristown, NJ | The Restoration Group"
 h1: "Restoration Services in Morristown"
-meta_description: "Serving Morristown, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Morristown, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services morristown"
 secondary_keywords: ["morristown restoration company", "damage restoration morristown", "morristown disaster restoration"]
 search_intent: "local_commercial"
@@ -57,4 +57,4 @@ Pre-1978 paint, asbestos in old pipe and boiler insulation, and surviving knob-a
 
 Permits for structural repair or rebuild run through the town construction office under New Jersey's Uniform Construction Code, and exterior work in the Historic District can also draw preservation review.
 
-If you're dealing with an active loss or trying to get ahead of damage you've already found, call The Restoration Group at **(855) 650-7422**. We're available around the clock and can dispatch to any Morristown neighborhood, 07960 or 07963, day or night.
+If you're dealing with an active loss or trying to get ahead of damage you've already found, call The Restoration Group at **(844) 808-8838**. We're available around the clock and can dispatch to any Morristown neighborhood, 07960 or 07963, day or night.

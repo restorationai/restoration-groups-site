@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Perth Amboy, NJ | The Restoration Group"
 h1: "Restoration Services in Perth Amboy"
-meta_description: "Serving Perth Amboy, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Perth Amboy, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services perth amboy"
 secondary_keywords: ["perth amboy restoration company", "damage restoration perth amboy", "perth amboy disaster restoration"]
 search_intent: "local_commercial"
@@ -55,4 +55,4 @@ Homes from this era are typically balloon-framed with plaster and wood lath over
 
 Repairs beyond cosmetic work need permits from the city construction office under the New Jersey Uniform Construction Code, with separate building, plumbing, electrical, and fire subcodes. On waterfront blocks in a mapped flood zone, substantial-improvement rules can drive elevation requirements into the rebuild.
 
-If you're dealing with water, fire, smoke, or mold damage at a Perth Amboy property right now, call The Restoration Group at **(855) 650-7422**. We're available 24 hours a day, and the first step is a conversation, not a commitment.
+If you're dealing with water, fire, smoke, or mold damage at a Perth Amboy property right now, call The Restoration Group at **(844) 808-8838**. We're available 24 hours a day, and the first step is a conversation, not a commitment.

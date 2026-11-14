@@ -53,6 +53,6 @@ New Jersey's humid summers and freeze-thaw winters create two distinct mold wind
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and provides mold remediation throughout Union County and surrounding areas, including Cranford, Westfield, Roselle, Clark, Garwood, Springfield, and Summit. Dedicated service-area pages cover each community in detail.
+The Restoration Group is based in Fair Lawn, NJ and provides mold remediation throughout Union County and surrounding areas, including Cranford, Westfield, Roselle, Clark, Garwood, Springfield, and Summit. Dedicated service-area pages cover each community in detail.
 
 If you are seeing visible growth, smelling musty odors in a closed space, or dealing with a recent water event that was not professionally dried, call (908) 970-8533 to request an air quality assessment. Crews are available around the clock, the earlier the call, the more material is typically salvageable.

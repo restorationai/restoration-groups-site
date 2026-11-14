@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Woodbridge, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Woodbridge"
-meta_description: "24/7 odor removal and deodorization in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization woodbridge"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -51,4 +51,4 @@ The Restoration Group operates out of Kenilworth, NJ, which puts Woodbridge well
 
 One pattern that comes up repeatedly in Woodbridge's pre-1960 capes and colonials, particularly in neighborhoods like Iselin and Avenel, is what experienced technicians call the "hidden odor layer." Decades of cooking smoke, tobacco use, and minor water events leave a cumulative residue inside wall cavities, in original horsehair plaster, and beneath multiple layers of flooring. A single fire or flood event reactivates all of it at once, producing an odor profile that seems disproportionately strong relative to the visible damage. Homeowners sometimes assume the remediation missed something; what actually happened is that the new loss unlocked years of dormant compounds. Addressing this correctly means treating the current loss and the background substrate, a distinction that matters when scoping the job and setting realistic expectations with the homeowner.
 
-If you are dealing with persistent odor in a Woodbridge property, ZIP codes 07095, 07067, or anywhere across the township, call The Restoration Group at (855) 650-7422. Crews are available around the clock, and the assessment starts with finding the actual source, not masking it.
+If you are dealing with persistent odor in a Woodbridge property, ZIP codes 07095, 07067, or anywhere across the township, call The Restoration Group at (844) 808-8838. Crews are available around the clock, and the assessment starts with finding the actual source, not masking it.

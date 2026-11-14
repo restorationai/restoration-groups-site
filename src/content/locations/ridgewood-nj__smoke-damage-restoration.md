@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Ridgewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Ridgewood"
-meta_description: "24/7 emergency smoke damage restoration in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration ridgewood"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Smoke losses in Bergen County typically fall under the dwelling coverage section
 
 Ridgewood's historic homes frequently have original horsehair plaster that was painted with lead-based paint in multiple layers before the 1978 federal ban. When a fire or smoke event damages those walls enough to require sanding, scraping, or partial demolition during restoration, that work triggers EPA Renovation, Repair and Painting (RRP) rules. Not every restoration contractor working in Bergen County factors this in at the scoping stage, and discovering it mid-project can halt work and create liability. We identify suspect materials during the initial survey and adjust the restoration plan accordingly, so there are no surprises once cleaning crews are on-site.
 
-If your Ridgewood home or business has been affected by smoke, whether from a contained kitchen fire, a neighboring structure, or a heating system malfunction, the window for effective intervention is short. Smoke residue begins etching surfaces and bonding to porous materials within hours. Call The Restoration Group at (855) 650-7422 any time, day or night, and we will dispatch a crew to assess the damage and begin protecting your property.
+If your Ridgewood home or business has been affected by smoke, whether from a contained kitchen fire, a neighboring structure, or a heating system malfunction, the window for effective intervention is short. Smoke residue begins etching surfaces and bonding to porous materials within hours. Call The Restoration Group at (844) 808-8838 any time, day or night, and we will dispatch a crew to assess the damage and begin protecting your property.

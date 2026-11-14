@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in West Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in West Orange"
-meta_description: "24/7 emergency storm damage restoration in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration west orange"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Storm Damage Restoration"
 rendered: true
 ---
-When a nor'easter or fast-moving summer thunderstorm rolls across the Watchung ridge, West Orange takes it differently than the flatlands below. Stormwater accelerates downhill through neighborhoods like Pleasantdale and Gregory, overwhelming sump pumps and pouring into finished basements before homeowners have time to move anything off the floor. Trees rooted in the thin, rocky soils above South Mountain Reservation come down on roofs, fences, and driveways with little warning. The Restoration Group responds 24/7 to storm damage calls throughout West Orange, (855) 650-7422, and we understand what the ridge geography and the local housing stock mean for how a cleanup actually unfolds.
+When a nor'easter or fast-moving summer thunderstorm rolls across the Watchung ridge, West Orange takes it differently than the flatlands below. Stormwater accelerates downhill through neighborhoods like Pleasantdale and Gregory, overwhelming sump pumps and pouring into finished basements before homeowners have time to move anything off the floor. Trees rooted in the thin, rocky soils above South Mountain Reservation come down on roofs, fences, and driveways with little warning. The Restoration Group responds 24/7 to storm damage calls throughout West Orange, (844) 808-8838, and we understand what the ridge geography and the local housing stock mean for how a cleanup actually unfolds.
 
 ## Why West Orange Properties See Storm Damage Differently
 
@@ -40,7 +40,7 @@ Drying is conducted to IICRC S500 and S520 standards. We set drying goals based 
 
 ## Reaching West Orange from Kenilworth
 
-Our Kenilworth base puts us on Route 22 or the Garden State Parkway to reach West Orange around the clock. We're available 24/7, so whether a tree comes through a roof at 2 a.m. or a basement floods during a weekend storm, you're reaching a live dispatcher when you call (855) 650-7422, not a voicemail. We carry tarping and board-up materials on our response vehicles so temporary weatherproofing happens on the first visit, not a follow-up.
+Our Kenilworth base puts us on Route 22 or the Garden State Parkway to reach West Orange around the clock. We're available 24/7, so whether a tree comes through a roof at 2 a.m. or a basement floods during a weekend storm, you're reaching a live dispatcher when you call (844) 808-8838, not a voicemail. We carry tarping and board-up materials on our response vehicles so temporary weatherproofing happens on the first visit, not a follow-up.
 
 ## West Orange Insurance Coordination
 
@@ -50,4 +50,4 @@ Most storm losses in West Orange are covered under standard homeowners' policies
 
 One thing we've learned working on the ridge above South Mountain Reservation: the thin, rocky soil means tree roots spread laterally rather than deep, and large oaks and maples that look perfectly healthy can uproot completely in a wind event rather than snapping at the trunk. That matters for restoration because a full uprooting often damages underground utilities, gas lines, water service, and lateral sewer connections, in addition to whatever the tree hit on the way down. On any job where a tree has come down close to the foundation, we flag utility contact before any excavation or foundation-adjacent work begins, and we recommend a sewer lateral inspection if the root ball was within 10 feet of the house.
 
-If a storm has left your West Orange property exposed, flooded, or structurally compromised, call The Restoration Group at (855) 650-7422. We'll assess the full scope of the damage, stabilize the structure, and carry the project through to a finished repair, documented every step for your insurance claim.
+If a storm has left your West Orange property exposed, flooded, or structurally compromised, call The Restoration Group at (844) 808-8838. We'll assess the full scope of the damage, stabilize the structure, and carry the project through to a finished repair, documented every step for your insurance claim.

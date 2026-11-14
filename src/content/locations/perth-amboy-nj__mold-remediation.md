@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Perth Amboy, NJ | The Restoration Group"
 h1: "Mold Remediation in Perth Amboy"
-meta_description: "24/7 mold remediation in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation perth amboy"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -42,10 +42,10 @@ For larger multifamily losses in ZIP code 08861, common in Dunham Heights and al
 
 ## Reaching Perth Amboy from Kenilworth
 
-Our crews are based in Kenilworth, NJ, and Perth Amboy is a straightforward run via the Garden State Parkway south to Exit 127 or through Route 1/9 depending on traffic. We're available around the clock, every day of the year, so a call at 2 a.m. after a pipe failure in a Waterfront-area building gets the same response as a weekday afternoon inquiry. We'll confirm an estimated arrival window when you call (855) 650-7422.
+Our crews are based in Kenilworth, NJ, and Perth Amboy is a straightforward run via the Garden State Parkway south to Exit 127 or through Route 1/9 depending on traffic. We're available around the clock, every day of the year, so a call at 2 a.m. after a pipe failure in a Waterfront-area building gets the same response as a weekday afternoon inquiry. We'll confirm an estimated arrival window when you call (844) 808-8838.
 
 ## Local Note: Plaster Walls and Hidden Moisture in Perth Amboy's Oldest Homes
 
 One thing that surprises property owners in the older blocks near the Proprietary House and Bayview Park: the original horsehair plaster walls in pre-1920 homes absorb water slowly but release it even more slowly. A moisture meter reading that looks borderline on day one can climb on day three as the plaster continues wicking from the framing behind it. We've learned to take baseline readings, return for a 48-hour recheck before finalizing the drying protocol, and never assume a plaster wall is dry just because the surface feels dry to the touch. Skipping that step is how mold comes back six months after a "completed" job.
 
-If you're dealing with visible mold growth, a musty odor that won't clear, or a recent water event in a Perth Amboy property, call The Restoration Group at **(855) 650-7422**. We'll assess the full scope, not just what's visible, and give you a clear remediation plan before any work begins.
+If you're dealing with visible mold growth, a musty odor that won't clear, or a recent water event in a Perth Amboy property, call The Restoration Group at **(844) 808-8838**. We'll assess the full scope, not just what's visible, and give you a clear remediation plan before any work begins.

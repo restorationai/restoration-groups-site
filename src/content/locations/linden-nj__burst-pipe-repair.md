@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Burst Pipe Cleanup and Repair in Linden, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Linden"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Linden, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Linden, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair linden"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Burst Pipe Cleanup and Repair"
 rendered: true
 ---
-When a supply line lets go inside one of Linden's postwar capes or split-levels, the kind stacked tight along Sunnyside's residential blocks, water doesn't stay in the utility room. It travels fast through finished basement ceilings, saturates the subfloor above, and reaches drywall cavities before most homeowners realize the pipe has failed. The Restoration Group operates out of Kenilworth, minutes away, and responds to burst pipe emergencies in Linden 24/7, handling both the water damage cleanup and the pipe repair under one call to (855) 650-7422.
+When a supply line lets go inside one of Linden's postwar capes or split-levels, the kind stacked tight along Sunnyside's residential blocks, water doesn't stay in the utility room. It travels fast through finished basement ceilings, saturates the subfloor above, and reaches drywall cavities before most homeowners realize the pipe has failed. The Restoration Group operates out of Kenilworth, minutes away, and responds to burst pipe emergencies in Linden 24/7, handling both the water damage cleanup and the pipe repair under one call to (844) 808-8838.
 
 ## Why Linden Properties See Burst Pipe Problems
 
@@ -50,4 +50,4 @@ One pattern that comes up repeatedly in Linden's older neighborhoods: homeowners
 
 Sudden and accidental pipe breaks are a covered peril under most standard homeowners policies, but the documentation has to be thorough. We photograph affected materials before any demolition, generate moisture logs that align with adjuster expectations, and communicate directly with your carrier throughout the claim. Linden homeowners with older homes sometimes encounter questions about pre-existing pipe deterioration during the claims process, our damage documentation is structured to distinguish between the acute loss and the underlying pipe condition, which keeps the claim moving. We work with all major carriers and can bill directly in most cases so you are not fronting the full cost out of pocket.
 
-If a supply line has already failed at your Linden property, or you can hear water running behind a wall and can't find the source, call (855) 650-7422 now. A crew familiar with Linden's housing stock and neighborhoods is available around the clock, and the faster the water is stopped and dried, the smaller the repair scope.
+If a supply line has already failed at your Linden property, or you can hear water running behind a wall and can't find the source, call (844) 808-8838 now. A crew familiar with Linden's housing stock and neighborhoods is available around the clock, and the faster the water is stopped and dried, the smaller the repair scope.

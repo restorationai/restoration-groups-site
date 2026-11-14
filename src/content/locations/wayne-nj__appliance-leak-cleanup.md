@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Wayne, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Wayne"
-meta_description: "24/7 emergency appliance leak cleanup in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup wayne"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ If you're in one of Wayne's lake community associations, Packanack, Pines Lake, 
 
 In the Packanack Lake and Pines Lake communities, many of the midcentury ranches and split-levels have finished lower levels that sit only a few inches above the water table during wet seasons. When an appliance leak hits one of these homes, the moisture doesn't just come from above, if the event coincides with a high water table period (common after the kind of prolonged rain events Wayne saw during Ida in 2021), the basement slab can be wicking from below at the same time the leak is wetting from above. We account for this by monitoring slab moisture readings separately from wall and framing readings, and we don't pull drying equipment until both are trending consistently downward.
 
-If you're dealing with an appliance leak anywhere in Wayne, a washing machine flood in a Preakness colonial, a water heater failure in a Mountain View split-level, or a refrigerator line leak in a Packanack Lake ranch, call The Restoration Group at (855) 650-7422. We're available around the clock and know exactly what Wayne's housing stock demands from a cleanup crew.
+If you're dealing with an appliance leak anywhere in Wayne, a washing machine flood in a Preakness colonial, a water heater failure in a Mountain View split-level, or a refrigerator line leak in a Packanack Lake ranch, call The Restoration Group at (844) 808-8838. We're available around the clock and know exactly what Wayne's housing stock demands from a cleanup crew.

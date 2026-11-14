@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Linden, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Linden"
-meta_description: "24/7 emergency biohazard cleanup in Linden, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Linden, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup linden"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -58,4 +58,4 @@ In Linden's older finished basements, particularly the ones with original 1950s 
 
 When you're dealing with something this difficult, the last thing you need is a process that moves slower than expected because of a surprise. Knowing the building stock matters.
 
-If you're facing a biohazard situation at a Linden property, residential or commercial, in the 07036 area or anywhere the city reaches, call The Restoration Group at (855) 650-7422. The team is available around the clock, and the first conversation is straightforward and private.
+If you're facing a biohazard situation at a Linden property, residential or commercial, in the 07036 area or anywhere the city reaches, call The Restoration Group at (844) 808-8838. The team is available around the clock, and the first conversation is straightforward and private.

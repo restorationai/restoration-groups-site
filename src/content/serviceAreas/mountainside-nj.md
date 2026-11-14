@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Mountainside, NJ | The Restoration Group"
 h1: "Restoration Services in Mountainside"
-meta_description: "Serving Mountainside, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Mountainside, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services mountainside"
 secondary_keywords: ["mountainside restoration company", "damage restoration mountainside", "mountainside disaster restoration"]
 search_intent: "local_commercial"
@@ -43,4 +43,4 @@ We run out of our Kenilworth headquarters, a short drive from Mountainside via R
 
 Much of Mountainside's housing dates to the postwar suburban boom of the 1950s and 60s, with ranch and split-level construction over full or partial basements rather than slab foundations. That era often means original copper or galvanized supply lines, cast iron or clay drain lines, and in some cases asbestos-containing floor tile or pipe insulation that a restoration scope has to plan around rather than disturb carelessly. Basements in this part of Union County sit in clay-influenced soil that drains slowly, which is part of why groundwater intrusion and sump failures show up repeatedly in older homes. Structural repairs and rebuilds fall under New Jersey's Uniform Construction Code, with permits issued through Mountainside's local construction office; anything touching load-bearing framing, electrical, or plumbing typically triggers a permit and inspection before a space can be closed back up.
 
-If water, fire, smoke, or storm damage has hit your Mountainside property, don't wait for it to get worse while you figure out next steps. Call The Restoration Group at (855) 650-7422. We answer 24/7, document the damage for your insurance carrier, and get a crew moving toward your address right away.
+If water, fire, smoke, or storm damage has hit your Mountainside property, don't wait for it to get worse while you figure out next steps. Call The Restoration Group at (844) 808-8838. We answer 24/7, document the damage for your insurance carrier, and get a crew moving toward your address right away.

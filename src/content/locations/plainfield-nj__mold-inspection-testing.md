@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Plainfield, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Plainfield"
-meta_description: "24/7 mold inspection and testing in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing plainfield"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -38,7 +38,7 @@ When sampling is warranted, we collect air samples using calibrated spore trap c
 
 For older homes in the Van Wyck Brooks Historic District or along the Netherwood corridors, we pay particular attention to plaster-and-lath assemblies. Plaster absorbs and holds moisture differently than modern drywall: it can appear dry on the surface while harboring elevated moisture content, and active mold growth, inside the wall cavity. Thermal imaging is especially useful in these homes because it can flag temperature differentials that suggest hidden wet areas before we recommend any invasive sampling.
 
-Our team holds IICRC Firm Certification (#210213) and operates under an NJ Licensed Home Improvement Contractor license through the NJ Division of Consumer Affairs. We're available 24/7 at (855) 650-7422.
+Our team holds IICRC Firm Certification (#210213) and operates under an NJ Licensed Home Improvement Contractor license through the NJ Division of Consumer Affairs. We're available 24/7 at (844) 808-8838.
 
 ## Reaching Plainfield from Our Kenilworth HQ
 
@@ -50,4 +50,4 @@ Because we're local to Union County, we're also familiar with the permit and ins
 
 One pattern we see repeatedly in Plainfield, particularly in the deeper finished basements common to homes built between 1910 and 1960 in neighborhoods like Sleepy Hollow and the Crescent Area, is mold growth behind the finished wall panels rather than on them. Homeowners install drywall or wood paneling directly against the foundation block, sometimes without a vapor barrier, and over years of seasonal humidity cycling, the back face of that material becomes a mold substrate that's completely invisible from the living space. The first sign is often an earthy or musty odor that gets stronger in humid months. If your basement smells different in July than it does in February, that seasonal pattern is worth investigating, it's a reliable indicator that moisture is moving through the foundation wall and finding a surface to colonize.
 
-If you're in the 07060 or 07063 ZIP code and have questions about what a mold inspection involves or what to expect from the results, call us at (855) 650-7422. We'll walk you through the process before we schedule anything.
+If you're in the 07060 or 07063 ZIP code and have questions about what a mold inspection involves or what to expect from the results, call us at (844) 808-8838. We'll walk you through the process before we schedule anything.

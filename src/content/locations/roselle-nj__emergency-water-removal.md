@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Roselle, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Roselle"
-meta_description: "24/7 emergency water removal and cleanup in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal roselle"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ We document losses thoroughly from the first visit: photographs of affected mate
 
 In Roselle's pre-1950 homes, particularly the colonials and Victorians on the blocks running off Chestnut Street, plaster walls behave very differently from modern drywall during a water loss. Plaster is dense and slow to absorb, which can make a wall look unaffected even when the wood lath behind it is holding significant moisture. We've learned to extend drying timelines on these structures and to resist the temptation to call a job complete based on surface readings alone. Pulling a baseboard or drilling a small inspection port to check the cavity is standard practice in these homes, not an upsell, it's the only way to confirm the structure is actually dry before equipment comes out.
 
-If you're dealing with standing water, a sump failure, or a pipe break anywhere in Roselle, call (855) 650-7422 now. We're available 24/7, and the sooner extraction begins, the more of your home, and your claim, can be saved.
+If you're dealing with standing water, a sump failure, or a pipe break anywhere in Roselle, call (844) 808-8838 now. We're available 24/7, and the sooner extraction begins, the more of your home, and your claim, can be saved.

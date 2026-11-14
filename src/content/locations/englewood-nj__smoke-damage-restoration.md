@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Englewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Englewood"
-meta_description: "24/7 emergency smoke damage restoration in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration englewood"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -58,4 +58,4 @@ Smoke damage claims require thorough documentation because adjusters routinely d
 
 Englewood's East Hill homes were built during an era when interior walls were finished with three-coat lime plaster over wood lath, a system that is both beautiful and, from a smoke damage standpoint, unusually absorbent. The rough texture of the brown coat beneath the finish layer traps soot in a way that smooth modern drywall does not. When we work in these homes, we extend the dry-residue removal phase significantly and use lower-abrasion chemical sponges to avoid disturbing the finish coat. Rushing that step to save time is the single most common reason East Hill homeowners end up with smoke odor that resurfaces six months after a contractor has signed off on the job.
 
-If you're dealing with smoke damage anywhere in Englewood, whether it's a single-family home near Flat Rock Brook, a commercial space on Palisade Avenue, or a multifamily building in the Fourth Ward, call The Restoration Group at (855) 650-7422. We're available around the clock and can begin the assessment the same day.
+If you're dealing with smoke damage anywhere in Englewood, whether it's a single-family home near Flat Rock Brook, a commercial space on Palisade Avenue, or a multifamily building in the Fourth Ward, call The Restoration Group at (844) 808-8838. We're available around the clock and can begin the assessment the same day.

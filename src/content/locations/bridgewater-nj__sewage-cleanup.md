@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Bridgewater, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Bridgewater"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization bridgewater"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Sewage backup in Bridgewater? We answer 24/7.** Call now and our crew can be on-site within 60 minutes to contain the contamination and start the cleanup.
 
-When a sewer line backs up into a finished basement in Bridgewater, the clock starts immediately, and the township's older housing stock makes the situation more complicated than it looks. Postwar ranches and split-levels throughout Finderne and Bradley Gardens were built with cast-iron drain stacks that are now corroding from the inside out, and many of those homes have finished lower levels that sit just a few feet above the water table in the Raritan River floodplain. Raw sewage isn't just an odor problem; Category 3 contamination soaks into framing, drywall, and subflooring within hours, and without proper extraction and sanitization, what starts as a drain backup becomes a long-term biohazard. The Restoration Group responds 24/7 to sewage emergencies across Bridgewater, call (855) 650-7422 the moment you see it.
+When a sewer line backs up into a finished basement in Bridgewater, the clock starts immediately, and the township's older housing stock makes the situation more complicated than it looks. Postwar ranches and split-levels throughout Finderne and Bradley Gardens were built with cast-iron drain stacks that are now corroding from the inside out, and many of those homes have finished lower levels that sit just a few feet above the water table in the Raritan River floodplain. Raw sewage isn't just an odor problem; Category 3 contamination soaks into framing, drywall, and subflooring within hours, and without proper extraction and sanitization, what starts as a drain backup becomes a long-term biohazard. The Restoration Group responds 24/7 to sewage emergencies across Bridgewater, call (844) 808-8838 the moment you see it.
 
 ## Why Bridgewater Properties Experience Sewage Backups
 
@@ -51,4 +51,4 @@ Sewage backup coverage is a common rider on homeowner policies in New Jersey, bu
 
 One pattern we see repeatedly in Bridgewater's Finderne-area homes: the cast-iron floor drain in the utility room has a dried-out trap that no longer holds a water seal. When a sewer surcharge event hits, exactly the kind that Ida produced, there's no barrier to stop sewage from venting directly into the basement through that open drain. It's a two-minute fix with a trap primer or a simple rubber plug, and it's worth checking before storm season every year. We mention it on every job in that part of the township.
 
-If sewage has already reached your basement, don't run the HVAC system, it will pull contaminated air through the ductwork and spread it to the rest of the house. Shut it off, open a window if safe, and call us at (855) 650-7422. We're available around the clock, and the sooner extraction begins, the less structure you lose.
+If sewage has already reached your basement, don't run the HVAC system, it will pull contaminated air through the ductwork and spread it to the rest of the house. Shut it off, open a window if safe, and call us at (844) 808-8838. We're available around the clock, and the sooner extraction begins, the less structure you lose.

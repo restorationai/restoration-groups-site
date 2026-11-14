@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Hillside, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Hillside"
-meta_description: "24/7 emergency biohazard cleanup in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Hillside, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup hillside"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -54,4 +54,4 @@ Many homeowner policies in New Jersey cover biohazard remediation, though covera
 
 Hillside's older plaster-and-lath interiors, common in the colonials and two-families throughout Saybrook and the Winans area, behave differently than modern drywall when biological material contacts them. Plaster is more porous than it appears and can retain contamination below a surface that looks intact. During assessment, technicians check wall cavities and subfloor voids in addition to visible surfaces, because in this housing stock, the visible area is rarely the full picture. Skipping that step and treating only what's obvious is one of the most common reasons a biohazard cleanup has to be redone.
 
-This is a difficult situation to be in, and the goal is to handle the technical side completely so you can focus on everything else. Call (855) 650-7422 any time, the team is available 24/7 and can be on the way to your Hillside property promptly, whether you're in a residential neighborhood or managing a commercial space along the Route 22 corridor.
+This is a difficult situation to be in, and the goal is to handle the technical side completely so you can focus on everything else. Call (844) 808-8838 any time, the team is available 24/7 and can be on the way to your Hillside property promptly, whether you're in a residential neighborhood or managing a commercial space along the Route 22 corridor.

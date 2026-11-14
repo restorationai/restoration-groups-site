@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Somerville, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Somerville"
-meta_description: "24/7 emergency water removal and cleanup in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal somerville"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Most water losses in Somerville fall under standard homeowners or commercial pro
 
 In Somerville's older Victorian and colonial homes, particularly those in the East Main and Fairview areas, finished basements were often retrofitted decades after original construction, with framing set directly on concrete slabs without a moisture break. When water enters those spaces, it wicks laterally through the slab edge and into the bottom plate of the wall framing before it ever appears on the floor surface. We probe those bottom plates on every basement job in this borough, because missing that moisture is the most common reason a water removal job looks finished and then develops a mold problem six weeks later.
 
-If you're dealing with water damage anywhere in Somerville, a flooded basement off Gaston Avenue, a burst pipe in a Main Street storefront, or a multi-unit loss in one of the newer downtown buildings, call The Restoration Group at (855) 650-7422. We're available 24/7 and can dispatch immediately.
+If you're dealing with water damage anywhere in Somerville, a flooded basement off Gaston Avenue, a burst pipe in a Main Street storefront, or a multi-unit loss in one of the newer downtown buildings, call The Restoration Group at (844) 808-8838. We're available 24/7 and can dispatch immediately.

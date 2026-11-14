@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Clark, NJ | The Restoration Group"
 h1: "Restoration Services in Clark"
-meta_description: "Serving Clark, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Clark, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services clark"
 secondary_keywords: ["clark restoration company", "damage restoration clark", "clark disaster restoration"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "NJ"
 primary: false
 rendered: true
 ---
-When a pipe bursts under a finished basement floor on Lake Avenue or a sump pump quits during a July downpour off Valley Road, The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all handled by one crew so Clark homeowners aren't coordinating between three different contractors at the worst possible moment. Call us any time at (855) 650-7422.
+When a pipe bursts under a finished basement floor on Lake Avenue or a sump pump quits during a July downpour off Valley Road, The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all handled by one crew so Clark homeowners aren't coordinating between three different contractors at the worst possible moment. Call us any time at (844) 808-8838.
 
 ## Restoration emergencies common in Clark
 
@@ -59,4 +59,4 @@ Under the plaster or rock-lath walls in these postwar homes, wall cavities were 
 
 Structural repair and rebuild work in the borough falls under New Jersey's Uniform Construction Code, with permits issued through Clark's construction office by subcode, building, plumbing, electrical, fire. Homes mapped in the Rahway River floodplain carry additional elevation review when repairs reach substantial-improvement thresholds.
 
-If you're dealing with water, fire, mold, or sewage damage anywhere in Clark, from the Westfield Avenue corridor to the streets along the Rahway River, call The Restoration Group at (855) 650-7422. We're available around the clock and we can be there fast.
+If you're dealing with water, fire, mold, or sewage damage anywhere in Clark, from the Westfield Avenue corridor to the streets along the Rahway River, call The Restoration Group at (844) 808-8838. We're available around the clock and we can be there fast.

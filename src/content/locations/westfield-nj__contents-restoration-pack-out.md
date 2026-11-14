@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Westfield, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Westfield"
-meta_description: "24/7 contents restoration & pack-out in Westfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Westfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out westfield"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ Contents restoration claims in Westfield frequently involve high-value items tha
 
 In Westfield's older homes, particularly the center-hall colonials and Tudors concentrated near Downtown Westfield along Quimby Street and in the Manor Park area, original hardwood floors and period millwork are often the most expensive items in the structure. When a pack-out is staged, the crew uses floor runners and corner guards from the moment they enter, because a scratch on a 100-year-old fir floor or a chip in original plaster molding can cost more to repair than a piece of furniture. It's a detail that matters in a town where owners expect restoration to match original quality, not approximate it.
 
-If a loss has left your Westfield home's contents, or the home itself, in an uncertain state, call (855) 650-7422. The Restoration Group is IICRC Certified (Firm #210213) and licensed as a New Jersey Home Improvement Contractor, and the team is ready to begin the inventory and pack-out process as soon as you need it.
+If a loss has left your Westfield home's contents, or the home itself, in an uncertain state, call (844) 808-8838. The Restoration Group is IICRC Certified (Firm #210213) and licensed as a New Jersey Home Improvement Contractor, and the team is ready to begin the inventory and pack-out process as soon as you need it.

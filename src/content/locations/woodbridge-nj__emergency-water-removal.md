@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Woodbridge, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Woodbridge"
-meta_description: "24/7 emergency water removal and cleanup in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal woodbridge"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-The Rahway River doesn't forgive slowly. When it rises, as it did catastrophically during Ida in 2021, swamping low-lying streets from Sewaren to Port Reading, water moves into finished basements, under slab floors, and behind the plaster walls of postwar capes and split-levels faster than most homeowners expect. If you're dealing with standing water in your home or business in Woodbridge Township right now, the clock on secondary damage started the moment the water arrived. The Restoration Group's emergency water removal team responds 24/7 from Kenilworth, NJ, and can be reached at (855) 650-7422.
+The Rahway River doesn't forgive slowly. When it rises, as it did catastrophically during Ida in 2021, swamping low-lying streets from Sewaren to Port Reading, water moves into finished basements, under slab floors, and behind the plaster walls of postwar capes and split-levels faster than most homeowners expect. If you're dealing with standing water in your home or business in Woodbridge Township right now, the clock on secondary damage started the moment the water arrived. The Restoration Group's emergency water removal team responds 24/7 from Kenilworth, NJ, and can be reached at (844) 808-8838.
 
 ## Why Woodbridge Properties Face Repeated Water Damage
 
@@ -51,4 +51,4 @@ The Restoration Group's Kenilworth headquarters sits just off the Garden State P
 
 In the split-levels and raised ranches that dominate Colonia and Fords, finished basement walls are frequently built with wood furring strips nailed directly against the concrete-block foundation, no air gap, no vapor barrier. When water enters through the block (which is porous by nature), the furring and drywall wick moisture inward and hold it. The surface can read nearly dry within 24 hours while the wall cavity stays saturated for days. Standard moisture meters placed on the drywall face miss this entirely. Thermal imaging and penetrating probes placed at the base of the wall tell a different story. Skipping that step leads to mold growth behind a wall that was declared dry, and a second remediation job weeks later.
 
-If you're in ZIP code 07095 or the surrounding Woodbridge communities and water has reached your walls, call (855) 650-7422. The Restoration Group is available 24/7 to assess the damage, begin emergency water removal, and document everything your insurance carrier will need.
+If you're in ZIP code 07095 or the surrounding Woodbridge communities and water has reached your walls, call (844) 808-8838. The Restoration Group is available 24/7 to assess the damage, begin emergency water removal, and document everything your insurance carrier will need.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Linden, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Linden"
-meta_description: "24/7 emergency board-up and tarping in Linden, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Linden, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping linden"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ The Restoration Group's Kenilworth headquarters puts Linden within a short drive
 
 Homes built in the 1940s and 1950s across Linden's Sunnyside and Bower sections frequently have skip-sheathing or spaced board decking under the original roofing rather than continuous plywood. When a section of that roof is compromised, driving standard screw fasteners for batten boards requires locating the actual boards, not just driving into a gap, or the tarp anchor pulls loose in the first serious wind. The crew accounts for this on older properties by probing the decking before committing to fastener placement, adding a step that takes ten minutes but prevents a tarp failure at 3 a.m. during a rain band.
 
-If your Linden property has been damaged and needs immediate protection, call (855) 650-7422. The team is available around the clock, documents everything for your insurance carrier, and can be on-site in 07036 and surrounding areas fast, before an open structure becomes a much bigger problem.
+If your Linden property has been damaged and needs immediate protection, call (844) 808-8838. The team is available around the clock, documents everything for your insurance carrier, and can be on-site in 07036 and surrounding areas fast, before an open structure becomes a much bigger problem.

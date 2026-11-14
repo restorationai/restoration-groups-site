@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Scotch Plains, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Scotch Plains"
-meta_description: "24/7 emergency smoke damage restoration in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration scotch plains"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -58,4 +58,4 @@ Most homeowner policies in New Jersey cover sudden and accidental fire and smoke
 
 One pattern we see repeatedly in the older homes near the Fanwood border and through the Southside: original plaster ceilings that have been skim-coated with joint compound over the decades. That compound layer absorbs smoke odor differently than the plaster beneath it, it releases odor more slowly and can continue off-gassing for weeks after the plaster itself has been cleaned. In these homes, we adjust the hydroxyl treatment schedule to run longer cycles and re-test air quality at 48-hour intervals rather than at job close-out. It adds time, but it prevents callbacks.
 
-If your Scotch Plains home has smoke damage from a kitchen fire, an electrical fire, or a structural loss, call The Restoration Group at (855) 650-7422. We are available around the clock, and we will give you a straight assessment of what the structure needs, no upselling, no vague timelines.
+If your Scotch Plains home has smoke damage from a kitchen fire, an electrical fire, or a structural loss, call The Restoration Group at (844) 808-8838. We are available around the clock, and we will give you a straight assessment of what the structure needs, no upselling, no vague timelines.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Bloomfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Bloomfield"
-meta_description: "24/7 emergency basement flooding cleanup in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup bloomfield"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Kenilworth sits roughly 8 miles southwest of Bloomfield via Route 22 and the Gar
 
 One thing that catches homeowners off guard in Bloomfield's older two-family and colonial stock: the original plaster-and-lath walls that still exist in many pre-1950 basements absorb water more slowly than modern drywall, but they release it even more slowly during drying. A basement that looks surface-dry within a few days can still carry significant moisture inside the plaster layer, which then migrates into the wood framing behind it. We extend monitoring cycles on these properties and use penetrating moisture meters rather than surface-only readings, a detail that matters a lot when you're trying to avoid a mold callback six weeks later.
 
-If you're dealing with a flooded basement anywhere in Bloomfield, from a sump failure in Brookdale to a sewer backup near Watsessing, call The Restoration Group at **(855) 650-7422**. We're available 24/7, we work directly with most major insurance carriers, and we carry NJ Licensed Home Improvement Contractor status through the NJ Division of Consumer Affairs. The water isn't going to wait, and neither should you.
+If you're dealing with a flooded basement anywhere in Bloomfield, from a sump failure in Brookdale to a sewer backup near Watsessing, call The Restoration Group at **(844) 808-8838**. We're available 24/7, we work directly with most major insurance carriers, and we carry NJ Licensed Home Improvement Contractor status through the NJ Division of Consumer Affairs. The water isn't going to wait, and neither should you.

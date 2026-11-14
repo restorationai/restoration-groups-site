@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Irvington, NJ | The Restoration Group"
 h1: "Mold Remediation in Irvington"
-meta_description: "24/7 mold remediation in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation irvington"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ NJ Licensed Home Improvement Contractor status (NJ Division of Consumer Affairs)
 
 In Irvington's attached two- and three-family homes, particularly the rows running off Chancellor Avenue and through the Upsala area, basement utility spaces are often shared or separated only by an unmortared block wall. When mold establishes in one unit's basement, spores frequently appear in the adjacent unit's space within days, even without a shared HVAC system, simply because block walls are porous and air moves freely through them. We flag this pattern on every multifamily job and recommend that property owners notify adjacent tenants so both spaces can be assessed at the same time. Treating one side while leaving the other untouched is one of the most common reasons Irvington mold jobs get called back.
 
-If you are seeing discoloration on basement framing, a persistent musty odor after a storm, or a recently discovered slow leak in an older Irvington home, call The Restoration Group at (855) 650-7422. We will assess the scope, contain the problem, and document everything your insurance carrier needs, starting today.
+If you are seeing discoloration on basement framing, a persistent musty odor after a storm, or a recently discovered slow leak in an older Irvington home, call The Restoration Group at (844) 808-8838. We will assess the scope, contain the problem, and document everything your insurance carrier needs, starting today.

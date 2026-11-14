@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Bayonne, NJ | The Restoration Group"
 h1: "Commercial Restoration in Bayonne"
-meta_description: "24/7 commercial restoration in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration bayonne"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -52,4 +52,4 @@ For businesses with business-interruption coverage, timeline documentation matte
 
 One pattern that comes up repeatedly on Bayonne commercial jobs is the interaction between older cast-iron floor drains and modern water-mitigation equipment. Many mid-century commercial buildings in the Constable Hook and Broadway corridor areas have floor drain systems that were designed for gravity flow but have partially collapsed or root-intruded over decades. When extraction equipment pumps water toward those drains during a flood loss, the drain backs up rather than clearing, turning a straightforward extraction into a secondary containment problem. Crews working in Bayonne's older commercial stock now carry a drain camera as standard equipment on the first truck so that problem gets identified before it compounds the loss.
 
-If your business has been affected by water, fire, smoke, or storm damage, call The Restoration Group at (855) 650-7422. Commercial losses in Bayonne move fast, the sooner mitigation starts, the more of the structure and contents can be saved.
+If your business has been affected by water, fire, smoke, or storm damage, call The Restoration Group at (844) 808-8838. Commercial losses in Bayonne move fast, the sooner mitigation starts, the more of the structure and contents can be saved.

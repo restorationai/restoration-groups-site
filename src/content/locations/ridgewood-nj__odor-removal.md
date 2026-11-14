@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Ridgewood, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Ridgewood"
-meta_description: "24/7 odor removal and deodorization in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Ridgewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization ridgewood"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -53,4 +53,4 @@ Not every odor problem calls for the same tool. Our equipment inventory covers t
 
 Ridgewood's historic homes frequently have original plaster-on-lath walls rather than drywall, and that distinction changes how we approach smoke and water odor jobs here. Plaster is denser and slower to release absorbed moisture and odor compounds than modern gypsum board, which means a thermal fogging cycle that would be sufficient in a 1990s colonial may need to be extended or supplemented with a hydroxyl treatment in a 1915 Tudor near the Heights. We've learned to build that extra time into the project scope upfront rather than discovering it mid-job, which keeps timelines honest and avoids a second mobilization.
 
-If your Ridgewood home or commercial property is holding onto a smell that cleaning alone hasn't resolved, call The Restoration Group at **(855) 650-7422**. We'll assess the source, explain exactly what's causing it, and apply the right combination of professional odor elimination methods to clear it, not cover it up.
+If your Ridgewood home or commercial property is holding onto a smell that cleaning alone hasn't resolved, call The Restoration Group at **(844) 808-8838**. We'll assess the source, explain exactly what's causing it, and apply the right combination of professional odor elimination methods to clear it, not cover it up.

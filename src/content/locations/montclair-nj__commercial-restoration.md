@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Montclair, NJ | The Restoration Group"
 h1: "Commercial Restoration in Montclair"
-meta_description: "24/7 commercial restoration in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration montclair"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -52,4 +52,4 @@ Commercial losses in Montclair frequently involve multiple parties: a building o
 
 One thing that catches out-of-area contractors working in Montclair's commercial buildings: the town has a significant number of properties where the original basement or ground-floor slab was poured directly over fill material brought in during early development, with no vapor barrier. After a flooding event, moisture wicks back up through the slab for weeks after surface water is removed. On Bloomfield Avenue and the surrounding blocks, we always check slab moisture levels before closing out a drying job, skipping that step leads to mold callbacks three weeks later that could have been avoided.
 
-If your commercial property in Montclair has taken a water, fire, smoke, or mold loss, call The Restoration Group at **(855) 650-7422**. We'll assess the damage, document the scope, and start work the same day, so your business can get back to operating.
+If your commercial property in Montclair has taken a water, fire, smoke, or mold loss, call The Restoration Group at **(844) 808-8838**. We'll assess the damage, document the scope, and start work the same day, so your business can get back to operating.

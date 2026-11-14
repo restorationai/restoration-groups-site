@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Morristown, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Morristown"
-meta_description: "24/7 odor removal and deodorization in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization morristown"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ Smoke odor from a covered fire loss and microbial odor from a covered water even
 
 Morristown's older Victorians, particularly those on the streets radiating off the Morristown Green and in the Cauldwell area, frequently have original horsehair plaster over wood lath rather than drywall. That plaster is highly absorptive: smoke and water odors penetrate the full thickness of the wall layer, not just the surface. Standard deodorization dwell times are not always sufficient. On those properties we extend treatment cycles and use penetrating agents rather than surface-applied neutralizers, and we probe moisture levels in the wall assembly before closing out the job. Skipping that step is how odors come back six weeks later.
 
-If a smell in your Morristown home or business is not going away on its own, it is not going to. Call The Restoration Group at **(855) 650-7422**, we will identify the source, explain the right method for your specific building, and get the work done so the odor does not come back.
+If a smell in your Morristown home or business is not going away on its own, it is not going to. Call The Restoration Group at **(844) 808-8838**, we will identify the source, explain the right method for your specific building, and get the work done so the odor does not come back.

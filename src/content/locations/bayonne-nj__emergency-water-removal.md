@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Bayonne, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Bayonne"
-meta_description: "24/7 emergency water removal and cleanup in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal bayonne"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Most water losses in Bayonne residential properties are covered under standard h
 
 In Bayonne's older two- and three-family frame homes, the original plaster-and-lath wall construction behaves very differently from modern drywall when it gets wet. Plaster absorbs moisture slowly but releases it even more slowly, surface readings can show acceptable numbers while the wooden lath behind the plaster remains saturated. We extend drying cycles and take deeper-wall moisture readings in these structures rather than relying on surface meters alone. Pulling equipment too early in a plaster-wall home is one of the most common reasons a water loss turns into a mold remediation job weeks later.
 
-If you're dealing with water in your Bayonne home or property right now, call The Restoration Group at (855) 650-7422 for emergency water removal and cleanup. We're available 24 hours a day, and we'll walk you through next steps before the crew even arrives.
+If you're dealing with water in your Bayonne home or property right now, call The Restoration Group at (844) 808-8838 for emergency water removal and cleanup. We're available 24 hours a day, and we'll walk you through next steps before the crew even arrives.

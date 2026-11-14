@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in East Orange, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in East Orange"
-meta_description: "24/7 odor removal and deodorization in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization east orange"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ From our Kenilworth headquarters, East Orange is accessible around the clock via
 
 One thing we've learned working in East Orange's older apartment buildings: cast-iron drain stacks in pre-war construction are rarely fully sealed where they pass through floor assemblies. When a sewer backup or drain overflow happens on a lower floor, sewer gas and odor migrate upward through those gaps and can make upper-floor units smell like the problem is theirs, even when the source is two floors down. Tenants and property managers sometimes call multiple contractors thinking each unit has a separate problem. We trace the stack path first, which usually means one coordinated treatment rather than piecemeal work that never fully resolves the smell.
 
-If you're dealing with a persistent odor in an East Orange property, whether it's smoke, sewer, mold, or something you can't identify, call The Restoration Group at **(855) 650-7422**. We'll assess the source, explain the method that fits your building type, and get the work done right the first time.
+If you're dealing with a persistent odor in an East Orange property, whether it's smoke, sewer, mold, or something you can't identify, call The Restoration Group at **(844) 808-8838**. We'll assess the source, explain the method that fits your building type, and get the work done right the first time.

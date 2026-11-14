@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Garfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Garfield"
-meta_description: "24/7 emergency storm damage restoration in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration garfield"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Storm damage claims in New Jersey are subject to specific documentation requirem
 
 One thing that surprises homeowners in Garfield's older two- and three-family stock: the plaster-and-lath walls common in pre-1950 construction absorb storm-driven moisture more slowly than modern drywall, but they release it even more slowly during drying. A wall that reads "dry" on a surface moisture meter may still carry elevated readings two inches in. We extend drying cycles on plaster assemblies and re-check with deep-wall probes before closing out, skipping that step is how jobs come back as mold claims six weeks later.
 
-If your home or business in Garfield has taken storm damage, a failed roof, a flooded basement, a downed tree through a wall, call The Restoration Group at (855) 650-7422. We're available around the clock, and the sooner we're on-site, the more of your structure and contents we can protect.
+If your home or business in Garfield has taken storm damage, a failed roof, a flooded basement, a downed tree through a wall, call The Restoration Group at (844) 808-8838. We're available around the clock, and the sooner we're on-site, the more of your structure and contents we can protect.

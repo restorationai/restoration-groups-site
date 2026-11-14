@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Irvington, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Irvington"
-meta_description: "24/7 emergency board-up and tarping in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping irvington"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -40,7 +40,7 @@ On Irvington's older wood-frame structures, we pay particular attention to the c
 
 ## Reaching Irvington from Kenilworth
 
-Our Kenilworth base puts us on Route 22 East within minutes, connecting directly to the Springfield Avenue corridor and the heart of Irvington. For properties near Irvington Park or the Camptown Historic District, we typically route through Union Avenue to avoid Springfield Avenue congestion. Because we operate around the clock, we can dispatch at 2 a.m. on a Tuesday as readily as on a Saturday afternoon, the call to (855) 650-7422 reaches a live team member every hour of every day.
+Our Kenilworth base puts us on Route 22 East within minutes, connecting directly to the Springfield Avenue corridor and the heart of Irvington. For properties near Irvington Park or the Camptown Historic District, we typically route through Union Avenue to avoid Springfield Avenue congestion. Because we operate around the clock, we can dispatch at 2 a.m. on a Tuesday as readily as on a Saturday afternoon, the call to (844) 808-8838 reaches a live team member every hour of every day.
 
 ## Insurance Documentation for Irvington Claims
 
@@ -50,4 +50,4 @@ Board-up and tarping costs are almost always covered under the same claim as the
 
 Irvington's rowhouse blocks, particularly the stretches of two- and three-families near Upsala, often have very narrow side yards or no side yard at all. That means a ladder or lift cannot always be positioned on the exposure side of a roof breach. Our crews carry adjustable ridge hooks and roof jacks specifically for these tight-access situations, allowing us to work safely from the roof deck itself rather than requiring ground-level ladder placement. If you've had a contractor tell you a roof tarp "can't be done tonight" on one of these properties, that's usually an equipment and training gap, not a genuine access impossibility.
 
-If a fire, storm, or structural failure has left a property open and exposed anywhere in Irvington, call (855) 650-7422 now. An IICRC Certified Firm with the equipment and local experience to secure your property tonight, not tomorrow morning.
+If a fire, storm, or structural failure has left a property open and exposed anywhere in Irvington, call (844) 808-8838 now. An IICRC Certified Firm with the equipment and local experience to secure your property tonight, not tomorrow morning.

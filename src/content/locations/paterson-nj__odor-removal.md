@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Paterson, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Paterson"
-meta_description: "24/7 odor removal and deodorization in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization paterson"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ For multi-unit buildings, we coordinate access with property managers before arr
 
 Contractors who primarily work in newer construction sometimes underestimate how long deodorization takes in Paterson's pre-war housing. Plaster-and-lath walls hold moisture and odor compounds differently than 5/8" drywall, the material is denser, slower to release absorbed gases, and doesn't respond the same way to surface-applied neutralizers. In a Sandy Hill or Eastside rowhome with original plaster, a smoke deodorization job that would take one thermal fogging cycle in a 1990s-built colonial may require a second pass 48 hours later, after the plaster finishes off-gassing. We build that reassessment into our scope rather than closing the job after the first treatment and leaving the homeowner with a smell that returns in a week.
 
-If you're dealing with a persistent odor in a Paterson property, whether it followed a flood, a fire, a long-term vacancy, or a sewage backup, call (855) 650-7422. We'll assess the source, explain the method, and get the building back to neutral.
+If you're dealing with a persistent odor in a Paterson property, whether it followed a flood, a fire, a long-term vacancy, or a sewage backup, call (844) 808-8838. We'll assess the source, explain the method, and get the building back to neutral.

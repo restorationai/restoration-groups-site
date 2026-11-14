@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in North Bergen, NJ | The Restoration Group"
 h1: "Commercial Restoration in North Bergen"
-meta_description: "24/7 commercial restoration in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration north bergen"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -54,4 +54,4 @@ For businesses in older Bergenline mixed-use buildings, we also flag any pre-exi
 
 One thing that catches out-of-area contractors on North Bergen commercial jobs: the brick cavity walls common in pre-war Bergenline Avenue storefronts hold moisture in a way that standard pin-probe moisture meters miss entirely. The brick face reads dry while the cavity behind it stays saturated for weeks. We use a combination of non-invasive radio-frequency meters and targeted core sampling to confirm actual moisture content before we close out a drying job, skipping that step is how a business ends up with mold behind a freshly painted wall six weeks after the restoration crew left.
 
-If your North Bergen commercial property has taken water, fire, or smoke damage, call (855) 650-7422 now. We'll assess the loss, coordinate with your carrier, and build a restoration plan around your operating schedule, not the other way around.
+If your North Bergen commercial property has taken water, fire, or smoke damage, call (844) 808-8838 now. We'll assess the loss, coordinate with your carrier, and build a restoration plan around your operating schedule, not the other way around.

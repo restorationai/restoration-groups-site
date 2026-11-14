@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Rahway, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Rahway"
-meta_description: "24/7 emergency basement flooding cleanup in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup rahway"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Most standard homeowner policies in New Jersey distinguish between sudden-and-ac
 
 In the blocks closest to the Rahway River between Rahway River Park and the Main Street business district, we've found that finished basement walls are often furred out from the foundation with wood framing, a common technique in 1950s and 1960s remodels, leaving a hidden air gap that traps standing water behind the drywall long after the visible floor has been extracted. On those jobs we probe the cavity before assuming the wall is dry. Skipping that step is how a "dry" basement develops a mold problem three weeks later.
 
-If your basement is holding water right now, call (855) 650-7422. We'll walk you through what to do before we arrive, including whether it's safe to enter, and dispatch a crew to your Rahway address as quickly as possible.
+If your basement is holding water right now, call (844) 808-8838. We'll walk you through what to do before we arrive, including whether it's safe to enter, and dispatch a crew to your Rahway address as quickly as possible.

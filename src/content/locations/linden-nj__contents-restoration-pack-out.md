@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Linden, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Linden"
-meta_description: "24/7 contents restoration & pack-out in Linden, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Linden, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out linden"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ Contents losses are often the most contested part of a property claim because ad
 
 Linden's older postwar homes, particularly the finished-basement colonials common near the Roselle Park border, were often built with drop ceilings installed over the original framing. When water comes in from above or from a pipe in the ceiling cavity, it pools on the drop-ceiling tiles and then releases in a rush when a tile finally gives way, soaking everything on shelving or stored on the floor below in seconds. If you're in one of these homes and notice a ceiling tile sagging or discolored, the contents directly underneath are at immediate risk. Moving them before the tile fails, and calling for an assessment, can be the difference between a contents restoration job and a full replacement claim.
 
-If a loss has already reached your belongings, call (855) 650-7422. The team is available 24/7 and can begin the pack-out inventory in Linden the same day.
+If a loss has already reached your belongings, call (844) 808-8838. The team is available 24/7 and can begin the pack-out inventory in Linden the same day.

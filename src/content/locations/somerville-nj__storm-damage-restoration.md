@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Somerville, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Somerville"
-meta_description: "24/7 emergency storm damage restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration somerville"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Storm losses in New Jersey are typically covered under the wind and hail provisi
 
 Somerville's older two-family homes, particularly those on the blocks between Downtown and the West End, were frequently renovated in the 1980s and 1990s with fiberglass batt insulation stuffed into wall cavities without a vapor barrier. After a storm-driven water intrusion, that insulation holds moisture against the original wood framing for weeks without showing visible surface mold. We probe wall cavities with thermal imaging and pin-type moisture meters on these properties as a matter of course, because what looks dry on the surface often isn't.
 
-If a storm has damaged your Somerville property, whether it's a tree through the roof on Mercer Street, a flooded basement near Peters Brook, or a failed storefront roof on Main Street, call The Restoration Group at **(855) 650-7422**. We're available 24/7, and we'll have a crew moving toward you while you're still on the phone.
+If a storm has damaged your Somerville property, whether it's a tree through the roof on Mercer Street, a flooded basement near Peters Brook, or a failed storefront roof on Main Street, call The Restoration Group at **(844) 808-8838**. We're available 24/7, and we'll have a crew moving toward you while you're still on the phone.

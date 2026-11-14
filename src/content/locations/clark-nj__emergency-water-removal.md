@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Clark, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Clark"
-meta_description: "24/7 emergency water removal and cleanup in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal clark"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ Most standard homeowner policies in New Jersey cover sudden and accidental water
 
 Clark's split-level homes present a specific drying challenge that doesn't come up as often in towns with slab-on-grade construction. The intermediate floor level, typically a few steps below the main living area, often housing the laundry room, a bathroom, and direct garage access, sits partially below grade. When water enters at that level, it wicks laterally into the framing that connects to the upper floor deck. Drying that assembly requires equipment placed both below and above the wet zone simultaneously, and it takes longer than a straightforward basement flood because the framing is enclosed on multiple sides. If you have a split-level in Clark and you've had water at the intermediate level, ask specifically about the floor-deck assembly when you call, it's the part that gets missed.
 
-If standing water is in your home right now, call The Restoration Group at (855) 650-7422. We're available around the clock and can begin emergency water removal and cleanup in Clark the same day you call.
+If standing water is in your home right now, call The Restoration Group at (844) 808-8838. We're available around the clock and can begin emergency water removal and cleanup in Clark the same day you call.

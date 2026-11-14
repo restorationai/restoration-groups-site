@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Piscataway, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Piscataway"
-meta_description: "24/7 mold inspection and testing in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing piscataway"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -40,10 +40,10 @@ Because The Restoration Group holds IICRC Firm Certification (#210213), the insp
 
 ## Reaching Piscataway from Kenilworth
 
-The Restoration Group operates out of Kenilworth, NJ, and reaches Piscataway via Route 1 or the Garden State Parkway to Route 287, a straightforward run that keeps response times reasonable across the township's ZIP codes, including 08854. The team is available around the clock, so a homeowner who discovers standing water or a musty odor late on a Sunday night can reach a live person at (855) 650-7422 rather than waiting until Monday morning when mold has had additional hours to spread.
+The Restoration Group operates out of Kenilworth, NJ, and reaches Piscataway via Route 1 or the Garden State Parkway to Route 287, a straightforward run that keeps response times reasonable across the township's ZIP codes, including 08854. The team is available around the clock, so a homeowner who discovers standing water or a musty odor late on a Sunday night can reach a live person at (844) 808-8838 rather than waiting until Monday morning when mold has had additional hours to spread.
 
 ## Local Note: What Repeat Flooding Leaves Behind
 
 One thing that stands out in Piscataway properties that flooded during Ida, particularly those closest to the Johnson Park flatlands and the River Road corridor, is that some homeowners dried out the visible surfaces, assumed the problem was resolved, and then called 12 to 18 months later with a persistent musty odor and discoloration behind baseboards. Riverine flooding carries silt and organic debris into wall cavities and under subfloors; that organic load feeds mold growth even after the moisture content of the framing returns to normal ranges. An inspection in those homes needs to include sampling behind lower wall sections, not just air quality readings in the center of the room. If your home was in the flood zone during any of the major Raritan events and you haven't had a professional assessment, the absence of visible mold is not a clean bill of health.
 
-If you're in Piscataway, whether you're in a Possumtown split-level, a Society Hill condo, or a commercial space off the Stelton corridor, and you have a moisture history or an unexplained odor, call (855) 650-7422. The Restoration Group will schedule an inspection, deliver a lab-backed written report, and give you a clear picture of what's actually in your air and walls.
+If you're in Piscataway, whether you're in a Possumtown split-level, a Society Hill condo, or a commercial space off the Stelton corridor, and you have a moisture history or an unexplained odor, call (844) 808-8838. The Restoration Group will schedule an inspection, deliver a lab-backed written report, and give you a clear picture of what's actually in your air and walls.

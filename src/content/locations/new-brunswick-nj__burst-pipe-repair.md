@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in New Brunswick, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in New Brunswick"
-meta_description: "24/7 emergency burst pipe cleanup and repair in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair new brunswick"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ One thing that catches out-of-area contractors in New Brunswick's older multifam
 
 Burst pipe losses in New Brunswick tend to generate above-average claim complexity because of the mixed-use and multifamily character of the housing stock. A single pipe break in a converted three-family can involve the building owner's policy, a tenant's renter's insurance, and, if the failure traces to a shared supply line, questions about which policy responds first. We photograph and document affected materials, moisture readings, and equipment placement logs in a format that most major carriers accept for direct billing. For commercial losses on the George Street corridor or institutional properties, we can coordinate scope documentation with an adjuster before demolition begins so there are no disputes about what was wet.
 
-If you are dealing with a burst or broken pipe in New Brunswick, whether it's a 08901 rowhouse, a Rutgers-area rental, or a downtown commercial space, call (855) 650-7422. We will walk you through the immediate steps on the phone and get a crew moving.
+If you are dealing with a burst or broken pipe in New Brunswick, whether it's a 08901 rowhouse, a Rutgers-area rental, or a downtown commercial space, call (844) 808-8838. We will walk you through the immediate steps on the phone and get a crew moving.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Clark, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Clark"
-meta_description: "24/7 emergency water damage restoration in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration clark"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ One thing worth knowing about Clark's 1950s and 1960s split-levels: the original
 
 Most standard homeowners policies in New Jersey cover sudden and accidental water discharge, a burst pipe, a failed water heater, an appliance supply line that lets go, but exclude gradual leaks and rising floodwater. That distinction matters in Clark, where a single event can involve both a sump pump overflow (often covered) and groundwater intrusion through the foundation (often excluded or requiring separate flood coverage through the NFIP). The Restoration Group documents the loss with photographs, moisture logs, and a written scope of work formatted for carrier review, and works directly with adjusters to move the claim forward. Homeowners are not left to translate between a contractor's invoice and an adjuster's worksheet.
 
-If you are dealing with water in your Clark home or business right now, whether it's a pipe that let go overnight or a basement that took on water during a storm, call (855) 650-7422. The team is available around the clock, the response is local, and the work is documented from the first hour to the final clearance reading.
+If you are dealing with water in your Clark home or business right now, whether it's a pipe that let go overnight or a basement that took on water during a storm, call (844) 808-8838. The team is available around the clock, the response is local, and the work is documented from the first hour to the final clearance reading.

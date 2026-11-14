@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Irvington, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Irvington"
-meta_description: "24/7 odor removal and deodorization in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization irvington"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -53,4 +53,4 @@ Odor removal tied to a covered loss, fire, smoke, water intrusion, sewer backup,
 
 In Irvington's tightly packed rowhouse blocks, particularly in the streets radiating off Irvington Park and through the Upsala area, shared attic spaces are more common than most owners realize. A fire or heavy smoke event in one unit can push odor-laden air into the continuous attic of an adjoining unit before the smoke alarm in that unit ever triggers. When The Restoration Group responds to a smoke odor call in a rowhouse, the inspection routinely includes the attic plane of adjacent units, not just the unit of origin. Missing that step is one of the most common reasons odor returns weeks after a "completed" treatment.
 
-If you're dealing with smoke, mold, sewage, or any persistent odor in an Irvington property, call (855) 650-7422. The team will assess the source, explain the method, and give you a written scope before any equipment is turned on.
+If you're dealing with smoke, mold, sewage, or any persistent odor in an Irvington property, call (844) 808-8838. The team will assess the source, explain the method, and give you a written scope before any equipment is turned on.

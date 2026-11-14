@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Livingston, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Livingston"
-meta_description: "24/7 mold inspection and testing in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing livingston"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -38,10 +38,10 @@ As an IICRC Certified Firm (#210213), our inspection protocols follow the same s
 
 ## Reaching Livingston from Kenilworth
 
-Our team operates out of Kenilworth, which puts us roughly 20 minutes from most of Livingston via Route 24 west or the Garden State Parkway to I-78. Because we're available around the clock, a call at 2 a.m. after a basement flood near Riker Hill Art Park gets the same response as a weekday morning call from the Cedar Hill side of town. We carry inspection equipment on every vehicle, so there's no dispatch delay waiting for gear to be loaded. If your situation is urgent, active water intrusion, a real estate closing with a hard deadline, or a tenant complaint that needs documentation, call (855) 650-7422 and we'll schedule accordingly.
+Our team operates out of Kenilworth, which puts us roughly 20 minutes from most of Livingston via Route 24 west or the Garden State Parkway to I-78. Because we're available around the clock, a call at 2 a.m. after a basement flood near Riker Hill Art Park gets the same response as a weekday morning call from the Cedar Hill side of town. We carry inspection equipment on every vehicle, so there's no dispatch delay waiting for gear to be loaded. If your situation is urgent, active water intrusion, a real estate closing with a hard deadline, or a tenant complaint that needs documentation, call (844) 808-8838 and we'll schedule accordingly.
 
 ## Local Note: What Livingston's Split-Level Layout Means for Sampling
 
 Livingston's classic tri-level and split-level floor plans create a sampling challenge that flat-floor colonials don't have: the intermediate level, often a family room or laundry area sitting just above the garage or a partial basement, sits in a thermal zone that behaves differently from the floors above and below it. That intermediate space tends to run cooler in winter and collect condensation on exterior walls, and because it's not a full basement, homeowners often skip it during routine checks. In our experience working in Squiretown and similar established neighborhoods, that intermediate level is frequently where the first mold growth appears after a plumbing failure or a slow foundation seep, and it's one of the first places we look during an inspection in a Livingston split-level.
 
-If you've had any water event in the past two years, a sump pump failure during a storm, a supply line drip under a vanity, or even a roof leak that was repaired, schedule a mold assessment before assuming the problem resolved itself. Call The Restoration Group at (855) 650-7422 to arrange a mold inspection and testing visit for your Livingston property.
+If you've had any water event in the past two years, a sump pump failure during a storm, a supply line drip under a vanity, or even a roof leak that was repaired, schedule a mold assessment before assuming the problem resolved itself. Call The Restoration Group at (844) 808-8838 to arrange a mold inspection and testing visit for your Livingston property.

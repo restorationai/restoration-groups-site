@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Morristown, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Morristown"
-meta_description: "24/7 contents restoration & pack-out in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out morristown"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ Contents losses are frequently underestimated on initial insurance estimates bec
 
 Homes in Morristown's Historic District that predate World War I often contain horsehair plaster walls and original hardwood floors finished with oil-based varnish. Both materials off-gas slowly when wet, and that off-gassing can transfer odor to soft contents, upholstered furniture, rugs, clothing, stored in the same space even after the water source is gone. During pack-out from these older homes, contents are moved out before drying equipment runs, not after, specifically to prevent that secondary odor transfer. It is a sequencing detail that matters in Morristown's older housing stock in a way it simply does not in a 1990s subdivision.
 
-If your home or unit in Morristown has been affected by water, fire, or smoke damage, the contents inside deserve the same systematic attention as the walls and floors. Call The Restoration Group at (855) 650-7422, crews are available around the clock, and the inventory process starts at first contact.
+If your home or unit in Morristown has been affected by water, fire, or smoke damage, the contents inside deserve the same systematic attention as the walls and floors. Call The Restoration Group at (844) 808-8838, crews are available around the clock, and the inventory process starts at first contact.

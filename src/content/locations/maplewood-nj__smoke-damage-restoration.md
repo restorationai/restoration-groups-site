@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Maplewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Maplewood"
-meta_description: "24/7 emergency smoke damage restoration in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration maplewood"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -59,4 +59,4 @@ Smoke damage claims in older homes often generate scope disputes with carriers b
 
 One pattern we see repeatedly in Maplewood's pre-war housing stock: smoke odor that appears to clear after initial cleaning returns within two to four weeks, particularly in homes with original plaster over brick chimneys. The brick and mortar in older chimney chases absorbs combustion byproducts over decades, and a fire event, even a modest one, can reactivate those embedded odors as temperatures fluctuate with the seasons. If your home has an interior chimney stack running through multiple floors, that assembly needs to be part of any thorough smoke remediation scope, not just the rooms with visible soot.
 
-If your Maplewood home has smoke damage, whether from a kitchen fire, a chimney event, or a neighboring structure, call The Restoration Group at **(855) 650-7422**. We'll assess the full scope of migration, not just the visible damage, and get the restoration documented properly from day one.
+If your Maplewood home has smoke damage, whether from a kitchen fire, a chimney event, or a neighboring structure, call The Restoration Group at **(844) 808-8838**. We'll assess the full scope of migration, not just the visible damage, and get the restoration documented properly from day one.

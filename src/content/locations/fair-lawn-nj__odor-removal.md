@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Fair Lawn, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Fair Lawn"
-meta_description: "24/7 odor removal and deodorization in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization fair lawn"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -49,4 +49,4 @@ The Restoration Group operates out of Kenilworth, and Fair Lawn is one of our es
 
 One thing that surprises homeowners in the Radburn Historic District: thermal fogging in a plaster-wall home takes longer to clear than in a drywall house, not because the fog is less effective, but because plaster is genuinely more porous and holds the fog (and the odors it's neutralizing) in the wall mass longer. Crews working in the 07410 ZIP code on pre-WWII homes routinely extend the post-treatment airing period by an additional 4–6 hours compared to a standard drywall colonial. Skipping that step is the most common reason a homeowner calls back saying "it came back", the odor didn't return; it was never fully cleared from the plaster in the first place.
 
-If you're dealing with a persistent smell in a Fair Lawn home or commercial property, whether it's the aftermath of a flood, a fire, a sewer backup, or something that's simply been building for years, call (855) 650-7422. We'll identify the source, explain the method, and clear it properly the first time.
+If you're dealing with a persistent smell in a Fair Lawn home or commercial property, whether it's the aftermath of a flood, a fire, a sewer backup, or something that's simply been building for years, call (844) 808-8838. We'll identify the source, explain the method, and clear it properly the first time.

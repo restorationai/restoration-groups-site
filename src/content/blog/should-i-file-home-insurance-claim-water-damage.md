@@ -113,7 +113,7 @@ If you are in the first 24 to 48 hours after a water loss, here is the sequence:
 
 The restoration company's job is to document the loss accurately and dry the structure to the [IICRC S500 standard](https://www.iicrc.org) for water damage restoration. That documentation is useful whether you file or not. It is your record of what happened.
 
-The Restoration Group provides written scopes, moisture mapping, and full mitigation documentation for water losses across New Jersey and the New York metro area. If you need a damage assessment to make this decision, [contact us](/contact/) or call (855) 650-7422. We handle the documentation either way.
+The Restoration Group provides written scopes, moisture mapping, and full mitigation documentation for water losses across New Jersey and the New York metro area. If you need a damage assessment to make this decision, [contact us](/contact/) or call (844) 808-8838. We handle the documentation either way.
 
 ---
 

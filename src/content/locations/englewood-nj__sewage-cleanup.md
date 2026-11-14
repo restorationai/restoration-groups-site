@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Englewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Englewood"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization englewood"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Most homeowner policies cover sudden and accidental sewer backups if the propert
 
 Englewood's East Hill estates frequently have finished basements with original 1920s–1940s concrete block foundations rather than poured concrete. Concrete block is far more porous than modern poured walls, sewage moisture wicks laterally through the mortar joints and can saturate a 10-foot section of block in hours. Standard moisture meters read the surface; we use deep-wall probes and thermal imaging to find saturation hidden inside the block cavity. Missing that moisture is one of the most common reasons mold appears in a "dried" East Hill basement three weeks after cleanup. We don't close out a job until those readings clear.
 
-If you're dealing with a sewage backup anywhere in Englewood, ZIP 07631, call (855) 650-7422 now. We'll assess the contamination, contain it, and walk you through every step from extraction to final clearance so you're not left guessing what's safe.
+If you're dealing with a sewage backup anywhere in Englewood, ZIP 07631, call (844) 808-8838 now. We'll assess the contamination, contain it, and walk you through every step from extraction to final clearance so you're not left guessing what's safe.

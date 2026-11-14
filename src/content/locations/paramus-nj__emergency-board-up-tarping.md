@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Paramus, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Paramus"
-meta_description: "24/7 emergency board-up and tarping in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping paramus"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ Paramus's postwar split-levels and ranches were frequently built on slab foundat
 
 Most homeowners' policies cover emergency protective measures, board-up and tarping, as part of the covered loss, not as a separate out-of-pocket expense. The Restoration Group documents every closure with timestamped photos, written scope notes, and material quantities, which is exactly what adjusters from carriers active in Bergen County need to process the protective-measures line item without pushback. We can bill carriers directly in many cases, reducing the financial pressure during an already stressful event. If your property is in a flood zone near the Saddle River corridor and you're carrying separate NFIP flood coverage, we'll flag that for your adjuster, since the billing pathway differs from a standard homeowners claim.
 
-Call (855) 650-7422 any time, day or night, and a live dispatcher will route a board-up and tarping crew toward your Paramus address immediately. The longer a breach stays open, the more expensive the full restoration becomes.
+Call (844) 808-8838 any time, day or night, and a live dispatcher will route a board-up and tarping crew toward your Paramus address immediately. The longer a breach stays open, the more expensive the full restoration becomes.

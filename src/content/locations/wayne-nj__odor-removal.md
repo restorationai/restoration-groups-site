@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Wayne, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Wayne"
-meta_description: "24/7 odor removal and deodorization in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization wayne"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -52,4 +52,4 @@ Most homeowner policies cover odor remediation when it's tied to a covered loss,
 
 Wayne's lake community homes, particularly the split-levels around Packanack Lake, frequently have HVAC systems that were retrofitted into finished basements during the 1970s and 1980s, with ductwork running through spaces that have flooded more than once. Odor that seems to come from everywhere in the house is often being distributed by the air handler pulling from a contaminated plenum or return chase. Before treating individual rooms, the team checks whether the duct system itself is the source, a step that gets skipped when a contractor focuses only on visible surfaces and misses the reason the smell keeps coming back.
 
-If your Wayne home or commercial property is carrying an odor that hasn't responded to cleaning, call The Restoration Group at (855) 650-7422. Whether the source is a post-flood basement in Hoffman Grove, smoke residue in an older colonial, or a mystery smell that's stumped everyone else, the process starts with finding what's actually causing it, not covering it up.
+If your Wayne home or commercial property is carrying an odor that hasn't responded to cleaning, call The Restoration Group at (844) 808-8838. Whether the source is a post-flood basement in Hoffman Grove, smoke residue in an older colonial, or a mystery smell that's stumped everyone else, the process starts with finding what's actually causing it, not covering it up.

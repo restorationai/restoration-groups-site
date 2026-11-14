@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Fair Lawn, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Fair Lawn"
-meta_description: "24/7 emergency storm damage restoration in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration fair lawn"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ Storm damage claims in New Jersey typically fall under the windstorm or named-st
 
 One pattern we see repeatedly in the River Road and Saddle River Road corridors: homeowners who experienced basement flooding during Ida had sump pump discharge lines that terminated too close to the foundation. When storm volume overwhelms the pump, the discharged water re-enters through the same wall it just left. Before closing out any storm job in those low-lying areas, we verify discharge routing and, where needed, recommend extension as part of the scope, it is a small detail that prevents the next heavy rain from undoing the work.
 
-If storm damage has hit your home or property in Fair Lawn (ZIP 07410), whether it's a tree through the roof, a flooded basement off River Road, or wind-driven rain in a Warren Point colonial, call The Restoration Group at (855) 650-7422. Crews are available around the clock, and the assessment starts the moment we arrive.
+If storm damage has hit your home or property in Fair Lawn (ZIP 07410), whether it's a tree through the roof, a flooded basement off River Road, or wind-driven rain in a Warren Point colonial, call The Restoration Group at (844) 808-8838. Crews are available around the clock, and the assessment starts the moment we arrive.

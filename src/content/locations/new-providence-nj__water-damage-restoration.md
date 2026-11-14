@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Water Damage Restoration in New Providence, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in New Providence"
-meta_description: "24/7 emergency water damage restoration in New Providence, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in New Providence, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration new providence"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -38,4 +38,4 @@ Most water losses here come through homeowners insurance rather than flood polic
 
 A lot of New Providence basements were finished decades ago with paneling glued directly to the foundation wall rather than furred out on studs. That construction detail matters during drying: glued paneling traps moisture against the concrete with almost no airflow behind it, so it has to come down to dry the wall properly rather than being left in place with fans running. Homes with this older finish type generally need a more aggressive demo step than a basement finished in the last fifteen years with a proper stud wall and vapor barrier.
 
-If water is spreading through your New Providence home right now, don't wait on it to see if it dries on its own. Call The Restoration Group at (855) 650-7422 for water removal, extraction, and structural drying handled by a NJ-licensed, IICRC certified firm that knows how this town's basements and plumbing behave.
+If water is spreading through your New Providence home right now, don't wait on it to see if it dries on its own. Call The Restoration Group at (844) 808-8838 for water removal, extraction, and structural drying handled by a NJ-licensed, IICRC certified firm that knows how this town's basements and plumbing behave.

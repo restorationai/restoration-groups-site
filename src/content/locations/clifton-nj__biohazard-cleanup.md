@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Clifton, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Clifton"
-meta_description: "24/7 emergency biohazard cleanup in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup clifton"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -53,4 +53,4 @@ For Clifton landlords managing two-family or multi-unit properties, documentatio
 
 In Clifton's Botany Village and similar older multi-family buildings, original hardwood floors were often installed directly over board subfloor with minimal vapor separation, a construction method common before mid-century building practices changed. When biological material reaches those floors, it can travel between planks and saturate the board subfloor below without any visible sign at the surface. Crews that rely only on visual inspection can miss contamination that will cause odor and potential health concerns weeks later. Thermal imaging and moisture readings below the finished floor are part of how we verify that remediation is actually complete, not just visually clean.
 
-If you're managing a property in Clifton and need discreet, thorough biohazard cleanup handled by a certified team, call The Restoration Group at (855) 650-7422. We're available any hour, and we'll walk you through exactly what to expect before anyone sets foot on the property.
+If you're managing a property in Clifton and need discreet, thorough biohazard cleanup handled by a certified team, call The Restoration Group at (844) 808-8838. We're available any hour, and we'll walk you through exactly what to expect before anyone sets foot on the property.

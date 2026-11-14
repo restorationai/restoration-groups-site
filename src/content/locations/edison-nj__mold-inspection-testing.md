@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Edison, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Edison"
-meta_description: "24/7 mold inspection and testing in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing edison"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ The Restoration Group operates out of Kenilworth, which puts Edison roughly 20 t
 
 One pattern that comes up repeatedly in Edison's older neighborhoods is mold growth inside the hollow cores of concrete block foundation walls. Many of the capes and ranches built in the 1950s and 1960s used concrete masonry unit construction for their basement walls, and those hollow cavities can trap condensation and organic debris for years without any visible surface growth. Standard moisture meters read the surface, not the cavity. During inspections in these homes, thermal imaging during temperature differential conditions, early morning in summer, or after the heat kicks on in fall, is often the only way to detect the temperature anomaly that signals moisture inside the block. It's a detail that matters specifically in Edison's older housing stock and one that changes how we approach the inspection protocol.
 
-If you're seeing signs of moisture intrusion or unexplained air quality changes in your Edison home or commercial property, a documented inspection is the right first step. Call The Restoration Group at (855) 650-7422 to schedule mold inspection and testing, we'll give you a clear picture of what's present, where it is, and what it means for your property.
+If you're seeing signs of moisture intrusion or unexplained air quality changes in your Edison home or commercial property, a documented inspection is the right first step. Call The Restoration Group at (844) 808-8838 to schedule mold inspection and testing, we'll give you a clear picture of what's present, where it is, and what it means for your property.

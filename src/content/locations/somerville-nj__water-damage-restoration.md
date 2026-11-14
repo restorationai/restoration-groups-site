@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Somerville, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Somerville"
-meta_description: "24/7 emergency water damage restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration somerville"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ We document losses with photographs, moisture logs, and itemized scope reports f
 
 One pattern we see consistently in Somerville's pre-1940 two-families: the original plaster-and-lath walls absorb water more slowly than modern drywall, which can make a loss look less severe on day one than it actually is. By day three, moisture has wicked into the wood lath and the structural studs behind it, and drying times run significantly longer than they would in a comparable newer home. If you have an older home in the West End or along Mercer Street and you've had any water intrusion, even what looked like a minor leak, it's worth having the wall cavities checked before you assume it dried on its own.
 
-If you're dealing with water damage in Somerville right now, call (855) 650-7422. We'll walk you through what to do in the next hour and get a crew moving toward your address.
+If you're dealing with water damage in Somerville right now, call (844) 808-8838. We'll walk you through what to do in the next hour and get a crew moving toward your address.

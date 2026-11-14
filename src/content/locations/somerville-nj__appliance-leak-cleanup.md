@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Somerville, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Somerville"
-meta_description: "24/7 emergency appliance leak cleanup in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup somerville"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Appliance leak losses in Somerville typically fall under the sudden-and-accident
 
 Somerville's older two-family and Victorian homes, particularly those along Mercer Street and the West End, were frequently updated with finished basements in the 1970s and 1980s using drop ceilings and paneling over the original stone or block foundation walls. When an appliance leak on the first floor drains down, that paneling and drop-ceiling grid absorb and hide moisture for days. By the time a homeowner sees a stain, the cavity behind the paneling has often been wet long enough for secondary damage to begin. We remove and inspect that concealed layer as part of standard moisture mapping on these properties, not as an upsell, but because leaving it in place and drying around it produces a failed dry-out.
 
-If an appliance leak has left standing water, wet flooring, or a damp smell anywhere in your Somerville home or building, call The Restoration Group now at **(855) 650-7422**. We're available around the clock, and the sooner extraction begins, the narrower the damage footprint stays.
+If an appliance leak has left standing water, wet flooring, or a damp smell anywhere in your Somerville home or building, call The Restoration Group now at **(844) 808-8838**. We're available around the clock, and the sooner extraction begins, the narrower the damage footprint stays.

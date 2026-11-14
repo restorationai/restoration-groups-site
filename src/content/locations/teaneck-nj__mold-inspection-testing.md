@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Teaneck, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Teaneck"
-meta_description: "24/7 mold inspection and testing in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing teaneck"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -48,4 +48,4 @@ Mold inspection findings frequently intersect with homeowners' insurance claims,
 
 One pattern that comes up repeatedly in Teaneck's older Tudor and colonial homes: the original plaster-on-lath wall system absorbs and retains moisture very differently from modern drywall. After a water event, plaster can test dry at the surface within a few days while the wood lath behind it stays elevated in moisture content for weeks. Mold will establish on that lath long before the homeowner suspects anything is wrong. During inspections in homes built before 1950, which describes a large share of the housing stock in neighborhoods like West Teaneck and The Grange, we use moisture meters calibrated for dense substrates and probe behind baseboards and around window frames where lath is most exposed to exterior moisture migration. It's a step that gets skipped in a cursory inspection and one that makes a significant difference in whether the full scope of a mold problem is captured.
 
-If you're in Teaneck and you're not sure whether what you're seeing, or smelling, is a problem worth investigating, call (855) 650-7422. A mold inspection is the only way to get objective data, and objective data is the only thing that tells you whether you can repaint and move on or whether there's remediation work that needs to happen before this gets worse.
+If you're in Teaneck and you're not sure whether what you're seeing, or smelling, is a problem worth investigating, call (844) 808-8838. A mold inspection is the only way to get objective data, and objective data is the only thing that tells you whether you can repaint and move on or whether there's remediation work that needs to happen before this gets worse.

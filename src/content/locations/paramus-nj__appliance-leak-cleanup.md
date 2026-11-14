@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Paramus, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Paramus"
-meta_description: "24/7 emergency appliance leak cleanup in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup paramus"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ If you are in a condo or townhome, there are a number of attached-unit developme
 
 In Paramus's 1950s and 1960s slab-foundation ranches, vinyl composition tile, the classic 9-inch or 12-inch squares common under kitchen and laundry room flooring from that era, frequently contains asbestos-containing material. When an appliance leak saturates the adhesive beneath those tiles, removal triggers New Jersey's asbestos notification requirements rather than a standard demo permit. We identify suspect flooring materials during our initial assessment and, when necessary, coordinate with a licensed asbestos abatement contractor before proceeding with tear-out. Skipping that step doesn't just create a health concern, it can void the insurance claim if the carrier's adjuster finds non-compliant removal in the documentation.
 
-If your Paramus home has an appliance leak that's already spreading, call (855) 650-7422 now. We'll dispatch a crew, map the full extent of the moisture, and start drying before the damage reaches the next layer of your home's structure.
+If your Paramus home has an appliance leak that's already spreading, call (844) 808-8838 now. We'll dispatch a crew, map the full extent of the moisture, and start drying before the damage reaches the next layer of your home's structure.

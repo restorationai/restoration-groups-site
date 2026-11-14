@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Paramus, NJ | The Restoration Group"
 h1: "Mold Remediation in Paramus"
-meta_description: "24/7 mold remediation in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation paramus"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ The Restoration Group operates 24/7 out of Kenilworth, NJ. From our location, Pa
 
 One pattern we see repeatedly in Paramus's 1950s-era split-levels: the original builders often used rock wool (mineral wool) insulation in basement cavities rather than fiberglass. Rock wool is more moisture-resistant than fiberglass, but when it does become saturated, typically after a prolonged slab seep, it compresses and holds water against the wood framing behind it for weeks. Homeowners sometimes assume the insulation is fine because it doesn't look visibly moldy from the front face. We always pull back a test section in these older homes before declaring a cavity clear, because the mold growth is almost always on the back face against the framing, not the visible side.
 
-If you're dealing with a mold issue in Paramus, whether it's a finished basement off the Saddle River flood plain, a slow leak behind a kitchen wall in a 07653 colonial, or a commercial water loss near the Route 17 corridor, call The Restoration Group at (855) 650-7422. We'll assess the damage, explain the scope honestly, and get containment in place before the problem spreads further.
+If you're dealing with a mold issue in Paramus, whether it's a finished basement off the Saddle River flood plain, a slow leak behind a kitchen wall in a 07653 colonial, or a commercial water loss near the Route 17 corridor, call The Restoration Group at (844) 808-8838. We'll assess the damage, explain the scope honestly, and get containment in place before the problem spreads further.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Bayonne, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Bayonne"
-meta_description: "24/7 emergency storm damage restoration in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration bayonne"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -49,4 +49,4 @@ Storm claims in New Jersey move faster when the documentation is thorough from t
 
 One pattern we see repeatedly in Bayonne that catches homeowners off guard: the combined sewer infrastructure in many blocks means that a heavy storm event can push sewage-contaminated water back through basement floor drains at the same time roof damage is occurring above. That changes the remediation category, what looks like a straightforward rainwater intrusion may actually involve Category 3 contaminated water under IICRC classification, which requires different PPE protocols, antimicrobial treatment, and in some cases removal of porous materials that would otherwise be salvageable. If your basement flooded during a storm and there is any odor beyond damp concrete, mention it when you call, it affects how we stage the response.
 
-If your Bayonne property took a hit from wind, rain, or surge, call The Restoration Group at (855) 650-7422. We are licensed by the NJ Division of Consumer Affairs, certified as an IICRC Firm (#210213), and available any hour to assess the damage and start the work that keeps a storm loss from becoming a long-term structural problem.
+If your Bayonne property took a hit from wind, rain, or surge, call The Restoration Group at (844) 808-8838. We are licensed by the NJ Division of Consumer Affairs, certified as an IICRC Firm (#210213), and available any hour to assess the damage and start the work that keeps a storm loss from becoming a long-term structural problem.

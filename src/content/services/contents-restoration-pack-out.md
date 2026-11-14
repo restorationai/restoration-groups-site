@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Contents Restoration & Pack-Out in Kenilworth | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Kenilworth"
-meta_description: "24/7 contents restoration & pack-out in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out kenilworth"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -72,6 +72,6 @@ Winter pipe failures, common during hard freezes in Union and Essex counties, te
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and provides contents restoration and pack-out services throughout Union County and into surrounding Essex, Middlesex, and Morris counties. Individual service-area pages cover specific cities, if you're searching from a neighboring town, those pages link back here for the full process detail.
+The Restoration Group is based in Fair Lawn, NJ and provides contents restoration and pack-out services throughout Union County and into surrounding Essex, Middlesex, and Morris counties. Individual service-area pages cover specific cities, if you're searching from a neighboring town, those pages link back here for the full process detail.
 
-If your belongings are sitting in a damaged structure right now, the clock on secondary damage is already running. Call (855) 650-7422 to schedule a contents assessment and pack-out, available 24/7.
+If your belongings are sitting in a damaged structure right now, the clock on secondary damage is already running. Call (844) 808-8838 to schedule a contents assessment and pack-out, available 24/7.

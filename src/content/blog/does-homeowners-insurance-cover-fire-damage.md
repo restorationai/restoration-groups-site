@@ -76,4 +76,4 @@ Fire claims move fastest when the paperwork and the mitigation happen in paralle
 
 The Restoration Group is an IICRC Certified Firm (#210213) serving Kenilworth and the surrounding New Jersey, New York City metro and eastern Pennsylvania region since 2021. The company is a NJ Licensed Home Improvement Contractor registered with the NJ Division of Consumer Affairs, and answers calls 24/7. Their crews handle fire, smoke, water, storm and mold damage restoration, from emergency mitigation through full reconstruction.
 
-**Need help now?** [Call The Restoration Group at (855) 650-7422](tel:+18556507422).
+**Need help now?** [Call The Restoration Group at (844) 808-8838](tel:+18448088838).

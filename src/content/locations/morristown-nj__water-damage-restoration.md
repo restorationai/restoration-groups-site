@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Morristown, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Morristown"
-meta_description: "24/7 emergency water damage restoration in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration morristown"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -48,10 +48,10 @@ For multi-unit losses in Morristown's newer buildings, we coordinate directly wi
 
 Our crews stage out of Kenilworth and run Route 22 West to I-287 North to reach Morristown, a route that keeps us off the local surface streets during the worst of rush-hour congestion. For addresses near the Green or in the Speedwell neighborhood, we typically exit at the Morris Avenue interchange and come in from the south. For properties closer to Morristown Medical Center or the Cauldwell area, the Madison Avenue approach is usually faster.
 
-Because we operate 24/7, middle-of-the-night calls, which are exactly when pipe failures and storm flooding tend to announce themselves, don't require an on-call delay. A crew is dispatched as soon as you call (855) 650-7422.
+Because we operate 24/7, middle-of-the-night calls, which are exactly when pipe failures and storm flooding tend to announce themselves, don't require an on-call delay. A crew is dispatched as soon as you call (844) 808-8838.
 
 ## Local Note: What Morristown's Plaster Walls Mean for Drying Timelines
 
 In the Historic District and throughout the older blocks near the Green, plaster-over-lath construction is the norm rather than the exception. Plaster is denser than drywall and releases absorbed moisture more slowly, in our experience, drying times in these homes run noticeably longer than the industry baseline for comparable losses in newer construction. We account for this upfront when we set expectations with homeowners and when we communicate with insurance adjusters. A three-day drying estimate that might be accurate for a 1990s colonial on the edge of town can be optimistic for a 1905 Victorian two blocks from the Morristown Green. Adjusters who aren't familiar with the local housing stock sometimes push back on extended drying timelines; we provide the psychrometric data to support the claim.
 
-If you're dealing with water damage in Morristown, whether it's a burst galvanized pipe in a finished basement, storm water through a foundation, or a roof leak above a commercial space on Speedwell Avenue, call The Restoration Group at (855) 650-7422. We'll assess the damage, start extraction, and give you a clear picture of what drying and restoration will actually involve in your specific building.
+If you're dealing with water damage in Morristown, whether it's a burst galvanized pipe in a finished basement, storm water through a foundation, or a roof leak above a commercial space on Speedwell Avenue, call The Restoration Group at (844) 808-8838. We'll assess the damage, start extraction, and give you a clear picture of what drying and restoration will actually involve in your specific building.

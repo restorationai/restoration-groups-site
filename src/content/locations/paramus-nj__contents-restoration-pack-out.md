@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Paramus, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Paramus"
-meta_description: "24/7 contents restoration & pack-out in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Paramus, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out paramus"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ Paramus's split-level homes present a specific logistical consideration during p
 
 If your home in Spring Valley or West Paramus was built with a finished lower level that doubles as a family room or home office, it's worth knowing that the contents in that space are statistically among the most expensive to replace and the most frequently affected by both plumbing failures and groundwater intrusion. Getting them out quickly, and getting them properly cleaned rather than discarded, is almost always the right call.
 
-When water, fire, or smoke has reached your belongings in Paramus, call The Restoration Group at (855) 650-7422. We'll dispatch a crew, start the inventory, and make sure your contents are protected while the structure is restored, so you're not starting over from scratch.
+When water, fire, or smoke has reached your belongings in Paramus, call The Restoration Group at (844) 808-8838. We'll dispatch a crew, start the inventory, and make sure your contents are protected while the structure is restored, so you're not starting over from scratch.

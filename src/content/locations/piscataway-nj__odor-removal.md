@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Piscataway, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Piscataway"
-meta_description: "24/7 odor removal and deodorization in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization piscataway"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -56,4 +56,4 @@ Our Kenilworth headquarters puts Piscataway within a straightforward drive via R
 
 Piscataway's postwar split-levels and capes, especially those in the Stelton and Possumtown tracts, were built with original plaster-and-lath interior walls that behave very differently from modern drywall when exposed to smoke or mold odors. Plaster is denser and more alkaline, which means it initially resists surface absorption, but once odor molecules penetrate the finish coat and reach the brown coat or the wood lath behind it, they are extremely difficult to extract with surface treatments alone. On these properties, we extend the thermal fogging dwell time and follow up with encapsulant sealer on any exposed lath before closing out, a step we'd skip on a newer drywall construction. If you're in a pre-1970 home in Piscataway and a previous contractor told you the smell "should fade on its own," it probably won't without addressing what's inside the wall assembly.
 
-If you're dealing with a smoke, mold, sewage, or any other persistent odor problem at a Piscataway property, whether it's a single-family home near Johnson Park, a condo in Society Hill, or a commercial space on the Stelton corridor, call The Restoration Group at (855) 650-7422. We're available 24/7 and will assess the source, explain the right deodorization method for your specific situation, and get the work done so the space is genuinely livable again.
+If you're dealing with a smoke, mold, sewage, or any other persistent odor problem at a Piscataway property, whether it's a single-family home near Johnson Park, a condo in Society Hill, or a commercial space on the Stelton corridor, call The Restoration Group at (844) 808-8838. We're available 24/7 and will assess the source, explain the right deodorization method for your specific situation, and get the work done so the space is genuinely livable again.

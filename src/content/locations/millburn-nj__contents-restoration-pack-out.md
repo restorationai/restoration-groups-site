@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Millburn, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Millburn"
-meta_description: "24/7 contents restoration & pack-out in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out millburn"
 secondary_keywords: []
 search_intent: "local_specialty"

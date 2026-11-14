@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Rahway, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Rahway"
-meta_description: "24/7 emergency smoke damage restoration in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration rahway"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Our Kenilworth location puts Rahway within a short drive via Route 28 or the Gar
 
 One pattern we see repeatedly in Rahway's pre-war housing is smoke odor that seems to disappear after initial cleaning, then returns weeks later, especially in humid summer months when the Rahway River valley holds moisture in the air. What's happening is that the plaster substrate, which absorbed smoke compounds during the fire, slowly off-gasses as humidity causes the wall to expand and contract. Standard drywall jobs don't behave this way. For these homes, we apply an encapsulating primer-sealer to affected wall surfaces after cleaning, which locks residual compounds in place and prevents the seasonal rebound. It adds a step, but it's the difference between a job that holds and one that generates a callback in August.
 
-If your home or business in Rahway has been through a fire, whether a contained kitchen incident or something that involved the fire department, call The Restoration Group at (855) 650-7422. We will assess the full scope of smoke travel, walk you through what your insurance documentation needs to look like, and get a remediation plan in place before the residue has time to set permanently.
+If your home or business in Rahway has been through a fire, whether a contained kitchen incident or something that involved the fire department, call The Restoration Group at (844) 808-8838. We will assess the full scope of smoke travel, walk you through what your insurance documentation needs to look like, and get a remediation plan in place before the residue has time to set permanently.

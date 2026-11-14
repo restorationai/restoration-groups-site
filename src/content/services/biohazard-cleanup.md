@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Biohazard Cleanup in Kenilworth | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Kenilworth"
-meta_description: "24/7 emergency biohazard cleanup in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup kenilworth"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -70,8 +70,8 @@ Every loss is different, and The Restoration Group provides a written scope of w
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ, and provides biohazard cleanup throughout Union County and the surrounding region, including neighboring communities in Essex, Middlesex, and Morris counties. City-specific pages link back here for full service and process detail.
+The Restoration Group is based in Fair Lawn, NJ, and provides biohazard cleanup throughout Union County and the surrounding region, including neighboring communities in Essex, Middlesex, and Morris counties. City-specific pages link back here for full service and process detail.
 
 ---
 
-If you're dealing with a situation that requires biohazard remediation, the next step doesn't have to be complicated. Call **(855) 650-7422** any time, day or night, to begin discreet biohazard cleanup with a crew that handles the logistics, the documentation, and the disposal so you don't have to.
+If you're dealing with a situation that requires biohazard remediation, the next step doesn't have to be complicated. Call **(844) 808-8838** any time, day or night, to begin discreet biohazard cleanup with a crew that handles the logistics, the documentation, and the disposal so you don't have to.

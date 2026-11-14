@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Morristown, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Morristown"
-meta_description: "24/7 emergency fire damage restoration in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Morristown, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration morristown"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -58,4 +58,4 @@ For condo owners in Morristown's newer downtown buildings, the split between a u
 
 Morristown's older Victorians and colonials near the Historic District frequently have cast-iron radiator systems and original wood-framed interior walls with no vapor barrier. After a fire, smoke odor can persist for weeks in homes where the radiator system was running during or after the event, heat cycling through cast-iron pipes drives smoke compounds deeper into plaster and subfloor materials. We account for this by scheduling odor treatments around the heating cycle rather than treating once and closing out, which is a step that gets skipped on a standard residential fire job but makes a measurable difference in long-term odor outcomes in these older homes.
 
-If you've had a fire in Morristown, whether it's a contained kitchen incident or a loss that touched multiple rooms, call The Restoration Group at (855) 650-7422. We'll assess the damage honestly, work directly with your insurance carrier, and handle the full scope from emergency stabilization through finished reconstruction.
+If you've had a fire in Morristown, whether it's a contained kitchen incident or a loss that touched multiple rooms, call The Restoration Group at (844) 808-8838. We'll assess the damage honestly, work directly with your insurance carrier, and handle the full scope from emergency stabilization through finished reconstruction.

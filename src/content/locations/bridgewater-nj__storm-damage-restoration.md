@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Bridgewater, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Bridgewater"
-meta_description: "24/7 emergency storm damage restoration in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration bridgewater"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -36,7 +36,7 @@ Once the structure is stabilized, we conduct a full moisture assessment using th
 
 ## Reaching Bridgewater from Kenilworth
 
-Our crew dispatches from Kenilworth, which puts us on Route 22 West or the Garden State Parkway to I-287 South depending on traffic, a straightforward run into the heart of Bridgewater. Neighborhoods closer to the Chimney Rock area or the Martinsville section may add a few minutes via Route 202/206, but we're familiar with every corridor in the township. Because our lines are staffed around the clock, you can call (855) 650-7422 at 2 a.m. after a tree comes through your roof and reach a live dispatcher, not a voicemail box.
+Our crew dispatches from Kenilworth, which puts us on Route 22 West or the Garden State Parkway to I-287 South depending on traffic, a straightforward run into the heart of Bridgewater. Neighborhoods closer to the Chimney Rock area or the Martinsville section may add a few minutes via Route 202/206, but we're familiar with every corridor in the township. Because our lines are staffed around the clock, you can call (844) 808-8838 at 2 a.m. after a tree comes through your roof and reach a live dispatcher, not a voicemail box.
 
 ## Bridgewater Insurance Coordination After a Storm
 
@@ -46,4 +46,4 @@ Storm damage claims in New Jersey move faster when the documentation is thorough
 
 One pattern we see repeatedly in Bridgewater's Finderne neighborhood and the Bound Brook-adjacent flats: homes that flooded during Ida in 2021 and were dried out quickly sometimes have residual moisture trapped behind basement wall insulation that was never fully removed. If your home was in the Ida flood zone and you're now dealing with a new storm loss, tell us when you call, we'll bring additional moisture mapping equipment on the first visit, because what looks like a fresh loss can be sitting on top of a chronic moisture problem that's been feeding mold growth behind the drywall for two years.
 
-Storm damage doesn't follow business hours, and neither do we. If a severe weather event has left your Bridgewater home with a damaged roof, downed trees, or water in places it shouldn't be, call The Restoration Group at (855) 650-7422. We'll assess the damage, secure the structure, and walk you through every step from emergency stabilization to full reconstruction.
+Storm damage doesn't follow business hours, and neither do we. If a severe weather event has left your Bridgewater home with a damaged roof, downed trees, or water in places it shouldn't be, call The Restoration Group at (844) 808-8838. We'll assess the damage, secure the structure, and walk you through every step from emergency stabilization to full reconstruction.

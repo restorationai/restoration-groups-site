@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Fort Lee, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Fort Lee"
-meta_description: "24/7 emergency appliance leak cleanup in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup fort lee"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ For addresses deep in Coytesville or up on The Hill, we account for the narrow r
 
 In Fort Lee's high-rise buildings, the gap between a contained appliance leak and a multi-unit loss often comes down to whether the building has functional floor drain infrastructure in the laundry or mechanical rooms. Many towers built in the 1970s and 1980s have floor drains that have been painted over, clogged with sediment, or simply never connected to an active drain line, meaning a washing machine overflow has nowhere to go except under the flooring and into the unit below. When we arrive at a high-rise job, checking that drain condition is one of the first things a technician does, because it tells us immediately whether the water stayed horizontal or went vertical.
 
-If you're dealing with an appliance leak in Fort Lee, whether it's a dishwasher that flooded your kitchen overnight or a refrigerator line that's been dripping behind the wall for weeks, call The Restoration Group at (855) 650-7422. We'll assess the full scope, start drying the same day, and handle the documentation your insurance carrier or HOA needs to move the claim forward.
+If you're dealing with an appliance leak in Fort Lee, whether it's a dishwasher that flooded your kitchen overnight or a refrigerator line that's been dripping behind the wall for weeks, call The Restoration Group at (844) 808-8838. We'll assess the full scope, start drying the same day, and handle the documentation your insurance carrier or HOA needs to move the claim forward.

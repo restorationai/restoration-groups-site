@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Bridgewater, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Bridgewater"
-meta_description: "24/7 emergency board-up and tarping in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping bridgewater"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Bridgewater has a significant number of townhome and condo associations, particu
 
 In the Finderne and Bradley Gardens sections of Bridgewater, many of the original postwar ranches were built on concrete slab or shallow crawlspace foundations with aluminum-frame jalousie or single-pane casement windows that were never replaced. When those windows break, from storm debris, a vehicle impact, or fire pressure, standard pre-cut plywood panels don't fit the opening cleanly because the rough opening dimensions don't match modern window sizing. Our crews carry a full sheet inventory and cut on-site, which matters at 2 a.m. when a hardware store run isn't an option.
 
-Call The Restoration Group at (855) 650-7422 any time, day or night, and we'll dispatch a crew to your Bridgewater property, assess every breach point, and get protective materials in place before the next weather window arrives.
+Call The Restoration Group at (844) 808-8838 any time, day or night, and we'll dispatch a crew to your Bridgewater property, assess every breach point, and get protective materials in place before the next weather window arrives.

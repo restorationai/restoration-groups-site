@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Clifton, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Clifton"
-meta_description: "24/7 odor removal and deodorization in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization clifton"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -49,4 +49,4 @@ The Restoration Group's Kenilworth base puts Clifton roughly 20 to 25 minutes aw
 
 Clifton's 1940s and 1950s construction used horsehair plaster on wood lath in many capes and colonials, a wall system that behaves very differently from modern drywall when exposed to smoke or flood water. Plaster absorbs odor compounds deeply and releases them slowly over weeks, which means a room can smell clean two days after a fire and then return to a noticeable smoke odor as temperature and humidity fluctuate. We account for this by extending the deodorization dwell time in plaster-wall structures and scheduling a follow-up air quality check before closing out the job, a step we skip in newer drywall construction but consider standard practice in Clifton's older housing stock.
 
-If you are dealing with a persistent smell in a Clifton property, whether it followed a flood near Weasel Brook, a fire in a Botany Village rental, or a sewage backup in a finished basement, call (855) 650-7422. We will assess the source, explain the method, and get the process started.
+If you are dealing with a persistent smell in a Clifton property, whether it followed a flood near Weasel Brook, a fire in a Botany Village rental, or a sewage backup in a finished basement, call (844) 808-8838. We will assess the source, explain the method, and get the process started.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Rahway, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Rahway"
-meta_description: "24/7 emergency flood damage restoration in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration rahway"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -61,4 +61,4 @@ For multi-unit properties near the train station corridor, we're experienced wit
 
 One thing we've learned working in Rahway's pre-war housing stock: the finished basement walls in homes near downtown and in Hazelwood are often furred out over original concrete block with fiberglass batt insulation behind them, a combination that traps water invisibly. The drywall surface can feel dry to the touch within a day or two while the block and insulation behind it stay saturated for weeks. Thermal imaging during our initial inspection catches this consistently, and it's the reason we don't sign off on drying completion based on surface readings alone. Skipping that step is how a flood cleanup turns into a mold remediation job three months later.
 
-If your Rahway property has taken on water, whether it's a finished basement off the river corridor or a commercial space on Main Street, call The Restoration Group at (855) 650-7422. We'll assess the damage, start extraction, and walk you through the insurance process from the first hour on-site.
+If your Rahway property has taken on water, whether it's a finished basement off the river corridor or a commercial space on Main Street, call The Restoration Group at (844) 808-8838. We'll assess the damage, start extraction, and walk you through the insurance process from the first hour on-site.

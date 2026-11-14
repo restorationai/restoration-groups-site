@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Montclair, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Montclair"
-meta_description: "24/7 emergency water removal and cleanup in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal montclair"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Water damage claims in New Jersey have specific documentation requirements, and 
 
 In Montclair's plaster-wall homes, particularly the large Victorians and Tudors concentrated near Anderson Park and the Estate Section, finished basements often have dropped ceilings installed decades after original construction. When water enters from above, a failed supply line, a roof leak through an old slate roof, it pools on top of those ceiling tiles invisibly. By the time a homeowner notices a stain, the framing above the drop ceiling has been wet for hours or longer. We always inspect above the finished plane on these properties, not just the visible surface, because that's where the real saturation tends to be, and it's why our extraction and removal work doesn't stop at the visible waterline.
 
-If you're dealing with standing water, a sewage backup, or water damage from a storm or pipe failure anywhere in Montclair, call The Restoration Group at (855) 650-7422. We're available around the clock, and we'll tell you exactly what you're dealing with before any work begins.
+If you're dealing with standing water, a sewage backup, or water damage from a storm or pipe failure anywhere in Montclair, call The Restoration Group at (844) 808-8838. We're available around the clock, and we'll tell you exactly what you're dealing with before any work begins.

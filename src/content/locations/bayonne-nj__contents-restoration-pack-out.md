@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Bayonne, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Bayonne"
-meta_description: "24/7 contents restoration & pack-out in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out bayonne"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ Most homeowner and renter policies in New Jersey cover sudden and accidental wat
 
 In Bayonne's older brick rowhomes, particularly on the blocks running inland from the Newark Bay waterfront, basement walls are often uncoated brick or cinder block with no interior membrane. When those walls take on water during a surge or a heavy rain event, the moisture wicks laterally into stored contents sitting directly against the wall, cardboard boxes, fabric bins, wooden furniture legs. By the time the floor looks dry, items against the wall may already be supporting mold growth. During pack-out in these properties, we pull everything at least a foot from the perimeter before cataloging, because contact with a wicking masonry wall changes the condition assessment for almost every item it touched.
 
-If you're dealing with a loss in Bayonne, whether it's a flooded basement near Stephen R. Gregg Park or smoke damage in a Constable Hook two-family, call The Restoration Group at (855) 650-7422. We'll walk you through what can be saved, what needs treatment, and what your insurance should cover before anything leaves the property.
+If you're dealing with a loss in Bayonne, whether it's a flooded basement near Stephen R. Gregg Park or smoke damage in a Constable Hook two-family, call The Restoration Group at (844) 808-8838. We'll walk you through what can be saved, what needs treatment, and what your insurance should cover before anything leaves the property.

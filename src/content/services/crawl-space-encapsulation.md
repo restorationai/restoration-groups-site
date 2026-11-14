@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Crawl Space Encapsulation in Kenilworth | The Restoration Group"
 h1: "Crawl Space Encapsulation in Kenilworth"
-meta_description: "24/7 crawl space encapsulation in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 crawl space encapsulation in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "crawl space encapsulation kenilworth"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -56,4 +56,4 @@ New Jersey's humid summers are the main driver of crawl space moisture here, wit
 
 We handle crawl space encapsulation for homeowners in Kenilworth and throughout the surrounding Union County communities, including Cranford, Roselle Park, Springfield, and Union Township. Housing stock in this area ranges from early-20th-century foundations to newer construction, and the right approach depends on the age and condition of what's underneath the house.
 
-If your crawl space smells musty, feels damp to the touch, or has visible mold on joists or insulation, get a written scope before the problem spreads into your subfloor. Call (855) 650-7422 to schedule a crawl space assessment.
+If your crawl space smells musty, feels damp to the touch, or has visible mold on joists or insulation, get a written scope before the problem spreads into your subfloor. Call (844) 808-8838 to schedule a crawl space assessment.

@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Plainfield, NJ | The Restoration Group"
 h1: "Restoration Services in Plainfield"
-meta_description: "Serving Plainfield, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Plainfield, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services plainfield"
 secondary_keywords: ["plainfield restoration company", "damage restoration plainfield", "plainfield disaster restoration"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "NJ"
 primary: false
 rendered: true
 ---
-When a pipe lets go in a finished Plainfield basement or a storm backs Cedar Brook into a first-floor unit, the clock starts immediately. The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold assessment, fire and smoke cleanup, and full reconstruction, handling the documentation your insurance carrier needs so you can focus on getting your property back to normal. Call **(855) 650-7422** any time.
+When a pipe lets go in a finished Plainfield basement or a storm backs Cedar Brook into a first-floor unit, the clock starts immediately. The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold assessment, fire and smoke cleanup, and full reconstruction, handling the documentation your insurance carrier needs so you can focus on getting your property back to normal. Call **(844) 808-8838** any time.
 
 ## Restoration emergencies common in Plainfield
 
@@ -61,4 +61,4 @@ The ground here is Piedmont, with silty alluvium along the brook corridors and f
 
 Structural repair and rebuild permits come from Plainfield's construction office under the New Jersey Uniform Construction Code. Exterior work in the locally designated historic district can also draw preservation review, and FEMA-mapped properties near the brooks face substantial-improvement limits.
 
-If you're dealing with water, fire, mold, or any structural damage at a Plainfield property, call The Restoration Group at **(855) 650-7422**. We're available around the clock, we work directly with insurance carriers, and we know what Plainfield's housing stock demands from a restoration crew.
+If you're dealing with water, fire, mold, or any structural damage at a Plainfield property, call The Restoration Group at **(844) 808-8838**. We're available around the clock, we work directly with insurance carriers, and we know what Plainfield's housing stock demands from a restoration crew.

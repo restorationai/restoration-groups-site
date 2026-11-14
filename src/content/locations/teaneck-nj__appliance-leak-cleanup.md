@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Appliance Leak Cleanup in Teaneck, NJ | The Restoration Group"
 h1: "24/7 Emergency Appliance Leak Cleanup in Teaneck"
-meta_description: "24/7 emergency appliance leak cleanup in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency appliance leak cleanup in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "appliance leak cleanup teaneck"
 secondary_keywords: ["dishwasher leak cleanup", "washing machine flood", "refrigerator leak cleanup", "water heater leak cleanup", "ice maker line leak"]
 search_intent: "local_emergency"
@@ -57,4 +57,4 @@ We work directly with most major carriers and can communicate with your adjuster
 
 In Teaneck's older center-hall colonials, particularly those on the blocks between Cedar Lane and Teaneck Road, kitchen appliances are frequently stacked against exterior walls where the original plaster has been patched and re-patched over generations of minor repairs. When a dishwasher or refrigerator line leaks into one of these walls, the moisture doesn't travel uniformly: it pools behind patches, follows the original lath channels, and can emerge at a completely different location than the source. We've learned to trace moisture in these homes by reading the wall rather than assuming a straight-line path from the appliance, it saves time and prevents the kind of missed pockets that lead to mold callbacks weeks later.
 
-If you're dealing with an appliance leak in Teaneck right now, whether it's a washing machine flood in a finished basement or a slow refrigerator line leak you just discovered behind the fridge, call The Restoration Group at (855) 650-7422. We're available around the clock and can begin the assessment and drying process the same day.
+If you're dealing with an appliance leak in Teaneck right now, whether it's a washing machine flood in a finished basement or a slow refrigerator line leak you just discovered behind the fridge, call The Restoration Group at (844) 808-8838. We're available around the clock and can begin the assessment and drying process the same day.

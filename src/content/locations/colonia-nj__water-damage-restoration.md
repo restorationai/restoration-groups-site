@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Colonia, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Colonia"
-meta_description: "24/7 emergency water damage restoration in Colonia, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Colonia, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration colonia"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -42,4 +42,4 @@ Most of the water losses we see in Colonia fall under a homeowner's policy as su
 
 A detail that matters more in Colonia than in a lot of neighboring towns: sump pump discharge lines here often tie into a shared or township storm drainage system rather than daylighting freely onto the property. During a prolonged storm, that system can back up, which means a sump pump that's working perfectly can still fail to keep a basement dry because it has nowhere to push water. When we're called out for a flooded basement during heavy regional rain, we check the discharge line and nearby catch basin before assuming the pump itself is the point of failure, since replacing a working pump won't fix a backed-up line.
 
-If your Colonia basement, crawl space, or finished lower level has standing water right now, call The Restoration Group at (855) 650-7422. We're IICRC Certified Firm #210213, licensed as a Home Improvement Contractor with the NJ Division of Consumer Affairs, and we answer around the clock because water damage in this part of Woodbridge Township rarely waits for business hours.
+If your Colonia basement, crawl space, or finished lower level has standing water right now, call The Restoration Group at (844) 808-8838. We're IICRC Certified Firm #210213, licensed as a Home Improvement Contractor with the NJ Division of Consumer Affairs, and we answer around the clock because water damage in this part of Woodbridge Township rarely waits for business hours.

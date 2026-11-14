@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Union, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Union"
-meta_description: "24/7 emergency water removal and cleanup in Union, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Union, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal union"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Most residential water losses in Union, burst supply lines, appliance failures, 
 
 For flood losses tied to exterior water intrusion, the kind that affects low spots in Vauxhall during a hard storm, coverage depends on whether the homeowner carries a separate NFIP or private flood policy. We can help you identify what caused the loss and document it clearly, but the coverage question is one to take directly to your agent.
 
-If you're dealing with standing water in your Union home or business right now, call (855) 650-7422. We'll dispatch a crew, assess the loss honestly, and start moving water out of your structure, not next week, tonight.
+If you're dealing with standing water in your Union home or business right now, call (844) 808-8838. We'll dispatch a crew, assess the loss honestly, and start moving water out of your structure, not next week, tonight.

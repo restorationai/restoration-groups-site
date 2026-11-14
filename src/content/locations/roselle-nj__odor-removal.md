@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Roselle, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Roselle"
-meta_description: "24/7 odor removal and deodorization in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Roselle, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization roselle"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ The Restoration Group operates out of Kenilworth, which puts Roselle within a sh
 
 One pattern that comes up repeatedly in Roselle's postwar cape cods and colonials: the finished basements common in this housing stock were often retrofitted with drywall over the original concrete block walls without a proper vapor barrier. After a flood or sewer backup, odor appears to clear after surface drying, but it returns within a few weeks because the concrete block behind the drywall is still holding moisture and microbial byproducts. Pulling a small test section of the lower wall before closing out a job has saved more than a few Roselle homeowners from a repeat call.
 
-If you're dealing with a persistent smell in a home near Warinanco Park or anywhere in the 07203 area, call The Restoration Group at (855) 650-7422. The source of the odor matters as much as the treatment, and getting that diagnosis right the first time is what keeps it from coming back.
+If you're dealing with a persistent smell in a home near Warinanco Park or anywhere in the 07203 area, call The Restoration Group at (844) 808-8838. The source of the odor matters as much as the treatment, and getting that diagnosis right the first time is what keeps it from coming back.

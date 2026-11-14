@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Irvington, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Irvington"
-meta_description: "24/7 contents restoration & pack-out in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out irvington"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -52,4 +52,4 @@ Most major homeowners and renters insurance policies cover sudden and accidental
 
 In Irvington's prewar rowhouses, particularly the attached two- and three-families common between Grove Park and Upsala, interior walls are often original plaster over wood lath rather than drywall. When water migrates through these walls into an adjacent room, contents on the "dry" side of the wall can absorb ambient humidity for days without any visible surface moisture. A piece of upholstered furniture sitting against a plaster wall that reads dry at the surface may already have elevated moisture content in its frame and padding. During pack-out assessment, soft goods and upholstered items near plaster walls get moisture-checked before they're categorized as unaffected, because in this housing stock, proximity to a wet wall is itself a risk factor.
 
-If water, fire, or smoke has put your belongings at risk in Irvington, call The Restoration Group at (855) 650-7422. The pack-out process starts with protecting what matters most, and it starts the moment you call.
+If water, fire, or smoke has put your belongings at risk in Irvington, call The Restoration Group at (844) 808-8838. The pack-out process starts with protecting what matters most, and it starts the moment you call.

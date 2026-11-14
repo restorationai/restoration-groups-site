@@ -53,6 +53,6 @@ New Jersey's commercial building stock, particularly older office and mixed-use 
 
 ## Service area
 
-The Restoration Group is based in Kenilworth, NJ and handles commercial restoration throughout Union County, Essex County, and the surrounding region, including Springfield, Cranford, Westfield, Summit, Roselle, and neighboring communities. The city-specific pages linked from this section provide additional detail on local response and common loss types by area.
+The Restoration Group is based in Fair Lawn, NJ and handles commercial restoration throughout Union County, Essex County, and the surrounding region, including Springfield, Cranford, Westfield, Summit, Roselle, and neighboring communities. The city-specific pages linked from this section provide additional detail on local response and common loss types by area.
 
 If your building has sustained water, fire, or mold damage, call **(908) 970-8533** now to begin your commercial damage assessment, available 24/7. The sooner the scope is established, the shorter your path back to full operation.

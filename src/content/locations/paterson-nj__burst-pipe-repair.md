@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Burst Pipe Cleanup and Repair in Paterson, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Paterson"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair paterson"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ For landlords managing multi-family properties, common in Paterson's rental-heav
 
 In Paterson's older multi-family buildings, the main water shutoff is frequently located in a shared basement utility room, and in buildings where turnover is high or ownership has changed hands multiple times, no one living there may know where it is. Before a pipe ever bursts in your building, it's worth locating that shutoff, labeling it clearly, and making sure at least one tenant on each floor has the information. We've arrived at jobs in the Sandy Hill and Totowa Section neighborhoods where 20 minutes of water flow could have been stopped in two if anyone had known where to turn the valve. It's a five-minute task that can prevent tens of thousands of dollars in damage.
 
-If a pipe has already burst and you're reading this from your phone while water is still running, call **(855) 650-7422** now. The Restoration Group is available around the clock, and our team can walk you through emergency shutoff steps while we're already on the way to your Paterson address.
+If a pipe has already burst and you're reading this from your phone while water is still running, call **(844) 808-8838** now. The Restoration Group is available around the clock, and our team can walk you through emergency shutoff steps while we're already on the way to your Paterson address.

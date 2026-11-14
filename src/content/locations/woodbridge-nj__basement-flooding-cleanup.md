@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Woodbridge, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Woodbridge"
-meta_description: "24/7 emergency basement flooding cleanup in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup woodbridge"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -33,7 +33,7 @@ Geography compounds the problem. The Rahway River and Woodbridge River both carr
 
 ## Our Basement Flooding Cleanup Process in Woodbridge
 
-When you call (855) 650-7422, a crew can be dispatched around the clock, we operate 24/7, and we route from our Kenilworth location through the Garden State Parkway or Route 1 & 9 depending on traffic and the address in Woodbridge. The process on-site follows the IICRC S500 standard for water damage restoration, which means every decision is driven by moisture readings, not guesswork.
+When you call (844) 808-8838, a crew can be dispatched around the clock, we operate 24/7, and we route from our Kenilworth location through the Garden State Parkway or Route 1 & 9 depending on traffic and the address in Woodbridge. The process on-site follows the IICRC S500 standard for water damage restoration, which means every decision is driven by moisture readings, not guesswork.
 
 **Step 1, Water extraction.** Truck-mounted and portable extractors pull standing water from the basement floor, including water trapped beneath floating laminate or engineered wood panels. In homes with finished basements, we remove baseboards and probe wall cavities before assuming the visible surface is the full extent of the damage.
 
@@ -55,4 +55,4 @@ Most homeowners in ZIP code 07095 and surrounding Woodbridge communities carry s
 
 In Woodbridge's postwar split-levels and raised ranches, particularly in Colonia and Iselin, the basement slab is often only 3 to 4 inches thick and poured directly over compacted fill with no vapor barrier beneath it. After a flooding event, moisture migrates upward through the slab itself long after the standing water is gone, showing up as elevated readings on the concrete surface days later. If drying equipment is pulled too early because the floor "looks dry," that residual slab moisture feeds mold growth in wall cavities and under any flooring reinstalled too soon. We keep equipment running until concrete readings stabilize, typically 72 to 96 hours longer than a homeowner might expect.
 
-If your basement is holding water right now, or you are dealing with the aftermath of a recent storm or pipe failure anywhere in Woodbridge Township, call (855) 650-7422. We will assess the damage, explain what drying will realistically take, and start extraction the same day.
+If your basement is holding water right now, or you are dealing with the aftermath of a recent storm or pipe failure anywhere in Woodbridge Township, call (844) 808-8838. We will assess the damage, explain what drying will realistically take, and start extraction the same day.

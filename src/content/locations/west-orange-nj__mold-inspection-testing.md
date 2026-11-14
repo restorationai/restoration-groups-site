@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in West Orange, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in West Orange"
-meta_description: "24/7 mold inspection and testing in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing west orange"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -54,4 +54,4 @@ From the Kenilworth headquarters, the most direct route into West Orange runs no
 
 Here's something that comes up specifically in West Orange's older neighborhoods: homes in the Llewellyn Park area and adjacent streets were frequently built with interior brick chimneys that run through finished upper floors. When those chimneys develop flashing failures or mortar deterioration, water tracks down the masonry and wicks into the wood framing of the surrounding chase, often two or three floors below the actual entry point. Homeowners find mold in a second-floor bedroom closet and assume a plumbing leak; the real source is a chimney flashing issue on the roof. A thorough inspection traces moisture pathways upward, not just laterally, which changes both the remediation scope and the insurance narrative significantly.
 
-If you're seeing unexplained musty odors, discoloration on walls or ceilings, or you experienced any water intrusion during a recent storm, call (855) 650-7422 to schedule a mold inspection and testing assessment in West Orange. Clear answers, backed by lab data, let you act with confidence rather than guesswork.
+If you're seeing unexplained musty odors, discoloration on walls or ceilings, or you experienced any water intrusion during a recent storm, call (844) 808-8838 to schedule a mold inspection and testing assessment in West Orange. Clear answers, backed by lab data, let you act with confidence rather than guesswork.

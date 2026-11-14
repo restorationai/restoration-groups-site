@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in New Brunswick | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in New Brunswick"
-meta_description: "24/7 emergency sewage cleanup and sanitization in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in New Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization new brunswick"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ For landlords managing multifamily properties near Rutgers, losses that affect m
 
 In New Brunswick's converted rowhouses, particularly the dense blocks between the Fifth Ward and the Rutgers University campus, the original basement floors are often bare brick or rubble-stone rather than poured concrete. When sewage reaches those floors, the contamination penetrates the mortar joints and the soil beneath in ways that standard hard-surface extraction misses. We bring specialty injection equipment to treat those sub-slab voids, and we test moisture at multiple depths before closing out the job. It's a step that's easy to skip and expensive to fix later if you don't.
 
-If you're dealing with sewage backup in a New Brunswick home or rental property right now, call (855) 650-7422. We'll walk you through immediate containment steps while a crew is on the way.
+If you're dealing with sewage backup in a New Brunswick home or rental property right now, call (844) 808-8838. We'll walk you through immediate containment steps while a crew is on the way.

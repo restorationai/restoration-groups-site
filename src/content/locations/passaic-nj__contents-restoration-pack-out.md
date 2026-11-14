@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Passaic, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Passaic"
-meta_description: "24/7 contents restoration & pack-out in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out passaic"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ From our Kenilworth headquarters, the primary route to Passaic runs north on Rou
 
 In Passaic's older brick multi-families, especially those built before World War II, wood-framed interior walls are often covered with multiple layers of wallpaper rather than modern drywall. When smoke or water penetrates these walls, the paper layers trap odor and moisture in ways that aren't visible from the surface. Contents near these walls, particularly upholstered pieces pushed against them, absorb secondary contamination even after the primary source is addressed. Experienced pack-out crews flag these items for deeper deodorization treatment rather than standard cleaning, which prevents odor from returning weeks after a homeowner moves back in.
 
-If you're dealing with a loss in Passaic, whether it's a water event in a Fourth Ward rental or smoke damage in a building near St. Mary's General Hospital, call The Restoration Group at (855) 650-7422. We'll assess what can be saved, document what can't, and handle the entire contents process so you can focus on getting your home or property back to normal.
+If you're dealing with a loss in Passaic, whether it's a water event in a Fourth Ward rental or smoke damage in a building near St. Mary's General Hospital, call The Restoration Group at (844) 808-8838. We'll assess what can be saved, document what can't, and handle the entire contents process so you can focus on getting your home or property back to normal.

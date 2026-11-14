@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Parsippany, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Parsippany"
-meta_description: "24/7 emergency water removal and cleanup in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal parsippany"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Most standard homeowners policies cover sudden and accidental water discharge, a
 
 In the older lake-tract neighborhoods, Lake Hiawatha, Lake Parsippany, Rainbow Lakes, many finished basements were built with the slab poured directly against the original soil grade, with little or no exterior waterproofing membrane. When the water table rises after a sustained rain event, hydrostatic pressure can push moisture through the slab itself rather than through any obvious breach. That kind of seepage looks minor at the surface but keeps the slab and lower wall framing perpetually damp. Standard extraction equipment won't resolve it; the drying plan has to account for ongoing vapor drive from below, which changes both the equipment selection and the monitoring schedule. It's a pattern we see repeatedly in this part of Morris County, and it's worth knowing before you assume a basement dried out on its own.
 
-If water has reached your floors, walls, or framing anywhere in Parsippany-Troy Hills, call The Restoration Group at (855) 650-7422. We're available around the clock, and the sooner water removal begins, the more of the structure, and the contents, we can protect.
+If water has reached your floors, walls, or framing anywhere in Parsippany-Troy Hills, call The Restoration Group at (844) 808-8838. We're available around the clock, and the sooner water removal begins, the more of the structure, and the contents, we can protect.

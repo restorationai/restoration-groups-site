@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Clifton, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Clifton"
-meta_description: "24/7 emergency storm damage restoration in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration clifton"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Storm Damage Restoration"
 rendered: true
 ---
-When a fast-moving nor'easter or a remnant tropical system stalls over Passaic County, Clifton absorbs the hit in ways that neighboring towns don't. The Passaic River and Weasel Brook converge near the city's eastern and southern edges, and when either one overruns its banks, as both did during Irene in 2011 and Ida in 2021, low-lying streets in Lakeview and Delawanna flood before county emergency alerts even go out. If your home or building took on storm damage overnight, The Restoration Group is reachable around the clock at (855) 650-7422.
+When a fast-moving nor'easter or a remnant tropical system stalls over Passaic County, Clifton absorbs the hit in ways that neighboring towns don't. The Passaic River and Weasel Brook converge near the city's eastern and southern edges, and when either one overruns its banks, as both did during Irene in 2011 and Ida in 2021, low-lying streets in Lakeview and Delawanna flood before county emergency alerts even go out. If your home or building took on storm damage overnight, The Restoration Group is reachable around the clock at (844) 808-8838.
 
 ## Why Clifton Properties See Disproportionate Storm Damage
 
@@ -54,4 +54,4 @@ Storm damage claims in Clifton tend to involve a mix of wind, flood, and water-i
 
 One thing that catches out-of-area contractors in Clifton's Lakeview and Delawanna sections: the combination of clay-heavy soil and shallow water tables means that even after floodwaters recede from the street, hydrostatic pressure against basement walls can persist for days. We've seen freshly pumped basements re-flood from groundwater seeping through block mortar joints 36 hours after a storm, before any additional rain. If your basement took on water during a Passaic River event, don't assume it's dry because the pump ran dry, have the walls checked before you bring equipment or stored contents back in.
 
-Storm damage doesn't follow a schedule, and neither do we. If your property in Clifton took a hit, call (855) 650-7422 now, we'll assess the damage, stabilize the structure, and walk you through the insurance process from the first conversation.
+Storm damage doesn't follow a schedule, and neither do we. If your property in Clifton took a hit, call (844) 808-8838 now, we'll assess the damage, stabilize the structure, and walk you through the insurance process from the first conversation.

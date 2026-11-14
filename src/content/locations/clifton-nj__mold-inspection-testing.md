@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Clifton, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Clifton"
-meta_description: "24/7 mold inspection and testing in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing clifton"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ Operating out of Kenilworth, our team reaches most of Clifton via the Garden Sta
 
 Here's something that comes up repeatedly in Clifton post-flood inspections: homes that had water intrusion during Ida or Irene were sometimes dried and closed up quickly, but not always completely. Insulation inside basement rim joists and under first-floor subfloors can hold residual moisture for months after the visible water is gone, and that insulation is rarely inspected unless someone is specifically looking for it. In the Lakeview section especially, we've found active mold colonies in rim-joist cavities years after a flood event that the homeowner believed was fully remediated. If your home flooded during either storm and you haven't had a post-remediation air clearance test, that inspection is worth scheduling before the next rainy season.
 
-If you're in Clifton and you're not sure whether what you're smelling is a real problem or just an old house, call (855) 650-7422. We'll give you a straight answer based on lab results, not guesswork.
+If you're in Clifton and you're not sure whether what you're smelling is a real problem or just an old house, call (844) 808-8838. We'll give you a straight answer based on lab results, not guesswork.

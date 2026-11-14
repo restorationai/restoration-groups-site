@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Burst Pipe Cleanup and Repair in Garfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Garfield"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair garfield"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Sudden and accidental pipe bursts are generally covered under standard HO-3 home
 
 In Garfield's older two- and three-families, particularly in the Belmont and Plauderville neighborhoods, the original plumbing was often run through interior wall cavities that were later drywalled or plastered over during mid-century renovations. When a pipe in one of those concealed chases bursts, the water can travel vertically inside the wall for a full story before it finds an exit point, meaning the wet spot on the ceiling may be several feet away from where the actual break occurred. We probe those walls carefully before opening them, which saves unnecessary demolition and keeps repair costs down.
 
-If a pipe has let go in your Garfield property, call (855) 650-7422 now. The Restoration Group is on call around the clock, and getting extraction started in the first few hours is the single biggest factor in limiting structural damage and preventing mold from taking hold in those finished basements and shared walls.
+If a pipe has let go in your Garfield property, call (844) 808-8838 now. The Restoration Group is on call around the clock, and getting extraction started in the first few hours is the single biggest factor in limiting structural damage and preventing mold from taking hold in those finished basements and shared walls.

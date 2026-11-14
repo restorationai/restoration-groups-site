@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Wayne, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Wayne"
-meta_description: "24/7 emergency smoke damage restoration in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration wayne"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -55,4 +55,4 @@ Smoke damage claims in Wayne follow standard homeowners policy structures, but t
 
 In Wayne's lake-community homes, particularly the ranches and split-levels ringing Pines Lake and Lionshead Lake, finished basements are almost universal, and many were converted decades ago using wood-paneled walls and drop ceilings that were never designed to be smoke-exposed. When a fire or heavy smoke event occurs on the main floor, that finished lower level acts like a collection chamber: smoke drops as it cools, and the paneling and ceiling tiles absorb odor compounds that standard cleaning won't reach. On these properties, we routinely plan for partial material removal and replacement of the drop-ceiling grid and tiles as part of the smoke restoration scope, not because the materials are visibly charred, but because the odor load makes salvage impractical.
 
-If your Wayne home or business has been through a fire, whether a contained kitchen incident or a larger structural event, call The Restoration Group at (855) 650-7422. We'll assess the full extent of smoke migration, document everything your insurance carrier needs, and restore the property to a condition where the air quality matches what it was before the fire.
+If your Wayne home or business has been through a fire, whether a contained kitchen incident or a larger structural event, call The Restoration Group at (844) 808-8838. We'll assess the full extent of smoke migration, document everything your insurance carrier needs, and restore the property to a condition where the air quality matches what it was before the fire.

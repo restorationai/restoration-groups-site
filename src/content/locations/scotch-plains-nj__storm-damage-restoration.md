@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Scotch Plains, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Scotch Plains"
-meta_description: "24/7 emergency storm damage restoration in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration scotch plains"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -55,4 +55,4 @@ One thing worth knowing: if your storm loss involves a tree that fell from a nei
 
 Homes in the older sections of Downtown Scotch Plains and near the Frazee House corridor frequently have original plaster-and-lath wall construction rather than modern drywall. When a roof breach or window failure allows rain to penetrate these walls, the plaster absorbs and retains moisture differently than paper-faced gypsum board, it doesn't swell and crumble immediately, which can create a false sense that the wall dried out on its own. In practice, plaster walls often hold residual moisture for weeks, and that hidden dampness is exactly the condition that allows mold to colonize behind baseboards and inside stud bays. We adjust our drying protocols and monitoring intervals for plaster assemblies specifically, rather than applying a one-size drying standard.
 
-If your home in Scotch Plains has taken storm damage, a failed roof, flooded basement, or structural damage from a downed tree, call The Restoration Group at (855) 650-7422. We'll assess the damage, stop it from spreading, and walk you through every step of getting your home back to where it was.
+If your home in Scotch Plains has taken storm damage, a failed roof, flooded basement, or structural damage from a downed tree, call The Restoration Group at (844) 808-8838. We'll assess the damage, stop it from spreading, and walk you through every step of getting your home back to where it was.

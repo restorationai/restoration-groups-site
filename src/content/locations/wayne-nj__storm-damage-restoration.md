@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Wayne, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Wayne"
-meta_description: "24/7 emergency storm damage restoration in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Wayne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration wayne"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Most storm losses in Wayne are covered under standard homeowners policies as sud
 
 One pattern that catches Wayne homeowners off guard: the midcentury block-foundation basements common in the Pines Lake and Lionshead Lake communities often have interior drainage systems installed decades ago, channel drains, older sump crocks, sometimes a second pit that nobody remembers. After a major storm, water finds those old pathways first, which means the visible wet area on the floor is rarely the full picture. Before setting drying equipment, our crews probe the perimeter framing and check behind finished wall panels in those lower levels, because a missed wet stud bay in a 1962 ranch can grow mold in 72 hours whether or not the floor looks dry.
 
-If your Wayne home or business has taken storm damage, whether it's a tree through the roof near High Mountain Park Preserve or a flooded lower level in Hoffman Grove, call The Restoration Group at (855) 650-7422. We'll assess the damage, walk you through the process, and get stabilization started the same day.
+If your Wayne home or business has taken storm damage, whether it's a tree through the roof near High Mountain Park Preserve or a flooded lower level in Hoffman Grove, call The Restoration Group at (844) 808-8838. We'll assess the damage, walk you through the process, and get stabilization started the same day.

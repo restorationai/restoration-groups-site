@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Montclair, NJ | The Restoration Group"
 h1: "Restoration Services in Montclair"
-meta_description: "Serving Montclair, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Montclair, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services montclair"
 secondary_keywords: ["montclair restoration company", "damage restoration montclair", "montclair disaster restoration"]
 search_intent: "local_commercial"
@@ -57,4 +57,4 @@ Behind the finish, many of these houses are balloon-framed over wood lath with n
 
 Construction permits come from Montclair's building department under the New Jersey Uniform Construction Code. Structural repair, rewiring, and rebuilding a finished basement generally trigger one, and a designated historic property can also require preservation review.
 
-If you're dealing with a water, fire, or mold emergency anywhere in Montclair, call The Restoration Group at **(855) 650-7422**, we answer every hour of every day and can have a crew moving toward you while you're still on the phone.
+If you're dealing with a water, fire, or mold emergency anywhere in Montclair, call The Restoration Group at **(844) 808-8838**, we answer every hour of every day and can have a crew moving toward you while you're still on the phone.

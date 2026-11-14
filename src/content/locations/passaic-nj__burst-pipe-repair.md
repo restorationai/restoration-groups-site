@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Burst Pipe Cleanup and Repair in Passaic, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Passaic"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair passaic"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ Most homeowner and landlord policies cover sudden and accidental pipe bursts, th
 
 In Passaic's older multi-family buildings, particularly the two- and three-families densely packed between Pulaski Park and the Prospect Park border, balloon-frame wall cavities run uninterrupted from the basement sill plate to the roof rafters. When a pipe bursts inside one of those walls, water channels the full height of the building before it hits a horizontal fire block (if one exists at all). We've learned to probe these walls from the basement up, not just at the floor where the staining appears, because the actual saturation zone is almost always taller than it looks. Missing that upper moisture pocket is one of the most common reasons secondary mold problems develop weeks after a "completed" dry-out in this housing type.
 
-If a pipe has burst in your Passaic home or building, call The Restoration Group at (855) 650-7422. We're available around the clock, and the faster the water stops moving, the less of your structure ends up in a dumpster.
+If a pipe has burst in your Passaic home or building, call The Restoration Group at (844) 808-8838. We're available around the clock, and the faster the water stops moving, the less of your structure ends up in a dumpster.

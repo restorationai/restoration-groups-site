@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Hackensack, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Hackensack"
-meta_description: "24/7 mold inspection and testing in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Hackensack, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing hackensack"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -48,4 +48,4 @@ For multi-family properties in Hackensack, where a single water loss may involve
 
 In Hackensack's older two- and three-family homes, particularly those built in the 1920s and 1930s in neighborhoods like the Heights, original plaster walls are still common. Plaster doesn't absorb and release moisture the same way modern drywall does, it can hold water deep in the substrate for weeks after a leak is repaired, maintaining the humidity levels mold needs to grow long after the visible source is gone. When we inspect these homes, we use a combination of penetrating moisture meters and thermal imaging to assess whether plaster walls are still holding residual moisture, because a visual inspection alone will miss it. If you've had a past water event in a plaster-walled home and never had air quality testing done, it's worth knowing what's actually in the air.
 
-If you're in the 07601 or 07602 ZIP code and you've noticed a persistent musty odor, unexplained allergy symptoms, or visible discoloration on walls or ceilings, call The Restoration Group at (855) 650-7422. We're available around the clock, and a documented mold assessment is the only way to know for certain what you're dealing with, and what it will take to resolve it.
+If you're in the 07601 or 07602 ZIP code and you've noticed a persistent musty odor, unexplained allergy symptoms, or visible discoloration on walls or ceilings, call The Restoration Group at (844) 808-8838. We're available around the clock, and a documented mold assessment is the only way to know for certain what you're dealing with, and what it will take to resolve it.

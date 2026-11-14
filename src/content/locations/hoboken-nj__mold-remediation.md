@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Hoboken, NJ | The Restoration Group"
 h1: "Mold Remediation in Hoboken"
-meta_description: "24/7 mold remediation in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation hoboken"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -44,4 +44,4 @@ The Restoration Group's base in Kenilworth puts the team on the New Jersey Turnp
 
 One pattern that comes up repeatedly in Hoboken's older rowhouse blocks: a previous owner patched water-damaged drywall and repainted without remediating the underlying mold. The surface looks clean, but the colony is alive behind the new paint layer, and the first humid summer, or the next basement flood, reactivates it. If you're buying or renovating a pre-1980 brownstone anywhere from Midtown down toward the Hoboken Terminal end of town, it's worth having a moisture inspection done before work begins, not after the smell returns. Encapsulation over active growth is not remediation.
 
-If you're dealing with visible mold, a persistent musty odor, or water damage that wasn't fully dried after the last flood event, call The Restoration Group at (855) 650-7422. The team is IICRC Certified (Firm #210213) and licensed through the NJ Division of Consumer Affairs as a Home Improvement Contractor, and they're available any time, day or night, to assess and contain the problem before it spreads further.
+If you're dealing with visible mold, a persistent musty odor, or water damage that wasn't fully dried after the last flood event, call The Restoration Group at (844) 808-8838. The team is IICRC Certified (Firm #210213) and licensed through the NJ Division of Consumer Affairs as a Home Improvement Contractor, and they're available any time, day or night, to assess and contain the problem before it spreads further.

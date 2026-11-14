@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Summit, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Summit"
-meta_description: "24/7 contents restoration & pack-out in Summit, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Summit, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out summit"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -50,4 +50,4 @@ For items that cannot be restored to pre-loss condition, replacement cost docume
 
 Something specific to Summit's older homes: the deep basements common in the Franklin School and Brayton School neighborhoods are often finished with original hardwood floors laid directly over a concrete subfloor with minimal vapor barrier, a construction method that predates modern moisture standards. When water intrudes, the hardwood acts as a wick, pulling moisture laterally across the room even as the standing water is extracted. Contents sitting on that floor, rugs, upholstered furniture bases, stored items in fabric bins, can be wetter than they appear and need to be assessed with that substrate behavior in mind, not just surface-checked and cleared.
 
-If your Summit home has been affected by water, smoke, or sewage backup and you are concerned about what happens to your furnishings and belongings during mitigation, call The Restoration Group at (855) 650-7422. The contents process starts with a thorough on-site assessment, nothing gets packed out until you understand exactly what is being moved, where it is going, and what the restoration plan looks like.
+If your Summit home has been affected by water, smoke, or sewage backup and you are concerned about what happens to your furnishings and belongings during mitigation, call The Restoration Group at (844) 808-8838. The contents process starts with a thorough on-site assessment, nothing gets packed out until you understand exactly what is being moved, where it is going, and what the restoration plan looks like.

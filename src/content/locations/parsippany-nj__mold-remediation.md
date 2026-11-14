@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Parsippany, NJ | The Restoration Group"
 h1: "Mold Remediation in Parsippany"
-meta_description: "24/7 mold remediation in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Parsippany, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation parsippany"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ The Restoration Group is headquartered in Kenilworth, and Parsippany is reachabl
 
 In the older lake-tract neighborhoods, particularly around Lake Hiawatha and Lake Parsippany, many finished basements were drywalled directly against the foundation wall with no air gap and no vapor barrier, a common practice in New Jersey construction from the 1960s through the 1980s. When moisture migrates through the block foundation (which it does in any wet season), that drywall acts like a sponge pressed against a wet stone. By the time visible mold appears on the painted surface, the paper backing and the stud cavity behind it are often far more heavily colonized. Homeowners in these neighborhoods should treat any musty odor in the basement as a reason to investigate behind the wall, not just wipe down the surface.
 
-If you're dealing with a mold problem in Parsippany, whether it's a finished basement in Lake Hiawatha, a crawlspace in Mount Tabor, or a commercial space off the Waterview corridor, call The Restoration Group at (855) 650-7422. Certified crews are available around the clock, and we handle documentation for insurance claims from the first inspection through final clearance.
+If you're dealing with a mold problem in Parsippany, whether it's a finished basement in Lake Hiawatha, a crawlspace in Mount Tabor, or a commercial space off the Waterview corridor, call The Restoration Group at (844) 808-8838. Certified crews are available around the clock, and we handle documentation for insurance claims from the first inspection through final clearance.

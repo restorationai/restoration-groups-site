@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Livingston, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Livingston"
-meta_description: "24/7 emergency smoke damage restoration in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration livingston"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -60,4 +60,4 @@ Most smoke damage claims in Livingston are filed under the fire peril of a stand
 
 One pattern that comes up repeatedly in Livingston's older split-levels: the return-air duct often runs through an unfinished utility space shared with the water heater and furnace. When a fire starts in that mechanical area, a common ignition point, soot gets pulled directly into the return before the system shuts down. By the time the homeowner notices the smell in the upstairs bedrooms, the ductwork has already distributed fine particulate through the entire house. Crews working in Livingston's 1960s-era homes check that utility chase first, because missing it means the odor comes back within weeks even after a thorough surface cleaning.
 
-If your home or business in Livingston has smoke damage from a fire, a suppression system discharge, or a neighboring structure fire, call The Restoration Group at (855) 650-7422. The crew is available 24/7, and the sooner soot is addressed, the more of the structure and contents can be saved.
+If your home or business in Livingston has smoke damage from a fire, a suppression system discharge, or a neighboring structure fire, call The Restoration Group at (844) 808-8838. The crew is available 24/7, and the sooner soot is addressed, the more of the structure and contents can be saved.

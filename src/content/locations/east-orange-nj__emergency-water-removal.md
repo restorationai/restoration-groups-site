@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in East Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in East Orange"
-meta_description: "24/7 emergency water removal and cleanup in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in East Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal east orange"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Most water losses in East Orange's apartment stock involve at least two parties:
 
 In East Orange's pre-war brick apartment buildings, the space between the interior plaster and the exterior brick wythe is often an uninsulated air cavity, and water that enters through a failing parapet or roof edge can travel down that cavity for two or three floors before it ever shows up as a stain on a ceiling. By the time a tenant in the second-floor unit of an Ampere three-flat notices a wet spot, the source may be a deteriorated coping joint on the roof. We probe cavity moisture from the interior using penetrating meters and, when necessary, thermal imaging, because chasing the visible damage without finding the entry point means the problem comes back with the next rain.
 
-If you are dealing with standing water, a soaked ceiling, or a basement backup anywhere in East Orange, ZIP codes 07017, 07018, or 07019, call (855) 650-7422. We answer around the clock and can begin assessment the same day.
+If you are dealing with standing water, a soaked ceiling, or a basement backup anywhere in East Orange, ZIP codes 07017, 07018, or 07019, call (844) 808-8838. We answer around the clock and can begin assessment the same day.

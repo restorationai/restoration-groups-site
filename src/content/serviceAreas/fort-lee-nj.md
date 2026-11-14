@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Fort Lee, NJ | The Restoration Group"
 h1: "Restoration Services in Fort Lee"
-meta_description: "Serving Fort Lee, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Fort Lee, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services fort lee"
 secondary_keywords: ["fort lee restoration company", "damage restoration fort lee", "fort lee disaster restoration"]
 search_intent: "local_commercial"
@@ -63,4 +63,4 @@ The Palisades are diabase bedrock under thin soil, so basements are often cut in
 
 Structural repair and rebuild permits come from the Fort Lee construction office under the New Jersey Uniform Construction Code, with separate plumbing, electrical, and fire subcodes. Condo and co-op boards usually require approval on top of that.
 
-If you're dealing with water, fire, mold, or storm damage anywhere in Fort Lee, call The Restoration Group at **(855) 650-7422**. We answer around the clock, and we bring the documentation, equipment, and coordination that Fort Lee's dense, high-stakes property landscape demands.
+If you're dealing with water, fire, mold, or storm damage anywhere in Fort Lee, call The Restoration Group at **(844) 808-8838**. We answer around the clock, and we bring the documentation, equipment, and coordination that Fort Lee's dense, high-stakes property landscape demands.

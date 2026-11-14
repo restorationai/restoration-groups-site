@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in North Bergen, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in North Bergen"
-meta_description: "24/7 emergency board-up and tarping in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping north bergen"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Board-up and tarping is almost always a covered emergency service under homeowne
 
 One thing that catches crews off guard on North Bergen's hillside lots: the rear additions common on two- and three-family homes here were often built without permits in the mid-20th century, and their roofs don't always align with the original structure's ridge line. When a rear addition roof is damaged, the tarp run has to account for the step in elevation between the original roof deck and the addition, a flat lap won't seal the valley between them. The team carries additional tarp material and ridge battens specifically for this condition, which shows up on a significant share of hillside jobs in this town.
 
-If a storm, fire, or structural failure has left a property in North Bergen exposed tonight, call (855) 650-7422. The Restoration Group's certified crew, IICRC Certified Firm #210213, licensed by the NJ Division of Consumer Affairs, responds around the clock to secure the structure, document the loss, and hand off a clean scope to your insurance carrier.
+If a storm, fire, or structural failure has left a property in North Bergen exposed tonight, call (844) 808-8838. The Restoration Group's certified crew, IICRC Certified Firm #210213, licensed by the NJ Division of Consumer Affairs, responds around the clock to secure the structure, document the loss, and hand off a clean scope to your insurance carrier.

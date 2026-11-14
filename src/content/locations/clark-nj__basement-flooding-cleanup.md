@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Clark, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Clark"
-meta_description: "24/7 emergency basement flooding cleanup in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup clark"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ If your policy includes sewer backup endorsement, which is a separate rider many
 
 One thing we've learned working Clark's postwar split-levels: the half-level below the main floor is often framed with a concrete block perimeter wall rather than poured concrete, and block walls wick moisture laterally through their cores long after standing water is gone. Moisture meters at the surface of a block wall can read dry while the interior cells are still saturated. We probe multiple points and extend drying time accordingly, skipping that step is how mold gets a foothold inside a wall that looked fine on the day the job closed.
 
-If your Clark basement has taken on water, whether it's a sump failure off Brant Lake Drive, a drain backup near the Westfield Avenue corridor, or a supply line break anywhere in town, call The Restoration Group at (855) 650-7422. We'll assess the damage, explain exactly what needs to happen, and get the drying equipment running the same day.
+If your Clark basement has taken on water, whether it's a sump failure off Brant Lake Drive, a drain backup near the Westfield Avenue corridor, or a supply line break anywhere in town, call The Restoration Group at (844) 808-8838. We'll assess the damage, explain exactly what needs to happen, and get the drying equipment running the same day.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Millburn, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Millburn"
-meta_description: "24/7 emergency smoke damage restoration in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration millburn"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -56,4 +56,4 @@ Most homeowner policies in New Jersey cover sudden and accidental fire and smoke
 
 One thing that catches homeowners off guard in Millburn's older Tudors and colonials: the original plaster walls often contain a finish coat of lime putty that reacts with acidic soot residue differently than gypsum drywall does. Soot left on lime plaster for more than a few days begins to etch the surface in a way that's visible even after cleaning, a faint ghosting effect that requires skim-coating to fully resolve. It's a detail that matters most in the high-ceiling formal rooms common in Old Short Hills and Wyoming estates, where that ghosting is highly visible. Catching it early, before the acids have time to work, is the difference between a cleaning job and a replastering job.
 
-If your home or business in Millburn has sustained smoke damage, whether from a contained kitchen fire, a basement electrical event, or a larger structural loss, call The Restoration Group at (855) 650-7422. We'll assess the damage, walk you through the restoration scope, and get the process started before soot and odor have time to become permanent.
+If your home or business in Millburn has sustained smoke damage, whether from a contained kitchen fire, a basement electrical event, or a larger structural loss, call The Restoration Group at (844) 808-8838. We'll assess the damage, walk you through the restoration scope, and get the process started before soot and odor have time to become permanent.

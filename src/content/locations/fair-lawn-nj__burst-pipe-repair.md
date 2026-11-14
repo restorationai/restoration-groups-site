@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Fair Lawn, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Fair Lawn"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Fair Lawn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair fair lawn"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ If your Fair Lawn property is in a condo association along the Fair Lawn Avenue 
 
 In Fair Lawn's Radburn-era homes, original plaster walls absorb and hold water differently than the drywall in postwar additions. Extraction is often faster because plaster doesn't swell and trap water the way paper-faced drywall does, but full structural drying consistently takes longer because dense plaster releases moisture slowly and unevenly. We set drying targets based on the actual wall assembly, not a one-size schedule, and we don't pull permits to close until readings confirm the framing behind the plaster has reached equilibrium. Rushing that step is how hidden mold colonies start in walls that looked dry on the surface.
 
-If your home in Fair Lawn has been affected by a burst pipe or water line break, call (855) 650-7422 now. We respond across the borough, from the Radburn Historic District to the River Road corridor, with a crew and equipment ready to stop the damage, dry the structure, and handle the repair from one call.
+If your home in Fair Lawn has been affected by a burst pipe or water line break, call (844) 808-8838 now. We respond across the borough, from the Radburn Historic District to the River Road corridor, with a crew and equipment ready to stop the damage, dry the structure, and handle the repair from one call.

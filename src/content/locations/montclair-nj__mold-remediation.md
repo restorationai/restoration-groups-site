@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Montclair, NJ | The Restoration Group"
 h1: "Mold Remediation in Montclair"
-meta_description: "24/7 mold remediation in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation montclair"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -50,4 +50,4 @@ For addresses in Upper Montclair (07043), we typically route north on the Parkwa
 
 One thing our crews have learned working in Montclair's older housing stock: plaster walls mask mold migration in ways that modern drywall does not. A standard moisture reading on the surface of a plaster wall can look acceptable even when the wood lath behind it is actively colonized. We probe deeper, into the lath cavity and against the masonry or framing behind, before concluding a wall is clean. Skipping that step is how a remediation job gets called back three months later. In homes near Anderson Park and throughout the Estate Section, where original plaster is often intact and owners want to preserve it, this careful approach also helps us avoid unnecessary demolition.
 
-If you are seeing discoloration, smelling mustiness, or dealing with the aftermath of a basement flood or roof leak anywhere in Montclair, call (855) 650-7422. We will assess the situation, walk you through what we find, and get a remediation plan in place before the problem spreads further into your walls.
+If you are seeing discoloration, smelling mustiness, or dealing with the aftermath of a basement flood or roof leak anywhere in Montclair, call (844) 808-8838. We will assess the situation, walk you through what we find, and get a remediation plan in place before the problem spreads further into your walls.

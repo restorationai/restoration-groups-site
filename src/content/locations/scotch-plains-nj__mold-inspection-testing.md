@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Scotch Plains, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Scotch Plains"
-meta_description: "24/7 mold inspection and testing in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing scotch plains"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -38,10 +38,10 @@ The Restoration Group is an IICRC Certified Firm (#210213), and all inspections 
 
 ## Reaching Scotch Plains from Our Kenilworth HQ
 
-Kenilworth sits just a few miles northeast of Scotch Plains, which means our team is not driving in from a distant regional office. We reach most Scotch Plains addresses quickly via Route 28 or Central Avenue, and because we operate 24/7, scheduling isn't limited to business hours. If you're dealing with an active leak or a post-flood situation where time matters, call (855) 650-7422 and we can get an inspection on the calendar the same day.
+Kenilworth sits just a few miles northeast of Scotch Plains, which means our team is not driving in from a distant regional office. We reach most Scotch Plains addresses quickly via Route 28 or Central Avenue, and because we operate 24/7, scheduling isn't limited to business hours. If you're dealing with an active leak or a post-flood situation where time matters, call (844) 808-8838 and we can get an inspection on the calendar the same day.
 
 ## Local Note: What Ida Revealed About Basement Moisture in Scotch Plains
 
 Here's something we observed repeatedly after the 2021 flooding: many Scotch Plains homeowners whose basements flooded during Ida had the water pumped out and the floors dried, but never had the wall cavities or framing behind finished drywall tested. Finished basement walls in split-levels trap moisture inside the assembly, and if the insulation or wood framing behind the drywall stayed wet, mold can be well-established inside the wall long before it's visible on the surface or detectable by smell. If your home is in one of the lower-lying areas near the Fanwood border or along the Cedar Brook drainage corridor and you haven't had an inspection since that storm, the interior of your wall cavities may tell a different story than what you can see from the room.
 
-If you've had any water intrusion, whether from Ida, a burst pipe, or a slow drain leak, and you want a clear picture of what's happening inside your walls and in your air, call The Restoration Group at (855) 650-7422. We serve Scotch Plains and the surrounding Union County communities and can schedule a mold inspection and indoor air quality assessment at your convenience.
+If you've had any water intrusion, whether from Ida, a burst pipe, or a slow drain leak, and you want a clear picture of what's happening inside your walls and in your air, call The Restoration Group at (844) 808-8838. We serve Scotch Plains and the surrounding Union County communities and can schedule a mold inspection and indoor air quality assessment at your convenience.

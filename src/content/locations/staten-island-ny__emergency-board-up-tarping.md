@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Staten Island, NY | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Staten Island"
-meta_description: "24/7 emergency board-up and tarping in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping staten island"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Our Kenilworth, NJ headquarters puts crews within reach of Staten Island via the
 
 One thing that catches crews off guard on East Shore properties, particularly the post-Sandy rebuilds and elevated homes in South Beach and Oakwood Beach, is the roof geometry. Many of these homes were reconstructed after 2012 with steeper pitches specifically to reduce flood-profile, which means the roof plane is more aggressive than a standard Cape Cod. On a 10/12 or 12/12 pitch, standard tarp-over-ridge methods require longer runs of ballast lumber and additional tie-off points at the eaves to prevent wind uplift. We carry extended ballast stock on every island dispatch for exactly this reason, it's not something you improvise safely on a wet roof at 2 a.m.
 
-If your property has sustained damage and needs immediate protection, call The Restoration Group at (855) 650-7422. We're available around the clock, and our crews know Staten Island's streets, housing stock, and permit protocols well enough to move quickly without surprises.
+If your property has sustained damage and needs immediate protection, call The Restoration Group at (844) 808-8838. We're available around the clock, and our crews know Staten Island's streets, housing stock, and permit protocols well enough to move quickly without surprises.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Perth Amboy, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Perth Amboy"
-meta_description: "24/7 emergency basement flooding cleanup in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Perth Amboy, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup perth amboy"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Basement Flooding Cleanup"
 rendered: true
 ---
-When the Raritan Bay pushes inland during a nor'easter or a summer cloudburst overwhelms Perth Amboy's aging storm drains, basements in the city's dense blocks of late-1800s and early-1900s frame two- and three-families can go from dry to ankle-deep in under an hour. That combination of coastal exposure, old foundation walls, and cast-iron drain lines that were never designed for today's rainfall intensity makes flooded basement cleanup here a different job than it is in newer inland suburbs. The Restoration Group responds 24/7 from Kenilworth, call (855) 650-7422 the moment water appears.
+When the Raritan Bay pushes inland during a nor'easter or a summer cloudburst overwhelms Perth Amboy's aging storm drains, basements in the city's dense blocks of late-1800s and early-1900s frame two- and three-families can go from dry to ankle-deep in under an hour. That combination of coastal exposure, old foundation walls, and cast-iron drain lines that were never designed for today's rainfall intensity makes flooded basement cleanup here a different job than it is in newer inland suburbs. The Restoration Group responds 24/7 from Kenilworth, call (844) 808-8838 the moment water appears.
 
 ## Why Perth Amboy Properties See Basement Flooding So Often
 
@@ -42,7 +42,7 @@ When we arrive, the first priority is stopping ongoing water entry if the source
 
 ## Reaching Perth Amboy from Kenilworth
 
-Our Kenilworth headquarters puts Perth Amboy within straightforward reach via the Garden State Parkway south to Exit 127 or via Route 1/9 through Woodbridge. We're available around the clock, so whether the call comes in during a 2 a.m. storm surge near the Raritan Bay Waterfront or mid-morning after a pipe failure in a Chase Avenue multifamily, we dispatch immediately. We'll confirm an estimated arrival window when you call, (855) 650-7422.
+Our Kenilworth headquarters puts Perth Amboy within straightforward reach via the Garden State Parkway south to Exit 127 or via Route 1/9 through Woodbridge. We're available around the clock, so whether the call comes in during a 2 a.m. storm surge near the Raritan Bay Waterfront or mid-morning after a pipe failure in a Chase Avenue multifamily, we dispatch immediately. We'll confirm an estimated arrival window when you call, (844) 808-8838.
 
 ## Insurance Coordination for Perth Amboy Flood Losses
 
@@ -54,4 +54,4 @@ We work with both. Our moisture logs, photo documentation, and scope of work rep
 
 In Perth Amboy's older multifamily stock, particularly the brick three-families that line streets near Downtown and the blocks approaching the Perth Amboy Ferry Slip, basement walls are frequently constructed of unreinforced concrete block with no interior drainage membrane. When these walls are saturated, they don't dry from the inside face the way a wood-framed wall does. Drying times run longer than standard moisture calculators predict, and it's common to reach acceptable surface readings while the block cores are still holding moisture. We account for this by extending monitoring cycles and positioning dehumidifiers to draw from the wall cavity, not just the air, a step that matters for preventing mold colonization in the weeks after the visible water is gone.
 
-If your basement has flooded in Perth Amboy, whether it's a storm-driven event near the waterfront, a pipe failure in a Dunham Heights two-family, or a drain backup in a ZIP code 08861 rowhouse, call The Restoration Group at (855) 650-7422. We'll walk you through what to do right now and get a crew moving.
+If your basement has flooded in Perth Amboy, whether it's a storm-driven event near the waterfront, a pipe failure in a Dunham Heights two-family, or a drain backup in a ZIP code 08861 rowhouse, call The Restoration Group at (844) 808-8838. We'll walk you through what to do right now and get a crew moving.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in West Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in West Orange"
-meta_description: "24/7 emergency water removal and cleanup in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal west orange"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-When stormwater rolls off the Watchung ridge and funnels into finished basements across West Orange, the window between a manageable water removal job and a full structural loss is measured in hours, not days. Whether you're dealing with a sump pump that gave out during a nor'easter, a burst supply line behind plaster walls in Llewellyn Park, or sewer backup that crept into a Pleasantdale split-level, The Restoration Group responds 24/7 with emergency water removal and cleanup to stop the damage before it compounds. Call (855) 650-7422 the moment you find standing water.
+When stormwater rolls off the Watchung ridge and funnels into finished basements across West Orange, the window between a manageable water removal job and a full structural loss is measured in hours, not days. Whether you're dealing with a sump pump that gave out during a nor'easter, a burst supply line behind plaster walls in Llewellyn Park, or sewer backup that crept into a Pleasantdale split-level, The Restoration Group responds 24/7 with emergency water removal and cleanup to stop the damage before it compounds. Call (844) 808-8838 the moment you find standing water.
 
 ## Why West Orange Properties See Water Damage Differently
 
@@ -58,4 +58,4 @@ For commercial properties along the Northfield Avenue corridor, we are familiar 
 
 In West Orange's older Llewellyn Park and surrounding Victorian-era homes, plaster walls behave very differently from modern drywall during a water loss. Plaster is dense and slow to absorb, which can make a wall feel sound at the surface even when the wood lath behind it has been wet for days. That retained moisture feeds mold growth in a space that standard pin meters can miss entirely. We use both penetrating and non-penetrating moisture meters on these walls and extend drying timelines accordingly, what takes two to three days in a postwar ranch may take four to five in a pre-1940 plaster home. Knowing that going in, before extraction even finishes, prevents a mold callback weeks later.
 
-If you're dealing with standing water anywhere in West Orange, from a flooded Pleasantdale basement to a commercial roof leak near Essex Green, call (855) 650-7422 now. The Restoration Group is IICRC Certified (Firm #210213), licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and available 24 hours a day to get extraction equipment on-site and water removal started before the damage spreads.
+If you're dealing with standing water anywhere in West Orange, from a flooded Pleasantdale basement to a commercial roof leak near Essex Green, call (844) 808-8838 now. The Restoration Group is IICRC Certified (Firm #210213), licensed by the NJ Division of Consumer Affairs as a Home Improvement Contractor, and available 24 hours a day to get extraction equipment on-site and water removal started before the damage spreads.

@@ -81,7 +81,7 @@ A typical job runs in five phases: inspection and moisture mapping, remediation 
 
 The inspection phase is where the scope actually gets written, using a moisture meter at the sill plate and joists plus a visual check for existing mold, pest activity, and standing water. If your Fair Lawn home has had water intrusion in the crawl space before, especially from storm events near the Saddle River or Passaic River, that history shapes whether drainage or a sump pump gets added to the plan.
 
-If your crawl space has that persistent musty smell, visible moisture on the joists, or a history of flooding near River Road or the Saddle River, get a written moisture assessment before the problem spreads into the floor framing above it. [Call The Restoration Group at (855) 650-7422](tel:+18556507422) to schedule a crawl space inspection, and you'll get an itemized scope before any work starts, not a guess.
+If your crawl space has that persistent musty smell, visible moisture on the joists, or a history of flooding near River Road or the Saddle River, get a written moisture assessment before the problem spreads into the floor framing above it. [Call The Restoration Group at (844) 808-8838](tel:+18448088838) to schedule a crawl space inspection, and you'll get an itemized scope before any work starts, not a guess.
 
 ---
 

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Staten Island, NY | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Staten Island"
-meta_description: "24/7 emergency fire damage restoration in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration staten island"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -63,4 +63,4 @@ Fire claims on Staten Island typically run through standard homeowner's policies
 
 In Staten Island's older frame neighborhoods, Port Richmond, St. George, and parts of New Dorp, balloon-frame construction is more common than most homeowners realize. Unlike platform framing, balloon frames have continuous stud cavities running from the sill plate to the roof rafters, with no fire blocking between floors. After a fire, we probe these cavities with borescope cameras before closing walls, because smoldering material can persist inside a cavity for hours after surface flames are out. It is a step that adds time to the assessment but has prevented rekindles on jobs where the initial fire appeared fully extinguished.
 
-If your home on Staten Island has sustained fire or smoke damage, call The Restoration Group at **(855) 650-7422**. We answer around the clock, and our crews can mobilize toward the island immediately, whether the fire was in a South Beach townhome or a century-old colonial near the St. George Ferry Terminal.
+If your home on Staten Island has sustained fire or smoke damage, call The Restoration Group at **(844) 808-8838**. We answer around the clock, and our crews can mobilize toward the island immediately, whether the fire was in a South Beach townhome or a century-old colonial near the St. George Ferry Terminal.

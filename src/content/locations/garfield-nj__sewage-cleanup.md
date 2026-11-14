@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Garfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Garfield"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization garfield"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Sewage Cleanup and Sanitization"
 rendered: true
 ---
-When a sewer line backs up in a Garfield two-family on a 25-foot lot, the mess doesn't stay in the basement, it wicks into finished drywall, soaks the subfloor shared between units, and starts generating dangerous pathogens within hours. The cast-iron drain stacks common throughout the Belmont and Plauderville sections of the city were installed when Truman was president, and they corrode, root-intrude, and collapse in ways that modern PVC simply doesn't. If you're standing in raw sewage right now, call (855) 650-7422, The Restoration Group responds around the clock.
+When a sewer line backs up in a Garfield two-family on a 25-foot lot, the mess doesn't stay in the basement, it wicks into finished drywall, soaks the subfloor shared between units, and starts generating dangerous pathogens within hours. The cast-iron drain stacks common throughout the Belmont and Plauderville sections of the city were installed when Truman was president, and they corrode, root-intrude, and collapse in ways that modern PVC simply doesn't. If you're standing in raw sewage right now, call (844) 808-8838, The Restoration Group responds around the clock.
 
 ## Why Garfield Properties See Sewage Backup So Often
 
@@ -56,4 +56,4 @@ Sewage backup coverage in New Jersey is almost never part of a standard homeowne
 
 A disproportionate share of Garfield's older two- and three-families have finished basements, sometimes a full rental unit, sometimes just a rec room with drop ceiling and carpet. That finishing layer is almost always the first casualty in a sewage backup, and it creates a scope problem that catches some contractors off guard: the finished ceiling below a first-floor bathroom often hides contaminated joists and subfloor that look fine from below until you pull a tile. We probe and moisture-map above finished ceilings before closing out any sewage job in Garfield, because missing a wet joist bay in a 1940s cape means a mold call six weeks later.
 
-If you're dealing with a sewage backup anywhere in Garfield, from a Plauderville two-family to a Belmont Avenue commercial space, call (855) 650-7422 now. The longer raw sewage sits, the deeper it penetrates and the more expensive the remediation becomes. Our team is available 24/7 and ready to respond.
+If you're dealing with a sewage backup anywhere in Garfield, from a Plauderville two-family to a Belmont Avenue commercial space, call (844) 808-8838 now. The longer raw sewage sits, the deeper it penetrates and the more expensive the remediation becomes. Our team is available 24/7 and ready to respond.

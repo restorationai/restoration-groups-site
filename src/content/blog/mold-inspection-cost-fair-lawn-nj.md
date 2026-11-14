@@ -90,7 +90,7 @@ A standard inspection moves through a predictable sequence, whether it's trigger
 
 If you want to understand the testing methods in more depth before scheduling anything, our post on [how to test for mold](/blog/how-to-test-for-mold/) walks through DIY kits versus a professional inspection and where each one falls short.
 
-A musty smell, a water stain that won't go away, or a pre-purchase inspection flag are all reasonable triggers to schedule an assessment rather than guess. [Schedule a mold inspection with The Restoration Group at (855) 650-7422](tel:+18556507422) and a crew based out of our Fair Lawn location can get a written scope in hand before you make a decision either way.
+A musty smell, a water stain that won't go away, or a pre-purchase inspection flag are all reasonable triggers to schedule an assessment rather than guess. [Schedule a mold inspection with The Restoration Group at (844) 808-8838](tel:+18448088838) and a crew based out of our Fair Lawn location can get a written scope in hand before you make a decision either way.
 
 ---
 

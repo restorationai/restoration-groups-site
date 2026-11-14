@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Bloomfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Bloomfield"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair bloomfield"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ A detail that catches homeowners off guard: a significant share of Bloomfield's 
 
 Sudden and accidental pipe bursts are typically covered under standard homeowners policies, the cleanup, drying, and structural repairs. What insurers require is documentation created at the time of loss, not reconstructed afterward. We photograph moisture readings, affected materials, and equipment placement from the first hour on-site, and we produce the scope of work in a format carriers recognize. We bill most major insurers directly, which means you are not writing a large check and waiting for reimbursement. If your policy has a question about the pipe repair component versus the water damage component, we can walk through the line items with your adjuster.
 
-If a burst pipe has already flooded part of your Bloomfield home or commercial property, call (855) 650-7422 now. We answer around the clock, we know what Bloomfield's older housing stock demands, and we carry the equipment to stop the damage from compounding while you sleep.
+If a burst pipe has already flooded part of your Bloomfield home or commercial property, call (844) 808-8838 now. We answer around the clock, we know what Bloomfield's older housing stock demands, and we carry the equipment to stop the damage from compounding while you sleep.

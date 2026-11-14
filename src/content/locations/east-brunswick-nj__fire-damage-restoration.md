@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in East Brunswick, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in East Brunswick"
-meta_description: "24/7 emergency fire damage restoration in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in East Brunswick, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration east brunswick"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Fire claims in New Jersey are generally handled under the dwelling and personal 
 
 One thing that catches homeowners off guard in East Brunswick's older split-levels: the return-air chase in many of these homes runs as an open stud bay between floors rather than a sealed duct. After a fire, that open chase acts like a chimney in reverse, drawing soot-laden air from the fire floor into the upper level and depositing fine particles on every surface the return serves. We probe these chases early in every assessment on homes built before 1980, because missing that pathway means the odor comes back weeks after the job is otherwise complete.
 
-If you've had a fire at your East Brunswick property, call The Restoration Group at (855) 650-7422. We'll assess the full scope of the damage, walk you through the restoration timeline, and handle the documentation your insurance carrier needs, so you can focus on your family rather than the paperwork.
+If you've had a fire at your East Brunswick property, call The Restoration Group at (844) 808-8838. We'll assess the full scope of the damage, walk you through the restoration timeline, and handle the documentation your insurance carrier needs, so you can focus on your family rather than the paperwork.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Rahway, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Rahway"
-meta_description: "24/7 mold inspection and testing in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Rahway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing rahway"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -38,10 +38,10 @@ Results typically return from the lab within 24 to 48 hours. We walk you through
 
 ## Reaching Rahway from Our Kenilworth Location
 
-Our headquarters in Kenilworth sits just a short drive from Rahway's 07065 ZIP code, which means we can schedule inspections quickly without the travel delays that affect firms based further out in the region. Whether a property manager near the Union County Performing Arts Center needs a same-day assessment after a sprinkler malfunction or a homeowner in Leesville wants to understand what last year's basement flood left behind, we can typically get eyes on a property without a long wait. Because we operate 24/7, you can call (855) 650-7422 at any hour to get an inspection scheduled.
+Our headquarters in Kenilworth sits just a short drive from Rahway's 07065 ZIP code, which means we can schedule inspections quickly without the travel delays that affect firms based further out in the region. Whether a property manager near the Union County Performing Arts Center needs a same-day assessment after a sprinkler malfunction or a homeowner in Leesville wants to understand what last year's basement flood left behind, we can typically get eyes on a property without a long wait. Because we operate 24/7, you can call (844) 808-8838 at any hour to get an inspection scheduled.
 
 ## Local Note: What Rahway's Post-Ida Losses Taught Us About Timing
 
 In the months following Ida's flooding in 2021, a pattern emerged in Rahway's riverfront and low-lying neighborhoods: many homeowners had dried out visible water and moved on, only to call for mold testing six to twelve months later when symptoms appeared. The culprit was almost always the same, finished basement wall assemblies where fiberglass batt insulation had absorbed water and never fully dried, creating a sustained damp environment behind intact drywall. In older Rahway homes, that insulation is often unfaced and pressed directly against the foundation wall with no drainage gap. If your home was affected by any flooding event in the last two to three years and you haven't had an air quality test, the absence of visible mold does not mean you're clear.
 
-If you're ready to find out what's actually in the air in your Rahway home or commercial property, call The Restoration Group at (855) 650-7422. Our IICRC Certified Firm team brings objective, lab-backed mold inspection and testing to properties across Rahway, with results you can act on.
+If you're ready to find out what's actually in the air in your Rahway home or commercial property, call The Restoration Group at (844) 808-8838. Our IICRC Certified Firm team brings objective, lab-backed mold inspection and testing to properties across Rahway, with results you can act on.

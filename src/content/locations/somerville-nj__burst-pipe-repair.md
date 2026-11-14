@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Burst Pipe Cleanup and Repair in Somerville, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Somerville"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair somerville"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ For commercial losses along the Main Street business district, business interrup
 
 One thing that catches homeowners in Somerville's older two-family and Victorian stock off guard: the original galvanized supply lines often run through interior wall cavities that were never insulated, because when those homes were built, interior walls weren't expected to need insulation. When those pipes fail, water travels inside the wall cavity vertically, sometimes two full floors, before it shows up as a stain on a ceiling or a wet baseboard. If you're seeing water appear somewhere that doesn't seem connected to where the pipe broke, that's likely what's happening. Thermal imaging is the fastest way to trace the actual migration path without opening every wall.
 
-If you're dealing with a burst or broken pipe anywhere in Somerville, from a finished basement on Gaston Avenue to a storefront near the courthouse, call The Restoration Group at (855) 650-7422. We're available around the clock, and we'll have a crew moving toward your address while you're still on the phone.
+If you're dealing with a burst or broken pipe anywhere in Somerville, from a finished basement on Gaston Avenue to a storefront near the courthouse, call The Restoration Group at (844) 808-8838. We're available around the clock, and we'll have a crew moving toward your address while you're still on the phone.

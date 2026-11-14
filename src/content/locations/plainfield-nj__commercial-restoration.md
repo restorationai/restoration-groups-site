@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Plainfield, NJ | The Restoration Group"
 h1: "Commercial Restoration in Plainfield"
-meta_description: "24/7 commercial restoration in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration plainfield"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -46,4 +46,4 @@ The 2021 Ida flooding was a turning point for how we approach pre-loss planning 
 
 If your property on or near Front Street, Park Avenue, or the East End corridor has a basement level, it is worth a conversation before the next significant rain event, not after.
 
-For commercial restoration in Plainfield, call The Restoration Group at (855) 650-7422. We document the loss, coordinate directly with your carrier, and manage the project from first extraction through final inspection so you can focus on getting your business back open.
+For commercial restoration in Plainfield, call The Restoration Group at (844) 808-8838. We document the loss, coordinate directly with your carrier, and manage the project from first extraction through final inspection so you can focus on getting your business back open.

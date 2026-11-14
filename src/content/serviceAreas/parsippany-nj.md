@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Parsippany, NJ | The Restoration Group"
 h1: "Restoration Services in Parsippany"
-meta_description: "Serving Parsippany, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Parsippany, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services parsippany"
 secondary_keywords: ["parsippany restoration company", "damage restoration parsippany", "parsippany disaster restoration"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "NJ"
 primary: false
 rendered: true
 ---
-When a pipe bursts in a Lake Hiawatha split-level at 2 a.m. or a sprinkler head discharges in a Waterview office suite on a Sunday, The Restoration Group dispatches from Kenilworth around the clock, extracting water, drying structural cavities, remediating mold, and managing fire and smoke damage for homeowners, landlords, and commercial property managers across Parsippany-Troy Hills. One call to (855) 650-7422 starts the process.
+When a pipe bursts in a Lake Hiawatha split-level at 2 a.m. or a sprinkler head discharges in a Waterview office suite on a Sunday, The Restoration Group dispatches from Kenilworth around the clock, extracting water, drying structural cavities, remediating mold, and managing fire and smoke damage for homeowners, landlords, and commercial property managers across Parsippany-Troy Hills. One call to (844) 808-8838 starts the process.
 
 ## Restoration emergencies common in Parsippany
 
@@ -59,4 +59,4 @@ Postwar capes and split-levels here typically sit on block foundations with a ba
 
 Permits in the township are issued under the New Jersey Uniform Construction Code by the local construction office. Cosmetic replacement usually is not a permit item; framing, electrical, plumbing, and any rebuild in a mapped flood zone are.
 
-If you're dealing with water, fire, mold, or structural damage anywhere in Parsippany-Troy Hills, from a flooded basement in Lake Hiawatha to a smoke-damaged Victorian in Mount Tabor, call The Restoration Group at **(855) 650-7422**. We're available around the clock and will walk you through next steps before a crew ever arrives on site.
+If you're dealing with water, fire, mold, or structural damage anywhere in Parsippany-Troy Hills, from a flooded basement in Lake Hiawatha to a smoke-damaged Victorian in Mount Tabor, call The Restoration Group at **(844) 808-8838**. We're available around the clock and will walk you through next steps before a crew ever arrives on site.

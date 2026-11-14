@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Piscataway, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Piscataway"
-meta_description: "24/7 emergency board-up and tarping in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Piscataway, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping piscataway"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Our Kenilworth base puts us on Route 22 or the Garden State Parkway south within
 
 One thing crews learn quickly working in the postwar tracts around Stelton and Possumtown: exterior window trim on homes from the 1950s and 1960s is often painted over so many times that it looks solid but is actually brittle underneath. Driving a screw into it without pre-drilling splits the casing and creates a second opening instead of sealing the first. We pre-drill every fastener on homes where the trim shows that age profile, which adds a few minutes per opening but prevents the kind of secondary damage that turns a board-up job into a carpentry repair. It's a small thing, but it's the difference between a clean installation and a callback.
 
-If your Piscataway property has been breached by fire, storm, vandalism, or a sudden structural failure, call (855) 650-7422 now. We're on call around the clock, we carry materials for residential and commercial openings, and we document everything from the first photograph to the final fastener, so your insurance claim starts on solid footing the moment we leave the site.
+If your Piscataway property has been breached by fire, storm, vandalism, or a sudden structural failure, call (844) 808-8838 now. We're on call around the clock, we carry materials for residential and commercial openings, and we document everything from the first photograph to the final fastener, so your insurance claim starts on solid footing the moment we leave the site.

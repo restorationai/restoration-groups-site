@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Commercial Restoration in Bloomfield, NJ | The Restoration Group"
 h1: "Commercial Restoration in Bloomfield"
-meta_description: "24/7 commercial restoration in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 commercial restoration in Bloomfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration bloomfield"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -50,4 +50,4 @@ Commercial property claims in New Jersey involve a layer of documentation that r
 
 One pattern that comes up repeatedly on Bloomfield commercial jobs, particularly in the older mixed-use buildings along Bloomfield Avenue and near Bloomfield Center, is the presence of original plaster-and-lath interior walls that were drywalled over during 1970s or 1980s renovations. When water gets behind that newer drywall layer, it hits the original plaster and stays, plaster absorbs and holds moisture at a rate that standard drying timelines don't account for. Crews that set equipment based on the visible drywall layer and check out too early leave a building with elevated moisture readings inside the wall assembly, which becomes a mold colonization problem within 48 to 72 hours. We probe and test through both layers before we consider a drying phase complete.
 
-If your Bloomfield business has taken water, fire, or smoke damage, call The Restoration Group at (855) 650-7422. We'll have a crew on-site, a scope in hand, and a clear timeline for getting your property back to operational, documented every step of the way.
+If your Bloomfield business has taken water, fire, or smoke damage, call The Restoration Group at (844) 808-8838. We'll have a crew on-site, a scope in hand, and a clear timeline for getting your property back to operational, documented every step of the way.

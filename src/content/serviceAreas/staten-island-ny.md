@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Staten Island, NY | The Restoration Group"
 h1: "Restoration Services in Staten Island"
-meta_description: "Serving Staten Island, NY with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Staten Island, NY with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services staten island"
 secondary_keywords: ["staten island restoration company", "damage restoration staten island", "staten island disaster restoration"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "NY"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall in Port Richmond or floodwater backs into a South Beach basement at 2 a.m., The Restoration Group dispatches crews from our borough-accessible base to handle water extraction, structural drying, mold remediation, fire and smoke cleanup, and full reconstruction, all under one call to (855) 650-7422. We operate around the clock, every day of the year, because restoration losses don't wait for business hours.
+When a pipe bursts behind a wall in Port Richmond or floodwater backs into a South Beach basement at 2 a.m., The Restoration Group dispatches crews from our borough-accessible base to handle water extraction, structural drying, mold remediation, fire and smoke cleanup, and full reconstruction, all under one call to (844) 808-8838. We operate around the clock, every day of the year, because restoration losses don't wait for business hours.
 
 ## Restoration emergencies common in Staten Island
 
@@ -61,4 +61,4 @@ The ground varies sharply. The Todt Hill spine and its ridges are glacial morain
 
 Permits come from the NYC Department of Buildings. Structural alteration filings need a registered architect or engineer, plumbing work a licensed master plumber, and flood-zone repairs bring elevation rules into play.
 
-If you are dealing with water, fire, mold, or storm damage anywhere on Staten Island, call (855) 650-7422 now. The Restoration Group has been handling losses across the New York and New Jersey metro area since 2021, and our crews are available around the clock to respond when you need it most.
+If you are dealing with water, fire, mold, or storm damage anywhere on Staten Island, call (844) 808-8838 now. The Restoration Group has been handling losses across the New York and New Jersey metro area since 2021, and our crews are available around the clock to respond when you need it most.

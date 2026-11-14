@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Roselle, NJ | The Restoration Group"
 h1: "Restoration Services in Roselle"
-meta_description: "Serving Roselle, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (855) 650-7422."
+meta_description: "Serving Roselle, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services roselle"
 secondary_keywords: ["roselle restoration company", "damage restoration roselle", "roselle disaster restoration"]
 search_intent: "local_commercial"
@@ -59,4 +59,4 @@ Footings in this part of New Jersey sit below a frost depth of roughly three fee
 
 Structural repair, framing replacement, and rewiring are permitted through the Borough of Roselle construction office under the New Jersey Uniform Construction Code.
 
-If you're dealing with water, fire, mold, or storm damage anywhere in Roselle, 07203, call The Restoration Group at **(855) 650-7422**. We're available around the clock, and we know the neighborhood.
+If you're dealing with water, fire, mold, or storm damage anywhere in Roselle, 07203, call The Restoration Group at **(844) 808-8838**. We're available around the clock, and we know the neighborhood.

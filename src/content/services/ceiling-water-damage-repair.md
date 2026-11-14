@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Ceiling Water Damage Repair in Kenilworth | The Restoration Group"
 h1: "24/7 Emergency Ceiling Water Damage Repair in Kenilworth"
-meta_description: "24/7 emergency ceiling water damage repair in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency ceiling water damage repair in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "ceiling water damage repair kenilworth"
 secondary_keywords: ["ceiling leaking", "water coming through ceiling", "ceiling leak repair", "sagging ceiling water damage", "water stain ceiling"]
 search_intent: "local_emergency"
@@ -17,7 +17,7 @@ service_slug: "ceiling-water-damage-repair"
 service_display: "Ceiling Water Damage Repair"
 rendered: true
 ---
-**Water coming through your ceiling right now?** Call (855) 650-7422. We answer 24/7 and can get a technician assessing the source and the damage before a small stain turns into a sagging, saturated section that lets go entirely.
+**Water coming through your ceiling right now?** Call (844) 808-8838. We answer 24/7 and can get a technician assessing the source and the damage before a small stain turns into a sagging, saturated section that lets go entirely.
 
 A water stain on the ceiling rarely stays a cosmetic problem. Depending on the source, whether it's a roof leak, a failed supply line in a bathroom above, an HVAC condensation line, or an upstairs appliance overflow, water travels along joists and settles above the ceiling material long before it shows on the surface. By the time you see yellowing, bubbling paint, or a soft spot overhead, the drywall or plaster has often been wet for days. Left alone, a saturated ceiling can collapse under its own weight, and the insulation and framing above it can hold moisture long enough for mold to start colonizing within 24 to 48 hours.
 
@@ -56,6 +56,6 @@ Kenilworth and the surrounding Union County towns have a lot of housing stock bu
 
 ## Service area
 
-Based in Kenilworth, we handle ceiling water damage repair throughout Union County, including Union, Cranford, Roselle Park, Elizabeth, Westfield, and the surrounding towns, working with the plaster-and-drywall mix typical of the area's older homes and newer additions alike.
+Based in Fair Lawn, we handle ceiling water damage repair throughout Union County, including Union, Cranford, Roselle Park, Elizabeth, Westfield, and the surrounding towns, working with the plaster-and-drywall mix typical of the area's older homes and newer additions alike.
 
-If water is actively coming through your ceiling, don't wait on the stain to spread. Call (855) 650-7422 to schedule a moisture assessment and get a written scope before the damage reaches the point of collapse.
+If water is actively coming through your ceiling, don't wait on the stain to spread. Call (844) 808-8838 to schedule a moisture assessment and get a written scope before the damage reaches the point of collapse.

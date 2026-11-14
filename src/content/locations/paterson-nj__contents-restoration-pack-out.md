@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Paterson, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Paterson"
-meta_description: "24/7 contents restoration & pack-out in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Paterson, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out paterson"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -40,7 +40,7 @@ For Paterson's older multi-family buildings, we coordinate access carefully. Nar
 
 ## Reaching Paterson from Kenilworth
 
-The Restoration Group's base in Kenilworth puts Paterson within straightforward reach via Route 21 north along the Passaic River, a corridor we travel regularly. Because we operate 24/7, a call at 2 a.m. after a pipe failure in a Hillcrest three-family gets the same response as a weekday afternoon call. We do not provide a specific minute guarantee, but we dispatch immediately and communicate an estimated arrival when you call (855) 650-7422.
+The Restoration Group's base in Kenilworth puts Paterson within straightforward reach via Route 21 north along the Passaic River, a corridor we travel regularly. Because we operate 24/7, a call at 2 a.m. after a pipe failure in a Hillcrest three-family gets the same response as a weekday afternoon call. We do not provide a specific minute guarantee, but we dispatch immediately and communicate an estimated arrival when you call (844) 808-8838.
 
 For addresses near St. Joseph's University Medical Center or Passaic County Community College, we're familiar with the surrounding street grid and the parking and access constraints that come with dense urban blocks.
 

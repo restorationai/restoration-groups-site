@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Bridgewater, NJ | The Restoration Group"
 h1: "Mold Remediation in Bridgewater"
-meta_description: "24/7 mold remediation in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation bridgewater"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -42,7 +42,7 @@ The remediation is performed by an IICRC Certified Firm (Firm #210213), and the 
 
 The Restoration Group operates out of Kenilworth, NJ, and reaches Bridgewater 24 hours a day, 7 days a week. From Kenilworth, the most direct route runs west on Route 22, putting crews into the eastern sections of Bridgewater, including the ZIP 08807 corridor, in well under an hour under normal traffic conditions. The Route 287 interchange provides direct access to the Martinsville and Chimney Rock areas on the township's western and southern edges.
 
-For calls that come in overnight or on weekends, dispatch is live, not an answering service, so the clock starts when you call (855) 650-7422, not the next business morning.
+For calls that come in overnight or on weekends, dispatch is live, not an answering service, so the clock starts when you call (844) 808-8838, not the next business morning.
 
 ## Bridgewater Insurance Coordination
 
@@ -54,4 +54,4 @@ If your property is in a townhome or planned development with HOA oversight, we 
 
 One pattern that comes up repeatedly in Bridgewater's older Finderne-area ranches: finished basement walls were commonly built with wood furring strips nailed directly to the masonry block, with no air gap and no vapor barrier behind the drywall. When the block wicks moisture, which it does during any prolonged wet period, the furring and drywall stay damp for weeks. Mold growth in these assemblies often looks minor on the surface but runs the full height of the wall cavity behind the finish. When we scope a job in this part of the township, we account for that construction pattern before quoting, so there are no surprises mid-project.
 
-If you're in the 08807 or 08805 ZIP codes and you've had any water intrusion in the past few months, a moisture inspection is worth scheduling before mold becomes a larger remediation project. Call (855) 650-7422 any time, the line is answered around the clock.
+If you're in the 08807 or 08805 ZIP codes and you've had any water intrusion in the past few months, a moisture inspection is worth scheduling before mold becomes a larger remediation project. Call (844) 808-8838 any time, the line is answered around the clock.

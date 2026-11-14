@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Somerville, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Somerville"
-meta_description: "24/7 emergency smoke damage restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration somerville"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -65,4 +65,4 @@ The Restoration Group is a licensed NJ Home Improvement Contractor through the N
 
 Somerville's pre-war two-families and Victorians were commonly built with balloon framing, a construction method where wall studs run continuously from the foundation sill to the roof rafters without the fire-blocking horizontal members that platform framing uses. In a fire event, this framing acts like a flue: smoke and heat travel vertically through the wall cavity from basement to attic in minutes. When we work in the West End or along Fairview on homes built before 1940, we routinely open wall cavities at the attic floor line to confirm whether smoke has deposited residue in the framing above the finished ceiling, a step that gets skipped in newer construction but is essential here to prevent odor recurrence months after the job is closed.
 
-If you're dealing with smoke damage at a property in Somerville (ZIP 08876) or the surrounding borough, call The Restoration Group at (855) 650-7422. We'll walk you through what we're seeing, what the process looks like for your specific structure, and what your insurance should cover, before any work begins.
+If you're dealing with smoke damage at a property in Somerville (ZIP 08876) or the surrounding borough, call The Restoration Group at (844) 808-8838. We'll walk you through what we're seeing, what the process looks like for your specific structure, and what your insurance should cover, before any work begins.

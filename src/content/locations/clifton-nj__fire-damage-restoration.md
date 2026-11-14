@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Clifton, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Clifton"
-meta_description: "24/7 emergency fire damage restoration in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Clifton, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration clifton"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -61,4 +61,4 @@ If your policy includes additional living expense (ALE) coverage and the home is
 
 In Clifton's Botany Village and older Athenia-area homes, we regularly find that original plaster ceilings, particularly in finished basements, have been skim-coated or painted over multiple times across decades. After a fire, those layered ceilings trap smoke odor between coats in a way that's easy to miss on a surface inspection. We probe and test before making any recommendation to preserve versus remove, because sealing over a contaminated substrate in a bedroom or living space is a problem that comes back months later when temperatures rise and the odor reactivates.
 
-If you've had a fire in your Clifton home or commercial property and you're not sure what the full scope looks like yet, call (855) 650-7422. We'll walk the property with you, document what we find, and give you a clear picture of what restoration involves, before you commit to anything.
+If you've had a fire in your Clifton home or commercial property and you're not sure what the full scope looks like yet, call (844) 808-8838. We'll walk the property with you, document what we find, and give you a clear picture of what restoration involves, before you commit to anything.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Maplewood, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Maplewood"
-meta_description: "24/7 contents restoration & pack-out in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out maplewood"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -48,4 +48,4 @@ Most homeowner policies in New Jersey cover sudden and accidental water losses, 
 
 Homes in the Maplewood Village area and along streets that drain toward Memorial Park tend to see recurring losses, the same properties can flood in multiple storm events years apart. If your home has flooded before, it's worth knowing that contents that were previously water-affected and improperly dried (common when homeowners handle cleanup themselves after a smaller event) are significantly more vulnerable the second time. Residual moisture in furniture frames, subflooring beneath rugs, and inside upholstered pieces creates a head start for mold colonization when the next loss occurs. During pack-out, we note prior-loss indicators and flag items that may need more aggressive treatment than their surface condition suggests.
 
-If your home or a property you manage in Maplewood has experienced water, fire, or smoke damage, call The Restoration Group at (855) 650-7422. We'll assess what can be restored, what needs to be packed out, and how to document everything your insurance carrier needs to process the claim.
+If your home or a property you manage in Maplewood has experienced water, fire, or smoke damage, call The Restoration Group at (844) 808-8838. We'll assess what can be restored, what needs to be packed out, and how to document everything your insurance carrier needs to process the claim.

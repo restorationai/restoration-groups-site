@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Bridgewater, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Bridgewater"
-meta_description: "24/7 emergency smoke damage restoration in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Bridgewater, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration bridgewater"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Smoke Damage Restoration"
 rendered: true
 ---
-A kitchen fire that seems contained can leave smoke residue in every room of a Bridgewater split-level within minutes, curling through the HVAC return, settling into the textured ceilings common in postwar ranches off Milltown Road, and embedding in the wood paneling that still lines the dens of older homes near Bradley Gardens. That residue doesn't just smell; it's acidic, and it keeps working on surfaces long after the flames are out. Calling (855) 650-7422 connects you to an IICRC Certified Firm (#210213) that responds around the clock, every day of the year.
+A kitchen fire that seems contained can leave smoke residue in every room of a Bridgewater split-level within minutes, curling through the HVAC return, settling into the textured ceilings common in postwar ranches off Milltown Road, and embedding in the wood paneling that still lines the dens of older homes near Bradley Gardens. That residue doesn't just smell; it's acidic, and it keeps working on surfaces long after the flames are out. Calling (844) 808-8838 connects you to an IICRC Certified Firm (#210213) that responds around the clock, every day of the year.
 
 ## Why Bridgewater Homes Are Particularly Vulnerable to Smoke Damage
 
@@ -48,4 +48,4 @@ If you're in a townhome development or condo community in Bridgewater, be aware 
 
 Bridgewater's older split-levels and ranches, particularly those built in the 1950s and 1960s in the Finderne and Bradley Gardens tracts, frequently have original cast-iron ductwork or gravity-fed warm-air systems that were converted to forced air decades ago. Those ducts have interior surfaces that are already rough and oxidized, which means smoke particulates bond to them far more aggressively than to modern sheet-metal ducts. Standard duct cleaning equipment doesn't always reach the bends in those older systems. We carry flexible-shaft rotary brushes sized for residential cast-iron runs specifically because we've encountered this repeatedly in Bridgewater and the surrounding Somerset County communities, skipping that step leaves an odor source that no amount of surface deodorization will fix.
 
-If your home in Bridgewater (ZIP 08807 or 08805) has been affected by smoke, don't wait to see whether the smell fades on its own, it won't, and every day of delay gives acidic soot more time to corrode metal hardware, yellow painted surfaces, and permanently stain porous materials. Call (855) 650-7422 any time, day or night, and we'll have a crew moving toward you.
+If your home in Bridgewater (ZIP 08807 or 08805) has been affected by smoke, don't wait to see whether the smell fades on its own, it won't, and every day of delay gives acidic soot more time to corrode metal hardware, yellow painted surfaces, and permanently stain porous materials. Call (844) 808-8838 any time, day or night, and we'll have a crew moving toward you.

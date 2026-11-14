@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Maplewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Maplewood"
-meta_description: "24/7 emergency water removal and cleanup in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Maplewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal maplewood"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -59,4 +59,4 @@ The Restoration Group documents the loss with photographs, moisture logs, and a 
 
 Homeowners used to modern drywall sometimes expect emergency water removal and cleanup to wrap up in three or four days. In Maplewood's pre-war housing stock, that timeline is often optimistic. Original plaster, particularly three-coat lime plaster over wood lath, which is common in the Tuscan and Jefferson neighborhoods, can hold moisture for seven to ten days even under active drying conditions. The lath itself wicks water laterally, spreading the wet zone along the wall cavity well past the point of entry. Rushing the drying phase to hit an arbitrary deadline risks trapping moisture that feeds mold behind a freshly painted surface. Monitoring readings, not a calendar, should determine when drying is complete.
 
-If you're dealing with standing water, wet walls, or a soaked basement in Maplewood, call The Restoration Group at **(855) 650-7422**. The assessment starts the moment the crew arrives, and the goal is always to save as much of your home as the damage allows.
+If you're dealing with standing water, wet walls, or a soaked basement in Maplewood, call The Restoration Group at **(844) 808-8838**. The assessment starts the moment the crew arrives, and the goal is always to save as much of your home as the damage allows.

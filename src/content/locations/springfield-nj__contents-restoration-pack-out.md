@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Springfield, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Springfield"
-meta_description: "24/7 contents restoration & pack-out in Springfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Springfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out springfield"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -55,4 +55,4 @@ We photograph and inventory contents before pack-out specifically to support the
 
 Springfield's older colonials and capes frequently have cedar-lined closets and knotty pine paneling in finished basements, materials that were premium choices in the postwar decades and are genuinely worth saving. Both absorb smoke and odor compounds differently than modern MDF or drywall, and both can be successfully restored with the right deodorization protocol if they reach a restoration facility quickly. The mistake is treating them as disposable when they're not, or waiting too long to make that call. If your home along the Mountain Avenue corridor or in Springfield Center has original woodwork in the affected space, mention it when you call, it changes the approach.
 
-If your home or business in Springfield has taken a loss and the contents inside it are at risk, call The Restoration Group at (855) 650-7422. We'll document what's there, move what needs to move, and work to return your belongings in the same condition we packed them, or better.
+If your home or business in Springfield has taken a loss and the contents inside it are at risk, call The Restoration Group at (844) 808-8838. We'll document what's there, move what needs to move, and work to return your belongings in the same condition we packed them, or better.

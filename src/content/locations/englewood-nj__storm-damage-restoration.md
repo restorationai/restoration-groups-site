@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Englewood, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Englewood"
-meta_description: "24/7 emergency storm damage restoration in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Englewood, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration englewood"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ If your claim involves a dispute over what is covered, a common friction point w
 
 One pattern we see repeatedly on East Hill: the large decorative trees that give those blocks their character, mature silver maples, pin oaks, Norway maples, have root systems that have been lifting and cracking the original clay drain tile under foundations for decades. After a major storm drops a limb or topples a tree, the root disturbance can open a direct pathway for groundwater into a basement that previously showed no signs of water intrusion. If you are dealing with a storm loss on East Hill and notice new seepage along the foundation wall that was not there before, that connection is worth flagging to your adjuster and your plumber before the restoration scope is finalized.
 
-If your property in Englewood has taken storm damage, whether it is a tree through a roof on East Hill, a flooded basement in the Fourth Ward, or a commercial roof failure on Palisade Avenue, call The Restoration Group at (855) 650-7422. We are available 24/7, and the sooner we can stop active intrusion, the smaller the final restoration scope will be.
+If your property in Englewood has taken storm damage, whether it is a tree through a roof on East Hill, a flooded basement in the Fourth Ward, or a commercial roof failure on Palisade Avenue, call The Restoration Group at (844) 808-8838. We are available 24/7, and the sooner we can stop active intrusion, the smaller the final restoration scope will be.

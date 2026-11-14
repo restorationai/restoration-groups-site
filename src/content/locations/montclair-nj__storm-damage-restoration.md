@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Storm Damage Restoration in Montclair, NJ | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Montclair"
-meta_description: "24/7 emergency storm damage restoration in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency storm damage restoration in Montclair, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration montclair"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -57,4 +57,4 @@ We bill carriers directly and work with most major insurers active in Essex Coun
 
 One pattern we see repeatedly on Montclair's older streets: a large oak or Norway maple comes down on a roof, the visible damage is addressed, but the impact also cracked the parging on a chimney or shifted flashing around a dormer, small openings that don't show up until the next rain. On pre-1950 homes with original masonry chimneys, it's worth asking your contractor to probe the chimney crown and flashing after any significant tree strike, not just the obvious breach. We include that check as a standard part of our Montclair storm assessments because we've traced more than a few "mystery leaks" back to exactly that.
 
-If a storm has left your home or building open to the elements, call (855) 650-7422. Whether you're in Upper Montclair or the South End, we'll assess the damage, secure the structure, and walk you through every step from emergency tarping to the final coat of paint.
+If a storm has left your home or building open to the elements, call (844) 808-8838. Whether you're in Upper Montclair or the South End, we'll assess the damage, secure the structure, and walk you through every step from emergency tarping to the final coat of paint.

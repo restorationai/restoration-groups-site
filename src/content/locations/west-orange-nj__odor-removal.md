@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in West Orange, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in West Orange"
-meta_description: "24/7 odor removal and deodorization in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization west orange"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -54,4 +54,4 @@ The Restoration Group operates out of Kenilworth, NJ, and West Orange is a direc
 
 One thing that surprises homeowners in Llewellyn Park and the older sections of West Orange: plaster walls absorb odor compounds differently than modern drywall. Plaster is denser and less permeable on the surface, which sounds like an advantage, but smoke and moisture odors that do penetrate tend to off-gas slowly over months rather than weeks. Thermal fogging is often the only treatment that reaches the depth of penetration in a plaster assembly without requiring demolition. If a previous contractor attempted deodorization with surface sprays or ozone alone and the smell returned after a few weeks, plaster absorption is usually the reason.
 
-If the odor in your West Orange home has outlasted a previous treatment, call (855) 650-7422 to schedule an assessment. The Restoration Group will identify the source, match the method to your building's construction, and document the process from start to finish, whether you're filing an insurance claim or paying out of pocket.
+If the odor in your West Orange home has outlasted a previous treatment, call (844) 808-8838 to schedule an assessment. The Restoration Group will identify the source, match the method to your building's construction, and document the process from start to finish, whether you're filing an insurance claim or paying out of pocket.

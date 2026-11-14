@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Teaneck, NJ | The Restoration Group"
 h1: "Mold Remediation in Teaneck"
-meta_description: "24/7 mold remediation in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Teaneck, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation teaneck"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -46,4 +46,4 @@ Mold claims in Teaneck frequently originate from events that are covered under s
 
 In Teaneck's pre-war brick homes, particularly the Tudors common in the West Englewood and Whittier sections, the original plaster-and-lath wall system absorbs and holds moisture differently than paper-faced drywall. Plaster releases moisture slowly, which means drying timelines run longer than our equipment readings might initially suggest. We've learned to extend the monitoring phase on these properties, checking moisture content at multiple depths over several days rather than signing off after a single dry reading. Skipping that step in a plaster home is how remediation jobs come back six months later.
 
-If you're dealing with visible mold growth, a persistent musty odor, or the aftermath of a basement flood anywhere in Teaneck, call The Restoration Group at (855) 650-7422. We'll assess the situation honestly, contain what needs containing, and remove what needs to go, so the air in your home is something you can stop thinking about.
+If you're dealing with visible mold growth, a persistent musty odor, or the aftermath of a basement flood anywhere in Teaneck, call The Restoration Group at (844) 808-8838. We'll assess the situation honestly, contain what needs containing, and remove what needs to go, so the air in your home is something you can stop thinking about.

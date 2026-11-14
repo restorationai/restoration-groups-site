@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Emergency Sewage Cleanup and Sanitization in Irvington, NJ | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Irvington"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Irvington, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization irvington"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ Sewer backup coverage is a common add-on rider in Essex County homeowner policie
 
 In Irvington's prewar rowhouses, the basement floor drain is often the first indicator of a mainline blockage, but it's also frequently the last thing an owner investigates, because it's behind a water heater or tucked under a utility shelf. By the time sewage is visible on the floor, it has usually been seeping through the drain trap for hours. On properties in the Grove Park and Upsala sections, we've also seen drain laterals that were re-routed at some point in the mid-20th century without permits, meaning the cleanout access point is not where the original plumbing drawings would suggest. We locate the actual cleanout before assuming scope, which saves time and prevents incomplete extraction.
 
-If you're dealing with sewage in a basement, crawlspace, or any occupied floor in Irvington, call The Restoration Group at **(855) 650-7422**. We'll assess the source, contain the contamination, and walk you through every step of the sanitization and drying process, so the home is safe to occupy again, not just dry.
+If you're dealing with sewage in a basement, crawlspace, or any occupied floor in Irvington, call The Restoration Group at **(844) 808-8838**. We'll assess the source, contain the contamination, and walk you through every step of the sanitization and drying process, so the home is safe to occupy again, not just dry.

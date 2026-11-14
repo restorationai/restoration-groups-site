@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Woodbridge, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Woodbridge"
-meta_description: "24/7 emergency flood damage restoration in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Woodbridge, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration woodbridge"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ Most flood losses in Woodbridge ZIP codes like 07095 and 07064 involve both a ho
 
 One detail that catches many Woodbridge homeowners off guard: the finished basements common throughout Colonia and Fords were frequently built with furring strips and fiberglass batt insulation directly against the foundation wall, a construction method that wicks and holds moisture invisibly behind the drywall surface. After a flood event, that wall assembly can appear dry to the touch while the cavity behind it remains saturated for weeks. Thermal imaging during the initial assessment catches these hidden wet zones before they become a mold problem, and it's a step that makes a real difference in homes with this type of construction.
 
-If your home or property in Woodbridge has taken on water, whether from a river overflow, a storm surge event, a failed sump pump, or a burst supply line, call The Restoration Group at (855) 650-7422. The team is available around the clock, and getting a certified professional on-site quickly is the single most important factor in limiting the long-term damage to your home.
+If your home or property in Woodbridge has taken on water, whether from a river overflow, a storm surge event, a failed sump pump, or a burst supply line, call The Restoration Group at (844) 808-8838. The team is available around the clock, and getting a certified professional on-site quickly is the single most important factor in limiting the long-term damage to your home.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Remediation in Plainfield, NJ | The Restoration Group"
 h1: "Mold Remediation in Plainfield"
-meta_description: "24/7 mold remediation in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold remediation in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold remediation plainfield"
 secondary_keywords: ["mold removal", "black mold remediation", "mold abatement", "mold containment", "mold cleanup"]
 search_intent: "local_health"
@@ -48,4 +48,4 @@ For neighborhoods closer to the Green Brook flood plain, particularly the East F
 
 One thing that catches homeowners off guard in Plainfield's Victorian-era homes is how mold behaves inside original plaster-and-lathe wall assemblies. Unlike paper-faced drywall, which shows visible staining relatively quickly, plaster can mask active mold growth in the wood lath behind it for a long time. By the time a musty odor is noticeable in a bedroom in the Van Wyck Brooks Historic District, the lath and the back of the plaster coat may already have significant colonization. This means our scoping process in these homes almost always involves thermal imaging and moisture mapping behind finished surfaces before we commit to a remediation boundary, because the visible damage is rarely the full picture.
 
-If you're dealing with a mold concern in Plainfield, whether it's a damp basement near Cedar Brook, a post-Ida remediation that was never completed, or an unexplained smell in a pre-war home, call The Restoration Group at (855) 650-7422. We'll assess the scope honestly, document everything for your insurer, and get the work done right.
+If you're dealing with a mold concern in Plainfield, whether it's a damp basement near Cedar Brook, a post-Ida remediation that was never completed, or an unexplained smell in a pre-war home, call The Restoration Group at (844) 808-8838. We'll assess the scope honestly, document everything for your insurer, and get the work done right.

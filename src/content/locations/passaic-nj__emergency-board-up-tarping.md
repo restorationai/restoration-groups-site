@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Passaic, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Passaic"
-meta_description: "24/7 emergency board-up and tarping in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping passaic"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -32,7 +32,7 @@ The Main Avenue commercial corridor generates its own pattern of overnight losse
 
 ## Our Emergency Board-Up and Tarping Process in Passaic
 
-When you call (855) 650-7422, dispatch begins immediately. Because we operate 24/7, there's no waiting for business hours, a crew can be en route whether the call comes in at 2 p.m. or 2 a.m.
+When you call (844) 808-8838, dispatch begins immediately. Because we operate 24/7, there's no waiting for business hours, a crew can be en route whether the call comes in at 2 p.m. or 2 a.m.
 
 On arrival, we assess the full perimeter of the structure before touching anything. In Passaic's attached and semi-attached building stock, a fire or impact on one unit can compromise a shared wall or roof section that affects the neighboring property. We document that scope with photographs before boarding begins, both for your insurance claim and to establish a clear record of pre-existing versus event-caused damage.
 
@@ -52,4 +52,4 @@ Most homeowner and commercial property policies cover emergency board-up and tar
 
 One pattern that comes up repeatedly on Passaic jobs: the flat-roof parapets on older brick multi-families and storefronts are often in worse shape than the roof membrane itself. After a storm or fire, a parapet that looks intact from the street may be cracked or partially detached at the flashing line. When we tarp a flat roof in this city, we always inspect the parapet cap before anchoring, a batten screwed into a failing parapet can pull the masonry loose rather than holding the tarp in place. On those structures, we adjust our anchor points to the roof deck framing rather than the wall, and we note the parapet condition in our documentation so the restoration contractor knows what they're walking into.
 
-If your Passaic property has been damaged by fire, storm, or structural failure, call (855) 650-7422 now. The Restoration Group secures properties across Passaic around the clock, because in a city this dense, an unprotected opening affects more than just your building.
+If your Passaic property has been damaged by fire, storm, or structural failure, call (844) 808-8838 now. The Restoration Group secures properties across Passaic around the clock, because in a city this dense, an unprotected opening affects more than just your building.

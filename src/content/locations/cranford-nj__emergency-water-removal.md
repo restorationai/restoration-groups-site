@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Cranford, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Cranford"
-meta_description: "24/7 emergency water removal and cleanup in Cranford, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Cranford, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal cranford"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ Cranford's flood history means a meaningful share of homeowners carry National F
 
 Cranford's older full basements often have a detail worth knowing before any pump-out: the original floor drain in a 1920s or 1930s home typically connects to the storm sewer, not the sanitary line. After a river flood event, that drain can act as a two-way valve, water that appeared to drain may re-enter if the street-level storm system is still under pressure. We check drain flow direction and downstream conditions before assuming a basement is clear, and we advise homeowners not to run laundry or dishwashers until the municipal system has normalized. It's a small step that prevents a second round of emergency water removal on a floor that looked finished.
 
-If water has reached your Cranford home, whether from the Rahway River, a backed-up sewer, or a burst pipe on a January night, call The Restoration Group at (855) 650-7422. We document the loss, start extraction immediately, and stay on the job until the standing water is gone and the space is ready for drying.
+If water has reached your Cranford home, whether from the Rahway River, a backed-up sewer, or a burst pipe on a January night, call The Restoration Group at (844) 808-8838. We document the loss, start extraction immediately, and stay on the job until the standing water is gone and the space is ready for drying.

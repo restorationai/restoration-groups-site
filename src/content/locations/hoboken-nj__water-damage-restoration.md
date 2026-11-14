@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Damage Restoration in Hoboken, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Damage Restoration in Hoboken"
-meta_description: "24/7 emergency water damage restoration in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water damage restoration in Hoboken, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "water damage restoration hoboken"
 secondary_keywords: ["water removal", "water extraction", "water cleanup", "structural drying", "water mitigation"]
 search_intent: "local_emergency"
@@ -48,4 +48,4 @@ The Restoration Group is based in Kenilworth, NJ, and runs 24/7 emergency respon
 
 In Hoboken's pre-war brownstones, original plaster walls behave very differently from modern drywall during a water loss. Plaster is dense and slow to absorb moisture, but once saturated it holds water for an extended period and releases it slowly, meaning drying timelines run longer than they would in a comparable newer building, and moisture readings can plateau before the wall assembly is actually dry. We account for this in our drying plans rather than pulling equipment prematurely, which is one of the most common causes of secondary mold growth in older Hoboken units. If your building has original plaster, tell us when you call, it shapes the equipment setup from day one.
 
-Water damage in a Hoboken brownstone or waterfront building doesn't follow a generic script. If you're dealing with standing water, saturated walls, or a sewage backup right now, call The Restoration Group at **(855) 650-7422**, we're available around the clock and ready to dispatch to any address in Hoboken.
+Water damage in a Hoboken brownstone or waterfront building doesn't follow a generic script. If you're dealing with standing water, saturated walls, or a sewage backup right now, call The Restoration Group at **(844) 808-8838**, we're available around the clock and ready to dispatch to any address in Hoboken.

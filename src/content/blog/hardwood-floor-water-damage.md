@@ -72,7 +72,7 @@ Stop the water source first if it's still active. If a pipe is still running or 
 
 Do not use a household fan aimed directly at the floor as your primary drying method. Surface-only drying without dehumidification can lock moisture into the wood and subfloor. And do not wait to see if the floor "dries on its own", every hour past the 48-hour mark narrows the window for in-place drying.
 
-The Restoration Group responds 24/7 and carries the equipment to assess and begin drying the same day. If you're looking at cupped or buckled floors and want a moisture assessment before making any decisions about tear-out, call (855) 650-7422.
+The Restoration Group responds 24/7 and carries the equipment to assess and begin drying the same day. If you're looking at cupped or buckled floors and want a moisture assessment before making any decisions about tear-out, call (844) 808-8838.
 
 ---
 

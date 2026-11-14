@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Millburn, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Millburn"
-meta_description: "24/7 emergency biohazard cleanup in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup millburn"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -51,4 +51,4 @@ For landlords managing rental properties in the 07041 area, we can coordinate di
 
 Millburn's older homes, particularly those built before World War II in Wyoming and Glenwood, frequently have original cast-iron drain stacks and copper supply lines that were never fully replaced. During a biohazard event that involves water or fluid intrusion, these aging systems can complicate remediation: cast-iron joints and corroded copper fittings may be compromised by the same event that triggered the call, and what looks like a contained situation can involve secondary moisture migration through pipe chases and wall cavities. Crews working in these homes check adjacent plumbing runs as part of the initial assessment, not as an afterthought.
 
-Millburn is a town where neighbors notice, and where discretion is not optional, it is the baseline expectation. Call (855) 650-7422 any time, day or night, and a Restoration Group dispatcher will walk you through next steps without judgment and without delay.
+Millburn is a town where neighbors notice, and where discretion is not optional, it is the baseline expectation. Call (844) 808-8838 any time, day or night, and a Restoration Group dispatcher will walk you through next steps without judgment and without delay.

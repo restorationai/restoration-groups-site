@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Burst Pipe Cleanup and Repair in Millburn, NJ | The Restoration Group"
 h1: "24/7 Emergency Burst Pipe Cleanup and Repair in Millburn"
-meta_description: "24/7 emergency burst pipe cleanup and repair in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency burst pipe cleanup and repair in Millburn, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "burst pipe cleanup and repair millburn"
 secondary_keywords: ["burst pipe cleanup", "pipe burst emergency", "pipe break water damage", "water line break", "emergency pipe repair"]
 search_intent: "local_emergency"
@@ -50,4 +50,4 @@ Burst pipe losses in Millburn tend to run larger than the statewide average, lar
 
 In Millburn's older colonials and Tudors, original plaster-and-lath walls behave very differently from modern drywall when saturated. Plaster is dense and slow to release absorbed moisture, which means a wall that reads wet on a surface meter may still be holding significant moisture two inches in. On these jobs we extend the drying phase and take daily readings at multiple depths rather than relying on surface measurements alone, a step that prevents hidden mold colonization inside wall cavities and avoids a callback three weeks after the job closes.
 
-If a pipe has let go in your home or building in Millburn, the window for limiting damage is measured in hours, not days. Call (855) 650-7422 any time, our crew is staged in Kenilworth and can be moving toward your address immediately.
+If a pipe has let go in your home or building in Millburn, the window for limiting damage is measured in hours, not days. Call (844) 808-8838 any time, our crew is staged in Kenilworth and can be moving toward your address immediately.

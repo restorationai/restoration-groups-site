@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Edison, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Edison"
-meta_description: "24/7 emergency flood damage restoration in Edison, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Edison, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration edison"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ We bill carriers directly when assignments allow and work with your adjuster thr
 
 One thing that catches homeowners off guard in Edison's older neighborhoods: the finished basements common throughout Clara Barton and Stelton were often built with furring strips and paneling directly against the foundation wall, with no vapor barrier behind them. After a flood event, that assembly looks intact from the room side while holding significant moisture against the block. We see it regularly on post-storm calls in these neighborhoods, and it's one reason we don't skip the thermal scan even when a basement appears to have dried on its own, the wall cavity tells a different story.
 
-If your Edison home has taken on water, whether from the last storm, a failed sump, or aging plumbing, call The Restoration Group at **(855) 650-7422**. We're available around the clock, we serve all of Edison's ZIP codes including 08817 and 08820, and we'll give you an honest assessment of what needs to happen next.
+If your Edison home has taken on water, whether from the last storm, a failed sump, or aging plumbing, call The Restoration Group at **(844) 808-8838**. We're available around the clock, we serve all of Edison's ZIP codes including 08817 and 08820, and we'll give you an honest assessment of what needs to happen next.

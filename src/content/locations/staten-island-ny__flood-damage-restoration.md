@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Staten Island, NY | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Staten Island"
-meta_description: "24/7 emergency flood damage restoration in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Staten Island, NY. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration staten island"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -52,4 +52,4 @@ Flood losses on Staten Island often involve multiple coverage layers: standard h
 
 One thing that catches out-of-borough crews in older Staten Island neighborhoods: many pre-1950 wood-frame homes in Port Richmond and St. George were built with board sheathing under the exterior cladding rather than modern plywood or OSB. Board sheathing absorbs and releases moisture much more slowly than sheet goods, and it doesn't show elevated moisture readings on a standard pin meter the same way. Our crews probe these assemblies with both pin and pinless meters and extend drying timelines accordingly, rushing to close up a wall cavity in one of these homes before the sheathing has fully dried is a reliable path to a mold callback six weeks later.
 
-If your home or property on Staten Island is dealing with flood damage right now, call The Restoration Group at (855) 650-7422. We'll have a crew on-site to assess the damage, start extraction, and begin the documentation your insurance claim will need.
+If your home or property on Staten Island is dealing with flood damage right now, call The Restoration Group at (844) 808-8838. We'll have a crew on-site to assess the damage, start extraction, and begin the documentation your insurance claim will need.

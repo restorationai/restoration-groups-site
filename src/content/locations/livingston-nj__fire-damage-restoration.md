@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Fire Damage Restoration in Livingston, NJ | The Restoration Group"
 h1: "24/7 Emergency Fire Damage Restoration in Livingston"
-meta_description: "24/7 emergency fire damage restoration in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency fire damage restoration in Livingston, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "fire damage restoration livingston"
 secondary_keywords: ["fire cleanup", "fire and smoke restoration", "structural fire damage", "post-fire restoration", "fire damage repair"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Fire Damage Restoration"
 rendered: true
 ---
-A house fire in Livingston hits differently when the home is a 1960s split-level with original cedar closets, plaster ceilings, and decades of accumulated finishes, materials that absorb smoke deeply and hold odor long after the flames are out. The Restoration Group responds 24/7 to fire and smoke losses across Livingston's 07039 ZIP code, from the ranch homes lining the streets off Northland to the newer teardown colonials with finished basements near Cedar Hill. When you call (855) 650-7422, a crew is dispatched from our Kenilworth location, not a call center routing you to a subcontractor.
+A house fire in Livingston hits differently when the home is a 1960s split-level with original cedar closets, plaster ceilings, and decades of accumulated finishes, materials that absorb smoke deeply and hold odor long after the flames are out. The Restoration Group responds 24/7 to fire and smoke losses across Livingston's 07039 ZIP code, from the ranch homes lining the streets off Northland to the newer teardown colonials with finished basements near Cedar Hill. When you call (844) 808-8838, a crew is dispatched from our Kenilworth location, not a call center routing you to a subcontractor.
 
 ## Why Livingston's Housing Stock Complicates Fire Damage Cleanup
 
@@ -52,4 +52,4 @@ Fire losses generate large, complex insurance claims. We document to the standar
 
 Livingston's split-level homes, particularly the models built throughout Collins and the streets running toward Cedar Hill in the 1960s and early 1970s, have a structural quirk that affects smoke migration: the half-level stairwells act as chimneys. Hot smoke rises from a lower-level fire into the mid-level living area and then into the upper sleeping level faster than in a standard two-story colonial. We've seen losses in these homes where the kitchen was the origin point but the heaviest soot deposition was in second-floor closets. If you have a split-level, tell us when you call, it changes where we start the assessment.
 
-If your Livingston home or business has been affected by fire, don't wait on the cleanup. Smoke odor sets permanently into porous materials within days, and soot is chemically corrosive to metal fixtures, electronics, and finishes. Call The Restoration Group at (855) 650-7422, we're available 24/7 and will have a team on the way to your Livingston address as quickly as possible.
+If your Livingston home or business has been affected by fire, don't wait on the cleanup. Smoke odor sets permanently into porous materials within days, and soot is chemically corrosive to metal fixtures, electronics, and finishes. Call The Restoration Group at (844) 808-8838, we're available 24/7 and will have a team on the way to your Livingston address as quickly as possible.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in Scotch Plains, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in Scotch Plains"
-meta_description: "24/7 emergency water removal and cleanup in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in Scotch Plains, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal scotch plains"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-The Green Brook and Cedar Brook don't announce themselves until they're already in your basement. Scotch Plains sits at the kind of low-grade elevation where a heavy nor'easter or a storm on the scale of Ida in 2021 sends water sheeting across backyards and through foundation walls before most homeowners have had time to move a single box. When that happens, or when a supply line finally gives out in one of the township's many 1950s and '60s split-levels, The Restoration Group is reachable around the clock at (855) 650-7422.
+The Green Brook and Cedar Brook don't announce themselves until they're already in your basement. Scotch Plains sits at the kind of low-grade elevation where a heavy nor'easter or a storm on the scale of Ida in 2021 sends water sheeting across backyards and through foundation walls before most homeowners have had time to move a single box. When that happens, or when a supply line finally gives out in one of the township's many 1950s and '60s split-levels, The Restoration Group is reachable around the clock at (844) 808-8838.
 
 ## Why Scotch Plains Properties See Water Damage
 
@@ -48,4 +48,4 @@ Here's something that surprises homeowners in Willow Grove and Ashbrook the firs
 
 Most water losses in a primary residence fall under the dwelling coverage section of a homeowner's policy, but the specifics, what triggered the loss, whether it's sudden and accidental versus gradual seepage, determine what the carrier will pay. We document the source, the affected materials, and the drying process with the kind of photo and moisture-log record that adjusters need to process a claim efficiently. We work with the major carriers active in Union County and can bill directly in most cases, reducing the out-of-pocket burden while the claim is in process.
 
-Call (855) 650-7422 any time a water loss hits your Scotch Plains property. The sooner extraction begins, the smaller the scope stays, and in a finished basement with cast-iron drains and mid-century framing, that window closes faster than most people expect.
+Call (844) 808-8838 any time a water loss hits your Scotch Plains property. The sooner extraction begins, the smaller the scope stays, and in a finished basement with cast-iron drains and mid-century framing, that window closes faster than most people expect.

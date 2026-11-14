@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Odor Removal and Deodorization in Garfield, NJ | The Restoration Group"
 h1: "Odor Removal and Deodorization in Garfield"
-meta_description: "24/7 odor removal and deodorization in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 odor removal and deodorization in Garfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "odor removal and deodorization garfield"
 secondary_keywords: ["smoke odor removal", "ozone treatment", "hydroxyl deodorization", "thermal fogging", "professional odor elimination"]
 search_intent: "local_specialty"
@@ -53,4 +53,4 @@ Odor removal is frequently covered under homeowner's policies when it results fr
 
 In Garfield's older two- and three-family homes, finished basements were often added decades after original construction using whatever materials were on hand, fiberboard ceiling tiles, particleboard shelving, and carpet over bare concrete are common. These materials absorb odor compounds aggressively and almost never deodorize successfully; they need to be removed rather than treated. Homeowners sometimes push back on that scope, but leaving saturated fiberboard in place and fogging over it will produce a temporary improvement that fails within weeks as temperatures rise. If we identify non-salvageable material during our walkthrough, we explain exactly why removal is the more cost-effective path before any work begins.
 
-If your home or property in Garfield is carrying an odor that has not responded to cleaning, call The Restoration Group at (855) 650-7422. We will identify the source, explain the right treatment method for your specific building, and get the work done correctly the first time.
+If your home or property in Garfield is carrying an odor that has not responded to cleaning, call The Restoration Group at (844) 808-8838. We will identify the source, explain the right treatment method for your specific building, and get the work done correctly the first time.

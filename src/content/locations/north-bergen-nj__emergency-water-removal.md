@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Water Removal & Cleanup in North Bergen, NJ | The Restoration Group"
 h1: "24/7 Emergency Water Removal & Cleanup in North Bergen"
-meta_description: "24/7 emergency water removal and cleanup in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency water removal and cleanup in North Bergen, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency water removal north bergen"
 secondary_keywords: ["water removal", "water extraction", "emergency water cleanup", "water cleanup", "standing water removal", "flood water removal"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Most standard homeowner and landlord policies cover sudden and accidental water 
 
 North Bergen's pre-war plaster walls behave differently from the paper-faced drywall that dominates newer construction. Plaster is denser and more alkaline, which slows mold colonization slightly, but it also holds moisture deep in the lath cavity long after the surface feels dry to the touch. Moisture meters calibrated for drywall will underread in plaster assemblies if the operator doesn't adjust the reference scale. We account for this on every job in older North Bergen housing stock, extending drying cycles and verifying readings at the lath layer before we call a wall dry. Pulling a wall open prematurely and finding wet lath two weeks later is an avoidable outcome.
 
-If you're dealing with water damage anywhere in North Bergen, a flooded basement near James J. Braddock North Hudson Park, a burst pipe in a Woodcliff two-family, or a commercial loss on Tonnelle Avenue, call The Restoration Group at **(855) 650-7422**. We're available 24/7 and licensed through the NJ Division of Consumer Affairs as a Home Improvement Contractor.
+If you're dealing with water damage anywhere in North Bergen, a flooded basement near James J. Braddock North Hudson Park, a burst pipe in a Woodcliff two-family, or a commercial loss on Tonnelle Avenue, call The Restoration Group at **(844) 808-8838**. We're available 24/7 and licensed through the NJ Division of Consumer Affairs as a Home Improvement Contractor.

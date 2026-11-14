@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Contents Restoration & Pack-Out in Clark, NJ | The Restoration Group"
 h1: "Contents Restoration & Pack-Out in Clark"
-meta_description: "24/7 contents restoration & pack-out in Clark, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 contents restoration & pack-out in Clark, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "contents restoration & pack-out clark"
 secondary_keywords: []
 search_intent: "local_specialty"
@@ -54,4 +54,4 @@ For commercial losses along the Raritan Road corridor, business interruption doc
 
 Clark's postwar split-levels often have a quirk worth knowing: the basement and the half-level above it share interior walls that aren't always insulated or vapor-sealed. When a basement floods, moisture migrates upward into those shared wall cavities and can affect the living level above before any visible damage appears on the main floor. During a contents pack-out, we flag items stored against those shared walls for closer inspection, a bookshelf that looks fine may have a back panel that's been wicking moisture for days. It's a detail that's easy to miss if you're only looking at what's wet on the floor.
 
-If you're dealing with a loss in Clark, whether it's a basement flood near Lake Avenue, smoke damage from a kitchen fire, or a burst pipe in a Westfield Avenue corridor commercial space, call (855) 650-7422. We'll assess what can be saved, document everything your insurance company needs, and get your belongings into safe storage while your home is restored.
+If you're dealing with a loss in Clark, whether it's a basement flood near Lake Avenue, smoke damage from a kitchen fire, or a burst pipe in a Westfield Avenue corridor commercial space, call (844) 808-8838. We'll assess what can be saved, document everything your insurance company needs, and get your belongings into safe storage while your home is restored.

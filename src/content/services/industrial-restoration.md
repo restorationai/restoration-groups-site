@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Industrial Restoration in Kenilworth | The Restoration Group"
 h1: "Industrial Restoration in Kenilworth"
-meta_description: "24/7 industrial restoration in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 industrial restoration in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "industrial restoration kenilworth"
 secondary_keywords: ["industrial water damage", "warehouse restoration", "manufacturing facility restoration", "industrial fire damage", "plant restoration services"]
 search_intent: "local_b2b"
@@ -53,6 +53,6 @@ New Jersey's winter freeze-thaw cycles put loading dock seals, overhead sprinkle
 
 ## Service area
 
-The Restoration Group is based in Kenilworth and responds to industrial and manufacturing facilities throughout Union County and the surrounding industrial corridor, including warehouses, plants, and distribution centers in neighboring towns along the Turnpike and rail access points.
+The Restoration Group is based in Fair Lawn and responds to industrial and manufacturing facilities throughout Union County and the surrounding industrial corridor, including warehouses, plants, and distribution centers in neighboring towns along the Turnpike and rail access points.
 
-If water, fire, or smoke is affecting your facility right now, call (855) 650-7422 to get an industrial restoration team scoping the damage and protecting your equipment before the loss spreads further.
+If water, fire, or smoke is affecting your facility right now, call (844) 808-8838 to get an industrial restoration team scoping the damage and protecting your equipment before the loss spreads further.

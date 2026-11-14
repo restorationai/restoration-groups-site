@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Basement Flooding Cleanup in Fort Lee, NJ | The Restoration Group"
 h1: "24/7 Emergency Basement Flooding Cleanup in Fort Lee"
-meta_description: "24/7 emergency basement flooding cleanup in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency basement flooding cleanup in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "basement flooding cleanup fort lee"
 secondary_keywords: ["flooded basement cleanup", "basement water removal", "wet basement restoration", "basement water damage", "basement drying"]
 search_intent: "local_emergency"
@@ -46,4 +46,4 @@ Most homeowners and condo owners in Fort Lee carry standard HO-3 or HO-6 policie
 
 In Fort Lee's high-rise buildings, basement mechanical rooms often share space with the building's main electrical switchgear and elevator equipment pits. Before any extraction equipment goes in, our crew confirms with building management that the affected area has been de-energized, a step that's sometimes skipped by less experienced crews in a rush. Elevator pits in particular collect water and are frequently the last space to get attention, but leaving standing water there accelerates corrosion on hydraulic components and creates a slip hazard for building staff. If your loss involves a basement mechanical room in a Fort Lee condo or apartment building, mention that when you call so we can coordinate the right safety steps before we arrive.
 
-If your Fort Lee basement is holding water right now, every hour matters. Call The Restoration Group at (855) 650-7422, we answer 24 hours a day, seven days a week, and we'll dispatch a crew to your address in Fort Lee with the equipment to start extraction immediately.
+If your Fort Lee basement is holding water right now, every hour matters. Call The Restoration Group at (844) 808-8838, we answer 24 hours a day, seven days a week, and we'll dispatch a crew to your address in Fort Lee with the equipment to start extraction immediately.

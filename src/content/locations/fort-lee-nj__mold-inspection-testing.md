@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "Mold Inspection and Testing in Fort Lee, NJ | The Restoration Group"
 h1: "Mold Inspection and Testing in Fort Lee"
-meta_description: "24/7 mold inspection and testing in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 mold inspection and testing in Fort Lee, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "mold inspection and testing fort lee"
 secondary_keywords: ["mold inspection", "mold testing", "indoor air quality testing", "mold spore testing", "mold assessment"]
 search_intent: "local_health"
@@ -52,4 +52,4 @@ In Fort Lee's condominium towers, mold inspections frequently involve more than 
 
 In Fort Lee's prewar multifamily buildings, particularly those on the residential streets climbing toward The Hill, original plaster walls are still common. Plaster is denser than modern drywall and absorbs moisture more slowly, which means a leak that happened months ago may show no surface staining at all while harboring significant mold growth inside the wall cavity. Moisture meters calibrated for drywall will underread in plaster, producing false negatives. Our inspectors adjust baseline calibration for plaster assemblies specifically, which is a step that gets skipped when a general contractor does a quick visual check and calls it clean.
 
-If you've had any water intrusion in a Fort Lee property, whether a high-rise plumbing failure, storm flooding, or a slow leak you discovered late, call The Restoration Group at (855) 650-7422. We'll tell you exactly what you're dealing with, in writing, so you can make informed decisions about what comes next.
+If you've had any water intrusion in a Fort Lee property, whether a high-rise plumbing failure, storm flooding, or a slow leak you discovered late, call The Restoration Group at (844) 808-8838. We'll tell you exactly what you're dealing with, in writing, so you can make informed decisions about what comes next.

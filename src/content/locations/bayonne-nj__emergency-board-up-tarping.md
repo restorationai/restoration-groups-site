@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in Bayonne, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in Bayonne"
-meta_description: "24/7 emergency board-up and tarping in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in Bayonne, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping bayonne"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -32,7 +32,7 @@ Commercial losses along the Route 440 corridor and at Bayonne Crossing present a
 
 ## Our Emergency Board-Up and Tarping Process in Bayonne
 
-When you call (855) 650-7422, dispatch begins immediately, 24 hours a day, seven days a week. A crew arrives with a fully stocked vehicle carrying plywood in multiple thicknesses, OSB, heavy-gauge polyethylene tarps, furring strips, fasteners, and the ladders and scaffolding needed to reach second- and third-floor openings safely on Bayonne's characteristically narrow lots.
+When you call (844) 808-8838, dispatch begins immediately, 24 hours a day, seven days a week. A crew arrives with a fully stocked vehicle carrying plywood in multiple thicknesses, OSB, heavy-gauge polyethylene tarps, furring strips, fasteners, and the ladders and scaffolding needed to reach second- and third-floor openings safely on Bayonne's characteristically narrow lots.
 
 The process moves in a deliberate sequence:
 
@@ -54,4 +54,4 @@ Most homeowner and commercial property policies in New Jersey cover emergency bo
 
 One pattern our crews see repeatedly on Bayonne's older two- and three-family homes: the original roof decking is often 1×6 tongue-and-groove boards rather than plywood sheathing. When a tarp needs to be anchored through that decking, standard roofing screws can pull out of the gaps between boards under load. We carry longer structural screws and use batten strips wide enough to bridge multiple boards, a small adjustment that makes the difference between a tarp that holds through a coastal storm and one that peels back by morning.
 
-If a fire, storm, or break-in has left a Bayonne property exposed, call (855) 650-7422 now. We're available around the clock, and a crew can be en route to your address in 07002, whether it's a rowhouse in Bergen Point, a commercial bay near Bayonne Crossing, or anything in between, before the next weather window closes.
+If a fire, storm, or break-in has left a Bayonne property exposed, call (844) 808-8838 now. We're available around the clock, and a crew can be en route to your address in 07002, whether it's a rowhouse in Bergen Point, a commercial bay near Bayonne Crossing, or anything in between, before the next weather window closes.

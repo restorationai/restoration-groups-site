@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Passaic, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Passaic"
-meta_description: "24/7 emergency flood damage restoration in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency flood damage restoration in Passaic, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration passaic"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -54,4 +54,4 @@ Flood losses in Passaic frequently involve both standard homeowner's policies an
 
 In Passaic's densest multi-family blocks, particularly the three-family walkups common between Downtown Passaic and the Rutherford Heights border, flood water from a ground-floor unit almost always migrates into shared wall cavities and reaches the unit above through pipe chases before anyone notices. We've seen second-floor tenants discover wet drywall two days after a first-floor flood was "already handled" by a shop vac. When we scope a flood job in one of these buildings, we always inspect the adjacent units and the shared mechanical spaces, not just the unit that called. It adds an hour to the initial assessment and has prevented mold claims on multiple Passaic jobs.
 
-If your property in Passaic has taken on flood water, whether from the river, a backed-up drain, or an overnight storm event, call The Restoration Group at **(855) 650-7422**. We'll document the damage, coordinate with your insurer, and dry the structure to standard before mold has a chance to take hold.
+If your property in Passaic has taken on flood water, whether from the river, a backed-up drain, or an overnight storm event, call The Restoration Group at **(844) 808-8838**. We'll document the damage, coordinate with your insurer, and dry the structure to standard before mold has a chance to take hold.

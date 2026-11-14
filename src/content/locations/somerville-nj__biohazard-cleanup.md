@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Biohazard Cleanup in Somerville, NJ | The Restoration Group"
 h1: "24/7 Emergency Biohazard Cleanup in Somerville"
-meta_description: "24/7 emergency biohazard cleanup in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency biohazard cleanup in Somerville, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "biohazard cleanup somerville"
 secondary_keywords: ["biohazard remediation", "blood cleanup", "bodily fluid cleanup", "sharps and needle cleanup", "infectious material cleanup"]
 search_intent: "local_sensitive"
@@ -55,4 +55,4 @@ Biohazard remediation is often a covered loss under homeowners' or commercial pr
 
 Somerville's older housing stock, particularly the two-family frames and Victorian-era colonials common in the West End and along Gaston Avenue, frequently has finished basements with original concrete floors that were never sealed or were sealed decades ago with products that have since degraded. Biological material can wick into unsealed concrete more readily than into modern epoxy-coated or tiled surfaces. In these cases, our technicians assess concrete porosity before finalizing the remediation scope, because surface cleaning alone may not be sufficient. This is a detail that matters specifically in Somerville's pre-war building stock and is not something a generalist cleaning service is typically equipped to evaluate.
 
-If you are dealing with a biohazard situation at a property in Somerville, whether in a single-family home, a rental unit, or a commercial space near the Main Street business district, call The Restoration Group at (855) 650-7422. We answer every hour of every day, we work with discretion, and we handle the logistics so you do not have to.
+If you are dealing with a biohazard situation at a property in Somerville, whether in a single-family home, a rental unit, or a commercial space near the Main Street business district, call The Restoration Group at (844) 808-8838. We answer every hour of every day, we work with discretion, and we handle the logistics so you do not have to.

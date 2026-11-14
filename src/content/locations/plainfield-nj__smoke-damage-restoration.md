@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Smoke Damage Restoration in Plainfield, NJ | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Plainfield"
-meta_description: "24/7 emergency smoke damage restoration in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency smoke damage restoration in Plainfield, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration plainfield"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -20,7 +20,7 @@ state: "NJ"
 service_display: "Smoke Damage Restoration"
 rendered: true
 ---
-A kitchen fire that gets knocked down fast can still leave a Plainfield home smelling like a campfire for months. Smoke particles, especially from the synthetic materials common in postwar and mid-century interiors throughout Netherwood and the West End, are acidic and microscopic. They penetrate plaster, settle into the original woodwork that gives Plainfield's Victorian and Queen Anne blocks their character, and keep off-gassing long after the flames are out. The Restoration Group reaches Plainfield 24/7 from our Kenilworth headquarters and begins reversing that damage the same day you call (855) 650-7422.
+A kitchen fire that gets knocked down fast can still leave a Plainfield home smelling like a campfire for months. Smoke particles, especially from the synthetic materials common in postwar and mid-century interiors throughout Netherwood and the West End, are acidic and microscopic. They penetrate plaster, settle into the original woodwork that gives Plainfield's Victorian and Queen Anne blocks their character, and keep off-gassing long after the flames are out. The Restoration Group reaches Plainfield 24/7 from our Kenilworth headquarters and begins reversing that damage the same day you call (844) 808-8838.
 
 ## Why Plainfield's Housing Stock Complicates Smoke Damage
 
@@ -52,4 +52,4 @@ Smoke damage claims in Plainfield's older homes tend to run larger than homeowne
 
 Plainfield's Victorian and Queen Anne homes, particularly those in the Van Wyck Brooks Historic District, often have interior transom windows and open floor plans between the parlor and dining room that were designed for ventilation in the pre-air-conditioning era. That same openness accelerates smoke migration during a fire: a single room event can coat every connected surface within minutes. When we scope these properties, we treat the entire connected first-floor volume as a single contamination zone rather than room by room, which changes the material quantities, the equipment staging, and ultimately the accuracy of the insurance estimate. It is a small detail that makes a significant difference in whether the job is done once or done twice.
 
-If your Plainfield home or commercial property has sustained smoke or fire damage, call The Restoration Group at **(855) 650-7422**. We are available around the clock, and we will have a crew assessing your property, not just scheduling a visit, the same day you reach us.
+If your Plainfield home or commercial property has sustained smoke or fire damage, call The Restoration Group at **(844) 808-8838**. We are available around the clock, and we will have a crew assessing your property, not just scheduling a visit, the same day you reach us.

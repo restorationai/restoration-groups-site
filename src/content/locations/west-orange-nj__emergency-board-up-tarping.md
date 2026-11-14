@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Board-Up and Tarping in West Orange, NJ | The Restoration Group"
 h1: "24/7 Emergency Board-Up and Tarping in West Orange"
-meta_description: "24/7 emergency board-up and tarping in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (855) 650-7422."
+meta_description: "24/7 emergency board-up and tarping in West Orange, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "emergency board-up and tarping west orange"
 secondary_keywords: ["emergency board up", "roof tarping", "emergency tarping service", "fire damage board up", "broken window board up"]
 search_intent: "local_emergency"
@@ -32,7 +32,7 @@ Commercial properties along Northfield Avenue and the Essex Green corridor face 
 
 ## Our Emergency Board-Up and Tarping Process in West Orange
 
-When you call (855) 650-7422, the first question is what's exposed and what's actively threatening the structure. Our IICRC Certified Firm (#210213) crew arrives with plywood stock in standard and oversized sheets, heavy-duty polyethylene tarping rated for wind load, and the fastening systems appropriate for the surface, lag screws into framing for structural board-up, non-penetrating ballast systems for membrane roofs where drilling would void a warranty or worsen the breach.
+When you call (844) 808-8838, the first question is what's exposed and what's actively threatening the structure. Our IICRC Certified Firm (#210213) crew arrives with plywood stock in standard and oversized sheets, heavy-duty polyethylene tarping rated for wind load, and the fastening systems appropriate for the surface, lag screws into framing for structural board-up, non-penetrating ballast systems for membrane roofs where drilling would void a warranty or worsen the breach.
 
 For roof tarping, we assess the slope and surface before going up. A steep Victorian hip roof in Llewellyn Park gets a different attachment approach than a low-slope ranch in Pleasantdale, ridge-anchor tie-downs on the steep pitch, weighted perimeter sealing on the flat. We photograph every step, which matters when your adjuster needs documentation of the pre-mitigation condition.
 
@@ -50,4 +50,4 @@ Most standard homeowner policies cover emergency board-up and tarping as part of
 
 West Orange's older Victorians and Tudors frequently have original wood window surrounds and ornate exterior trim that standard OSB board-up hardware can split or crush if you're not careful with fastener placement. We've learned to pre-drill on these homes and to use fender washers to distribute load across fragile trim profiles, it takes a few extra minutes per opening, but it prevents a board-up from creating a second repair claim on top of the original loss. If your home is in a historic district or within the Llewellyn Park private community, we also factor in any community guidelines before selecting attachment methods.
 
-If your West Orange property is exposed right now, storm damage, fire breach, broken storefront, call (855) 650-7422. We'll assess the opening, secure it correctly for the structure type, and have the documentation ready before your adjuster arrives.
+If your West Orange property is exposed right now, storm damage, fire breach, broken storefront, call (844) 808-8838. We'll assess the opening, secure it correctly for the structure type, and have the documentation ready before your adjuster arrives.

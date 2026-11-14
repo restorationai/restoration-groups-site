@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Smoke Damage Restoration in Kenilworth | The Restoration Group"
 h1: "24/7 Emergency Smoke Damage Restoration in Kenilworth"
-meta_description: "24/7 emergency smoke damage restoration in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (908) 970-8533."
+meta_description: "24/7 emergency smoke damage restoration in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "smoke damage restoration kenilworth"
 secondary_keywords: ["smoke residue cleanup", "smoke damage repair", "post-fire smoke cleanup", "smoke damage restoration services", "wildfire smoke cleanup"]
 search_intent: "local_emergency"
@@ -58,4 +58,4 @@ Wildfire smoke events, while less common in the Northeast than in western states
 
 The Restoration Group is based in Fair Lawn, NJ and provides smoke damage restoration services throughout Union County and surrounding communities, including Cranford, Westfield, Clark, Roselle Park, Springfield, and neighboring areas across Essex and Middlesex counties. City-specific service pages detail local response logistics; this page covers the full scope of what the service involves.
 
-If your home or property smells like smoke, has visible soot on walls or ceilings, or recently experienced any fire, even a contained one, call (908) 970-8533 to begin smoke and soot removal. The Restoration Group is available 24/7, holds IICRC Firm Certification #210213, and is licensed in New Jersey as a Home Improvement Contractor. The sooner soot is characterized and treated, the less permanent the damage.
+If your home or property smells like smoke, has visible soot on walls or ceilings, or recently experienced any fire, even a contained one, call (844) 808-8838 to begin smoke and soot removal. The Restoration Group is available 24/7, holds IICRC Firm Certification #210213, and is licensed in New Jersey as a Home Improvement Contractor. The sooner soot is characterized and treated, the less permanent the damage.

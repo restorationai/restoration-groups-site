@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Springfield, NJ | The Restoration Group"
 h1: "Restoration Services in Springfield"
-meta_description: "Serving Springfield, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (908) 970-8533."
+meta_description: "Serving Springfield, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services springfield"
 secondary_keywords: ["springfield restoration company", "damage restoration springfield", "springfield disaster restoration"]
 search_intent: "local_commercial"
@@ -55,4 +55,4 @@ Most Springfield houses from the 1920s through the 1950s are wood-framed with pl
 
 Near the Watchung slopes the ground is till over traprock, which sheds runoff toward the low spots instead of absorbing it. Structural repairs and rebuilds run through Springfield Township's construction office under New Jersey's Uniform Construction Code.
 
-If you're dealing with water, fire, mold, or structural damage anywhere in Springfield Township, from the Route 22 commercial strip to a cape cod near Jonathan Dayton High School or a home backing up to Meisel Avenue Park, call The Restoration Group at **(908) 970-8533**. We're available around the clock and ready to respond.
+If you're dealing with water, fire, mold, or structural damage anywhere in Springfield Township, from the Route 22 commercial strip to a cape cod near Jonathan Dayton High School or a home backing up to Meisel Avenue Park, call The Restoration Group at **(844) 808-8838**. We're available around the clock and ready to respond.

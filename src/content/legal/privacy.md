@@ -22,7 +22,7 @@ This Privacy Policy explains how The Restoration Group collects, uses, and prote
 
 ## Information We Collect
 
-When you fill out a contact or estimate request form on our site, we collect the details you provide, typically your name, phone number, address of the affected property, and a description of the damage. If you call us directly at (908) 970-8533, we may log basic call information for scheduling and follow-up purposes.
+When you fill out a contact or estimate request form on our site, we collect the details you provide, typically your name, phone number, address of the affected property, and a description of the damage. If you call us directly at (844) 808-8838, we may log basic call information for scheduling and follow-up purposes.
 
 We also collect standard, anonymized analytics data through our website platform, things like which pages were visited, how long a session lasted, and what device type was used. This data contains no personally identifying information and is used only to improve the site experience.
 
@@ -52,6 +52,6 @@ If you have questions about this policy or want to request access to, correction
 
 **The Restoration Group**  
 8 Harlow Crescent, Fair Lawn, NJ 07410  
-Phone: (908) 970-8533
+Phone: (844) 808-8838
 
 This policy may be updated periodically. Material changes will be reflected with a revised effective date at the top of this page.

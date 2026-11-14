@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Jersey City, NJ | The Restoration Group"
 h1: "Restoration Services in Jersey City"
-meta_description: "Serving Jersey City, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (908) 970-8533."
+meta_description: "Serving Jersey City, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services jersey city"
 secondary_keywords: ["jersey city restoration company", "damage restoration jersey city", "jersey city disaster restoration"]
 search_intent: "local_commercial"
@@ -57,4 +57,4 @@ Ground varies sharply. The Heights sits on the hard Palisades ridge; the waterfr
 
 In New Jersey, work is governed by the statewide Uniform Construction Code, and structural repairs, rewiring, and re-piping pull permits through Jersey City's construction code office under the relevant subcodes.
 
-If you're dealing with water, fire, mold, or sewage damage anywhere in Jersey City, call The Restoration Group at **(908) 970-8533**, we answer every hour of every day and can begin coordinating your response immediately.
+If you're dealing with water, fire, mold, or sewage damage anywhere in Jersey City, call The Restoration Group at **(844) 808-8838**, we answer every hour of every day and can begin coordinating your response immediately.

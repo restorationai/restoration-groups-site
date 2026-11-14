@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Storm Damage Restoration in Kenilworth | The Restoration Group"
 h1: "24/7 Emergency Storm Damage Restoration in Kenilworth"
-meta_description: "24/7 emergency storm damage restoration in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (908) 970-8533."
+meta_description: "24/7 emergency storm damage restoration in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "storm damage restoration kenilworth"
 secondary_keywords: ["hurricane damage cleanup", "tornado damage cleanup", "tree damage cleanup", "storm cleanup services", "severe weather damage repair"]
 search_intent: "local_emergency"
@@ -60,4 +60,4 @@ Winter storm damage carries an added complication: ice damming. When heat escape
 
 The Restoration Group is based in Fair Lawn, NJ, and responds to storm damage throughout Union County and the surrounding region, including Cranford, Westfield, Springfield, Summit, Roselle, and neighboring communities. City-specific pages for each area link back here for full service details.
 
-If a storm has left your home or property exposed, call (908) 970-8533 to begin emergency securing and get a damage assessment started, available 24/7, any day of the year.
+If a storm has left your home or property exposed, call (844) 808-8838 to begin emergency securing and get a damage assessment started, available 24/7, any day of the year.

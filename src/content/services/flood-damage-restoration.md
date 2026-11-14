@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Flood Damage Restoration in Kenilworth | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Kenilworth"
-meta_description: "24/7 emergency flood damage restoration in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (908) 970-8533."
+meta_description: "24/7 emergency flood damage restoration in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration kenilworth"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -64,4 +64,4 @@ The Restoration Group is based in Fair Lawn, NJ and provides flood damage restor
 
 ---
 
-If your basement is still wet or you're looking at a waterline on your walls, call **(908) 970-8533** now to start your flood damage assessment. The sooner extraction begins, the more of your structure, and your flooring, your framing, your finishes, can be saved.
+If your basement is still wet or you're looking at a waterline on your walls, call **(844) 808-8838** now to start your flood damage assessment. The sooner extraction begins, the more of your structure, and your flooring, your framing, your finishes, can be saved.

@@ -83,4 +83,4 @@ Water damage that looks manageable on day one can become a much larger problem b
 
 ---
 
-If your situation is beyond a shop vac and a few fans, The Restoration Group serves Kenilworth and the surrounding area and can assess the extent of the damage, handle the drying process, and work directly with your insurance company. Reach them at **(908) 970-8533**.
+If your situation is beyond a shop vac and a few fans, The Restoration Group serves Kenilworth and the surrounding area and can assess the extent of the damage, handle the drying process, and work directly with your insurance company. Reach them at **(844) 808-8838**.

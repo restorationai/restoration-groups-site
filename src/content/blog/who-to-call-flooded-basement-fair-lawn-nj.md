@@ -11,7 +11,7 @@ hero: "https://images.therestorationgroup.com/blog/2026/10/who-to-call-flooded-b
 og: "https://images.therestorationgroup.com/blog/2026/10/who-to-call-flooded-basement-fair-lawn-nj/hero.webp"
 generated_at: "2026-10-24T10:33:26Z"
 manual_override: false
-internal_links: ["/services/basement-flooding-cleanup/", "/service-areas/fair-lawn-nj/basement-flooding-cleanup/", "/services/emergency-water-removal/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/", "/"]
+internal_links: ["/services/basement-flooding-cleanup/", "/services/basement-flooding-cleanup/", "/services/emergency-water-removal/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/", "/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Who to Call for a Flooded Basement in Fair Lawn, NJ (and in What Order)"}]
 faq: [{"question": "Who should I call first for a flooded basement in Fair Lawn, NJ?", "answer": "Call (844) 808-8838 first if water is still on the floor; this is a 24/7 line for a Fair Lawn-based, IICRC Certified water damage crew. If a pipe or pump is still actively leaking, call a plumber at the same time to stop the source."}, {"question": "Is a flooded basement covered by homeowners insurance?", "answer": "Sudden, accidental water damage, like a burst pipe, is usually covered. Sump pump failure and groundwater seepage are typically excluded unless you added a water backup or sump endorsement, and flood water from a rising river needs a separate flood policy."}, {"question": "How long does it take to dry out a flooded basement?", "answer": "A contained, already-stopped leak often dries in three to five days with air movers and dehumidifiers running continuously. Larger floods, sewage contamination, or saturated framing can take longer, especially if drywall or flooring has to come out first."}, {"question": "Do I need a plumber if my sump pump failed?", "answer": "Yes. A restoration crew can extract and dry the water that got in, but someone still needs to repair or replace the pump or float switch itself, which is plumbing work outside what a water damage crew handles."}]
 published_at: "2026-10-24"
@@ -60,7 +60,7 @@ On site, the first step is usually pulling standing water with truck-mounted or 
 
 Take wide shots of every affected room before anything gets moved or dried, including a clear shot of the waterline on the walls and any furniture or boxes sitting in the water. Photograph the source if you can see it (the sump pit, the water heater, the spot where water is entering), and get close-up shots of anything with a serial number or model number that was damaged, since that speeds up a contents claim later.
 
-If the basement is still filling or you're not sure where to start, call [(844) 808-8838](tel:+18448088838) and describe what you're seeing. Dispatch can walk you through what's safe to do while a crew gets moving, and our [Fair Lawn basement flooding cleanup page](/service-areas/fair-lawn-nj/basement-flooding-cleanup/) has more on how jobs here typically go.
+If the basement is still filling or you're not sure where to start, call [(844) 808-8838](tel:+18448088838) and describe what you're seeing. Dispatch can walk you through what's safe to do while a crew gets moving, and our [Fair Lawn basement flooding cleanup page](/services/basement-flooding-cleanup/) has more on how jobs here typically go.
 
 ---
 

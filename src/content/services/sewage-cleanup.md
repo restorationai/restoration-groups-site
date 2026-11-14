@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "24/7 Emergency Sewage Cleanup and Sanitization in Kenilworth | The Restoration Group"
 h1: "24/7 Emergency Sewage Cleanup and Sanitization in Kenilworth"
-meta_description: "24/7 emergency sewage cleanup and sanitization in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (908) 970-8533."
+meta_description: "24/7 emergency sewage cleanup and sanitization in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "sewage cleanup and sanitization kenilworth"
 secondary_keywords: ["sewage backup cleanup", "raw sewage removal", "septic overflow cleanup", "sewer line backup", "sanitization services"]
 search_intent: "local_emergency"
@@ -69,4 +69,4 @@ Septic systems in the more suburban and semi-rural areas west of Kenilworth, par
 
 The Restoration Group is based in Fair Lawn, NJ and responds to sewage backup and septic overflow calls throughout Union County, Essex County, Middlesex County, and surrounding areas. City-specific pages for Kenilworth, Elizabeth, Linden, Summit, Westfield, and neighboring communities link back to this page for full service detail.
 
-If you're standing in a basement that smells like a sewer line failed, call (908) 970-8533 now. Technicians are available around the clock, the sooner extraction begins, the less structural material has to come out.
+If you're standing in a basement that smells like a sewer line failed, call (844) 808-8838 now. Technicians are available around the clock, the sooner extraction begins, the less structural material has to come out.

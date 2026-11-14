@@ -1,8 +1,8 @@
 ---
 archetype: "services-hub"
-title: "Restoration Services in Kenilworth | The Restoration Group"
+title: "Restoration Services in NJ, NY & PA | The Restoration Group"
 h1: "Our Restoration Services"
-meta_description: "Full-service restoration in Kenilworth: water, fire, mold, storm, biohazard, and commercial restoration. 24/7 response. Call (908) 970-8533."
+meta_description: "Full-service restoration across NJ, NY & PA: water, fire, mold, storm, biohazard, and commercial restoration. 24/7 response. Call (844) 808-8838."
 primary_keyword: "restoration services kenilworth"
 secondary_keywords: ["damage restoration services", "property restoration services", "disaster restoration"]
 search_intent: "local_commercial"
@@ -27,4 +27,4 @@ Some situations don't fit neatly into emergency or rebuild categories. Mold insp
 
 ## One call, start to finish
 
-The practical advantage of working with a single restoration firm is straightforward: nothing falls through the cracks between the emergency response and the final moisture clearance. Documentation gathered during emergency response, photos, moisture logs, itemized scopes, is handled by the same crew from the first call to the last reading, formatted the way adjusters need it. Insurance supplements get filed by the same team that performed the original work. If you're dealing with damage right now, or trying to plan next steps after an adjuster visit, call (908) 970-8533. An IICRC Certified Firm (Firm #210213) is ready to help you figure out what comes next.
+The practical advantage of working with a single restoration firm is straightforward: nothing falls through the cracks between the emergency response and the final moisture clearance. Documentation gathered during emergency response, photos, moisture logs, itemized scopes, is handled by the same crew from the first call to the last reading, formatted the way adjusters need it. Insurance supplements get filed by the same team that performed the original work. If you're dealing with damage right now, or trying to plan next steps after an adjuster visit, call (844) 808-8838. An IICRC Certified Firm (Firm #210213) is ready to help you figure out what comes next.

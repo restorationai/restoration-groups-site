@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Union, NJ | The Restoration Group"
 h1: "Restoration Services in Union"
-meta_description: "Serving Union, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (908) 970-8533."
+meta_description: "Serving Union, NJ with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services union"
 secondary_keywords: ["union restoration company", "damage restoration union", "union disaster restoration"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "NJ"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a finished wall in a Battle Hill split-level, or a storm drain backs up into a Vauxhall basement at 2 a.m., The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all coordinated under one crew so Union property owners are not juggling multiple contractors during the worst week of their year. Call us at **(908) 970-8533** any time.
+When a pipe bursts behind a finished wall in a Battle Hill split-level, or a storm drain backs up into a Vauxhall basement at 2 a.m., The Restoration Group dispatches from Kenilworth around the clock, water extraction, structural drying, mold containment, fire and smoke cleanup, and full reconstruction, all coordinated under one crew so Union property owners are not juggling multiple contractors during the worst week of their year. Call us at **(844) 808-8838** any time.
 
 ## Restoration emergencies common in Union
 
@@ -63,4 +63,4 @@ Foundations are mostly poured concrete or hollow block over Piedmont clay and gl
 
 Structural repair and rebuild work is permitted through Union Township's construction office under the New Jersey Uniform Construction Code, with separate building, plumbing, electrical, and fire subcode approvals.
 
-If you're dealing with a loss in Union right now, or want to talk through a situation before it gets worse, call **(908) 970-8533**. We answer around the clock, and our crews are close.
+If you're dealing with a loss in Union right now, or want to talk through a situation before it gets worse, call **(844) 808-8838**. We answer around the clock, and our crews are close.

@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Manhattan, NY | The Restoration Group"
 h1: "Restoration Services in Manhattan"
-meta_description: "Serving Manhattan, NY with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (908) 970-8533."
+meta_description: "Serving Manhattan, NY with 24/7 water, fire, mold, and storm damage restoration. IICRC-certified team. Call (844) 808-8838."
 primary_keyword: "restoration services manhattan"
 secondary_keywords: ["manhattan restoration company", "damage restoration manhattan", "manhattan disaster restoration"]
 search_intent: "local_commercial"
@@ -19,7 +19,7 @@ state: "NY"
 primary: false
 rendered: true
 ---
-Managing property damage in Manhattan is nothing like handling it in the suburbs. The Restoration Group responds to water, fire, mold, and biohazard losses across the borough, from pre-war co-ops on the Upper East Side to glass-tower condos in Midtown, working inside the building protocols, board requirements, and tight logistics that Manhattan properties demand. Call us any time at (908) 970-8533.
+Managing property damage in Manhattan is nothing like handling it in the suburbs. The Restoration Group responds to water, fire, mold, and biohazard losses across the borough, from pre-war co-ops on the Upper East Side to glass-tower condos in Midtown, working inside the building protocols, board requirements, and tight logistics that Manhattan properties demand. Call us any time at (844) 808-8838.
 
 ## Restoration emergencies common in Manhattan
 
@@ -63,4 +63,4 @@ There are no crawlspaces or slabs here, buildings sit in cellars cut into schist
 
 Structural repair and reconstruction permits come from the NYC Department of Buildings, plumbing work requires a licensed master plumber, and buildings in historic districts add Landmarks review on top of the board's alteration agreement.
 
-If you're dealing with a loss anywhere in Manhattan, whether it's a soaked ceiling in a Chelsea loft or smoke damage in a Financial District office, call The Restoration Group at (908) 970-8533. We're available around the clock and ready to work within your building's rules from the first hour on-site.
+If you're dealing with a loss anywhere in Manhattan, whether it's a soaked ceiling in a Chelsea loft or smoke damage in a Financial District office, call The Restoration Group at (844) 808-8838. We're available around the clock and ready to work within your building's rules from the first hour on-site.

@@ -2,7 +2,7 @@
 archetype: "service-area-service"
 title: "24/7 Emergency Flood Damage Restoration in Union, NJ | The Restoration Group"
 h1: "24/7 Emergency Flood Damage Restoration in Union"
-meta_description: "24/7 emergency flood damage restoration in Union, NJ. IICRC-certified, insurance billing accepted. Call (908) 970-8533."
+meta_description: "24/7 emergency flood damage restoration in Union, NJ. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "flood damage restoration union"
 secondary_keywords: ["flood cleanup", "flood restoration", "post-flood restoration", "residential flood damage", "flood damage repair"]
 search_intent: "local_emergency"
@@ -51,4 +51,4 @@ One thing crews learn quickly about Union's postwar split-levels and raised ranc
 
 Flood losses in Union typically run through either standard homeowners policies (for sudden and accidental discharge) or NFIP flood insurance policies for storm-related inundation. The documentation requirements differ, and getting it wrong at the start of a claim can slow payment significantly. The Restoration Group prepares moisture logs, photo documentation, and scope-of-loss reports in formats that major carriers and NFIP adjusters recognize. We work directly with adjusters and can communicate with your carrier on your behalf so you are not translating technical findings into insurance language while also managing a disrupted household.
 
-If your property in Union has flood damage right now, call (908) 970-8533. Crews are available around the clock, the response comes from next-door Kenilworth, and the first step, stopping the damage from getting worse, starts the moment we arrive.
+If your property in Union has flood damage right now, call (844) 808-8838. Crews are available around the clock, the response comes from next-door Kenilworth, and the first step, stopping the damage from getting worse, starts the moment we arrive.

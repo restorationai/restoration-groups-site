@@ -2,7 +2,7 @@
 archetype: "service-landing"
 title: "Commercial Restoration in Kenilworth | The Restoration Group"
 h1: "Commercial Restoration in Kenilworth"
-meta_description: "24/7 commercial restoration in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (908) 970-8533."
+meta_description: "24/7 commercial restoration in Kenilworth and surrounding areas. IICRC-certified, insurance billing accepted. Call (844) 808-8838."
 primary_keyword: "commercial restoration kenilworth"
 secondary_keywords: ["commercial water damage", "commercial fire damage", "business restoration", "office restoration", "retail restoration"]
 search_intent: "local_b2b"
@@ -55,4 +55,4 @@ New Jersey's commercial building stock, particularly older office and mixed-use 
 
 The Restoration Group is based in Fair Lawn, NJ and handles commercial restoration throughout Union County, Essex County, and the surrounding region, including Springfield, Cranford, Westfield, Summit, Roselle, and neighboring communities. The city-specific pages linked from this section provide additional detail on local response and common loss types by area.
 
-If your building has sustained water, fire, or mold damage, call **(908) 970-8533** now to begin your commercial damage assessment, available 24/7. The sooner the scope is established, the shorter your path back to full operation.
+If your building has sustained water, fire, or mold damage, call **(844) 808-8838** now to begin your commercial damage assessment, available 24/7. The sooner the scope is established, the shorter your path back to full operation.

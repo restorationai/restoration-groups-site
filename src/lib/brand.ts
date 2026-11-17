@@ -70,14 +70,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.8",
-  gbpReviewCount: "170",
+  gbpReviewCount: "171",
   gbpReviews: [
+    { author: "Harry", rating: 5, text: "We would like to take this moment to commend the professionalism and high quality work delivered by The Group. Having fortunately never dealed with a flood in the past this was all very much new to us. They worked with great care protecting our furniture and ensuring all of our goods were…", when: "November 2026" },
     { author: "Ashley", rating: 4, text: "Everyone was professional. However the communication was not the best.", when: "November 2026" },
     { author: "Cindy", rating: 5, text: "I had a very positive experience working with The Restoration Group. From the beginning, their team was professional, responsive, courteous, and attentive to my concerns. They took the time to explain the restoration process, answer my questions, and make sure I understood each step along the way…", when: "November 2026" },
     { author: "Jennifer", rating: 5, text: "Honest people, super quick and very professional! I recommend them entirely.", when: "November 2026" },
     { author: "Anne", rating: 5, text: "Prompt, knowledgeable, skillful and honest. Highly recommend. They remediated within 24 hours. Total peace of mind restored. Worth every penny.", when: "October 2026" },
     { author: "Melanie", rating: 5, text: "The company was very prepared and professional. They were prompt with coming out to inspect the water damage that occurred and had the team come out the next day. They even wore booties in the house. They cut out all areas of damage, sprayed and use numerous fans and humidifiers in the wet area. I…", when: "October 2026" },
-    { author: "Amanda", rating: 5, text: "Hired the Restoration Group after mold and flood in our house. Their 24 hour line was always available. They came right away and were prompt completing the work. Everyone was friendly.", when: "October 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 water, fire & mold damage restoration across New Jersey.",
   ctaLabel: "24/7 Emergency Line",

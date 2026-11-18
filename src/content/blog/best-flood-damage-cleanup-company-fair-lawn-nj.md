@@ -45,7 +45,7 @@ The company is an [IICRC Certified Firm (#210213)](https://www.iicrc.org/), answ
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| The Restoration Group | 4.8 | 167 | Yes | Yes (Firm #210213) |
+| The Restoration Group | 4.8 | 171 | Yes | Yes (Firm #210213) |
 | All Dry LLC | Not listed | Not listed | Not listed | Not listed |
 | PuroClean of Ridgewood | Not listed | Not listed | Not listed | Not listed |
 | SERVPRO of Northeast Bergen County | Not listed | Not listed | Not listed | Not listed |

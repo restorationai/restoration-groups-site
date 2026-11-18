@@ -93,11 +93,11 @@ Tanaka Water Repair holds a 5.0 Google rating with 3 reviews. The rating is perf
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| The Restoration Group |, |, | Yes | Yes, Firm #210213 |
-| Green Guard Mold Remediation of Union | 5.0 | 83 |, |, |
-| Eradicator Mold Remediation Services | 4.9 | 97 |, |, |
-| NJ Experts | 5.0 | 6 |, |, |
-| Tanaka Water Repair | 5.0 | 3 |, |, |
+| The Restoration Group | 4.8 | 171 | Yes | Yes, Firm #210213 |
+| Green Guard Mold Remediation of Union | 5.0 | 83 | Not listed | Not listed |
+| Eradicator Mold Remediation Services | 4.9 | 97 | Not listed | Not listed |
+| NJ Experts | 5.0 | 6 | Not listed | Not listed |
+| Tanaka Water Repair | 5.0 | 3 | Not listed | Not listed |
 
 *", " indicates the information was not confirmed at time of publication. Never assume availability or credentials not listed.*
 

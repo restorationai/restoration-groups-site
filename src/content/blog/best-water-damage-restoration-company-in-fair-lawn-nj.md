@@ -56,7 +56,7 @@ NJ Water and Mold is a water damage restoration service based at 1116 Edgewater 
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| The Restoration Group | 4.8 | 167 | Yes | Yes |
+| The Restoration Group | 4.8 | 171 | Yes | Yes |
 | All Dry Restoration, LLC | 5.0 | 15 | Not listed | Not listed |
 | SERVPRO of Northeast Bergen County, Fair Lawn | 4.9 | 46 | Not listed | Not listed |
 | PuroClean of Ridgewood | 4.7 | 59 | Not listed | Not listed |

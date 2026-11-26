@@ -86,12 +86,12 @@ Ceiling water damage repair in New Jersey typically runs $300 to $2,500 for the 
 
 | Scenario | Typical Repair Range |
 |---|---|
-| Small stain patch (under 1 sq ft), cosmetic only | $150 – $400 |
-| Single drywall panel replacement (4×8 section) | $400 – $900 |
-| Full room ceiling replacement (12×15 room) | $900 – $2,500 |
-| Plaster ceiling repair or replacement | $1,200 – $3,500+ |
-| Ceiling + subfloor above (bathroom leak scenario) | $2,000 – $6,000 |
-| Ceiling + mold remediation + repaint | $2,500 – $8,000+ |
+| Small stain patch (under 1 sq ft), cosmetic only | $150 to $400 |
+| Single drywall panel replacement (4×8 section) | $400 to $900 |
+| Full room ceiling replacement (12×15 room) | $900 to $2,500 |
+| Plaster ceiling repair or replacement | $1,200 to $3,500+ |
+| Ceiling + subfloor above (bathroom leak scenario) | $2,000 to $6,000 |
+| Ceiling + mold remediation + repaint | $2,500 to $8,000+ |
 
 Several factors move the number:
 
